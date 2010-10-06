@@ -1,0 +1,608 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Statistisk sentralbyr&#229; - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Statistisk sentralbyrå" />
+<meta name="DCSext.regj.pagetype" content="Ekstern virksomhet" />
+<meta name="DCSext.regj.pageid" content="270407" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="fin" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Statistisk sentralbyrå" />
+<meta name="description" content="Statistisk sentralbyr&amp;#229; (SSB) utarbeidar og gjer ut offisiell statistikk i Noreg, og har i tillegg ein betydeleg verksemd knytte til forsking.  SSB dekkjer dei aller fleste samfunnsomr&amp;#229;da, og utarbeidar til eksempel statistikk og analyser om s..." />
+<meta name="DC.Title" content="Statistisk sentralbyrå" />
+<meta name="DC.Creator" content="Finansdepartementet" />
+<meta name="DC.Description" content="Statistisk sentralbyr&amp;#229; (SSB) utarbeidar og gjer ut offisiell statistikk i Noreg, og har i tillegg ein betydeleg verksemd knytte til forsking.  SSB dekkjer dei aller fleste samfunnsomr&amp;#229;da, og utarbeidar til eksempel statistikk og analyser om s..." />
+<meta name="DC.Date" content="2006-11-03" />
+<meta name="DC.Date.Available" content="2006-11-03" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Ekstern virksomhet" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Finansdepartementet" />
+<meta name="creation_date" content="Fri, 03 Nov 2006 12:49:00 GMT" />
+<meta name="LAST-MODIFIED" content="Fri, 03 Nov 2006 12:50:01 GMT" />
+<meta name="REVISED" content="Fri, 03 Nov 2006 12:50:01 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/fin.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MTI5MjQ5MzIPZBYCZg9kFghmDxUCAm5uAm5uZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BZoQPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IlN0YXRpc3Rpc2sgc2VudHJhbGJ5ciYjMjI5OyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJFa3N0ZXJuIHZpcmtzb21oZXQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9IjI3MDQwNyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJmaW4iIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iU3RhdGlzdGlzayBzZW50cmFsYnlyJiMyMjk7IiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlN0YXRpc3Rpc2sgc2VudHJhbGJ5ciZhbXA7IzIyOTsgKFNTQikgdXRhcmJlaWRhciBvZyBnamVyIHV0IG9mZmlzaWVsbCBzdGF0aXN0aWtrIGkgTm9yZWcsIG9nIGhhciBpIHRpbGxlZ2cgZWluIGJldHlkZWxlZyB2ZXJrc2VtZCBrbnl0dGUgdGlsIGZvcnNraW5nLiAgU1NCIGRla2tqZXIgZGVpIGFsbGVyIGZsZXN0ZSBzYW1mdW5uc29tciZhbXA7IzIyOTtkYSwgb2cgdXRhcmJlaWRhciB0aWwgZWtzZW1wZWwgc3RhdGlzdGlrayBvZyBhbmFseXNlciBvbSBzLi4uIiAvPg0KPG1ldGEgbmFtZT0iREMuVGl0bGUiIGNvbnRlbnQ9IlN0YXRpc3Rpc2sgc2VudHJhbGJ5ciYjMjI5OyIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9IkZpbmFuc2RlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iU3RhdGlzdGlzayBzZW50cmFsYnlyJmFtcDsjMjI5OyAoU1NCKSB1dGFyYmVpZGFyIG9nIGdqZXIgdXQgb2ZmaXNpZWxsIHN0YXRpc3Rpa2sgaSBOb3JlZywgb2cgaGFyIGkgdGlsbGVnZyBlaW4gYmV0eWRlbGVnIHZlcmtzZW1kIGtueXR0ZSB0aWwgZm9yc2tpbmcuICBTU0IgZGVra2plciBkZWkgYWxsZXIgZmxlc3RlIHNhbWZ1bm5zb21yJmFtcDsjMjI5O2RhLCBvZyB1dGFyYmVpZGFyIHRpbCBla3NlbXBlbCBzdGF0aXN0aWtrIG9nIGFuYWx5c2VyIG9tIHMuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA2LTExLTAzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDYtMTEtMDMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iRWtzdGVybiB2aXJrc29taGV0IiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL25uL2RlcC9maW4vT20tRGVwYXJ0ZW1lbnRldC9ldGF0YXItb2ctdmVya3NlbWRlci9TdGF0aXN0aXNrLXNlbnRyYWxieXJhLmh0bWw/aWQ9MjcwNDA3IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJGaW5hbnNkZXBhcnRlbWVudGV0IiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iRnJpLCAwMyBOb3YgMjAwNiAxMjo0OTowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJGcmksIDAzIE5vdiAyMDA2IDEyOjUwOjAxIEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9IkZyaSwgMDMgTm92IDIwMDYgMTI6NTA6MDEgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJubiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxBkZBYKAgEPZBYGAgIPFQERI3F1aWNrc2VhcmNoaW5wdXRkAgsPZBYCZg8VAWkjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9SaWdodFJlZ2lvbl9SaWdodFJlZ2lvbkNvbnRhY3RJbmZvX1JlbGF0ZWRDb250YWN0MV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBTovdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9MjcwNDA3JmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfAwUvU2lkYSBibGlyIHZpc3QgcMOlIG55bm9yc2suIChha3RpdnQgc3Byw6VrdmFsZykfAAUHTnlub3Jzax8EBT0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9MjcwNDA3JmVwc2xhbmd1YWdlPW5uLU5PZGQCAg8PFgYfAwU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8EBT0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9MjcwNDA3JmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfAwUqQ2xpY2sgaGVyZSB0byBkaXNwbGF5IHRoaXMgcGFnZSBpbiBlbmdsaXNoHwAFB0VuZ2xpc2gfBAU9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTI3MDQwNyZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAQ8VARVGcmFtc2lkYSB0aWwgcG9ydGFsZW5kAgIPZBYEZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk9kAgIPFQM6L3RlbXBsYXRlcy9HZW5lcmVsbEZvcnNpZGUuYXNweD9pZD04NTg0MyZlcHNsYW5ndWFnZT1ubi1OTxlSZWdqZXJpbmdhIFN0b2x0ZW5iZXJnIElJMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9OTMzJmVwc2xhbmd1YWdlPW5uLU5PZAIDDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9bm4tTk9kAgQPFQETRmluYW5zZGVwYXJ0ZW1lbnRldGQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBBxTw7hrIGhvcyBGaW5hbnNkZXBhcnRlbWVudGV0BFPDuGsRUXVpY2tTZWFyY2hCdXR0b24EU8O4a2QCAw8PFgIfAAUcU8O4ayBww6UgaGVpbGUgcmVnamVyaW5nYS5ub2RkAgEPDxYCHgtfaXNFZGl0YWJsZWhkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQKtAWh0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL25uL2RlcC9maW4vT20tRGVwYXJ0ZW1lbnRldC9ldGF0YXItb2ctdmVya3NlbWRlci9TdGF0aXN0aXNrLXNlbnRyYWxieXJhLmh0bWw/aWQ9MjcwNDA3JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1ubi1OTx8ABQlUZW1hIEEtw4VkZAILD2QWAgIBDw8WBB8EBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0zMTM3MzMmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUNTmV0dHN0YWRza2FydGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPW5uLU5PHwAFBUhqZWxwZGQCDQ8PFgQfBAVAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3MDQxMSZlcHNsYW5ndWFnZT1ubi1OTx8ABQdLb250YWt0ZGQCBA9kFgQCAQ9kFgYCAQ9kFgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYQAgMPDxYCHwAFEU1vdHRha2FycyBlLXBvc3Q6ZGQCBw8PFgIeDEVycm9yTWVzc2FnZQUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCQ8PFgIfBgUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCw8PFgIfAAULRGluIGUtcG9zdDpkZAIPDw8WAh8GBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAIRDw8WAh8GBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAITDw8WAh8ABQhNZWxkaW5nOmRkAhcPDxYCHwAFCVNlbmQgdGlwc2RkAgMPZBYUAgMPZBYCZg8WAh8ABYkDRHUgZXIgaGVyOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk8iPnJlZ2plcmluZ2Eubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTIxNiZlcHNsYW5ndWFnZT1ubi1OTyI+RmluYW5zZGVwYXJ0ZW1lbnRldDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjIxJmVwc2xhbmd1YWdlPW5uLU5PIj5PbSBEZXBhcnRlbWVudGV0PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTE1MTkyJmVwc2xhbmd1YWdlPW5uLU5PIj5FdGF0YXIgb2cgdmVya3NlbWRlcjwvYT4gLyA8c3Bhbj5TdGF0aXN0aXNrIHNlbnRyYWxieXImIzIyOTs8L3NwYW4+ZAIFDw8WBB8FaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCBw8PFgQfBWgfBwUHRGVmYXVsdGRkAgkPDxYEHwVoHwcFB0RlZmF1bHRkZAIND2QWAmYPFQEXU3RhdGlzdGlzayBzZW50cmFsYnlyw6VkAg8PFgIeBGhyZWYFEW1haWx0bzpzc2JAc3NiLm5vZAIRD2QWAgIBD2QWAmYPFQFAPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMTA5MDAwMCI+MjEgMDkgMDAgMDAgPC9hPmQCEw9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjEwOTQ5NzMiPjIxIDA5IDQ5IDczPC9hPmQCFQ8WAh8IBRJodHRwOi8vd3d3LnNzYi5uby8WAgIBDxUBF1N0YXRpc3Rpc2sgc2VudHJhbGJ5csOlZAIZDw8WBB8FaB8HBQdEZWZhdWx0ZGQCBQ9kFgYCAQ9kFgICAQ9kFgJmDxYCHgVjbGFzcwUKRGVwUHJvZmlsZRYCZg8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPW5uLU5PZAIDD2QWAgIBD2QWAmYPZBYCAgEPZBYGZg9kFgJmDxUBNA0KICAgICAgICAgICAgICAgICAgICAgICAgVGVtYQ0KICAgICAgICAgICAgICAgICAgICBkAgEPZBYCZg8VAi4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xNDM4JmVwc2xhbmd1YWdlPW5uLU5PDk5vcnNrIMO4a29ub21pZAICD2QWAmYPFQIuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTQ0MCZlcHNsYW5ndWFnZT1ubi1OTxdTdGF0bGVnIMO4a29ub21pc3R5cmluZ2QCDQ9kFgwCAw9kFgJmDxUBF1N0YXRpc3Rpc2sgc2VudHJhbGJ5csOlZAIFDxYCHwgFEW1haWx0bzpzc2JAc3NiLm5vZAIHD2QWAgIBD2QWAmYPFQFAPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMTA5MDAwMCI+MjEgMDkgMDAgMDAgPC9hPmQCCQ9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjEwOTQ5NzMiPjIxIDA5IDQ5IDczPC9hPmQCCw8WAh8IBRJodHRwOi8vd3d3LnNzYi5uby8WAgIBDxUBF1N0YXRpc3Rpc2sgc2VudHJhbGJ5csOlZAIPDw8WBB8FaB8HBQdEZWZhdWx0ZGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9bm4tTk8aRnJhbXNpZGEgdGlsIGRlcGFydGVtZW50ZXRkAgMPFgYeCV9QYWdlTGluaygpbkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3AzIxNh4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFlwCAQ9kFgJmDxUBAGQCAg9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0yMTcmZXBzbGFuZ3VhZ2U9bm4tTk8AB0FrdHVlbHRkAgQPZBYCZg8VAQBkAgUPZBYCZg8VAz8vdGVtcGxhdGVzL0RlcGFydGVtZW50VGVtYUZvcnNpZGUuYXNweD9pZD0yMTgmZXBzbGFuZ3VhZ2U9bm4tTk8ABFRlbWFkAgcPZBYCZg8VAQBkAggPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MjE5JmVwc2xhbmd1YWdlPW5uLU5PAAxQcmVzc2VzZW50ZXJkAgoPZBYCZg8VAQBkAgsPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Mjc2NzMwJmVwc2xhbmd1YWdlPW5uLU5PAAhEb2t1bWVudGQCDQ9kFgJmDxUBCFNlbGVjdGVkZAIOD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yMjEmZXBzbGFuZ3VhZ2U9bm4tTk8AEE9tIERlcGFydGVtZW50ZXRkAhAPZBYCZg8VAQBkAhEPZBYCZg8VA0EvdGVtcGxhdGVzL1BlcnNvblBvbGl0aXNrTGVkZWxzZS5hc3B4P2lkPTU4MjM2NCZlcHNsYW5ndWFnZT1ubi1OTwAgRmluYW5zbWluaXN0ZXIgU2lnYmrDuHJuIEpvaG5zZW5kAhMPZBYCZg8VAQBkAhQPZBYCZg8VAzIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTIzOCZlcHNsYW5ndWFnZT1ubi1OTwAVQW5uYSBwb2xpdGlzayBsZWlpbmcgZAIWD2QWAmYPFQEAZAIXD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0yMzkmZXBzbGFuZ3VhZ2U9bm4tTk8AFEFkbWluaXN0cmF0aXYgbGVpaW5nZAIZD2QWAmYPFQEAZAIaD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI0MCZlcHNsYW5ndWFnZT1ubi1OTwAMT3JnYW5pc2Fzam9uZAIcD2QWAmYPFQEIU2VsZWN0ZWRkAh0PZBYCZg8VBAA1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0xMTUxOTImZXBzbGFuZ3VhZ2U9bm4tTk8AFEV0YXRhciBvZyB2ZXJrc2VtZGVyZAIfD2QWAmYPFQEAZAIgD2QWAmYPFQM9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTI3MDQwNCZlcHNsYW5ndWFnZT1ubi1OTwAORmluYW5zdGlsc3luZXRkAiIPZBYCZg8VAQBkAiMPZBYCZg8VAz0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9MjcwMzg5JmVwc2xhbmd1YWdlPW5uLU5PABBGb2xrZXRyeWdkZm9uZGV0ZAIlD2QWAmYPFQEAZAImD2QWAmYPFQM9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTI3MDQwOSZlcHNsYW5ndWFnZT1ubi1OTwAiU2VudGVyIGZvciBzdGF0bGVnIMO4a29ub21pc3R5cmluZ2QCKA9kFgJmDxUBAGQCKQ9kFgJmDxUDPS90ZW1wbGF0ZXMvRWtzdGVyblZpcmtzb21oZXQuYXNweD9pZD0yNzA0MDUmZXBzbGFuZ3VhZ2U9bm4tTk8ADFNrYXR0ZWV0YXRlbmQCKw9kFgJmDxUBAGQCLA9kFgJmDxUDPS90ZW1wbGF0ZXMvRWtzdGVyblZpcmtzb21oZXQuYXNweD9pZD0yNzA0MDYmZXBzbGFuZ3VhZ2U9bm4tTk8AGlN0YXRlbnMgaW5ua3JldmluZ3NzZW50cmFsZAIuD2QWAmYPFQEAZAIvD2QWAmYPFQM9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTI3MDQxMCZlcHNsYW5ndWFnZT1ubi1OTwAUU3RhdGVucyBwZW5zam9uc2ZvbmRkAjEPZBYCZg8VAQhTZWxlY3RlZGQCMg9kFgJmDxUDPS90ZW1wbGF0ZXMvRWtzdGVyblZpcmtzb21oZXQuYXNweD9pZD0yNzA0MDcmZXBzbGFuZ3VhZ2U9bm4tTk8AF1N0YXRpc3Rpc2sgc2VudHJhbGJ5csOlZAI0D2QWAmYPFQEAZAI1D2QWAmYPFQM9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTI3MDQwOCZlcHNsYW5ndWFnZT1ubi1OTwAiVG9sbC0gb2cgYXZnaWZ0c2V0YXRlbi9Ub2xsdmVzZW5ldGQCOQ9kFgJmDxUBAGQCOg9kFgJmDxUDNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTE1MTkzJmVwc2xhbmd1YWdlPW5uLU5PABRUaWxrbnl0dGEgdmVya3NlbWRlcmQCPA9kFgJmDxUBAGQCPQ9kFgJmDxUDMy90ZW1wbGF0ZXMvSUZyYW1lUGFnZS5hc3B4P2lkPTQ4NTQ1MSZlcHNsYW5ndWFnZT1ubgAWU3R5cmVyLCByw6VkIG9nIHV0dmFsZ2QCPw9kFgJmDxUBAGQCQA9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNzA0MTEmZXBzbGFuZ3VhZ2U9bm4tTk8AB0tvbnRha3RkAkQPZBYCZg8VAQBkAkUPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDQ3MzEwJmVwc2xhbmd1YWdlPW5uLU5PAAxMeWQgb2cgYmlsZGVkAkcPZBYCZg8VAQBkAkgPZBYCZg8VAzYvdGVtcGxhdGVzL1NlYXJjaFBhZ2UuYXNweD9pZD0xMTUzMjImZXBzbGFuZ3VhZ2U9bm8tbnkADURva3VtZW50YXJraXZkAgUPZBYCAgEPZBYCZg8VAekDRmluYW5zZGVwYXJ0ZW1lbnRldCwgJm5ic3A7QWtlcnNnYXRhIDQwLCBQb3N0Ym9rcyA4MDA4IERlcCwgMDAzMCBPc2xvJm5ic3A7Jm5ic3A7IHwmbmJzcDsgJm5ic3A7VGxmOiZuYnNwOzIyIDI0IDkwIDkwLCBGYWtzOiZuYnNwOzIyIDI0IDk1IDEwIDxiciAvPkUtcG9zdDogPGEgaHJlZj0ibWFpbHRvOmFya2l2LnBvc3Rtb3R0YWtAZmluLmRlcC5ubyI+PGZvbnQgY29sb3I9IiMwMDMxNzMiPnBvc3Rtb3R0YWtAZmluLmRlcC5ubzwvZm9udD48L2E+Jm5ic3A7Jm5ic3A7IHwmbmJzcDsgTmV0dHJlZGFrdMO4cjogPGEgaHJlZj0ibWFpbHRvOnRvci1tYXJ0aW4uYmFydW1AZmluLmRlcC5ubyI+PGZvbnQgY29sb3I9IiMwMDMxNzMiPlRvciBNYXJ0aW4gQsOmcnVtPC9mb250PjwvYT4mbmJzcDsmbmJzcDsgfCZuYnNwOyBBbnN2YXJsaWcgcmVkYWt0w7hyOiA8YSBocmVmPSJtYWlsdG86cnVuYXIubWFsa2VuZXNAZmluLmRlcC5ubyI+UnVuYXIgTWFsa2VuZXM8L2E+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgFBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBXtjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uSGllcmFyY2h5TmF2aWdhdGlvbiRUZW1hUmVzcG9uc2FiaWxpdHkkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZBvAh9pqYFZMQJXLaIEYgYMKgx3l" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/fin/dep/underliggende_etater/statistisk-sentralbyra.html?id=270407">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/fin/Departemeantta-birra/Vuollasa-asahusat/Statistihkala-guovddabyra.html?id=270407">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/fin/The-Ministry/Underliggende-etater/Statistics-Norway.html?id=270407">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/fin.html?id=216"><img class="ProfileLogo" src="/styles/Images/fin/fin_nn.gif" alt='Finansdepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Finansdepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Del/Tips' /><span class="open" id="open">Del/Tips</span><span class="display-none" id="close">Lukk</span></a></li>
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/fin/Nettstadskart.html?id=313733">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/fin/Om-Departementet/kontakt.html?id=270411">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407', 'Statistisk sentralbyrå')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407&amp;description=Statistisk sentralbyrå' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Statistisk sentralbyrå','','http://www.regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+
+    
+
+  <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/fin.html?id=216">Finansdepartementet</a> / <a href="/nn/dep/fin/Om-Departementet.html?id=221">Om Departementet</a> / <a href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder.html?id=115192">Etatar og verksemder</a> / <span>Statistisk sentralbyr&#229;</span>
+</p>
+  <div class="documentTop">   
+   <h2 class="subtitle"><span></span></h2>
+   <h1><span>Statistisk sentralbyrå</span></h1>
+ </div>
+ <div class="documentBody">
+   <div class="contents"><a name="hov1"></a>
+<p align="left">Statistisk sentralbyrå (SSB) utarbeidar og gjer ut offisiell statistikk i Noreg, og har i tillegg ein betydeleg verksemd knytte til forsking.&nbsp; SSB dekkjer dei aller fleste samfunnsområda, og utarbeidar til eksempel statistikk og analyser om samfunnsøkonomi, næringsutvikling og befolkning.</p>
+<p align="left">SSB har ansvaret for nasjonalrekneskapen og anna viktig økonomisk statistikk. Dette er informasjon som blant anna nyttast i arbeidet med nasjonalbudsjettet og langtidsprogrammet.&nbsp; Andre døme på økonomisk statistikk er tal for Noregs handel med utlandet, skatteinntekt, prisstigning, produksjon, sysselsetting og arbeidsløyse. </p>
+<p align="left">SSB&nbsp; samordnar og tilpasse og statistikk som andre institusjonar samle inn – og deltek i internasjonalt statistikksamarbeid.</p>
+<p align="left">1. januar 2006 hadde SSB 948 tilsette og eit budsjett på 368,7 millionar kroner. Vel 20 prosent av SSB sine inntekter kjem frå betalte oppdrag for det offentlege og private, medan hovuddelen av verksemda er finansiert over statsbudsjettet. SSB er lokalisert i Kongsvinger og Oslo.</p></div>
+   <div style="clear:both">&nbsp;</div>
+ </div> 
+    <div class="printContact">
+      <div class="Toolbox">   
+    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_H2_2" class="ToolboxHeader">
+       
+                        Kontaktinformasjon
+                    
+    </h2>
+    <div class="ToolboxContent">
+            <h3 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_H3_1" class="relatedContactHead">Statistisk sentralbyrå</h3>            
+            <p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/9ece0ce6440612b5ba0b260f5c4c8f90.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '8AB4EBA5B6FEF9E5FAA7EFAAEEE4EFD9B4A8B8CBD5E4E5E3EDEFD8F8EFFEE4EFC9D5E4E5E3EDEFD8FEE2EDE3D8EEE4CBF8EFFEE4EFC9D5E4E5E3EDEFD8E6E6FFCCD5BABAE6FEE9A8B7EEE3AAA8E5E4A4E8F9F9CAE8F9F9B0E5FEE6E3EBE7A8B7ECEFF8E2AAEBB6'));//--></script></p>
+            <table cellpadding="0" cellspacing="0" border="0" summary="Kontaktinformasjon">
+                <tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_Tr3">
+	<th>
+                        Telefon:
+                    </th>
+	<td><a class="telephoneLink" href="tel:+4721090000">21 09 00 00 </a></td>
+</tr>
+
+                <tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_Tr4">
+	<th>
+                        Faks:
+                    </th>
+	<td><a class="telephoneLink" href="tel:+4721094973">21 09 49 73</a></td>
+</tr>
+
+            </table>                    
+                <p><a href="http://www.ssb.no/" id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_A3" target="_blank">Nettsida til  Statistisk sentralbyrå</a></p>
+                <h3 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_H3_2" class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Statistisk sentralbyrå<br />Postboks 8131 Dep,<br />0033 Oslo,&nbsp;<br />&nbsp;</p>
+<p><strong>Besøksadresse:<br /></strong>Kongens gate 6 (Sjøfartsbygningen), <br />0153 Oslo, <br /></p>           
+            </div>
+           </div>  
+     
+    </div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/fin.html?id=216'><img src="/upload/FIN/rullerende forside/bilder_FIN_dep09.jpg" alt="Finansdepartementet" /></a></div>
+                                        
+                                        
+    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_TemaResponsability_divToolbox" class="Toolbox">  
+
+        <h2 class="ToolboxHeader">
+                        Tema
+                    </h2>
+        <div class="ToolboxContent">
+            <ul>
+    
+        <li><a href="/nn/dep/fin/Tema/norsk-okonomi.html?id=1438" title="" class="ISI_MENU">Norsk økonomi</a></li>
+    
+        <li><a href="/nn/dep/fin/Tema/statleg-okonomistyring.html?id=1440" title="" class="ISI_MENU">Statleg økonomistyring</a></li>
+    
+            </ul>
+        </div>
+           
+</div>
+
+                                        
+                                                
+                                        
+                                                                        
+                                        
+<div class="Toolbox">   
+    <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_H2_1" class="ToolboxHeader">
+       
+                        Kontaktinformasjon
+                    
+    </h2>
+    <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Statistisk sentralbyrå</h3>            
+            <p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/9ece0ce6440612b5ba0b260f5c4c8f90.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', 'B28CD39D8EC6C1DDC29FD792D6DCD7E18C9083F3EDDDD4DCFBC6D1D3C6DCDDF1DCDDDBD5D7E0C6DAD5DBE0EDDCDDDBD5D7E0C6DAD5DBE0EDDCDDDBD5D7E0C6DAD5DBE0D6DCF3C0D7C6DCD7F1EDDCDDDBD5D7E0DEDEC7F4ED8282DEC6D1908FD6DB9290DDDC9CD0C1C1F2D0C1C188DDC6DEDBD3DF908FD4D7C0DA92D38E'));//--></script></p>
+            <table cellpadding="0" cellspacing="0" border="0" summary="Kontaktinformasjon">
+                <tr id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_Tr1">
+	<th>
+                        Telefon:
+                    </th>
+	<td><a class="telephoneLink" href="tel:+4721090000">21 09 00 00 </a></td>
+</tr>
+
+                <tr id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_Tr2">
+	<th>
+                        Faks:
+                    </th>
+	<td><a class="telephoneLink" href="tel:+4721094973">21 09 49 73</a></td>
+</tr>
+
+            </table>                    
+                <p><a href="http://www.ssb.no/" target="_blank">Nettsida til  Statistisk sentralbyrå</a></p>
+                <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Statistisk sentralbyrå<br />Postboks 8131 Dep,<br />0033 Oslo,&nbsp;<br />&nbsp;</p>
+<p><strong>Besøksadresse:<br /></strong>Kongens gate 6 (Sjøfartsbygningen), <br />0153 Oslo, <br /></p>           
+            </div>
+           </div>  
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/fin.html?id=216">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Aktuelt.html?id=217" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Tema.html?id=218" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/pressesenter.html?id=219" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Dokument.html?id=276730" title=''>
+            Dokument</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/fin/Om-Departementet.html?id=221" title=''>
+            Om Departementet</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/finansminister-sigbjorn-johnsen.html?id=582364" title=''>
+            Finansminister Sigbjørn Johnsen</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/Anna-politisk-leiing-.html?id=238" title=''>
+            Anna politisk leiing </a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/Administrative-leiing.html?id=239" title=''>
+            Administrativ leiing</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/Organisasjon.html?id=240" title=''>
+            Organisasjon</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder.html?id=115192" title=''>
+            Etatar og verksemder</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/kredittilsynet.html?id=270404" title=''>
+            Finanstilsynet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/folketrygdfondet.html?id=270389" title=''>
+            Folketrygdfondet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Senter-for-statleg-okonomistyring.html?id=270409" title=''>
+            Senter for statleg økonomistyring</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/skatteetaten.html?id=270405" title=''>
+            Skatteetaten</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/statens-innkrevingssentral.html?id=270406" title=''>
+            Statens innkrevingssentral</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statens-pensjonsfond.html?id=270410" title=''>
+            Statens pensjonsfond</a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statistisk-sentralbyra.html?id=270407" title=''>
+            Statistisk sentralbyrå</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/etatar-og-verksemder/toll--og-avgiftsetatentollvesenet.html?id=270408" title=''>
+            Toll- og avgiftsetaten/Tollvesenet</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/Tilknytta-verksemder.html?id=115193" title=''>
+            Tilknytta verksemder</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/dep/styrer-rad-og-utvalg.html?id=485451" title=''>
+            Styrer, råd og utvalg</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/Om-Departementet/kontakt.html?id=270411" title=''>
+            Kontakt</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/lyd-og-bilde.html?id=447310" title=''>
+            Lyd og bilde</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/no-ny/dokumentarkiv.html?id=115322" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter">Finansdepartementet, &nbsp;Akersgata 40, Postboks 8008 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; &nbsp;Tlf:&nbsp;22 24 90 90, Faks:&nbsp;22 24 95 10 <br />E-post: <img id='Eoi_3' class='obfimg' src='/images/emailimages/e307bd29b111715e25f69d1564450731.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '754B145A494B011B1A135A491A1B5B0510115B1B1C13351E1401011A1801061A054B57464244464545565748071A191A1655011B1A13494B571A1B5B0510115B1B1C13351E1401011A1801061A055B031C1E07144F1A01191C141857481310071D551449'));//--></script>&nbsp;&nbsp; |&nbsp; Nettredaktør: <img id='Eoi_4' class='obfimg' src='/images/emailimages/32f656fb48ff689222ee7008a8da605d.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_4', 'D6E8B7F9EAE8A2B8B9B0F9EABBA3A43094F6B8BFA2A4B79BF6A4B982E8F4E5E1E7E5E6E6F5F4EBA4B9BAB9B5F6A2B8B9B0EAE8F4B9B8F8A6B3B2F8B8BFB096BBA3A4B7B4F8B8BFA2A4B7BBFBA4B9A2ECB9A2BABFB7BBF4EBB0B3A4BEF6B7EA'));//--></script>&nbsp;&nbsp; |&nbsp; Ansvarlig redaktør: <img id='Eoi_5' class='obfimg' src='/images/emailimages/d9711f50301c46b444d4519449235e01.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_5', '85BBE4AAB9F6E0EBE0EEE9E4C8A5F7E4EBF0D7BBA7EAEBABF5E0E1ABEBECE3C5F6E0EBE0EEE9E4E8ABF7E4EBF0F7BFEAF1E9ECE4E8A7B8E3E0F7EDA5E4B9'));//--></script></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

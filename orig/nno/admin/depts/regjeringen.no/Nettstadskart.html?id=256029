@@ -1,0 +1,1368 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Nettstadskart - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Nettstadskart" />
+<meta name="DCSext.regj.pagetype" content="Nettstedskart" />
+<meta name="DCSext.regj.pageid" content="256029" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="aid" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Nettstadskart" />
+<meta name="DC.Creator" content="Arbeidsdepartementet" />
+<meta name="DC.Date" content="2006-11-03" />
+<meta name="DC.Date.Available" content="2006-11-03" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Nettstedskart" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/aid/Nettstadskart.html?id=256029" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Arbeidsdepartementet" />
+<meta name="creation_date" content="Fri, 03 Nov 2006 13:56:00 GMT" />
+<meta name="LAST-MODIFIED" content="Fri, 03 Nov 2006 13:57:02 GMT" />
+<meta name="REVISED" content="Fri, 03 Nov 2006 13:57:02 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/2ColLeft.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/ad.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/aid/Nettstadskart.html?id=256029" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDE1OTQ5NTU2D2QWAmYPZBYIZg8VAgJubgJubmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAWmCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJOZXR0c3RhZHNrYXJ0IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9Ik5ldHRzdGVkc2thcnQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9IjI1NjAyOSIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJhaWQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iTmV0dHN0YWRza2FydCIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9IkFyYmVpZHNkZXBhcnRlbWVudGV0IiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZSIgY29udGVudD0iMjAwNi0xMS0wMyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUuQXZhaWxhYmxlIiBjb250ZW50PSIyMDA2LTExLTAzIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZS5TdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUiIGNvbnRlbnQ9Ik5ldHRzdGVkc2thcnQiIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvbm4vZGVwL2FpZC9OZXR0c3RhZHNrYXJ0Lmh0bWw/aWQ9MjU2MDI5IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJBcmJlaWRzZGVwYXJ0ZW1lbnRldCIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IkZyaSwgMDMgTm92IDIwMDYgMTM6NTY6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iRnJpLCAwMyBOb3YgMjAwNiAxMzo1NzowMiBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJGcmksIDAzIE5vdiAyMDA2IDEzOjU3OjAyIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0ibm4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILDxYCHwFoFgJmDxUBECNBcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBTYvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0yNTYwMjkmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS9TaWRhIGJsaXIgdmlzdCBww6Ugbnlub3Jzay4gKGFrdGl2dCBzcHLDpWt2YWxnKR8ABQdOeW5vcnNrHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTI1NjAyOSZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwMFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MjU2MDI5JmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfAwUqQ2xpY2sgaGVyZSB0byBkaXNwbGF5IHRoaXMgcGFnZSBpbiBlbmdsaXNoHwAFB0VuZ2xpc2gfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MjU2MDI5JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIBDxUBFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAg9kFgZmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPW5uLU5PGVJlZ2plcmluZ2EgU3RvbHRlbmJlcmcgSUkyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9bm4tTk9kAgUPZBYCZg9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM5MzMWJAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTg3NSZlcHNsYW5ndWFnZT1ubi1OTxdTdGF0c21pbmlzdGVyZW5zIGtvbnRvcmQCAg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0xNjUmZXBzbGFuZ3VhZ2U9bm4tTk8UQXJiZWlkc2RlcGFydGVtZW50ZXRkAgMPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9Mjk4JmVwc2xhbmd1YWdlPW5uLU5PM0Jhcm5lLSwgbGlrZXN0aWxsaW5ncy0gb2cgaW5rbHVkZXJpbmdzZGVwYXJ0ZW1lbnRldGQCBA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9bm4tTk8TRmluYW5zZGVwYXJ0ZW1lbnRldGQCBQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yNTcmZXBzbGFuZ3VhZ2U9bm4tTk8dRmlza2VyaS0gb2cga3lzdGRlcGFydGVtZW50ZXRkAgYPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzM5JmVwc2xhbmd1YWdlPW5uLU5PM0Zvcm55aW5ncy0sIGFkbWluaXN0cmFzam9ucy0gb2cga3lya2plZGVwYXJ0ZW1lbnRldGQCBw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zODAmZXBzbGFuZ3VhZ2U9bm4tTk8VRm9yc3ZhcnNkZXBhcnRlbWVudGV0ZAIID2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQyMSZlcHNsYW5ndWFnZT1ubi1OTx5IZWxzZS0gb2cgb21zb3Jnc2RlcGFydGVtZW50ZXRkAgkPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5uLU5PHkp1c3Rpcy0gb2cgcG9saXRpZGVwYXJ0ZW1lbnRldGQCCg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01MDQmZXBzbGFuZ3VhZ2U9bm4tTk8iS29tbXVuYWwtIG9nIHJlZ2lvbmFsZGVwYXJ0ZW1lbnRldGQCCw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01NDUmZXBzbGFuZ3VhZ2U9bm4tTk8TS3VsdHVyZGVwYXJ0ZW1lbnRldGQCDA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01ODYmZXBzbGFuZ3VhZ2U9bm4tTk8WS3VubnNrYXBzZGVwYXJ0ZW1lbnRldGQCDQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD02MjcmZXBzbGFuZ3VhZ2U9bm4tTk8eTGFuZGJydWtzLSBvZyBtYXRkZXBhcnRlbWVudGV0ZAIOD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTY2OCZlcHNsYW5ndWFnZT1ubi1OTxdNaWxqw7h2ZXJuZGVwYXJ0ZW1lbnRldGQCDw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03MDkmZXBzbGFuZ3VhZ2U9bm4tTk8hTsOmcmluZ3MtIG9nIGhhbmRlbHNkZXBhcnRlbWVudGV0ZAIQD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc1MCZlcHNsYW5ndWFnZT1ubi1OTxxPbGplLSBvZyBlbmVyZ2lkZXBhcnRlbWVudGV0ZAIRD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc5MSZlcHNsYW5ndWFnZT1ubi1OTxhTYW1mZXJkc2Vsc2RlcGFydGVtZW50ZXRkAhIPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9ODMzJmVwc2xhbmd1YWdlPW5uLU5PFVV0YW5yaWtzZGVwYXJ0ZW1lbnRldGQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MTY1JmVwc2xhbmd1YWdlPW5uLU5PZAIEDxUBFEFyYmVpZHNkZXBhcnRlbWVudGV0ZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUEHVPDuGsgaG9zIEFyYmVpZHNkZXBhcnRlbWVudGV0BFPDuGsRUXVpY2tTZWFyY2hCdXR0b24EU8O4a2QCAw8PFgIfAAUcU8O4ayBww6UgaGVpbGUgcmVnamVyaW5nYS5ub2RkAgEPDxYCHgtfaXNFZGl0YWJsZWhkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQJ+aHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vbm4vZGVwL2FpZC9OZXR0c3RhZHNrYXJ0Lmh0bWw/aWQ9MjU2MDI5JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1ubi1OTx8ABQlUZW1hIEEtw4VkZAILD2QWAgIBDw8WBB8EBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0yNTYwMjkmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUNTmV0dHN0YWRza2FydGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPW5uLU5PHwAFBUhqZWxwZGQCDQ8PFgQfBAU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE3MyZlcHNsYW5ndWFnZT1ubi1OTx8ABQdLb250YWt0ZGQCBA9kFgQCAQ9kFggCAw9kFgJmDxYCHwAFwgFEdSBlciBoZXI6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OTyI+cmVnamVyaW5nYS5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MTY1JmVwc2xhbmd1YWdlPW5uLU5PIj5BcmJlaWRzZGVwYXJ0ZW1lbnRldDwvYT4gLyA8c3Bhbj5OZXR0c3RhZHNrYXJ0PC9zcGFuPmQCBA8VAQ1OZXR0c3RhZHNrYXJ0ZAIFDw8WBB8GaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCBw9kFgICAQ8WBB8FKCsEAzE2NR4PX051bWJlck9mTGV2ZWxzAmQWsgECAw9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNjYmZXBzbGFuZ3VhZ2U9bm4tTk8HQWt0dWVsdAdBa3R1ZWx0ZAIGD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NCZlcHNsYW5ndWFnZT1ubi1OTxJBa3R1ZWx0IC0gTnloZWl0ZXIITnloZWl0ZXJkAgkPZBYCZg8VAzEvdGVtcGxhdGVzL2NhbGVuZGFyLmFzcHg/aWQ9MTc1JmVwc2xhbmd1YWdlPW5uLU5PEkFrdHVlbHQgLSBLYWxlbmRlcghLYWxlbmRlcmQCDA9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzYmZXBzbGFuZ3VhZ2U9bm4tTk8bQWt0dWVsdCAtIFRhbGVyIG9nIGFydGlrbGFyEVRhbGVyIG9nIGFydGlrbGFyZAIPD2QWAmYPFQM6L3RlbXBsYXRlcy9SZWxhc2pvbnNsaXN0ZS5hc3B4P2lkPTUxODQ1MSZlcHNsYW5ndWFnZT1ubi1OT0RBa3R1ZWx0IC0gVGFsZXIgb2cgYXJ0aWtsYXIgLSBUYWxlciBvZyBhcnRpa2xhciBhdiBhcmJlaWRzbWluaXN0ZXJlbiZUYWxlciBvZyBhcnRpa2xhciBhdiBhcmJlaWRzbWluaXN0ZXJlbmQCFA9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzcmZXBzbGFuZ3VhZ2U9bm4tTk8dQWt0dWVsdCAtIFN2YXIgdGlsIFN0b3J0aW5nZXQTU3ZhciB0aWwgU3RvcnRpbmdldGQCFw9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02MDgyMTkmZXBzbGFuZ3VhZ2U9bm4rQWt0dWVsdCAtIE9mZmVudGxpZyBlbGVrdHJvbmlzayBwb3N0am91cm5hbCFPZmZlbnRsaWcgZWxla3Ryb25pc2sgcG9zdGpvdXJuYWxkAhoPZBYCZg8VAz8vdGVtcGxhdGVzL1JTU0xlZGlnZVN0aWxsaW5nZXIuYXNweD9pZD00Njg2NzUmZXBzbGFuZ3VhZ2U9bm4tTk8bQWt0dWVsdCAtIExlZGlnZSBzdGlsbGluZ2FyEUxlZGlnZSBzdGlsbGluZ2FyZAIdD2QWAmYPFQMhaHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9qb2JiaWFkE0FrdHVlbHQgLSBKb2JiIGkgQUQJSm9iYiBpIEFEZAIgD2QWAmYPFQM3L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ3ODgxOCZlcHNsYW5ndWFnZT1ubi1OTw1Ba3R1ZWx0IC0gUlNTA1JTU2QCJQ9kFgJmDxUDPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTE2NyZlcHNsYW5ndWFnZT1ubi1OTwRUZW1hBFRlbWFkAigPZBYCZg8VAyovdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MzUmZXBzbGFuZ3VhZ2U9Tk8eVGVtYSAtIEFyYmVpZHNtYXJrbmFkc3BvbGl0aWtrF0FyYmVpZHNtYXJrbmFkc3BvbGl0aWtrZAIrD2QWAmYPFQMqL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTc2JmVwc2xhbmd1YWdlPW5uM1RlbWEgLSBBcmJlaWRzbWFya25hZHNwb2xpdGlrayAtIEFyYmVpZHNpbm52YW5kcmluZxJBcmJlaWRzaW5udmFuZHJpbmdkAi4PZBYCZg8VAysvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD02OTExJmVwc2xhbmd1YWdlPW5uM1RlbWEgLSBBcmJlaWRzbWFya25hZHNwb2xpdGlrayAtIEFyYmVpZCBvZyBsZWRpZ2hldBJBcmJlaWQgb2cgbGVkaWdoZXRkAjEPZBYCZg8VAywvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD04Njk0OCZlcHNsYW5ndWFnZT1ubjFUZW1hIC0gQXJiZWlkc21hcmtuYWRzcG9saXRpa2sgLSBJbm50ZWt0c3BvbGl0aWtrEElubnRla3RzcG9saXRpa2tkAjYPZBYCZg8VAyovdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MzYmZXBzbGFuZ3VhZ2U9Tk8hVGVtYSAtIEFyYmVpZHNtaWxqw7ggb2cgdHJ5Z2dsZWlrGkFyYmVpZHNtaWxqw7ggb2cgdHJ5Z2dsZWlrZAI5D2QWAmYPFQMqL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTQ1JmVwc2xhbmd1YWdlPW5uL1RlbWEgLSBBcmJlaWRzbWlsasO4IG9nIHRyeWdnbGVpayAtIEFyYmVpZHNyZXR0C0FyYmVpZHNyZXR0ZAI8D2QWAmYPFQMrL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTM4MSZlcHNsYW5ndWFnZT1ubjJUZW1hIC0gQXJiZWlkc21pbGrDuCBvZyB0cnlnZ2xlaWsgLSBTb3NpYWwgZHVtcGluZw5Tb3NpYWwgZHVtcGluZ2QCPw9kFgJmDxUDKy90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTk0OTgmZXBzbGFuZ3VhZ2U9bm4wVGVtYSAtIEFyYmVpZHNtaWxqw7ggb2cgdHJ5Z2dsZWlrIC0gQXJiZWlkc2hlbHNlDEFyYmVpZHNoZWxzZWQCQg9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NTg3MTI4JmVwc2xhbmd1YWdlPW5ublRlbWEgLSBBcmJlaWRzbWlsasO4IG9nIHRyeWdnbGVpayAtIEFyYmVpZHNoZWxzZSAtIEluZ2VuIG1pc2Rhbm5lbHNlciBob3MgYmFybiBhdiB0aWRsaWdlcmUgdGFubmhlbHNlcGVyc29uZWxsO0luZ2VuIG1pc2Rhbm5lbHNlciBob3MgYmFybiBhdiB0aWRsaWdlcmUgdGFubmhlbHNlcGVyc29uZWxsZAJHD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9NDQ3MTA3JmVwc2xhbmd1YWdlPW5uNlRlbWEgLSBBcmJlaWRzbWlsasO4IG9nIHRyeWdnbGVpayAtIEFyYmVpZHNtaWxqw7hsb3ZlbhJBcmJlaWRzbWlsasO4bG92ZW5kAkoPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD00NDcxMDgmZXBzbGFuZ3VhZ2U9bm5JVGVtYSAtIEFyYmVpZHNtaWxqw7ggb2cgdHJ5Z2dsZWlrIC0gTMO4bm5zb3BwZ2rDuHIgb2cgdHZ1bmdlbiBsw7hubnNuZW1uZCVMw7hubnNvcHBnasO4ciBvZyB0dnVuZ2VuIGzDuG5uc25lbW5kZAJND2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9NTY4NTk4JmVwc2xhbmd1YWdlPW5uRlRlbWEgLSBBcmJlaWRzbWlsasO4IG9nIHRyeWdnbGVpayAtIFNpa2tlcmhldCBpIHBldHJvbGV1bXN2aXJrc29taGV0ZW4nU2lra2VyaGV0IGkgcGV0cm9sZXVtcyZzaHk7dmlya3NvbWhldGVuZAJSD2QWAmYPFQMqL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTM5JmVwc2xhbmd1YWdlPU5PEFRlbWEgLSBQZW5zam9uYXIJUGVuc2pvbmFyZAJVD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9NTczMjMzJmVwc2xhbmd1YWdlPW5uJFRlbWEgLSBQZW5zam9uYXIgLSBUamVuZXN0ZXBlbnNqb25lchFUamVuZXN0ZXBlbnNqb25lcmQCWA9kFgJmDxUDMy90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD04NjczMSZlcHNsYW5ndWFnZT1ubi1OTyNUZW1hIC0gUGVuc2pvbmFyIC0gUGVuc2pvbnNyZWZvcm1lbhBQZW5zam9uc3JlZm9ybWVuZAJbD2QWAmYPFQMrL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTQ2MiZlcHNsYW5ndWFnZT1ubiBUZW1hIC0gUGVuc2pvbmFyIC0gVWbDuHJlcGVuc2pvbg1VZsO4cmVwZW5zam9uZAJgD2QWAmYPFQMqL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTQyJmVwc2xhbmd1YWdlPW5uF1RlbWEgLSBWZWxmZXJkc3BvbGl0aWtrEFZlbGZlcmRzcG9saXRpa2tkAmMPZBYCZg8VAyovdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05NDcmZXBzbGFuZ3VhZ2U9bm4xVGVtYSAtIFZlbGZlcmRzcG9saXRpa2sgLSBJbmtsdWRlcmVuZGUgYXJiZWlkc2xpdhdJbmtsdWRlcmVuZGUgYXJiZWlkc2xpdmQCZg9kFgJmDxUDKi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTk4NiZlcHNsYW5ndWFnZT1ubiNUZW1hIC0gVmVsZmVyZHNwb2xpdGlrayAtIEZhdHRpZ2RvbQlGYXR0aWdkb21kAmkPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01MDI0OTcmZXBzbGFuZ3VhZ2U9bm4/VGVtYSAtIFZlbGZlcmRzcG9saXRpa2sgLSBIamVscGVtaWRsZXIgZm9yIGJlZHJldCBmdW5rc2pvbnNldm5lJUhqZWxwZW1pZGxlciBmb3IgYmVkcmV0IGZ1bmtzam9uc2V2bmVkAmwPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01NjgyNTYmZXBzbGFuZ3VhZ2U9bm4rVGVtYSAtIFZlbGZlcmRzcG9saXRpa2sgLSBTb3NpYWxlIHRqZW5lc3RlchFTb3NpYWxlIHRqZW5lc3RlcmQCbw9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTYwNDk1NyZlcHNsYW5ndWFnZT1ubiZUZW1hIC0gVmVsZmVyZHNwb2xpdGlrayAtIE5BVi1yZWZvcm1lbgxOQVYtcmVmb3JtZW5kAnQPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD00ODg1NjQmZXBzbGFuZ3VhZ2U9bm4/VGVtYSAtIEludGVybmFzam9uYWx0IHNhbWFyYmVpZCBvbSBhcmJlaWRzLSBvZyB2ZWxmZXJkc3BvbGl0aWtrOEludGVybmFzam9uYWx0IHNhbWFyYmVpZCBvbSBhcmJlaWRzLSBvZyB2ZWxmZXJkc3BvbGl0aWtrZAJ5D2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE2OCZlcHNsYW5ndWFnZT1ubi1OTwxQcmVzc2VzZW50ZXIMUHJlc3Nlc2VudGVyZAJ8D2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE4NCZlcHNsYW5ndWFnZT1ubi1OTx5QcmVzc2VzZW50ZXIgLSBQcmVzc2VtZWxkaW5nYXIPUHJlc3NlbWVsZGluZ2FyZAJ/D2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ1MDQxNyZlcHNsYW5ndWFnZT1ubiJQcmVzc2VzZW50ZXIgLSBBYm9ubmVyIHDDpSBueWhldGVyE0Fib25uZXIgcMOlIG55aGV0ZXJkAoIBD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE5NCZlcHNsYW5ndWFnZT1ubi1OTxlQcmVzc2VzZW50ZXIgLSBCaWxldGFya2l2CkJpbGV0YXJraXZkAocBD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3MDM2NSZlcHNsYW5ndWFnZT1ubi1OTwhEb2t1bWVudAhEb2t1bWVudGQCigEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjIwMjgwJmVwc2xhbmd1YWdlPW5uGkRva3VtZW50IC0gU3RhdHNidWRzamV0dGV0D1N0YXRzYnVkc2pldHRldGQCjQEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgxMzIyJmVwc2xhbmd1YWdlPW5uMURva3VtZW50IC0gU3RhdHNidWRzamV0dGV0IC0gU3RhdHNidWRzamV0dGV0IDIwMTAUU3RhdHNidWRzamV0dGV0IDIwMTBkApABD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTUzMTIwOCZlcHNsYW5ndWFnZT1ubjFEb2t1bWVudCAtIFN0YXRzYnVkc2pldHRldCAtIFN0YXRzYnVkc2pldHRldCAyMDA5FFN0YXRzYnVkc2pldHRldCAyMDA5ZAKTAQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NjEzNTAmZXBzbGFuZ3VhZ2U9bm5KRG9rdW1lbnQgLSBTdGF0c2J1ZHNqZXR0ZXQgLSBTdGF0c2J1ZHNqZXR0ZXQgMjAwOSAtIFJldmlkZXJ0IGJ1ZHNqZXR0IDIwMDkWUmV2aWRlcnQgYnVkc2pldHQgMjAwOWQCmAEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDgyNDc5JmVwc2xhbmd1YWdlPW5uMURva3VtZW50IC0gU3RhdHNidWRzamV0dGV0IC0gU3RhdHNidWRzamV0dGV0IDIwMDgUU3RhdHNidWRzamV0dGV0IDIwMDhkApsBD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTUxMTE1MSZlcHNsYW5ndWFnZT1ubkpEb2t1bWVudCAtIFN0YXRzYnVkc2pldHRldCAtIFN0YXRzYnVkc2pldHRldCAyMDA4IC0gUmV2aWRlcnQgYnVkc2pldHQgMjAwOBZSZXZpZGVydCBidWRzamV0dCAyMDA4ZAKgAQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NDk0MzMmZXBzbGFuZ3VhZ2U9bm4xRG9rdW1lbnQgLSBTdGF0c2J1ZHNqZXR0ZXQgLSBTdGF0c2J1ZHNqZXR0ZXQgMjAwNxRTdGF0c2J1ZHNqZXR0ZXQgMjAwN2QCowEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDQ5NDE1JmVwc2xhbmd1YWdlPW5uMURva3VtZW50IC0gU3RhdHNidWRzamV0dGV0IC0gU3RhdHNidWRzamV0dGV0IDIwMDYUU3RhdHNidWRzamV0dGV0IDIwMDZkAqgBD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE5NSZlcHNsYW5ndWFnZT1ubi1OTyVEb2t1bWVudCAtIFByb3Bvc2lzam9uYXIgb2cgbWVsZGluZ2FyGlByb3Bvc2lzam9uYXIgb2cgbWVsZGluZ2FyZAKrAQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD01Nzg0NzEmZXBzbGFuZ3VhZ2U9bm5ERG9rdW1lbnQgLSBQcm9wb3Npc2pvbmFyIG9nIG1lbGRpbmdhciAtIFByb3Bvc2lzam9uZXIgdGlsIFN0b3J0aW5nZXQcUHJvcG9zaXNqb25lciB0aWwgU3RvcnRpbmdldGQCrgEPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTk4JmVwc2xhbmd1YWdlPW5uLU5PQERva3VtZW50IC0gUHJvcG9zaXNqb25hciBvZyBtZWxkaW5nYXIgLSBNZWxkaW5nYXIgdGlsIFN0b3J0aW5nZXQYTWVsZGluZ2FyIHRpbCBTdG9ydGluZ2V0ZAKzAQ9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNzA0MTUmZXBzbGFuZ3VhZ2U9bm4tTk8aRG9rdW1lbnQgLSBMb3ZlciBvZyByZWdsYXIPTG92ZXIgb2cgcmVnbGFyZAK2AQ9kFgJmDxUDNy90ZW1wbGF0ZXMvUmVsYXNqb25zbGlzdGUuYXNweD9pZD0yMDImZXBzbGFuZ3VhZ2U9bm4tTk8iRG9rdW1lbnQgLSBMb3ZlciBvZyByZWdsYXIgLSBMb3ZlcgVMb3ZlcmQCuQEPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MjAzJmVwc2xhbmd1YWdlPW5uLU5PKERva3VtZW50IC0gTG92ZXIgb2cgcmVnbGFyIC0gRm9yc2tyaWZ0ZXILRm9yc2tyaWZ0ZXJkAr4BD2QWAmYPFQM4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3ODYmZXBzbGFuZ3VhZ2U9bm4tTk8URG9rdW1lbnQgLSBSdW5kc2tyaXYJUnVuZHNrcml2ZALBAQ9kFgJmDxUDMy90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTc4NyZlcHNsYW5ndWFnZT1ubi1OTxVEb2t1bWVudCAtIEjDuHlyaW5nYXIKSMO4eXJpbmdhcmQCxAEPZBYCZg8VAzgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTc4OCZlcHNsYW5ndWFnZT1ubi1OTypEb2t1bWVudCAtIEjDuHlyaW5nYXIgLSBTYWtlciBww6UgaMO4eXJpbmcSU2FrZXIgcMOlIGjDuHlyaW5nZALHAQ9kFgJmDxUDOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzg5JmVwc2xhbmd1YWdlPW5uLU5PLkRva3VtZW50IC0gSMO4eXJpbmdhciAtIFNha2VyIHVuZGVyIGJlaGFuZGxpbmcWU2FrZXIgdW5kZXIgYmVoYW5kbGluZ2QCygEPZBYCZg8VAzgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTc5MCZlcHNsYW5ndWFnZT1ubi1OTyxEb2t1bWVudCAtIEjDuHlyaW5nYXIgLSBGZXJkaWdiZWhhbmRsYSBzYWtlchRGZXJkaWdiZWhhbmRsYSBzYWtlcmQCzwEPZBYCZg8VAzgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTc5MSZlcHNsYW5ndWFnZT1ubi1OTxFEb2t1bWVudCAtIE5PVS1hcgZOT1UtYXJkAtIBD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3MDQxNiZlcHNsYW5ndWFnZT1ubi1OTx5Eb2t1bWVudCAtIFJhcHBvcnRhciBvZyBwbGFuYXITUmFwcG9ydGFyIG9nIHBsYW5hcmQC1QEPZBYCZg8VAzgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTc5MyZlcHNsYW5ndWFnZT1ubi1OTypEb2t1bWVudCAtIFJhcHBvcnRhciBvZyBwbGFuYXIgLSBSYXBwb3J0YXIJUmFwcG9ydGFyZALYAQ9kFgJmDxUDOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzk0JmVwc2xhbmd1YWdlPW5uLU5PJ0Rva3VtZW50IC0gUmFwcG9ydGFyIG9nIHBsYW5hciAtIFBsYW5hcgZQbGFuYXJkAt0BD2QWAmYPFQM4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTIxMjImZXBzbGFuZ3VhZ2U9bm4tTk8kRG9rdW1lbnQgLSBSZXR0bGVpaW5nYXIgb2cgYnJvc2p5cmVyGVJldHRsZWlpbmdhciBvZyBicm9zanlyZXJkAuABD2QWAmYPFQM+L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE3OTcmZXBzbGFuZ3VhZ2U9bm4tTk8kRG9rdW1lbnQgLSBUaWRzc2tyaWZ0IG9nIG55aGVpdHNicmV2GVRpZHNza3JpZnQgb2cgbnloZWl0c2JyZXZkAuMBD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD01MjQ1MTEmZXBzbGFuZ3VhZ2U9bm4ZRG9rdW1lbnQgLSBUaWxkZWxpbmdzYnJldg5UaWxkZWxpbmdzYnJldmQC5gEPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM5MzI3JmVwc2xhbmd1YWdlPW5uLU5PJkRva3VtZW50IC0gQmVzdGlsbGluZyBhdiBwdWJsaWthc2pvbmFyG0Jlc3RpbGxpbmcgYXYgcHVibGlrYXNqb25hcmQC6wEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MTcwJmVwc2xhbmd1YWdlPW5uLU5PEE9tIGRlcGFydGVtZW50ZXQQT20gZGVwYXJ0ZW1lbnRldGQC7gEPZBYCZg8VA0EvdGVtcGxhdGVzL1BlcnNvblBvbGl0aXNrTGVkZWxzZS5hc3B4P2lkPTU4ODk3NSZlcHNsYW5ndWFnZT1ubi1OTzNPbSBkZXBhcnRlbWVudGV0IC0gQXJiZWlkc21pbmlzdGVyIEhhbm5lIEJqdXJzdHLDuG0gQXJiZWlkc21pbmlzdGVyIEhhbm5lIEJqdXJzdHLDuG1kAvEBD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0xODcmZXBzbGFuZ3VhZ2U9bm4tTk8nT20gZGVwYXJ0ZW1lbnRldCAtIEFubmEgcG9saXRpc2sgbGVpaW5nFEFubmEgcG9saXRpc2sgbGVpaW5nZAL0AQ9kFgJmDxUDPC90ZW1wbGF0ZXMvUGVyc29uUG9saXRpc2tMZWRlbHNlLmFzcHg/aWQ9MTM3NCZlcHNsYW5ndWFnZT1ubkpPbSBkZXBhcnRlbWVudGV0IC0gQW5uYSBwb2xpdGlzayBsZWlpbmcgLSBTdGF0c3Nla3JldMOmciBKYW4tRXJpayBTdMO4c3RhZCBTdGF0c3Nla3JldMOmciBKYW4tRXJpayBTdMO4c3RhZGQC9wEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgzODM2JmVwc2xhbmd1YWdlPW5uaE9tIGRlcGFydGVtZW50ZXQgLSBBbm5hIHBvbGl0aXNrIGxlaWluZyAtIFN0YXRzc2VrcmV0w6ZyIEphbi1FcmlrIFN0w7hzdGFkIC0gQmlsZGVyIGF2IEphbi1FcmlrIFN0w7hzdGFkG0JpbGRlciBhdiBKYW4tRXJpayBTdMO4c3RhZGQC+gEPZBYCZg8VAzcvdGVtcGxhdGVzL1JlbGFzam9uc2xpc3RlLmFzcHg/aWQ9NTE5MzQ4JmVwc2xhbmd1YWdlPW5uggFPbSBkZXBhcnRlbWVudGV0IC0gQW5uYSBwb2xpdGlzayBsZWlpbmcgLSBTdGF0c3Nla3JldMOmciBKYW4tRXJpayBTdMO4c3RhZCAtIFRhbGVyIG9nIGFydGlrbGVyIGF2IHN0YXRzc2VrcmV0w6ZyIEphbi1FcmlrIFN0w7hzdGFkEVRhbGVyIG9nIGFydGlrbGVyZAL/AQ9kFgJmDxUDPi90ZW1wbGF0ZXMvUGVyc29uUG9saXRpc2tMZWRlbHNlLmFzcHg/aWQ9NTgzMzAxJmVwc2xhbmd1YWdlPW5uQk9tIGRlcGFydGVtZW50ZXQgLSBBbm5hIHBvbGl0aXNrIGxlaWluZyAtIFN0YXRzc2VrcmV0w6ZyIEdpbmEgTHVuZBhTdGF0c3Nla3JldMOmciBHaW5hIEx1bmRkAoICD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU4MzY5NyZlcHNsYW5ndWFnZT1ublhPbSBkZXBhcnRlbWVudGV0IC0gQW5uYSBwb2xpdGlzayBsZWlpbmcgLSBTdGF0c3Nla3JldMOmciBHaW5hIEx1bmQgLSBCaWxkZXIgYXYgR2luYSBMdW5kE0JpbGRlciBhdiBHaW5hIEx1bmRkAocCD2QWAmYPFQM+L3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD01ODMxNzgmZXBzbGFuZ3VhZ2U9bm5NT20gZGVwYXJ0ZW1lbnRldCAtIEFubmEgcG9saXRpc2sgbGVpaW5nIC0gUG9saXRpc2sgcsOlZGdpdmVyIEpvbiBSZWlkYXIgw5h5YW4jUG9saXRpc2sgcsOlZGdpdmVyIEpvbiBSZWlkYXIgw5h5YW5kAooCD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU4NzEwNyZlcHNsYW5ndWFnZT1ubmpPbSBkZXBhcnRlbWVudGV0IC0gQW5uYSBwb2xpdGlzayBsZWlpbmcgLSBQb2xpdGlzayByw6VkZ2l2ZXIgSm9uIFJlaWRhciDDmHlhbiAtIEJpbGRlciBhdiBKb24gUmVpZGFyIMOYeWFuGkJpbGRlciBhdiBKb24gUmVpZGFyIMOYeWFuZAKRAg9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTg4JmVwc2xhbmd1YWdlPW5uLU5PJ09tIGRlcGFydGVtZW50ZXQgLSBBZG1pbmlzdHJhdGl2IGxlaWluZxRBZG1pbmlzdHJhdGl2IGxlaWluZ2QClAIPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MTg5JmVwc2xhbmd1YWdlPW5uLU5PH09tIGRlcGFydGVtZW50ZXQgLSBPcmdhbmlzYXNqb24MT3JnYW5pc2Fzam9uZAKXAg9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTkyJmVwc2xhbmd1YWdlPW5uLU5PLE9tIGRlcGFydGVtZW50ZXQgLSBPcmdhbmlzYXNqb24gLSBBdmRlbGluZ2FyCkF2ZGVsaW5nYXJkApoCD2QWAmYPFQM6L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE5MyZlcHNsYW5ndWFnZT1ubitPbSBkZXBhcnRlbWVudGV0IC0gT3JnYW5pc2Fzam9uIC0gSGlzdG9yaWtrCUhpc3Rvcmlra2QCnwIPZBYCZg8VAzQvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTg3MTQxJmVwc2xhbmd1YWdlPW5uLU5PKE9tIGRlcGFydGVtZW50ZXQgLSBVbmRlcmxpZ2dqYW5kZSBldGF0YXIVVW5kZXJsaWdnamFuZGUgZXRhdGFyZAKiAg9kFgJmDxUDNC90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODcxNDImZXBzbGFuZ3VhZ2U9bm4tTk8nT20gZGVwYXJ0ZW1lbnRldCAtIFRpbGtueXR0YSB2ZXJrc2VtZGVyFFRpbGtueXR0YSB2ZXJrc2VtZGVyZAKlAg9kFgJmDxUDNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDQzNDE5JmVwc2xhbmd1YWdlPW5uLU5PKU9tIGRlcGFydGVtZW50ZXQgLSBOZW1uZGVyLCByw6VkIG9nIHV0dmFsFk5lbW5kZXIsIHLDpWQgb2cgdXR2YWxkAqgCD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE5MCZlcHNsYW5ndWFnZT1ubi1OTyFPbSBkZXBhcnRlbWVudGV0IC0gQW5zdmFyc29tcsOlZGUOQW5zdmFyc29tcsOlZGVkAqsCD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE3MyZlcHNsYW5ndWFnZT1ubi1OTxpPbSBkZXBhcnRlbWVudGV0IC0gS29udGFrdAdLb250YWt0ZAKuAg9kFgJmDxUDOC90ZW1wbGF0ZXMvVGVsZWZvbmxpc3RlLmFzcHg/aWQ9MjIzMDc5JmVwc2xhbmd1YWdlPW5uLU5PKU9tIGRlcGFydGVtZW50ZXQgLSBLb250YWt0IC0gVGVsZWZvbmxpc3RlDFRlbGVmb25saXN0ZWQCtQIPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MTcxJmVwc2xhbmd1YWdlPW5uLU5PDUx5ZCBvZyBiaWxldGUNTHlkIG9nIGJpbGV0ZWQCuAIPZBYCZg8VAzIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTU0NjE5NSZlcHNsYW5ndWFnZT1ubhVMeWQgb2cgYmlsZXRlIC0gVmlkZW8FVmlkZW9kAr0CD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQyNjIwOSZlcHNsYW5ndWFnZT1ubi1OTw1Eb2t1bWVudGFya2l2DURva3VtZW50YXJraXZkAgMPZBYCAgEPZBYEAgEPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MTY1JmVwc2xhbmd1YWdlPW5uLU5PGkZyYW1zaWRhIHRpbCBkZXBhcnRlbWVudGV0ZAIDDxYGHwUoKwQDMTY1HwgCCh4KX0V4cGFuZEFsbGgWHAIBD2QWAmYPFQEAZAICD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE2NiZlcHNsYW5ndWFnZT1ubi1OTwAHQWt0dWVsdGQCBA9kFgJmDxUBAGQCBQ9kFgJmDxUDPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTE2NyZlcHNsYW5ndWFnZT1ubi1OTwAEVGVtYWQCBw9kFgJmDxUBAGQCCA9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNjgmZXBzbGFuZ3VhZ2U9bm4tTk8ADFByZXNzZXNlbnRlcmQCCg9kFgJmDxUBAGQCCw9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNzAzNjUmZXBzbGFuZ3VhZ2U9bm4tTk8ACERva3VtZW50ZAIND2QWAmYPFQEAZAIOD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTE3MCZlcHNsYW5ndWFnZT1ubi1OTwAQT20gZGVwYXJ0ZW1lbnRldGQCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0xNzEmZXBzbGFuZ3VhZ2U9bm4tTk8ADUx5ZCBvZyBiaWxldGVkAhMPZBYCZg8VAQBkAhQPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDI2MjA5JmVwc2xhbmd1YWdlPW5uLU5PAA1Eb2t1bWVudGFya2l2ZAIFD2QWAgIBD2QWAmYPFQGzAzxwIGFsaWduPSJjZW50ZXIiPkFyYmVpZHNkZXBhcnRlbWVudGV0LCBFaW5hciBHZXJoYXJkc2VucyBwbGFzcyAzLCBQb3N0Ym9rcyA4MDE5IERlcCwgMDAzMCBPc2xvJm5ic3A7PGJyIC8+VGVsZWZvbiAyMiAyNCA5MCA5MCwgZmFrcyAyMiAyNCA4NyAxMS4gRS1wb3N0OiA8YSBocmVmPSJtYWlsdG86cG9zdG1vdHRha0BhZC5kZXAubm8iPnBvc3Rtb3R0YWtAYWQuZGVwLm5vPC9hPiA8YnIgLz5OZXR0cmVkYWt0w7hyOiA8YSBocmVmPSIvdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NDQ1Nzc1Ij5HdXR0b3JtIEFhbmVzPC9hPiwgYW5zdmFybGVnIHJlZGFrdMO4cjogPGEgdGl0bGU9IktyaXN0aW4gSGV0bGUiIGhyZWY9Ii90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD01MDkyNjMiPktyaXN0aW4gSGV0bGU8L2E+PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYAgUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQu9TN3SKK/xqGzO+b7TvDJDSy+rw==" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/ad/nettstedskart.html?id=256029">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/aid/Nettstadskart.html?id=256029">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/aid/Neahttakarta-.html?id=256029">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/aid/sitemap.html?id=256029">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/aid.html?id=165"><img class="ProfileLogo" src="/styles/Images/ad/ad_nn.gif" alt='Arbeidsdepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Arbeidsdepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Del/Tips' /><span class="open" id="open">Del/Tips</span><span class="display-none" id="close">Lukk</span></a></li>
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/aid/Nettstadskart.html?id=256029&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/aid/Nettstadskart.html?id=256029">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/aid/om-departementetnn/kontakt.html?id=173">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+<div>
+  
+    
+
+  <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/aid.html?id=165">Arbeidsdepartementet</a> / <span>Nettstadskart</span>
+</p>
+  <div class="documentTop">  
+  <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+  <h1>Nettstadskart</h1>
+  
+  <div style="clear:both"></div>
+  </div>
+  <div class="siteMap" style="line-height:1.3em">
+    
+<div class="fullwidth leftfloating">
+	
+				<div id="SiteMap">
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt.html?id=166" class="linklist" title='Aktuelt'>
+				            Aktuelt
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/nyheiter.html?id=174" class="linklist" title='Aktuelt - Nyheiter'>
+				            Nyheiter
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/kalender.html?id=175" class="linklist" title='Aktuelt - Kalender'>
+				            Kalender
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/taler-og-artiklar.html?id=176" class="linklist" title='Aktuelt - Taler og artiklar'>
+				            Taler og artiklar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/taler-og-artiklar/taler-og-artiklar-av-arbeids--og-inklude.html?id=518451" class="linklist" title='Aktuelt - Taler og artiklar - Taler og artiklar av arbeidsministeren'>
+				            Taler og artiklar av arbeidsministeren
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/svar-til-stortinget.html?id=177" class="linklist" title='Aktuelt - Svar til Stortinget'>
+				            Svar til Stortinget
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/aktuelt/Offentlig-elektronisk-postjournal.html?id=608219" class="linklist" title='Aktuelt - Offentlig elektronisk postjournal'>
+				            Offentlig elektronisk postjournal
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/ledige-stillingar.html?id=468675" class="linklist" title='Aktuelt - Ledige stillingar'>
+				            Ledige stillingar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="http://www.regjeringen.no/jobbiad" class="linklist" title='Aktuelt - Jobb i AD'>
+				            Jobb i AD
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/aktuelt/rss.html?id=478818" class="linklist" title='Aktuelt - RSS'>
+				            RSS
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/tema.html?id=167" class="linklist" title='Tema'>
+				            Tema
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nb/dep/ad/tema/arbeidsmarkedspolitikk.html?id=935" class="linklist" title='Tema - Arbeidsmarknadspolitikk'>
+				            Arbeidsmarknadspolitikk
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmarkedspolitikk/arbeidsinnvandring.html?id=976" class="linklist" title='Tema - Arbeidsmarknadspolitikk - Arbeidsinnvandring'>
+				            Arbeidsinnvandring
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmarkedspolitikk/arbeid_og_ledighet.html?id=6911" class="linklist" title='Tema - Arbeidsmarknadspolitikk - Arbeid og ledighet'>
+				            Arbeid og ledighet
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmarkedspolitikk/inntektspolitikk.html?id=86948" class="linklist" title='Tema - Arbeidsmarknadspolitikk - Inntektspolitikk'>
+				            Inntektspolitikk
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nb/dep/ad/tema/arbeidsmiljo.html?id=936" class="linklist" title='Tema - Arbeidsmiljø og tryggleik'>
+				            Arbeidsmiljø og tryggleik
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/arbeidsrett.html?id=945" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Arbeidsrett'>
+				            Arbeidsrett
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/sosial_dumping.html?id=9381" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Sosial dumping'>
+				            Sosial dumping
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/arbeidshelse.html?id=9498" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Arbeidshelse'>
+				            Arbeidshelse
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/arbeidshelse/ingen-misdannelser-hos-barn-av-tidligere.html?id=587128" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Arbeidshelse - Ingen misdannelser hos barn av tidligere tannhelsepersonell'>
+				            Ingen misdannelser hos barn av tidligere tannhelsepersonell
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/arbeidsmiljoloven.html?id=447107" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Arbeidsmiljøloven'>
+				            Arbeidsmiljøloven
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/lonnsoppgj-lonnsnemnd.html?id=447108" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Lønnsoppgjør og tvungen lønnsnemnd'>
+				            Lønnsoppgjør og tvungen lønnsnemnd
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/arbeidsmiljo/sikkerhet-i-petroleumsvirksomheten.html?id=568598" class="linklist" title='Tema - Arbeidsmiljø og tryggleik - Sikkerhet i petroleumsvirksomheten'>
+				            Sikkerhet i petroleums&shy;virksomheten
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nb/dep/ad/tema/pensjoner.html?id=939" class="linklist" title='Tema - Pensjonar'>
+				            Pensjonar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/pensjoner/tjenestepensjoner.html?id=573233" class="linklist" title='Tema - Pensjonar - Tjenestepensjoner'>
+				            Tjenestepensjoner
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/Kampanjer/pensjonsreforma.html?id=86731" class="linklist" title='Tema - Pensjonar - Pensjonsreformen'>
+				            Pensjonsreformen
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/pensjoner/uforepensjon.html?id=9462" class="linklist" title='Tema - Pensjonar - Uførepensjon'>
+				            Uførepensjon
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk.html?id=942" class="linklist" title='Tema - Velferdspolitikk'>
+				            Velferdspolitikk
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk/inkluderende_arbeidsliv.html?id=947" class="linklist" title='Tema - Velferdspolitikk - Inkluderende arbeidsliv'>
+				            Inkluderende arbeidsliv
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk/fattigdom.html?id=986" class="linklist" title='Tema - Velferdspolitikk - Fattigdom'>
+				            Fattigdom
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk/hjelpemidler-for-bedret-funksjonsevne.html?id=502497" class="linklist" title='Tema - Velferdspolitikk - Hjelpemidler for bedret funksjonsevne'>
+				            Hjelpemidler for bedret funksjonsevne
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk/sosiale-tjenester.html?id=568256" class="linklist" title='Tema - Velferdspolitikk - Sosiale tjenester'>
+				            Sosiale tjenester
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/velferdspolitikk/NAV-reformen.html?id=604957" class="linklist" title='Tema - Velferdspolitikk - NAV-reformen'>
+				            NAV-reformen
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/tema/internasjonalt-samarbeid-om-arbeids--og-.html?id=488564" class="linklist" title='Tema - Internasjonalt samarbeid om arbeids- og velferdspolitikk'>
+				            Internasjonalt samarbeid om arbeids- og velferdspolitikk
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/pressesenter.html?id=168" class="linklist" title='Pressesenter'>
+				            Pressesenter
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/pressesenter/pressemeldingar.html?id=184" class="linklist" title='Pressesenter - Pressemeldingar'>
+				            Pressemeldingar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/pressesenter/abonner.html?id=450417" class="linklist" title='Pressesenter - Abonner på nyheter'>
+				            Abonner på nyheter
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/pressesenter/bildearkiv.html?id=194" class="linklist" title='Pressesenter - Biletarkiv'>
+				            Biletarkiv
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument.html?id=270365" class="linklist" title='Dokument'>
+				            Dokument
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2011.html?id=620280" class="linklist" title='Dokument - Statsbudsjettet'>
+				            Statsbudsjettet
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2010.html?id=581322" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2010'>
+				            Statsbudsjettet 2010
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2009.html?id=531208" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2009'>
+				            Statsbudsjettet 2009
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2009/revidert-budsjett-2009.html?id=561350" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2009 - Revidert budsjett 2009'>
+				            Revidert budsjett 2009
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2008.html?id=482479" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2008'>
+				            Statsbudsjettet 2008
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2008/revidert-budsjett-2008.html?id=511151" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2008 - Revidert budsjett 2008'>
+				            Revidert budsjett 2008
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2007.html?id=449433" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2007'>
+				            Statsbudsjettet 2007
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/statsbudsjettet/statsbudsjettet-2006.html?id=449415" class="linklist" title='Dokument - Statsbudsjettet - Statsbudsjettet 2006'>
+				            Statsbudsjettet 2006
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/proposisjonar-og-meldingar.html?id=195" class="linklist" title='Dokument - Proposisjonar og meldingar'>
+				            Proposisjonar og meldingar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/regpubl/prop.html?id=578471" class="linklist" title='Dokument - Proposisjonar og meldingar - Proposisjoner til Stortinget'>
+				            Proposisjoner til Stortinget
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/proposisjonar-og-meldingar/stortingsmeldingar.html?id=198" class="linklist" title='Dokument - Proposisjonar og meldingar - Meldingar til Stortinget'>
+				            Meldingar til Stortinget
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/lover-og-reglar.html?id=270415" class="linklist" title='Dokument - Lover og reglar'>
+				            Lover og reglar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/lover-og-reglar/lover.html?id=202" class="linklist" title='Dokument - Lover og reglar - Lover'>
+				            Lover
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/lover-og-reglar/forskrifter.html?id=203" class="linklist" title='Dokument - Lover og reglar - Forskrifter'>
+				            Forskrifter
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/rundskriv.html?id=1786" class="linklist" title='Dokument - Rundskriv'>
+				            Rundskriv
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/Hoyringar.html?id=1787" class="linklist" title='Dokument - Høyringar'>
+				            Høyringar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/Hoyringar/Saker-pa-hoyring.html?id=1788" class="linklist" title='Dokument - Høyringar - Saker på høyring'>
+				            Saker på høyring
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/Hoyringar/Saker-under-behandling.html?id=1789" class="linklist" title='Dokument - Høyringar - Saker under behandling'>
+				            Saker under behandling
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/Hoyringar/Ferdigbehandla-saker.html?id=1790" class="linklist" title='Dokument - Høyringar - Ferdigbehandla saker'>
+				            Ferdigbehandla saker
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/nou-ar.html?id=1791" class="linklist" title='Dokument - NOU-ar'>
+				            NOU-ar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/rapportar-og-planer.html?id=270416" class="linklist" title='Dokument - Rapportar og planar'>
+				            Rapportar og planar
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/rapportar-og-planer/rapportar.html?id=1793" class="linklist" title='Dokument - Rapportar og planar - Rapportar'>
+				            Rapportar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/rapportar-og-planer/planar.html?id=1794" class="linklist" title='Dokument - Rapportar og planar - Planar'>
+				            Planar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/rettleiingar-og-brosjyrer.html?id=2122" class="linklist" title='Dokument - Rettleiingar og brosjyrer'>
+				            Rettleiingar og brosjyrer
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokument/Tidsskrift-og-nyheitsbrev.html?id=1797" class="linklist" title='Dokument - Tidsskrift og nyheitsbrev'>
+				            Tidsskrift og nyheitsbrev
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dok/tildelingsbrev.html?id=524511" class="linklist" title='Dokument - Tildelingsbrev'>
+				            Tildelingsbrev
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dok/bestilling-av-publikasjonar.html?id=439327" class="linklist" title='Dokument - Bestilling av publikasjonar'>
+				            Bestilling av publikasjonar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn.html?id=170" class="linklist" title='Om departementet'>
+				            Om departementet
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/arbeidsminister-hanne-bjurstrom.html?id=588975" class="linklist" title='Om departementet - Arbeidsminister Hanne Bjurstrøm'>
+				            Arbeidsminister Hanne Bjurstrøm
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/anna-politisk-leiing.html?id=187" class="linklist" title='Om departementet - Anna politisk leiing'>
+				            Anna politisk leiing
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/statssekretar_jan-erik_stostad.html?id=1374" class="linklist" title='Om departementet - Anna politisk leiing - Statssekretær Jan-Erik Støstad'>
+				            Statssekretær Jan-Erik Støstad
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/statssekretar_jan-erik_stostad/bilder-av-jan-erik-stostad.html?id=583836" class="linklist" title='Om departementet - Anna politisk leiing - Statssekretær Jan-Erik Støstad - Bilder av Jan-Erik Støstad'>
+				            Bilder av Jan-Erik Støstad
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/statssekretar_jan-erik_stostad/taler-og-artikler-.html?id=519348" class="linklist" title='Om departementet - Anna politisk leiing - Statssekretær Jan-Erik Støstad - Taler og artikler av statssekretær Jan-Erik Støstad'>
+				            Taler og artikler
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/statssekretar-gina-lund.html?id=583301" class="linklist" title='Om departementet - Anna politisk leiing - Statssekretær Gina Lund'>
+				            Statssekretær Gina Lund
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/statssekretar-gina-lund/bilder-av-gina-lund.html?id=583697" class="linklist" title='Om departementet - Anna politisk leiing - Statssekretær Gina Lund - Bilder av Gina Lund'>
+				            Bilder av Gina Lund
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/politisk-radgiver-jon-reidar-oyan.html?id=583178" class="linklist" title='Om departementet - Anna politisk leiing - Politisk rådgiver Jon Reidar Øyan'>
+				            Politisk rådgiver Jon Reidar Øyan
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/politisk_ledelse/politisk-radgiver-jon-reidar-oyan/bilder-av-jon-reidar-oyan.html?id=587107" class="linklist" title='Om departementet - Anna politisk leiing - Politisk rådgiver Jon Reidar Øyan - Bilder av Jon Reidar Øyan'>
+				            Bilder av Jon Reidar Øyan
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/Administrativ-leiing.html?id=188" class="linklist" title='Om departementet - Administrativ leiing'>
+				            Administrativ leiing
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/organisasjon.html?id=189" class="linklist" title='Om departementet - Organisasjon'>
+				            Organisasjon
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/organisasjon/avdelingar.html?id=192" class="linklist" title='Om departementet - Organisasjon - Avdelingar'>
+				            Avdelingar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/dep/org/historikk.html?id=193" class="linklist" title='Om departementet - Organisasjon - Historikk'>
+				            Historikk
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/Underliggjande-etatar.html?id=87141" class="linklist" title='Om departementet - Underliggjande etatar'>
+				            Underliggjande etatar
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/Tilknytta-verksemder.html?id=87142" class="linklist" title='Om departementet - Tilknytta verksemder'>
+				            Tilknytta verksemder
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/nemnder-rad-og-utval.html?id=443419" class="linklist" title='Om departementet - Nemnder, råd og utval'>
+				            Nemnder, råd og utval
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/ansvarsomrade.html?id=190" class="linklist" title='Om departementet - Ansvarsområde'>
+				            Ansvarsområde
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/kontakt.html?id=173" class="linklist" title='Om departementet - Kontakt'>
+				            Kontakt
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/om-departementetnn/kontakt/telefonliste.html?id=223079" class="linklist" title='Om departementet - Kontakt - Telefonliste'>
+				            Telefonliste
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/lyd-og-bilde.html?id=171" class="linklist" title='Lyd og bilete'>
+				            Lyd og bilete
+				        </a>
+				    </nobr>
+			
+				<ul>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/ad/lyd_bilde/video.html?id=546195" class="linklist" title='Lyd og bilete - Video'>
+				            Video
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</li>
+			
+				<li>
+			
+				<nobr>
+				    <a href="/nn/dep/aid/dokumentarkiv.html?id=426209" class="linklist" title='Dokumentarkiv'>
+				            Dokumentarkiv
+				        </a>
+				    </nobr>
+			
+				</li>
+			
+				</ul>
+			
+				</div>
+			
+	
+</div>
+  </div>
+</div>  
+
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/aid.html?id=165">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/aktuelt.html?id=166" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/tema.html?id=167" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/pressesenter.html?id=168" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/dokument.html?id=270365" title=''>
+            Dokument</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/om-departementetnn.html?id=170" title=''>
+            Om departementet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/lyd-og-bilde.html?id=171" title=''>
+            Lyd og bilete</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/aid/dokumentarkiv.html?id=426209" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="center">Arbeidsdepartementet, Einar Gerhardsens plass 3, Postboks 8019 Dep, 0030 Oslo&nbsp;<br />Telefon 22 24 90 90, faks 22 24 87 11. E-post: <img id='Eoi_1' class='obfimg' src='/images/emailimages/0b3b99a82b59cf00290a4ed88378dd02.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '6E500F41520100401E0B0A400A0F2E050F1A1A01031A1D011E504C0100401E0B0A400A0F2E050F1A1A01031A1D011E54011A02070F034C53080B1C064E0F52'));//--></script> <br />Nettredaktør: <a href="/dep/aid/om-departementetnn/organisasjon/avdelingar/Presse--og-kommunikasjonsseksjonen/guttorm-aanes.html?id=445775">Guttorm Aanes</a>, ansvarleg redaktør: <a title="Kristin Hetle" href="/dep/aid/om-departementetnn/organisasjon/avdelingar/Presse--og-kommunikasjonsseksjonen/kristin-hetle.html?id=509263">Kristin Hetle</a></p></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

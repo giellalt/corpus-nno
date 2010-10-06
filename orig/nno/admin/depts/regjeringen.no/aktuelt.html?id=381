@@ -1,0 +1,870 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Aktuelt - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Aktuelt" />
+<meta name="DCSext.regj.pagetype" content="Konfigurert Søk" />
+<meta name="DCSext.regj.pageid" content="381" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="fd" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Aktuelt" />
+<meta name="description" content="Ei liste over dei sist publiserte sakene fr&amp;#229; Forsvarsdepartementet" />
+<meta name="DC.Title" content="Aktuelt" />
+<meta name="DC.Creator" content="Forsvarsdepartementet" />
+<meta name="DC.Description" content="Ei liste over dei sist publiserte sakene fr&amp;#229; Forsvarsdepartementet" />
+<meta name="DC.Date" content="2006-11-13" />
+<meta name="DC.Date.Available" content="2006-11-13" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Konfigurert Søk" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/fd/aktuelt.html?id=381" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Forsvarsdepartementet" />
+<meta name="creation_date" content="Mon, 13 Nov 2006 09:49:00 GMT" />
+<meta name="LAST-MODIFIED" content="Mon, 13 Nov 2006 09:50:11 GMT" />
+<meta name="REVISED" content="Mon, 13 Nov 2006 09:50:11 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/fd.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/fd/aktuelt.html?id=381" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTU3MDM0MzI3D2QWAmYPZBYIZg8VAgJubgJubmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAWxDDxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJBa3R1ZWx0IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IktvbmZpZ3VyZXJ0IFMmIzI0ODtrIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIzODEiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0iZmQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iQWt0dWVsdCIgLz4NCjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJFaSBsaXN0ZSBvdmVyIGRlaSBzaXN0IHB1Ymxpc2VydGUgc2FrZW5lIGZyJmFtcDsjMjI5OyBGb3JzdmFyc2RlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iQWt0dWVsdCIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9IkZvcnN2YXJzZGVwYXJ0ZW1lbnRldCIgLz4NCjxtZXRhIG5hbWU9IkRDLkRlc2NyaXB0aW9uIiBjb250ZW50PSJFaSBsaXN0ZSBvdmVyIGRlaSBzaXN0IHB1Ymxpc2VydGUgc2FrZW5lIGZyJmFtcDsjMjI5OyBGb3JzdmFyc2RlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA2LTExLTEzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDYtMTEtMTMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iS29uZmlndXJlcnQgUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvbm4vZGVwL2ZkL2FrdHVlbHQuaHRtbD9pZD0zODEiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZS5QcmVmZXJlbmNlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IkRDLlB1Ymxpc2hlciIgY29udGVudD0icmVnamVyaW5nZW4ubm8iIC8+DQo8bWV0YSBuYW1lPSJBVVRIT1IiIGNvbnRlbnQ9IkZvcnN2YXJzZGVwYXJ0ZW1lbnRldCIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9Ik1vbiwgMTMgTm92IDIwMDYgMDk6NDk6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iTW9uLCAxMyBOb3YgMjAwNiAwOTo1MDoxMSBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJNb24sIDEzIE5vdiAyMDA2IDA5OjUwOjExIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0ibm4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAU0L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM4MSZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFL1NpZGEgYmxpciB2aXN0IHDDpSBueW5vcnNrLiAoYWt0aXZ0IHNwcsOla3ZhbGcpHwAFB055bm9yc2sfBAU3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM4MSZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwMFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBAU3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM4MSZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFKkNsaWNrIGhlcmUgdG8gZGlzcGxheSB0aGlzIHBhZ2UgaW4gZW5nbGlzaB8ABQdFbmdsaXNoHwQFNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zODEmZXBzbGFuZ3VhZ2U9ZW4tR0JkZAICDxUBASBkAgMPZBYMZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk9kAgEPFQEVRnJhbXNpZGEgdGlsIHBvcnRhbGVuZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9bm4tTk8ZUmVnamVyaW5nYSBTdG9sdGVuYmVyZyBJSTIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1ubi1OT2QCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzgwJmVwc2xhbmd1YWdlPW5uLU5PZAIEDxUBFUZvcnN2YXJzZGVwYXJ0ZW1lbnRldGQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBB5Tw7hrIGhvcyBGb3JzdmFyc2RlcGFydGVtZW50ZXQEU8O4axFRdWlja1NlYXJjaEJ1dHRvbgRTw7hrZAIDDw8WAh8ABRxTw7hrIHDDpSBoZWlsZSByZWdqZXJpbmdhLm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAnRodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9ubi9kZXAvZmQvYWt0dWVsdC5odG1sP2lkPTM4MSZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUJVGVtYSBBLcOFZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzNzk1JmVwc2xhbmd1YWdlPW5uLU5PHwAFDU5ldHRzdGFkc2thcnRkZAIMDw8WBB8EBTUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ4ODY0MSZlcHNsYW5ndWFnZT1ubi1OTx8ABQVIamVscGRkAg0PDxYEHwQFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zODgmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUHS29udGFrdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABRFNb3R0YWthcnMgZS1wb3N0OmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAgkPDxYCHwYFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAgsPDxYCHwAFC0RpbiBlLXBvc3Q6ZGQCDw8PFgIfBgUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCEQ8PFgIfBgUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCEw8PFgIfAAUITWVsZGluZzpkZAIXDw8WAh8ABQlTZW5kIHRpcHNkZAIDD2QWEAIBDxYCHwFoZAIDD2QWAmYPFgIfAAW9AUR1IGVyIGhlcjogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PIj5yZWdqZXJpbmdhLm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zODAmZXBzbGFuZ3VhZ2U9bm4tTk8iPkZvcnN2YXJzZGVwYXJ0ZW1lbnRldDwvYT4gLyA8c3Bhbj5Ba3R1ZWx0PC9zcGFuPmQCBA8VAQdBa3R1ZWx0ZAIFDxYCHwFoFgJmDxUBAGQCBg8VAVM8cD5EZXR0ZSBlciBlaSBsaXN0ZSBvdmVyIGRlaSBzaXN0IHB1Ymxpc2VydGUgc2FrZW5lIGZyw6UgRm9yc3ZhcnNkZXBhcnRlbWVudGV0PC9wPmQCBw9kFgICBg9kFgoCAQ9kFgQCAw8PFgIfAGVkZAIHDw8WAh8AZWRkAgMPZBYCAgEPZBYKAhEPDxYCHwYFTQ0KICAgICAgICAgICAgICAgICAgICAgICAgRS1wb3N0YWRyZXNzZSBtw6UgZnlsbGFzdCBpbm4NCiAgICAgICAgICAgICAgICAgICAgZGQCEw8PFgIfBgVBDQogICAgICAgICAgICAgICAgICAgICAgICBGZWlsIGUtcG9zdGZvcm1hdA0KICAgICAgICAgICAgICAgICAgICBkZAIVD2QWAgIDDxAPFgIeC18hRGF0YUJvdW5kZ2RkFgBkAhcPDxYCHwAFCEZvcnRzZXR0ZGQCGQ8PFgIfAAUGQXZicnl0ZGQCBA9kFgICAw8PFgIfAAUQVGlsYmFrZSB0aWwgc2lkYWRkAgUPZBYEAgcPDxYCHwAFEkF2c2x1dHQgYWJvbm5lbWVudGRkAgkPDxYCHwAFE0ZvcnRzZXR0IGFib25uZW1lbnRkZAIGD2QWAgIDDw8WAh8ABRBUaWxiYWtlIHRpbCBzaWRhZGQCCA8PFgIfAWhkFgRmDxYCHwFoZAICDxYCHwFoZAIJD2QWAgIDD2QWAmYPFgIeCl9zb3J0T3JkZXILKXNFUGlTZXJ2ZXIuRmlsdGVycy5GaWx0ZXJTb3J0T3JkZXIsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3ABYUZg9kFhACAQ8WBB4EaHJlZgU6L3RlbXBsYXRlcy9UYWxlb2dBcnRpa2tlbC5hc3B4P2lkPTYyMDI5OCZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYGHwVoHg5fYm91bmRQYWdlTGluawKK7iUeCV9sYXN0VHlwZQUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjovdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjIwMjk4JmVwc2xhbmd1YWdlPW5uLU5PABXDhSBzdMO4dHRlIGVyIMOlIGxlZGUBMgEzDGRpc3BsYXk6bm9uZQABMyc8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPlswNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBWgfCgKK7iUfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCiu4lHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHg1fbGFuZ3VhZ2VUZXh0BTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua190YWxlL2FydGlra2VsZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8MBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfdGFsZS9hcnRpa2tlbGRkAgsPZBYCZg8VAQBkAgEPZBYQAgEPFgQfCQU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NjAyJmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfCgLS6CUfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk2MDImZXBzbGFuZ3VhZ2U9bm4AGk1lciB0aWwgSGVpbWV2ZXJuZXQgaSAyMDExATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwoC0uglHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAtLoJR8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8MBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8MBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgIPZBYQAgEPFgQfCQU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NjI2JmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfCgLq6CUfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk2MjYmZXBzbGFuZ3VhZ2U9bm4APk5vcmdlcyBzdGVya2UgbWlsaXTDpnJlIGVuZ2FzamVtZW50IGkgQWZnaGFuaXN0YW4gdmlkZXJlZsO4cmVzATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwoC6uglHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAuroJR8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8MBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8MBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgMPZBYQAgEPFgQfCQU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NjI5JmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfCgLt6CUfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk2MjkmZXBzbGFuZ3VhZ2U9bm4AGE9wcGbDuGxnaW5nIGF2IHZldGVyYW5lcgEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8KAu3oJR8LBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfCgLt6CUfCwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwlkHwFoFgQCAQ8PFgIfDAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILD2QWAmYPFQEAZAIED2QWEAIBDxYEHwkFNi90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTYwNCZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwoC1OglHwsFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NjA0JmVwc2xhbmd1YWdlPW5uABtGb3J0c2V0dGVyIHNhdHNpbmdlbiBpIG5vcmQBMgEzDGRpc3BsYXk6bm9uZQABMyc8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPlswNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBWgfCgLU6CUfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoC1OglHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHwwFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8JZB8BaBYCAgEPDxYCHwwFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCBQ9kFhACAQ8WBB8JBTYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk1OTkmZXBzbGFuZ3VhZ2U9bm4fAWgWAgIBDw8WBh8FaB8KAs/oJR8LBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyNi90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTU5OSZlcHNsYW5ndWFnZT1ubgAVRW4gc2xhZ2tyYWZ0aWcgbWFyaW5lATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwoCz+glHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAs/oJR8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8MBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8MBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgYPZBYQAgEPFgQfCQU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5MDY5JmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfCgK95CUfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTkwNjkmZXBzbGFuZ3VhZ2U9bm4AJi0gRXQgZ29kdCwgbWVuIHN0cmFtdCBmb3JzdmFyc2J1ZHNqZXR0ATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwoCveQlHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAr3kJR8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8MBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8MBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgcPZBYQAgEPFgQfCQUuL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTYxOTU4NSZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwoCweglHwsFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATIuL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTYxOTU4NSZlcHNsYW5ndWFnZT1ubgAhQXZ0YWxlIG9tIHBlcnNvbmVsbCBpIHJpc2lrb3NvbmVyATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDQuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwoCweglHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAsHoJR8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8MBTIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19ueWhldGRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU2L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX255aGV0ZGQCCw9kFgJmDxUBAGQCCA9kFhACAQ8WBB8JBTovdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjE2MDk4JmVwc2xhbmd1YWdlPW5uLU5PHwFoFgICAQ8PFgYfBWgfCgKizSUfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjovdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjE2MDk4JmVwc2xhbmd1YWdlPW5uLU5PABdHcm92ZSBmZWlsIG9tIEZvcnN2YXJldAEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzAyLjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8KAqLNJR8LBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfCgKizSUfCwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwlkHwFoFgQCAQ8PFgIfDAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfdGFsZS9hcnRpa2tlbGRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3RhbGUvYXJ0aWtrZWxkZAILD2QWAmYPFQEAZAIJD2QWEAIBDxYEHwkFOi90ZW1wbGF0ZXMvVGFsZW9nQXJ0aWtrZWwuYXNweD9pZD02MTYzMDYmZXBzbGFuZ3VhZ2U9bm4tTk8fAWgWAgIBDw8WBh8FaB8KAvLOJR8LBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyOi90ZW1wbGF0ZXMvVGFsZW9nQXJ0aWtrZWwuYXNweD9pZD02MTYzMDYmZXBzbGFuZ3VhZ2U9bm4tTk8AMU5ldyBzZWN1cml0eSBjaGFsbGVuZ2VzIOKAkyBuZXcgc3RyYXRlZ2ljIGNvbmNlcHQBMgEzDGRpc3BsYXk6bm9uZQABMyc8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPlswMS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBWgfCgLyziUfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoC8s4lHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHwwFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3RhbGUvYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8JZB8BaBYCAgEPDxYCHwwFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua190YWxlL2FydGlra2VsZGQCCw9kFgJmDxUBAGQCBQ9kFgQCAQ9kFgICAQ9kFgJmDxYCHgVjbGFzcwUKRGVwUHJvZmlsZRYCZg8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzgwJmVwc2xhbmd1YWdlPW5uLU5PZAIHD2QWAgIBD2QWCgICDw8WAh8BaGQWAmYPZBYCAgEPFgQfCAsrBAgfAWhkAgQPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysECB8BaGQCBg8PFgIfAWhkFgJmD2QWAgIBDxYEHwgLKwQIHwFoZAIIDw8WAh8BaGQWAmYPZBYCAgEPFgIfAWhkAgoPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysEAx8BaGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zODAmZXBzbGFuZ3VhZ2U9bm4tTk8aRnJhbXNpZGEgdGlsIGRlcGFydGVtZW50ZXRkAgMPFgYeCV9QYWdlTGluaygpbkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3AzM4MB4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFjgCAQ9kFgJmDxUBCFNlbGVjdGVkZAICD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM4MSZlcHNsYW5ndWFnZT1ubi1OTwAHQWt0dWVsdGQCBA9kFgJmDxUBAGQCBQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zODkmZXBzbGFuZ3VhZ2U9bm4tTk8ACE55aGVpdGVyZAIHD2QWAmYPFQEAZAIID2QWAmYPFQMxL3RlbXBsYXRlcy9jYWxlbmRhci5hc3B4P2lkPTM5MCZlcHNsYW5ndWFnZT1ubi1OTwAIS2FsZW5kZXJkAgoPZBYCZg8VAQBkAgsPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MzkxJmVwc2xhbmd1YWdlPW5uLU5PABFUYWxlciBvZyBhcnRpa2xhcmQCDQ9kFgJmDxUBAGQCDg9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zOTImZXBzbGFuZ3VhZ2U9bm4tTk8AE1N2YXIgdGlsIFN0b3J0aW5nZXRkAhAPZBYCZg8VAQBkAhEPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjA1MDYzJmVwc2xhbmd1YWdlPW5uACdPZmZlbnRsaWcgZWxla3Ryb25pc2sgcG9zdGpvdXJuYWwgLSBPRVBkAhMPZBYCZg8VAQBkAhQPZBYCZg8VAz8vdGVtcGxhdGVzL1JTU0xlZGlnZVN0aWxsaW5nZXIuYXNweD9pZD00Njg2ODUmZXBzbGFuZ3VhZ2U9bm4tTk8AEUxlZGlnZSBzdGlsbGluZ2FyZAIWD2QWAmYPFQEAZAIXD2QWAmYPFQM3L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ3ODgzNiZlcHNsYW5ndWFnZT1ubi1OTwADUlNTZAIbD2QWAmYPFQEAZAIcD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9MzgyJmVwc2xhbmd1YWdlPW5uLU5PAARUZW1hZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM4MyZlcHNsYW5ndWFnZT1ubi1OTwAMUHJlc3Nlc2VudGVyZAIhD2QWAmYPFQEAZAIiD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTMxNDA5MSZlcHNsYW5ndWFnZT1ubi1OTwAIRG9rdW1lbnRkAiQPZBYCZg8VAQBkAiUPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Mzg1JmVwc2xhbmd1YWdlPW5uLU5PABBPbSBkZXBhcnRlbWVudGV0ZAInD2QWAmYPFQEAZAIoD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTM4NiZlcHNsYW5ndWFnZT1ubi1OTwANTHlkIG9nIGJpbGV0ZWQCKg9kFgJmDxUBAGQCKw9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00MzczNDcmZXBzbGFuZ3VhZ2U9bm4tTk8ADURva3VtZW50YXJraXZkAgUPZBYCAgEPZBYCZg8VAcwBPHAgYWxpZ249ImNlbnRlciI+Rm9yc3ZhcnNkZXBhcnRlbWVudGV0LCBHbGFjaXNnYXRhIDEuIFBvc3RhZHJlc3NlOiBQYi4gODEyNiBEZXAuLCBOLTAwMzIgT3NsbzxiciAvPkUtcG9zdDogPGEgaHJlZj0ibWFpbHRvOnBvc3Rtb3R0YWtAZmQuZGVwLm5vIj48Zm9udCBjb2xvcj0iIzAwMDBmZiI+Rm9yc3ZhcnNkZXBhcnRlbWVudGV0PC9mb250PjwvYT48L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgLBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZGZkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWZAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSREb2N1bWVudFJlbGF0aW9uc2hpcDIkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBVBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbA8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFkQFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JFN0YW5kYXJkR3JvdXBpbmdEb2N1bWVudENvbnRleHQxJEhvcmluZ3NGbHl0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFJlbGF0ZWRDb250YWN0MiRQYWdlTGlzdDEPD2ZkZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAWSAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkSG9yaW5nc05vdGF0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGS8TM7wTLMxtAKBq6xJvWaNtT1Jeg==" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/fd/aktuelt.html?id=381">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/fd/aktuelt.html?id=381">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/fd/Aigeguovdil.html?id=381">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/fd/whats-new.html?id=381">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/fd.html?id=380"><img class="ProfileLogo" src="/styles/Images/fd/fd_nn.gif" alt='Forsvarsdepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Forsvarsdepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/fd/aktuelt.html?id=381&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/fd/313795.html?id=313795">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/fd/om-departementet/kontakt.html?id=388">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/fd/aktuelt.html?id=381" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/fd/aktuelt.html?id=381', 'Aktuelt')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/fd/aktuelt.html?id=381&amp;description=Aktuelt' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Aktuelt','','http://www.regjeringen.no/nn/dep/fd/aktuelt.html?id=381',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                             
+    
+    
+
+    
+   <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
+    <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/fd.html?id=380">Forsvarsdepartementet</a> / <span>Aktuelt</span>
+</p>
+    <div class="documentTop">
+      <h1>Aktuelt</h1>
+      
+      <p>Dette er ei liste over dei sist publiserte sakene frå Forsvarsdepartementet</p>      
+      <div style="clear:both"></div>
+      
+    </div>
+   
+    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">  
+         
+         
+
+
+    <div class="documentPaging PagingTop">
+        <ul>
+                            
+    
+            <li>
+                
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl01_Span1" class="selected">1</span>                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl02_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=10&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">2</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl03_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">3</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl04_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=30&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">4</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl05_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=40&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">5</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl06_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=50&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">6</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl07_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=60&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">7</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl08_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=70&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">8</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl09_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=80&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">9</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl10_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=90&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">10</a>
+                                            
+            </li>
+    
+            <li id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl11_Li2" class="leftspace">
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlTop_TopPagingRepeater_ctl11_HyperLink3" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=10&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">Neste ></a>
+            </li>                        
+        </ul>
+        </div>
+                
+       
+        <div class="documentBody">                  
+            
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/aktuelt/Taler-og-artiklar/ministaren/taler-og-artikler-av-forsvarsminister-gr/2010/A-stotte-er-a-lede.html?id=620298" title="">
+                        Å støtte er å lede
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl00_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/Mer-til-Heimevernet-i-2011.html?id=619602" title="">
+                        Mer til Heimevernet i 2011
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår en bevilgning til Heimevernet på 1 049 millioner kroner i 2011. Forslaget innebærer en faktisk styrking av Heimevernets budsjett med 8 millioner kroner, og en solid opptrapping i øvingsvirksomheten.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/norges-sterke-militare-engasjement-i-afg.html?id=619626" title="">
+                        Norges sterke militære engasjement i Afghanistan videreføres
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>ISAF-operasjonen i Afghanistan vil også i 2011 være Norges viktigste internasjonale militære engasjement. Budsjettet for operasjoner i utlandet foreslås derfor styrket med 77 millioner kroner. Det totale budsjettet for utenlandsoperasjoner (kap. 1792) blir dermed på 1 187 millioner kroner.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/oppfolging-av-veteraner.html?id=619629" title="">
+                        Oppfølging av veteraner
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen viderefører arbeidet med å styrke veteranenes rettigheter og kår. – En handlingsplan legges frem i første halvår 2011. Handlingsplanen vil ha særlig fokus på økt forskning og tverrsektorielt samarbeid, sier forsvarsminister Grete Faremo.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/fortsetter-satsingen-i-nord.html?id=619604" title="">
+                        Fortsetter satsingen i nord
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Nye fartøyer og nytt materiell gir økt kapasitet og aktivitet i Forsvaret i 2011, spesielt i nord. – Dette er en del av regjeringens satsning på nordområdene, sier forsvarsminister Grete Faremo.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/en-slagkraftig-marine.html?id=619599" title="">
+                        En slagkraftig marine
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen fortsetter satsningen på Bergen som forsvarsby. I løpet av 2011 vil alle fartøyene i Fridtjof Nansen-klassen og Skjold-klassen være på plass, og dermed vil Norge få en av Europas mest moderne mariner.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl05_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/pressesenter/pressemeldinger/2010/--et-godt-men-stramt-forsvarsbudsjett.html?id=619069" title="">
+                        - Et godt, men stramt forsvarsbudsjett
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår en fortsatt satsing på Forsvaret i 2011 - med et forsvarsbudsjett på 39 249 millioner kroner. Økt aktivitet, nytt materiell og nordområdene prioriteres.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl06_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/aktuelt/nyheter/2010/avtale-om-personell-i-risikosoner.html?id=619585" title="">
+                        Avtale om personell i risikosoner
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[04.10.2010]</p>
+                <p>Utenriksminister Jonas Gahr Støre og forsvarsminister Grete Faremo signerte i dag en avtale om Forsvarets utdanning og psykososial oppfølging av UD-personell i krise- og konfliktområder.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl07_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/aktuelt/Taler-og-artiklar/ministaren/taler-og-artikler-av-forsvarsminister-gr/2010/grove-feil-om-forsvaret.html?id=616098" title="">
+                        Grove feil om Forsvaret
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[02.10.2010]</p>
+                <p>Aftenposten tegner på kommentarplass 30. september et grovt misvisende bilde av status i forsvarssektoren. </p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl08_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/aktuelt/Taler-og-artiklar/ministaren/taler-og-artikler-av-forsvarsminister-gr/2010/new-security-challenges--new-strategic-c.html?id=616306" title="">
+                        New security challenges – new strategic concept
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[01.10.2010]</p>
+                <p>- The financial crisis [...] will affect the assumptions on which NATO’s new Strategic Concept is being based, says Minister of Defence Grete Faremo.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl09_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+ 
+           
+        </div>  
+       
+         
+
+
+    <div class="documentPaging PagingBtm">
+        <ul>
+                            
+    
+            <li>
+                
+                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl01_Span1" class="selected">1</span>                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl02_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=10&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">2</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl03_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">3</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl04_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=30&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">4</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl05_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=40&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">5</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl06_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=50&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">6</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl07_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=60&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">7</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl08_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=70&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">8</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl09_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=80&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">9</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl10_HyperLink2" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=90&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">10</a>
+                                            
+            </li>
+    
+            <li id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl11_Li2" class="leftspace">
+                <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_PagingControlBottom_TopPagingRepeater_ctl11_HyperLink3" href="/nn/dep/fd/aktuelt.html?querystring=&amp;offset=10&amp;sortby=dcdate&amp;filters=%2bdctypename,Anbud,Arbeidsnotat,Brev,Brev+til+Stortinget,Brosjyre/Veiledning,Forskrift,H%c3%b8ringsdokument,Kalenderhendelse,Kampanje,Kongelig+resolusjon,Konsesjon,MediaObjekt,NOU,Nyhet,Nyhetsbrev,Odelstingsmelding,Odelstingsproposisjon,Plan,Pressemelding,Prinsipputtalelse/fortolkning,Rapport,Reglement,Retningslinjer,Rundskriv,Sp%c3%b8rretimesp%c3%b8rsm%c3%a5l+og+svar,Stortingsmelding,Stortingsproposisjon,Svar+p%c3%a5+budsjett+sp%c3%b8rsm%c3%a5l,Tale/artikkel,Tidsskrift,Videoside,Ytring,!Konfigurert+S%c3%b8k,,%2bdcownername,380,,%2bshowforlanguages,nn,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=10&amp;lang=nn&amp;solution=cust&amp;searchview=governmentnnsppublished&amp;id=381">Neste ></a>
+            </li>                        
+        </ul>
+        </div>
+        
+         
+    </div>  
+	<div class="printContact">
+		
+	</div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/fd.html?id=380'><img src="/Upload/FD/Profilelementer/Faremo_innsettelsen_Temaprofilbilde-Nyheter_FMS.jpg" alt="" /></a></div>
+                                        
+                                        
+    
+    
+
+                                        
+                                        
+    
+
+     
+     
+    
+    
+     
+        
+                                        
+                                                                        
+                                        
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/fd.html?id=380">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="Selected">
+        <a class="Selected ISI_MENU" href="/nn/dep/fd/aktuelt.html?id=381" title=''>
+            Aktuelt</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Nyheiter.html?id=389" title=''>
+            Nyheiter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Kalender.html?id=390" title=''>
+            Kalender</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Taler-og-artiklar.html?id=391" title=''>
+            Taler og artiklar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Svar-til-Stortinget.html?id=392" title=''>
+            Svar til Stortinget</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Offentlig-elektronisk-postjournal---OEP.html?id=605063" title=''>
+            Offentlig elektronisk postjournal - OEP</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/Ledige-stillingar.html?id=468685" title=''>
+            Ledige stillingar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/aktuelt/RSS.html?id=478836" title=''>
+            RSS</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/Tema.html?id=382" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/pressesenter.html?id=383" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/dokument.html?id=314091" title=''>
+            Dokument</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/om-departementet.html?id=385" title=''>
+            Om departementet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/Lyd-og-bilete.html?id=386" title=''>
+            Lyd og bilete</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fd/Dokumentarkiv.html?id=437347" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="center">Forsvarsdepartementet, Glacisgata 1. Postadresse: Pb. 8126 Dep., N-0032 Oslo<br />E-post: <img id='Eoi_1' class='obfimg' src='/images/emailimages/7d9992a18f1394ae97d9e684fa08aba0.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '0F316E2033317B61606920337B6A7B616A626A7B7D6E7F6A6B7C7D6E797C7D6049312D69693F3F3F3F2C2D327D6063606C2F7B61606933312D6061217F6A6B216B694F646E7B7B60627B7C607F35607B63666E622D32696A7D672F6E33'));//--></script></p></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

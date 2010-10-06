@@ -1,0 +1,983 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Justis- og politidepartementet - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Justis- og politidepartementet" />
+<meta name="DCSext.regj.pagetype" content="Departement" />
+<meta name="DCSext.regj.pageid" content="463" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="jd" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Justis- og politidepartementet" />
+<meta name="description" content="
+- Vi skal f&amp;#248;rebyggje betre, reagere raskare, oppklare meir og rehabilitere betre, seier justisministeren." />
+<meta name="KEYWORDS" content="Europeisk justissamarbeid" />
+<meta name="DC.Title" content="Justis- og politidepartementet" />
+<meta name="DC.Creator" content="Justis- og politidepartementet" />
+<meta name="DC.Subject" content="Europeisk justissamarbeid" />
+<meta name="DC.Description" content="
+- Vi skal f&amp;#248;rebyggje betre, reagere raskare, oppklare meir og rehabilitere betre, seier justisministeren." />
+<meta name="DC.Date" content="2006-11-13" />
+<meta name="DC.Date.Available" content="2006-11-13" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Departement" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/jd.html?id=463" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Justis- og politidepartementet" />
+<meta name="creation_date" content="Mon, 13 Nov 2006 15:48:00 GMT" />
+<meta name="LAST-MODIFIED" content="Mon, 13 Nov 2006 15:48:35 GMT" />
+<meta name="REVISED" content="Mon, 13 Nov 2006 15:48:35 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/jd.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/jd.html?id=463" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTEwNTQxNjA3D2QWAmYPZBYIZg8VAgJubgJubmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAW+DjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJKdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdldHlwZSIgY29udGVudD0iRGVwYXJ0ZW1lbnQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9IjQ2MyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJqZCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJKdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iDQotIFZpIHNrYWwgZiZhbXA7IzI0ODtyZWJ5Z2dqZSBiZXRyZSwgcmVhZ2VyZSByYXNrYXJlLCBvcHBrbGFyZSBtZWlyIG9nIHJlaGFiaWxpdGVyZSBiZXRyZSwgc2VpZXIganVzdGlzbWluaXN0ZXJlbi4iIC8+DQo8bWV0YSBuYW1lPSJLRVlXT1JEUyIgY29udGVudD0iRXVyb3BlaXNrIGp1c3Rpc3NhbWFyYmVpZCIgLz4NCjxtZXRhIG5hbWU9IkRDLlRpdGxlIiBjb250ZW50PSJKdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJKdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5TdWJqZWN0IiBjb250ZW50PSJFdXJvcGVpc2sganVzdGlzc2FtYXJiZWlkIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9Ig0KLSBWaSBza2FsIGYmYW1wOyMyNDg7cmVieWdnamUgYmV0cmUsIHJlYWdlcmUgcmFza2FyZSwgb3Bwa2xhcmUgbWVpciBvZyByZWhhYmlsaXRlcmUgYmV0cmUsIHNlaWVyIGp1c3Rpc21pbmlzdGVyZW4uIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZSIgY29udGVudD0iMjAwNi0xMS0xMyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUuQXZhaWxhYmxlIiBjb250ZW50PSIyMDA2LTExLTEzIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZS5TdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUiIGNvbnRlbnQ9IkRlcGFydGVtZW50IiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL25uL2RlcC9qZC5odG1sP2lkPTQ2MyIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iSnVzdGlzLSBvZyBwb2xpdGlkZXBhcnRlbWVudGV0IiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iTW9uLCAxMyBOb3YgMjAwNiAxNTo0ODowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJNb24sIDEzIE5vdiAyMDA2IDE1OjQ4OjM1IEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9Ik1vbiwgMTMgTm92IDIwMDYgMTU6NDg6MzUgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJubiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxAWAh4GYWN0aW9uBRYvbm4vZGVwL2pkLmh0bWw/aWQ9NDYzZBYKAgEPZBYGAgIPFQERI3F1aWNrc2VhcmNoaW5wdXRkAgsPZBYCZg8VAWkjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9SaWdodFJlZ2lvbl9SaWdodFJlZ2lvbkNvbnRhY3RJbmZvX1JlbGF0ZWRDb250YWN0MV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBTEvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfBAUvU2lkYSBibGlyIHZpc3QgcMOlIG55bm9yc2suIChha3RpdnQgc3Byw6VrdmFsZykfAAUHTnlub3Jzax8FBTQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5uLU5PZGQCAg8PFgYfBAU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8FBTQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfBAUqQ2xpY2sgaGVyZSB0byBkaXNwbGF5IHRoaXMgcGFnZSBpbiBlbmdsaXNoHwAFB0VuZ2xpc2gfBQU0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQ2MyZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAQ8VARVGcmFtc2lkYSB0aWwgcG9ydGFsZW5kAgIPZBYGZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk9kAgIPFQM6L3RlbXBsYXRlcy9HZW5lcmVsbEZvcnNpZGUuYXNweD9pZD04NTg0MyZlcHNsYW5ndWFnZT1ubi1OTxlSZWdqZXJpbmdhIFN0b2x0ZW5iZXJnIElJMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9OTMzJmVwc2xhbmd1YWdlPW5uLU5PZAIFD2QWAmYPZBYCZg8WAh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcDOTMzFiQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04NzUmZXBzbGFuZ3VhZ2U9bm4tTk8XU3RhdHNtaW5pc3RlcmVucyBrb250b3JkAgIPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MTY1JmVwc2xhbmd1YWdlPW5uLU5PFEFyYmVpZHNkZXBhcnRlbWVudGV0ZAIDD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTI5OCZlcHNsYW5ndWFnZT1ubi1OTzNCYXJuZS0sIGxpa2VzdGlsbGluZ3MtIG9nIGlua2x1ZGVyaW5nc2RlcGFydGVtZW50ZXRkAgQPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPW5uLU5PE0ZpbmFuc2RlcGFydGVtZW50ZXRkAgUPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjU3JmVwc2xhbmd1YWdlPW5uLU5PHUZpc2tlcmktIG9nIGt5c3RkZXBhcnRlbWVudGV0ZAIGD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTMzOSZlcHNsYW5ndWFnZT1ubi1OTzNGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXRkAgcPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzgwJmVwc2xhbmd1YWdlPW5uLU5PFUZvcnN2YXJzZGVwYXJ0ZW1lbnRldGQCCA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD00MjEmZXBzbGFuZ3VhZ2U9bm4tTk8eSGVsc2UtIG9nIG9tc29yZ3NkZXBhcnRlbWVudGV0ZAIJD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQ2MyZlcHNsYW5ndWFnZT1ubi1OTx5KdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXRkAgoPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTA0JmVwc2xhbmd1YWdlPW5uLU5PIktvbW11bmFsLSBvZyByZWdpb25hbGRlcGFydGVtZW50ZXRkAgsPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTQ1JmVwc2xhbmd1YWdlPW5uLU5PE0t1bHR1cmRlcGFydGVtZW50ZXRkAgwPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTg2JmVwc2xhbmd1YWdlPW5uLU5PFkt1bm5za2Fwc2RlcGFydGVtZW50ZXRkAg0PZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjI3JmVwc2xhbmd1YWdlPW5uLU5PHkxhbmRicnVrcy0gb2cgbWF0ZGVwYXJ0ZW1lbnRldGQCDg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD02NjgmZXBzbGFuZ3VhZ2U9bm4tTk8XTWlsasO4dmVybmRlcGFydGVtZW50ZXRkAg8PZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NzA5JmVwc2xhbmd1YWdlPW5uLU5PIU7DpnJpbmdzLSBvZyBoYW5kZWxzZGVwYXJ0ZW1lbnRldGQCEA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03NTAmZXBzbGFuZ3VhZ2U9bm4tTk8cT2xqZS0gb2cgZW5lcmdpZGVwYXJ0ZW1lbnRldGQCEQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03OTEmZXBzbGFuZ3VhZ2U9bm4tTk8YU2FtZmVyZHNlbHNkZXBhcnRlbWVudGV0ZAISD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTgzMyZlcHNsYW5ndWFnZT1ubi1OTxVVdGFucmlrc2RlcGFydGVtZW50ZXRkAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQ2MyZlcHNsYW5ndWFnZT1ubi1OT2QCBA8VAR5KdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXRkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQnU8O4ayBob3MgSnVzdGlzLSBvZyBwb2xpdGlkZXBhcnRlbWVudGV0BFPDuGsRUXVpY2tTZWFyY2hCdXR0b24EU8O4a2QCAw8PFgIfAAUcU8O4ayBww6UgaGVpbGUgcmVnamVyaW5nYS5ub2RkAgEPDxYCHgtfaXNFZGl0YWJsZWhkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQJsaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vbm4vZGVwL2pkLmh0bWw/aWQ9NDYzJmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwUFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1ubi1OTx8ABQlUZW1hIEEtw4VkZAILD2QWAgIBDw8WBB8FBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0zMTM4MjUmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUNTmV0dHN0YWRza2FydGRkAgwPDxYEHwUFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPW5uLU5PHwAFBUhqZWxwZGQCDQ8PFgQfBQU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ3MSZlcHNsYW5ndWFnZT1ubi1OTx8ABQdLb250YWt0ZGQCBA9kFgQCAQ9kFgYCAQ9kFgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYQAgMPDxYCHwAFEU1vdHRha2FycyBlLXBvc3Q6ZGQCBw8PFgIeDEVycm9yTWVzc2FnZQUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCQ8PFgIfCAUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCw8PFgIfAAULRGluIGUtcG9zdDpkZAIPDw8WAh8IBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAIRDw8WAh8IBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAITDw8WAh8ABQhNZWxkaW5nOmRkAhcPDxYCHwAFCVNlbmQgdGlwc2RkAgMPZBYWAgMPFgYeGkV4cG9ydFNlbnNpdGl2ZURhdGFXYXJuaW5nZR4UQ2xvc2VQcm92aWRlcldhcm5pbmdlHg1EZWxldGVXYXJuaW5nZRYGBQt3cDk0ODc4MjAxNA9kFgJmD2QWAgIBD2QWAmYPFgIeCl9zb3J0T3JkZXILKXNFUGlTZXJ2ZXIuRmlsdGVycy5GaWx0ZXJTb3J0T3JkZXIsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3ABYUZg9kFhACAQ8WBB4EaHJlZgU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NzM4JmVwc2xhbmd1YWdlPW5uLU5PHwFoFgICAQ8PFgYfB2geDl9ib3VuZFBhZ2VMaW5rAtrpJR4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczOCZlcHNsYW5ndWFnZT1ubi1OTwA5U3RhdmVybjogUmVrb3Jkb3BwdGFrZXQgcMOlIFBvbGl0aWjDuGdza29sZW4gdmlkZXJlZsO4cmVzATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwdoHw4C2uklHw8FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8OAtrpJR8PBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDWQfAWgWBAIBDw8WAh4NX2xhbmd1YWdlVGV4dAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAIBD2QWEAIBDxYEHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczOSZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYGHwdoHw4C2+klHw8FB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NzM5JmVwc2xhbmd1YWdlPW5uLU5PAClOeSB2ZXJnZW3DpWxzbG92IHN0eXJrZXIgcmV0dHNzaWtrZXJoZXRlbgEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8HaB8OAtvpJR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfDgLb6SUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAICD2QWEAIBDxYCHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTc0MiZlcHNsYW5ndWFnZT1ubi1OTxYCAgEPDxYGHwdoHw4C3uklHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIeCGRpc2FibGVkZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTc0MiZlcHNsYW5ndWFnZT1ubi1OTwAZTnllIEd1bGF0aW5nIGxhZ21hbm5zcmV0dAEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8HaB8OAt7pJR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfDgLe6SUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAIDD2QWEAIBDxYCHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTcyOSZlcHNsYW5ndWFnZT1ubi1OTxYCAgEPDxYGHwdoHw4C0eklHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEWRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MjkmZXBzbGFuZ3VhZ2U9bm4tTk8AJlNhdHNhciBww6Uga3JpbWluYWxvbXNvcmdhIGkgSG9yZGFsYW5kATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwdoHw4C0eklHw8FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8OAtHpJR8PBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDWQfAWgWBAIBDw8WAh8QBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDWQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPDxYCHwFoZBYCZg8VAQBkAgQPZBYQAgEPFgIfDQU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NzMwJmVwc2xhbmd1YWdlPW5uLU5PFgICAQ8PFgYfB2gfDgLS6SUfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczMCZlcHNsYW5ndWFnZT1ubi1OTwAkTnl0dCBha3Rpdml0ZXRzYnlnZyB2ZWQgT3NsbyBmZW5nc2VsATIBMwxkaXNwbGF5Om5vbmUAATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwdoHw4C0uklHw8FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8OAtLpJR8PBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDWQfAWgWBAIBDw8WAh8QBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDWQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPDxYCHwFoZBYCZg8VAQBkAgUPZBYQAgEPFgIfDQU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NzMxJmVwc2xhbmd1YWdlPW5uLU5PFgICAQ8PFgYfB2gfDgLT6SUfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczMSZlcHNsYW5ndWFnZT1ubi1OTwAWSHVzdGFkIGZlbmdzZWwgdXR2aWRlcwEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8HaB8OAtPpJR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfDgLT6SUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAIGD2QWEAIBDxYCHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczMiZlcHNsYW5ndWFnZT1ubi1OTxYCAgEPDxYGHwdoHw4C1OklHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEWRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MzImZXBzbGFuZ3VhZ2U9bm4tTk8AK1V0ZGFubmVyIGZsZXJlIGZlbmdzZWxzYmV0amVudGVyIGkgUm9nYWxhbmQBMgEzDGRpc3BsYXk6bm9uZQABMyc8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPlswNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfB2gfDgLU6SUfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwdoHw4C1OklHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHxAFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8NZB8BaBYCAgEPDxYCHxAFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw8PFgIfAWhkFgJmDxUBAGQCBw9kFhACAQ8WAh8NBTkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MzMmZXBzbGFuZ3VhZ2U9bm4tTk8WAgIBDw8WBh8HaB8OAtXpJR8PBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxFkZAICDxULEUFydGljbGVJbWdDb250ZW50ATI5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjE5NzMzJmVwc2xhbmd1YWdlPW5uLU5PACZSdXNtZXN0cmluZ3NlbmhldCB0aWwgVGVsZW1hcmsgZmVuZ3NlbAEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8HaB8OAtXpJR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfDgLV6SUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAIID2QWEAIBDxYCHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczNSZlcHNsYW5ndWFnZT1ubi1OTxYCAgEPDxYGHwdoHw4C1+klHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEWRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MzUmZXBzbGFuZ3VhZ2U9bm4tTk8AKlN0eXJraW5nIGF2IFNwZXNpYWxlaW5pbmdhIGZvciBwb2xpdGlzYWtlcgEyATMMZGlzcGxheTpub25lAAEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8HaB8OAtfpJR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfDgLX6SUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILDw8WAh8BaGQWAmYPFQEAZAIJD2QWEAIBDxYCHw0FOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxOTczNiZlcHNsYW5ndWFnZT1ubi1OTxYCAgEPDxYGHwdoHw4C2OklHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEWRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MzYmZXBzbGFuZ3VhZ2U9bm4tTk8APUtvbmdzdmluZ2VyOiBSZWtvcmRvcHB0YWtldCBww6UgUG9saXRpaMO4Z3Nrb2xlbiB2aWRlcmVmw7hyZXMBMgEzDGRpc3BsYXk6bm9uZQABMyc8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPlswNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfB2gfDgLY6SUfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwdoHw4C2OklHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHxAFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8NZB8BaBYCAgEPDxYCHxAFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw8PFgIfAWhkFgJmDxUBAGQFDHdwMTI3OTIxNTgyNw9kFgJmD2QWBgICDxUCNC9ubi9kZXAvamQvcHJlc3Nlc2VudGVyL2pkLXBhLXR3aXR0ZXIuaHRtbD9pZD01NTIwODI9PGEgaHJlZj0iaHR0cDovL3d3dy50d2l0dGVyLmNvbS9KdXN0aXNkZXAiPkpEIHDDpSBUd2l0dGVyPC9hPmQCBA8VAjQvbm4vZGVwL2pkL3ByZXNzZXNlbnRlci9qZC1wYS10d2l0dGVyLmh0bWw/aWQ9NTUyMDgyCExlcyBtZWlyZAIFDxUCNC9ubi9kZXAvamQvcHJlc3Nlc2VudGVyL2pkLXBhLXR3aXR0ZXIuaHRtbD9pZD01NTIwODI9PGEgaHJlZj0iaHR0cDovL3d3dy50d2l0dGVyLmNvbS9KdXN0aXNkZXAiPkpEIHDDpSBUd2l0dGVyPC9hPmQFC3dwNTQ1NTAyNjk4D2QWAmYPZBYGAgIPFQIzL25uL2RlcC9qZC9wcmVzc2VzZW50ZXIvamQtcGEtZmxpY2tyLmh0bWw/aWQ9NTgzODYxRTxhIGhyZWY9Imh0dHA6Ly93d3cuZmxpY2tyLmNvbS9KdXN0aXNkZXBhcnRlbWVudGV0Ij5KRCBww6UgRmxpY2tyPC9hPmQCBA8VAjMvbm4vZGVwL2pkL3ByZXNzZXNlbnRlci9qZC1wYS1mbGlja3IuaHRtbD9pZD01ODM4NjEITGVzIG1laXJkAgUPFQIzL25uL2RlcC9qZC9wcmVzc2VzZW50ZXIvamQtcGEtZmxpY2tyLmh0bWw/aWQ9NTgzODYxRTxhIGhyZWY9Imh0dHA6Ly93d3cuZmxpY2tyLmNvbS9KdXN0aXNkZXBhcnRlbWVudGV0Ij5KRCBww6UgRmxpY2tyPC9hPmQCBQ9kFgRmDw8WAh8BZ2QWBgICDxUEcw0KPHA+LSBWaSBza2FsIGbDuHJlYnlnZ2plIGJldHJlLCByZWFnZXJlIHJhc2thcmUsIG9wcGtsYXJlIG1laXIgb2cgcmVoYWJpbGl0ZXJlIGJldHJlLCBzZWllciBqdXN0aXNtaW5pc3RlcmVuLjwvcD4OSnVzdGlzbWluaXN0ZXIFS251dCAKU3RvcmJlcmdldGQCAw8WAh4JX3BhZ2VMaW5rKCsEBDE0MzUWCGYPZBYCAgEPDxYEHwAFCEthbGVuZGVyHwUFMy90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD04Njc0NCZlcHNsYW5ndWFnZT1ubi1OT2RkAgEPZBYCAgEPDxYEHwAFCkJpbGV0YXJraXYfBQVAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTMzMTk0NyZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPZBYCAgEPDxYEHwAFEVRhbGVyIG9nIGFydGlrbGFyHwUFOi90ZW1wbGF0ZXMvUmVsYXNqb25zbGlzdGUuYXNweD9pZD00MzY1NDEmZXBzbGFuZ3VhZ2U9bm4tTk9kZAIDD2QWAgIBDw8WBB8ABQdQb2RrYXN0HwUFNC90ZW1wbGF0ZXMvUlNTT3ZlcnNpa3QuYXNweD9pZD00OTE0NzMmZXBzbGFuZ3VhZ2U9bm5kZAIEDxUCPy90ZW1wbGF0ZXMvUGVyc29uUG9saXRpc2tMZWRlbHNlLmFzcHg/aWQ9MTQzNSZlcHNsYW5ndWFnZT1ubi1OTxJNZWlyIG9tIG1pbmlzdGVyZW5kAgQPDxYGHwdoHw8FB0RlZmF1bHQfAWhkZAIHDzwrABIEBBYEHwAFBkRlbGV0ZR4LRGVzY3JpcHRpb24FDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0HxMFCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfEwUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8TBQ1SZXN0b3JlICd7MH0nZAIJD2QWAmYPFgIfDAsrBQBkAgsPPCsAEgQEFgQfAAUGRGVsZXRlHxMFDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0HxMFCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfEwUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8TBQ1SZXN0b3JlICd7MH0nZAIPD2QWAmYPFQEeSnVzdGlzLSBvZyBwb2xpdGlkZXBhcnRlbWVudGV0ZAIRDxYCHw0FG21haWx0bzpwb3N0bW90dGFrQGpkLmRlcC5ub2QCEg8VAR5KdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXRkAhMPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ5MDkwIj4yMiAyNCA5MCA5MDwvYT5kAhUPFgIfAWgWBGYPFgIfAWhkAgEPFgIfAWgWAmYPFQEAZAIZDw8WBB8HaB8PBQdEZWZhdWx0ZGQCBQ9kFgYCAQ9kFgICAQ9kFgJmDxYCHgVjbGFzcwUKRGVwUHJvZmlsZRYCZg8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5uLU5PZAIJD2QWAgIBDzwrABIEBBYEHwAFBkRlbGV0ZR8TBQxEZWxldGUgJ3swfScFFgQfAAUERWRpdB8TBQpFZGl0ICd7MH0nBxYEHwAFCE1pbmltaXplHxMFDk1pbmltaXplICd7MH0nCBYEHwAFB1Jlc3RvcmUfEwUNUmVzdG9yZSAnezB9J2QCDQ9kFgwCAw9kFgJmDxUBHkp1c3Rpcy0gb2cgcG9saXRpZGVwYXJ0ZW1lbnRldGQCBQ8WAh8NBRttYWlsdG86cG9zdG1vdHRha0BqZC5kZXAubm9kAgYPFQEeSnVzdGlzLSBvZyBwb2xpdGlkZXBhcnRlbWVudGV0ZAIHD2QWAgIBD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0OTA5MCI+MjIgMjQgOTAgOTA8L2E+ZAIJDxYCHwFoFgRmDxYCHwFoZAIBDxYCHwFoFgJmDxUBAGQCDQ8PFgQfB2gfDwUHRGVmYXVsdGRkAgMPZBYCAgEPZBYEAgEPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5uLU5PGkZyYW1zaWRhIHRpbCBkZXBhcnRlbWVudGV0ZAIDDxYGHwYoKwQDNDYzHg9fTnVtYmVyT2ZMZXZlbHMCAh4KX0V4cGFuZEFsbGcWyAECAQ9kFgJmDxUBAGQCAg9kFgJmDxUEADcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NDY0JmVwc2xhbmd1YWdlPW5uLU5PAAdBa3R1ZWx0ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQQANy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD00NzImZXBzbGFuZ3VhZ2U9bm4tTk8ACE55aGVpdGVyZAIHD2QWAmYPFQEAZAIID2QWAmYPFQQANy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD00NzQmZXBzbGFuZ3VhZ2U9bm4tTk8AEVRhbGVyIG9nIGFydGlrbGFyZAIKD2QWAmYPFQEAZAILD2QWAmYPFQQANy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD00NzUmZXBzbGFuZ3VhZ2U9bm4tTk8AE1N2YXIgdGlsIFN0b3J0aW5nZXRkAg0PZBYCZg8VAQBkAg4PZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTYwNTAzNyZlcHNsYW5ndWFnZT1ubgAhT2ZmZW50bGlnIGVsZWt0cm9uaXNrIHBvc3Rqb3VybmFsZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQQAPy90ZW1wbGF0ZXMvUlNTTGVkaWdlU3RpbGxpbmdlci5hc3B4P2lkPTQ2ODY4NyZlcHNsYW5ndWFnZT1ubi1OTwARTGVkaWdlIHN0aWxsaW5nYXJkAhMPZBYCZg8VAQBkAhQPZBYCZg8VBAA3L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ3ODg4OCZlcHNsYW5ndWFnZT1ubi1OTwADUlNTZAIYD2QWAmYPFQEAZAIZD2QWAmYPFQQAPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTQ2NSZlcHNsYW5ndWFnZT1ubi1OTwAEVGVtYWQCGw9kFgJmDxUBAGQCHA9kFgJmDxUEACsvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTM0JmVwc2xhbmd1YWdlPW5uACJJbm52YW5kcmluZ3MtIG9nIGZseWt0bmluZ3BvbGl0aWtrZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQQALS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTU1MTk3NyZlcHNsYW5ndWFnZT1ubgADQXJ2ZAIhD2QWAmYPFQEAZAIiD2QWAmYPFQQALi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTEyNTUmZXBzbGFuZ3VhZ2U9bm4tTk8ACkRvbXN0b2xhbmVkAiQPZBYCZg8VAQBkAiUPZBYCZg8VBAAuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE3NyZlcHNsYW5ndWFnZT1ubi1OTwAeSW50ZXJuYXNqb25hbHQganVzdGlzc2FtYXJiZWlkZAInD2QWAmYPFQEAZAIoD2QWAmYPFQQALy90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTg3MDc4JmVwc2xhbmd1YWdlPW5uLU5PAB5KdXJpc2Rpa3Nqb24gb3ZlciBwb2xhcm9tcsOlZGFkAioPZBYCZg8VAQBkAisPZBYCZg8VBAAuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTI2NiZlcHNsYW5ndWFnZT1ubi1OTwAZS29ycnVwc2pvbiBvZyBrdml0dmFza2luZ2QCLQ9kFgJmDxUBAGQCLg9kFgJmDxUEAC4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMjU3JmVwc2xhbmd1YWdlPW5uLU5PABhLcmltaW5hbGl0ZXRzbW90a2plbXBpbmdkAjAPZBYCZg8VAQBkAjEPZBYCZg8VBAAuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTI2MCZlcHNsYW5ndWFnZT1ubi1OTwAOS3JpbWluYWxvbXNvcmdkAjMPZBYCZg8VAQBkAjQPZBYCZg8VBAAuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTI1NiZlcHNsYW5ndWFnZT1ubi1OTwAJTG92YXJiZWlkZAI2D2QWAmYPFQEAZAI3D2QWAmYPFQQALy90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTg3MDc1JmVwc2xhbmd1YWdlPW5uLU5PAB9TYW1mdW5uc3Npa2tlcmhlaXQgb2cgYmVyZWRza2FwZAI5D2QWAmYPFQEAZAI6D2QWAmYPFQQALi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTExMDUmZXBzbGFuZ3VhZ2U9bm4tTk8AE1NpdmlsZSByZXR0c2ZvcmhvbGRkAj4PZBYCZg8VAQBkAj8PZBYCZg8VBAA3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTQ2NiZlcHNsYW5ndWFnZT1ubi1OTwAMUHJlc3Nlc2VudGVyZAJBD2QWAmYPFQEAZAJCD2QWAmYPFQQANy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD00ODImZXBzbGFuZ3VhZ2U9bm4tTk8AD1ByZXNzZW1lbGRpbmdhcmQCRA9kFgJmDxUBAGQCRQ9kFgJmDxUEADEvdGVtcGxhdGVzL2NhbGVuZGFyLmFzcHg/aWQ9NDgzJmVwc2xhbmd1YWdlPW5uLU5PAAhLYWxlbmRlcmQCRw9kFgJmDxUBAGQCSA9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjA1MDM3JmVwc2xhbmd1YWdlPW5uACFPZmZlbnRsaWcgZWxla3Ryb25pc2sgcG9zdGpvdXJuYWxkAkoPZBYCZg8VAQBkAksPZBYCZg8VBAA3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTQ5MiZlcHNsYW5ndWFnZT1ubi1OTwAKQmlsZXRhcmtpdmQCTQ9kFgJmDxUBAGQCTg9kFgJmDxUEADcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NTAxNzIyJmVwc2xhbmd1YWdlPW5uAAhGYWt0YWFya2QCUg9kFgJmDxUBAGQCUw9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzEzMDIyJmVwc2xhbmd1YWdlPW5uLU5PAAhEb2t1bWVudGQCVQ9kFgJmDxUBAGQCVg9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDkzJmVwc2xhbmd1YWdlPW5uLU5PABpQcm9wb3Npc2pvbmFyIG9nIG1lbGRpbmdhcmQCWA9kFgJmDxUBAGQCWQ9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjE5NjI4JmVwc2xhbmd1YWdlPW5uD1N0YXRzYnVkc2pldHRldBRTdGF0c2J1ZHNqZXR0ZXQgMjAwN2QCWw9kFgJmDxUBAGQCXA9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzEzMzEwJmVwc2xhbmd1YWdlPW5uLU5PAA9Mb3ZlciBvZyByZWdsYXJkAl4PZBYCZg8VAQBkAl8PZBYCZg8VBAA4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE5MjEmZXBzbGFuZ3VhZ2U9bm4tTk8ACVJ1bmRza3JpdmQCYQ9kFgJmDxUBAGQCYg9kFgJmDxUEADMvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTE5MjImZXBzbGFuZ3VhZ2U9bm4tTk8ACkjDuHlyaW5nYXJkAmQPZBYCZg8VAQBkAmUPZBYCZg8VBAA4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE5MjYmZXBzbGFuZ3VhZ2U9bm4tTk8ABk5PVS1hcmQCZw9kFgJmDxUBAGQCaA9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzEzNTI1JmVwc2xhbmd1YWdlPW5uLU5PABNSYXBwb3J0YXIgb2cgcGxhbmFyZAJqD2QWAmYPFQEAZAJrD2QWAmYPFQQAOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0yMTI4JmVwc2xhbmd1YWdlPW5uLU5PABlSZXR0bGVpaW5nYXIgb2cgYnJvc2p5cmVyZAJtD2QWAmYPFQEAZAJuD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01MDY3NzcmZXBzbGFuZ3VhZ2U9bm4AIFN0YXRsaWdlIGVsZWt0cm9uaXNrZSBibGFua2V0dGVyZAJyD2QWAmYPFQEAZAJzD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjgmZXBzbGFuZ3VhZ2U9bm4tTk8AEE9tIGRlcGFydGVtZW50ZXRkAnUPZBYCZg8VAQBkAnYPZBYCZg8VBAA/L3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD0xNDM1JmVwc2xhbmd1YWdlPW5uLU5PAB5KdXN0aXNtaW5pc3RlciBLbnV0IFN0b3JiZXJnZXRkAngPZBYCZg8VAQBkAnkPZBYCZg8VBAAyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODUmZXBzbGFuZ3VhZ2U9bm4tTk8AFEFubmEgcG9saXRpc2sgbGVpaW5nZAJ7D2QWAmYPFQEAZAJ8D2QWAmYPFQQAMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg2JmVwc2xhbmd1YWdlPW5uLU5PABRBZG1pbmlzdHJhdGl2IGxlaWluZ2QCfg9kFgJmDxUBAGQCfw9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDg3JmVwc2xhbmd1YWdlPW5uLU5PAAxPcmdhbmlzYXNqb25kAoEBD2QWAmYPFQEAZAKCAQ9kFgJmDxUEADUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTExNTIwMiZlcHNsYW5ndWFnZT1ubi1OTwAVVW5kZXJsaWdnamFuZGUgZXRhdGFyZAKEAQ9kFgJmDxUBAGQChQEPZBYCZg8VBAA1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0zMzIzNDkmZXBzbGFuZ3VhZ2U9bm4tTk8AFFRpbGtueXR0YSB2ZXJrc2VtZGVyZAKHAQ9kFgJmDxUBAGQCiAEPZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ4OCZlcHNsYW5ndWFnZT1ubi1OTwAOQW5zdmFyc29tcsOlZGVkAooBD2QWAmYPFQEAZAKLAQ9kFgJmDxUEADUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ0MzQ2NSZlcHNsYW5ndWFnZT1ubi1OTwAUU3R5cmUsIHLDpWQgb2cgdXR2YWxkAo0BD2QWAmYPFQEAZAKOAQ9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDcxJmVwc2xhbmd1YWdlPW5uLU5PAAdLb250YWt0ZAKSAQ9kFgJmDxUBAGQCkwEPZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ2OSZlcHNsYW5ndWFnZT1ubi1OTwANTHlkIG9nIGJpbGV0ZWQClQEPZBYCZg8VAQBkApYBD2QWAmYPFQQAMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg3MDQxJmVwc2xhbmd1YWdlPW5uAAdOZXR0LVRWZAKYAQ9kFgJmDxUBAGQCmQEPZBYCZg8VBAAyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD02MTA2MjImZXBzbGFuZ3VhZ2U9bm4ABVZpZGVvZAKbAQ9kFgJmDxUBAGQCnAEPZBYCZg8VBAA0L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ5MTQ3MyZlcHNsYW5ndWFnZT1ubgAHUG9ka2FzdGQCoAEPZBYCZg8VAQBkAqEBD2QWAmYPFQQAQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00MzczNDkmZXBzbGFuZ3VhZ2U9bm4tTk8ADURva3VtZW50YXJraXZkAgUPZBYCAgEPZBYCZg8VAasDPHAgYWxpZ249ImxlZnQiPkp1c3Rpcy0gb2cgcG9saXRpZGVwYXJ0ZW1lbnRldCwgQWtlcnNnYXRlbiA0MiAoSC1ibG9rayksIFBvc3Rib2tzIDgwMDUgRGVwLCAwMDMwIE9zbG8gfCBUbGYuIDIyIDI0IDkwIDkwIHwgT3JnLiBuci46IDk3MiA0MTcgODMxPC9wPg0KPHAgYWxpZ249ImxlZnQiPkUtcG9zdDogPGEgaHJlZj0ibWFpbHRvOnBvc3Rtb3R0YWtAamQuZGVwLm5vIj5wb3N0bW90dGFrQGpkLmRlcC5ubzwvYT4gfCBOZXR0cmVkYWt0w7hyOiA8YSBocmVmPSJtYWlsdG86c3RpYW4uc3RhbmcuY2hyaXN0aWFuc2VuQGpkLmRlcC5ubyI+U3RpYW4gU3RhbmcgQ2hyaXN0aWFuc2VuPC9hPiB8IEFuc3ZhcmxlZyByZWRha3TDuHI6IDxhIGhyZWY9Im1haWx0bzpndW5uYXIuam9oYW5zZW5AamQuZGVwLm5vIj5HdW5uYXIgQS4gSm9oYW5zZW48L2E+PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYCQVSY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbWluaXN0ZXJpbmZvJGxpc3RzaW5nbGVtaW5pc3Rlcg8PZmRkBVBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsc3RNYW51YWxEZXBOZXdzJGxzdFVuaXZlcnNhbA8PZmRkBUVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRtaW5pc3RlcmluZm8kY3RsMDEPD2ZkZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbWluaXN0ZXJpbmZvJGxpc3R0d29taW5pc3RlcnMPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFJlbGF0ZWRDb250YWN0MiRQYWdlTGlzdDEPD2ZkZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVvY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kU3ViamVjdE1hbmFnZXIkd3A5NDg3ODIwMTQkd3A5ODE1NDkzOTAkbHN0UGFnZXMkbHN0VW5pdmVyc2FsDw9mZGTpDJe3Hnt+mBPqjXwkqQWNVY86cA==" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/jd.html?id=463">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/jd.html?id=463">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/jd.html?id=463">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/jd.html?id=463">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/jd.html?id=463"><img class="ProfileLogo" src="/styles/Images/jd/jd_nn.gif" alt='Justis- og politidepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Justis- og politidepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/jd.html?id=463&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/jd/313825.html?id=313825">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/jd/Om-departementet/kontakt.html?id=471">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/jd.html?id=463" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/jd.html?id=463', 'Justis- og politidepartementet')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/jd.html?id=463&amp;description=Justis- og politidepartementet' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Justis- og politidepartementet','','http://www.regjeringen.no/nn/dep/jd.html?id=463',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+    
+    
+
+    
+         
+    
+
+    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_ministerinfo_pnlOneMinisterPanel" class="depInfo">
+	
+    
+    
+            <img src="/Upload/JD/Portrettbilder/Storberget_162.jpg" alt="Justisminister Knut Storberget" class="forsidebilde" />
+        
+        
+          <div class="ministerContent">            
+            
+<p>- Vi skal førebyggje betre, reagere raskare, oppklare meir og rehabilitere betre, seier justisministeren.</p>
+          </div>
+          <div class="ministerPersonal">
+           <div class="content">
+            <h1>Justisminister</h1>
+            <h2>Knut  Storberget</h2>
+            
+                    <a href="/nn/dep/jd/Om-departementet/justisminister-knut-storberget/Kalender.html?id=86744">Kalender</a>
+                
+                    <a href="/nn/dep/jd/Om-departementet/justisminister-knut-storberget/Biletarkiv.html?id=331947">Biletarkiv</a>
+                
+                    <a href="/nn/dep/jd/Om-departementet/justisminister-knut-storberget/Taler-og-artiklar.html?id=436541">Taler og artiklar</a>
+                
+                    <a href="/nn/dep/jd/dep/justisminister_knut_storberget/podkast.html?id=491473">Podkast</a>
+                 
+            <a href="/nn/dep/jd/Om-departementet/justisminister-knut-storberget.html?id=1435" class="last">Meir om ministeren</a>
+            </div>
+          </div>
+
+</div>
+
+
+
+
+
+  
+
+	<div class="documentBody DepartmentSectionView">
+	    
+		
+		
+		
+ 
+
+
+
+	    
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/stavern-rekordopptaket-pa-politihogskole.html?id=619738" title="">
+                        Stavern: Rekordopptaket på Politihøgskolen videreføres
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår å videreføre det rekordhøye studentopptaket til Politihøgskolen på 720 studenter i 2011. Det betyr at politiutdanningen videreføres i Stavern.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Ny-vergemalslov-styrker-rettssikkerheten.html?id=619739" title="">
+                        Ny vergemålslov styrker rettssikkerheten
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår å bevilge 20 millioner kroner til et prosjekt som skal forberede ikrafttredelse av den nye vergemålsloven.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/nye-gulating-lagmannsrett.html?id=619742" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Nye_Gulating_100.jpg" alt="Illustrasjon av nye Gulating lagmannsrett. Foto: Statsbygg/MIR" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/nye-gulating-lagmannsrett.html?id=619742" title="">
+                        Nye Gulating lagmannsrett
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Nye Gulating lagmannsrett skal stå ferdig sommeren 2011. No foreslår Regjeringa å løyva 36,2 millionar kronar til dekking av meirutgiftar til eingongsinvesteringar, husleige og drift ved Gulating.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Satsar-pa-kriminalomsorga-i-Hordaland.html?id=619729" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Fotlenke2_100.png" alt="Elektronisk heimesoning inneber bruk av fotlenke." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Satsar-pa-kriminalomsorga-i-Hordaland.html?id=619729" title="">
+                        Satsar på kriminalomsorga i Hordaland
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringa vil styrkje løyvinga til kriminalomsorga med 10 millionar for å auke kapasiteten på ordninga med elektronisk kontroll, mellom anna i Hordaland. Samstundes vil regjeringa gjere drifta ved Bjørgvin fengsel permanent, og auke opptaket til fengselsbetentutdanninga.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/nytt-aktivitetsbygg-ved-oslo-fengsel.html?id=619730" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Oslo_fengselsport_100.jpg" alt="Porten til Oslo fengsel." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/nytt-aktivitetsbygg-ved-oslo-fengsel.html?id=619730" title="">
+                        Nytt aktivitetsbygg ved Oslo fengsel
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Oslo fengsel er landets største og trenger et godt aktiveringstilbud for de innsatte. Derfor foreslår Regjeringen å bevilge 15 millioner kroner til nytt aktivitetsbygg ved fengselet.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Hustad-fengsel-utvides.html?id=619731" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/hustad_100.jpg" alt="Hustad fengsel." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Hustad-fengsel-utvides.html?id=619731" title="">
+                        Hustad fengsel utvides
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår å utvide Hustad fengsel med åtte plasser. Det skal bidra til å hjelpe de innsatte i kampen mot rusavhengighet.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Utdanner-flere-fengselsbetjenter-i-Rogaland.html?id=619732" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Ana_fengsel_100.jpg" alt="Åna fengsel." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Utdanner-flere-fengselsbetjenter-i-Rogaland.html?id=619732" title="">
+                        Utdanner flere fengselsbetjenter i Rogaland
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen ønsker å sikre tilgangen på fagutdannet personell i kriminalomsorgen og forslår derfor å bevilge 20 millioner kroner til å øke opptaket ved Kriminalomsorgens utdanningssenter. En ny klasse skal gjennomføre utdanningen ved Åna fengsel.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Rusmestringsenhet-til-Telemark-fengsel.html?id=619733" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Telemark_Skienavd_100.jpg" alt="Telemark fengsel, Skien avdeling." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Rusmestringsenhet-til-Telemark-fengsel.html?id=619733" title="">
+                        Rusmestringsenhet til Telemark fengsel
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår å bevilge fem millioner kroner til to nye rusmestringsenheter i 2011. Den ene skal etableres ved Telemark fengsel, Skien avdeling.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Styrking-av-Spesialeininga-for-politisaker.html?id=619735" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/Spesialenheten_logo_100.jpg" alt="Spesialenheten for politisaker." class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/Styrking-av-Spesialeininga-for-politisaker.html?id=619735" title="">
+                        Styrking av Spesialeininga for politisaker
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringa foreslår å styrkje Spesialeininga for politisaker med 3,2 millionar kronar for å sikra at kvaliteten på arbeidet vert oppretthalde og at sakshandsamingstida vert halde nede.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/kongsvinger-rekordopptaket-pa-politihogs.html?id=619736" class="ISI_IGNORE">
+                <img src="/upload/JD/Ingressbilder/Nyhetsfoto/PHS_Kongsvinger_100.jpg" alt="Politihøgskolens utdanningssenter på Kongsvinger. Foto: Politihøgskolen" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/jd/pressesenter/pressemeldingar/2010/kongsvinger-rekordopptaket-pa-politihogs.html?id=619736" title="">
+                        Kongsvinger: Rekordopptaket på Politihøgskolen videreføres
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[05.10.2010]</p>
+                <p>Regjeringen foreslår å videreføre det rekordhøye studentopptaket til Politihøgskolen på 720 studenter i 2011. Det betyr at politiutdanningen videreføres på Kongsvinger.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+ 
+
+        
+        <p class="WebPartReadMoreParagraph"><a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp948782014_wp981549390_lnkReadMode" class="WebPartGeneralListReadMore" href="/nn/dep/jd/Aktuelt.html?id=464">Flere...</a></p>
+                        
+        
+
+		  
+	</div>
+	<div class="printContact">
+      <div class="Toolbox">   
+        <h2 class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Justis- og politidepartementet</h3>            
+              <p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/b1e3518a376537ad47cfc4b1746368e6.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', 'A19FC08E9DD5D2CED18CC481C5CFC4F29F8393E0FECFCEC8C6C4F3D3C4D5CFC4E2FECFCEC8C6C4F3D5C9C6C8F3C5CFE0D3C4D5CFC4E2FECFCEC8C6C4F3CDCDD4E7FE9191CDD5C2839CC5C88183CECF8FD1C4C58FC5CBE1CAC0D5D5CECCD5D2CED19BCED5CDC8C0CC839CC7C4D3C981C09D'));//--></script></p>
+              <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Justis- og politidepartementet">
+                <tr>
+	<td>
+                        Telefon:
+                    </td>
+	<td><a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a></td>
+</tr>
+
+                
+            </table>
+            <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+            <p>Akersgaten 42 (H-blokk)<br />Postboks 8005 Dep<br />0030 Oslo</p>
+        </div>
+    </div>
+     
+    </div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/jd.html?id=463'><img src="/upload/JD/Profilelementer/Hovedill.jpg" alt="Justis- og politidepartementet" /></a></div>
+                                        
+                                        
+                                        
+                                        
+        
+                                        
+        
+
+
+<div class="Toolbox">
+    <h2 class="ToolboxHeader"><a href="/nn/dep/jd/pressesenter/jd-pa-flickr.html?id=583861"><a href="http://www.flickr.com/Justisdepartementet">JD på Flickr</a></a></h2>
+    <div class="ToolboxContent">
+<div class="ArticleView">        
+      <div class="ArticleContentInFullView">
+         
+         <embed height="134" type="application/x-shockwave-flash" width="178" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fjustisdepartementet%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fjustisdepartementet%2F&amp;user_id=34765692@N02&amp;jump_to=" allowfullscreen="true"></embed>
+      </div>
+    </div>
+
+    </div>
+</div>
+
+
+
+
+<div class="Toolbox">
+    <h2 class="ToolboxHeader"><a href="/nn/dep/jd/pressesenter/jd-pa-twitter.html?id=552082"><a href="http://www.twitter.com/Justisdep">JD på Twitter</a></a></h2>
+    <div class="ToolboxContent">
+<div class="ArticleView">        
+      <div class="ArticleContentInFullView">
+         
+         <div id="twitter_div">
+<ul id="twitter_update_list"></ul><a style="TEXT-ALIGN: right; DISPLAY: block" id="twitter-link" href="http://twitter.com/Justisdep">Følg JD på Twitter</a> </div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/Justisdep.json?callback=twitterCallback2&amp;count=3"></script>
+      </div>
+    </div>
+
+    </div>
+</div>
+
+
+
+                                                                        
+                                        
+   <div id="AreaContactInfo" class="Toolbox">   
+        <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_H2_1" class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_H3_1" class="relatedContactHead">Justis- og politidepartementet</h3>            
+              <p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/b1e3518a376537ad47cfc4b1746368e6.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', 'F8C699D7C48C8B9788D59DD89C969DABC6DAC9B9A7979E96B18C9B998C9697BB9697919F9DAA8C909F91AAA79697919F9DAA8C909F91AAA79697919F9DAA8C909F91AA9C96B98A9D8C969DBBA79697919F9DAA94948DBEA7C8C8948C9BDAC59C91D8DA9796D6889D9CD69C92B893998C8C97958C8B9788C2978C94919995DAC59E9D8A90D899C4'));//--></script></p>
+              <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Justis- og politidepartementet">
+                <tr>
+	<td id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_Th1">
+                        Telefon:
+                    </td>
+	<td id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_Td1"><a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a></td>
+</tr>
+
+                
+            </table>
+            <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+            <p>Akersgaten 42 (H-blokk)<br />Postboks 8005 Dep<br />0030 Oslo</p>
+        </div>
+    </div>
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/jd.html?id=463">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt.html?id=464" title=''>
+            Aktuelt</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt/Nyheiter.html?id=472" title=''>
+            Nyheiter</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt/Taler-og-artiklar.html?id=474" title=''>
+            Taler og artiklar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt/Svar-til-Stortinget.html?id=475" title=''>
+            Svar til Stortinget</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/aktuelt/Offentlig-elektronisk-postjournal.html?id=605037" title=''>
+            Offentlig elektronisk postjournal</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt/ledige-stillingar.html?id=468687" title=''>
+            Ledige stillingar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Aktuelt/RSS.html?id=478888" title=''>
+            RSS</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema.html?id=465" title=''>
+            Tema</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/tema/innvandringspolitikk.html?id=1134" title=''>
+            Innvandrings- og flyktningpolitikk</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/tema/arv.html?id=551977" title=''>
+            Arv</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Domstolane.html?id=1255" title=''>
+            Domstolane</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Internasjonalt-justissamarbeid.html?id=1177" title=''>
+            Internasjonalt justissamarbeid</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Jurisdiksjon-over-polaromrada.html?id=87078" title=''>
+            Jurisdiksjon over polarområda</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Korrupsjon-og-kvitvasking.html?id=1266" title=''>
+            Korrupsjon og kvitvasking</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Kriminalitetsmotkjemping.html?id=1257" title=''>
+            Kriminalitetsmotkjemping</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Kriminalomsorg.html?id=1260" title=''>
+            Kriminalomsorg</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Lovarbeid.html?id=1256" title=''>
+            Lovarbeid</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Samfunnssikkerheit-og-beredskap.html?id=87075" title=''>
+            Samfunnssikkerheit og beredskap</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Tema/Sivile-rettsforhold.html?id=1105" title=''>
+            Sivile rettsforhold</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/pressesenter.html?id=466" title=''>
+            Pressesenter</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/pressesenter/pressemeldingar.html?id=482" title=''>
+            Pressemeldingar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/pressesenter/Kalender.html?id=483" title=''>
+            Kalender</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/aktuelt/Offentlig-elektronisk-postjournal.html?id=605037" title=''>
+            Offentlig elektronisk postjournal</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/pressesenter/Biletarkiv.html?id=492" title=''>
+            Biletarkiv</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/pressesenter/faktaark.html?id=501722" title=''>
+            Faktaark</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument.html?id=313022" title=''>
+            Dokument</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/proposisjonar-og-meldingar.html?id=493" title=''>
+            Proposisjonar og meldingar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/dok/statsbudsjettet/statsbudsjettet-2011.html?id=619628" title='Statsbudsjettet'>
+            Statsbudsjettet 2007</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/Lover-og-reglar.html?id=313310" title=''>
+            Lover og reglar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/Rundskriv.html?id=1921" title=''>
+            Rundskriv</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/Hoyringar.html?id=1922" title=''>
+            Høyringar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/NOU-ar.html?id=1926" title=''>
+            NOU-ar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/Rapportar-og-planar.html?id=313525" title=''>
+            Rapportar og planar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokument/Rettleiingar-og-brosjyrer.html?id=2128" title=''>
+            Rettleiingar og brosjyrer</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/dok/statlige-elektroniske-blanketter.html?id=506777" title=''>
+            Statlige elektroniske blanketter</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet.html?id=468" title=''>
+            Om departementet</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/justisminister-knut-storberget.html?id=1435" title=''>
+            Justisminister Knut Storberget</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Anna-politisk-leiing.html?id=485" title=''>
+            Anna politisk leiing</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Administrativ-leiing.html?id=486" title=''>
+            Administrativ leiing</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Organisasjon.html?id=487" title=''>
+            Organisasjon</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Underliggjande-etatar.html?id=115202" title=''>
+            Underliggjande etatar</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Tilknytta-verksemder.html?id=332349" title=''>
+            Tilknytta verksemder</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Ansvarsomrade.html?id=488" title=''>
+            Ansvarsområde</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/Styre-rad-og-utval.html?id=443465" title=''>
+            Styre, råd og utval</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Om-departementet/kontakt.html?id=471" title=''>
+            Kontakt</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Lyd-og-bilete.html?id=469" title=''>
+            Lyd og bilete</a>
+    <ul><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/lyd_bilde/nett-tv.html?id=487041" title=''>
+            Nett-TV</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/lyd_bilde/video1.html?id=610622" title=''>
+            Video</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/dep/justisminister_knut_storberget/podkast.html?id=491473" title=''>
+            Podkast</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU " href="/nn/dep/jd/Dokumentarkiv.html?id=437349" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="left">Justis- og politidepartementet, Akersgaten 42 (H-blokk), Postboks 8005 Dep, 0030 Oslo | Tlf. 22 24 90 90 | Org. nr.: 972 417 831</p>
+<p align="left">E-post: <img id='Eoi_3' class='obfimg' src='/images/emailimages/b1e3518a376537ad47cfc4b1746368e6.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '4D732C62712223633D28296329270D262C39392220393E223D736F2223633D28296329270D262C39392220393E223D77223921242C206F702B283F256D2C71'));//--></script> | Nettredaktør: <img id='Eoi_4' class='obfimg' src='/images/emailimages/c03f235f992ae9edc29e3ab4f85f05db.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_4', 'A39DC28C9FCDC6D0CDC2CAD7D0CAD1CBE083C4CDC2D7F083CDC2CAD7F09D81CCCD8DD3C6C78DC7C9E3CDC6D0CDC2CAD7D0CAD1CBC08DC4CDC2D7D08DCDC2CAD7D099CCD7CFCAC2CE819EC5C6D1CB83C29F'));//--></script> | Ansvarleg redaktør: <img id='Eoi_5' class='obfimg' src='/images/emailimages/2c67831e3cc1d4965fc924026558900b.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_5', '1F217E3023717A6C717E7770553F315E3F6D7E71716A58213D7071316F7A7B317B755F717A6C717E777075316D7E71716A7825706B73767E723D22797A6D773F7E23'));//--></script></p></div>
+        
+        
+        
+   
+    
+
+ 
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
+</script>
+</form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,831 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Kommunikasjonseininga - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Kommunikasjonseininga" />
+<meta name="DCSext.regj.pagetype" content="Avdeling" />
+<meta name="DCSext.regj.pageid" content="439584" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="fad" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Kommunikasjonseininga" />
+<meta name="description" content="Kommunikasjonseininga formidlar sp&amp;#248;rsm&amp;#229;l fr&amp;#229; pressa til politisk leiing og fagavdelingane. Vi hjelper presse og publikum med &amp;#229; finne fram til rett avdeling for kommentarar, bakgrunnsstoff og saksopplysningar." />
+<meta name="DC.Title" content="Kommunikasjonseininga" />
+<meta name="DC.Creator" content="Fornyings-, administrasjons- og kyrkjedepartementet" />
+<meta name="DC.Description" content="Kommunikasjonseininga formidlar sp&amp;#248;rsm&amp;#229;l fr&amp;#229; pressa til politisk leiing og fagavdelingane. Vi hjelper presse og publikum med &amp;#229; finne fram til rett avdeling for kommentarar, bakgrunnsstoff og saksopplysningar." />
+<meta name="DC.Date" content="2007-01-09" />
+<meta name="DC.Date.Available" content="2007-01-09" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Avdeling" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Fornyings-, administrasjons- og kyrkjedepartementet" />
+<meta name="creation_date" content="Tue, 09 Jan 2007 18:36:00 GMT" />
+<meta name="LAST-MODIFIED" content="Tue, 09 Jan 2007 18:44:27 GMT" />
+<meta name="REVISED" content="Tue, 09 Jan 2007 18:44:27 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/fad.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjA0MDAxMjgPZBYCZg9kFghmDxUCAm5uAm5uZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BZAQPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IktvbW11bmlrYXNqb25zZWluaW5nYSIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJBdmRlbGluZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iNDM5NTg0IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9ImZhZCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJLb21tdW5pa2Fzam9uc2VpbmluZ2EiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iS29tbXVuaWthc2pvbnNlaW5pbmdhIGZvcm1pZGxhciBzcCZhbXA7IzI0ODtyc20mYW1wOyMyMjk7bCBmciZhbXA7IzIyOTsgcHJlc3NhIHRpbCBwb2xpdGlzayBsZWlpbmcgb2cgZmFnYXZkZWxpbmdhbmUuIFZpIGhqZWxwZXIgcHJlc3NlIG9nIHB1Ymxpa3VtIG1lZCAmYW1wOyMyMjk7IGZpbm5lIGZyYW0gdGlsIHJldHQgYXZkZWxpbmcgZm9yIGtvbW1lbnRhcmFyLCBiYWtncnVubnNzdG9mZiBvZyBzYWtzb3BwbHlzbmluZ2FyLiIgLz4NCjxtZXRhIG5hbWU9IkRDLlRpdGxlIiBjb250ZW50PSJLb21tdW5pa2Fzam9uc2VpbmluZ2EiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iS29tbXVuaWthc2pvbnNlaW5pbmdhIGZvcm1pZGxhciBzcCZhbXA7IzI0ODtyc20mYW1wOyMyMjk7bCBmciZhbXA7IzIyOTsgcHJlc3NhIHRpbCBwb2xpdGlzayBsZWlpbmcgb2cgZmFnYXZkZWxpbmdhbmUuIFZpIGhqZWxwZXIgcHJlc3NlIG9nIHB1Ymxpa3VtIG1lZCAmYW1wOyMyMjk7IGZpbm5lIGZyYW0gdGlsIHJldHQgYXZkZWxpbmcgZm9yIGtvbW1lbnRhcmFyLCBiYWtncnVubnNzdG9mZiBvZyBzYWtzb3BwbHlzbmluZ2FyLiIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDctMDEtMDkiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwNy0wMS0wOSIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJBdmRlbGluZyIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9ubi9kZXAvZmFkL29tLWRlcGFydGVtZW50ZXQvb3JnYW5pc2Fzam9uL0F2ZGVsaW5nYXIva29tbXVuaWthc2pvbnNlaW5pbmdhLmh0bWw/aWQ9NDM5NTg0IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJUdWUsIDA5IEphbiAyMDA3IDE4OjM2OjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IlR1ZSwgMDkgSmFuIDIwMDcgMTg6NDQ6MjcgR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iVHVlLCAwOSBKYW4gMjAwNyAxODo0NDoyNyBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnRmZAIDEGRkFgoCAQ9kFgYCAg8VAREjcXVpY2tzZWFyY2hpbnB1dGQCCw9kFgJmDxUBaSNjdGwwMF9GdWxsUmVnaW9uX0NlbnRlckFuZFJpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uQ29udGFjdEluZm9fUmVsYXRlZENvbnRhY3QxX0FyZWFDb250YWN0SW5mb2QCDQ9kFgJmD2QWAmYPZBYCAgEPZBYIZg8PFgYeB1Rvb2xUaXAFLktsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRlbiBww6UgYm9rbcOlbC4fAAUHQm9rbcOlbB4LTmF2aWdhdGVVcmwFMS90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD00Mzk1ODQmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS9TaWRhIGJsaXIgdmlzdCBww6Ugbnlub3Jzay4gKGFrdGl2dCBzcHLDpWt2YWxnKR8ABQdOeW5vcnNrHwQFNC90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD00Mzk1ODQmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8DBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwQFNC90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD00Mzk1ODQmZXBzbGFuZ3VhZ2U9c2UtTk9kZAIDDw8WBh8DBSpDbGljayBoZXJlIHRvIGRpc3BsYXkgdGhpcyBwYWdlIGluIGVuZ2xpc2gfAAUHRW5nbGlzaB8EBTQvdGVtcGxhdGVzL0F2ZGVsaW5nLmFzcHg/aWQ9NDM5NTg0JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIBDxUBFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPW5uLU5PGVJlZ2plcmluZ2EgU3RvbHRlbmJlcmcgSUkyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9bm4tTk9kAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTMzOSZlcHNsYW5ndWFnZT1ubi1OT2QCBA8VATNGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXRkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQ8U8O4ayBob3MgRm9ybnlpbmdzLSwgYWRtaW5pc3RyYXNqb25zLSBvZyBreXJramVkZXBhcnRlbWVudGV0BFPDuGsRUXVpY2tTZWFyY2hCdXR0b24EU8O4a2QCAw8PFgIfAAUcU8O4ayBww6UgaGVpbGUgcmVnamVyaW5nYS5ub2RkAgEPDxYCHgtfaXNFZGl0YWJsZWhkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQKvAWh0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL25uL2RlcC9mYWQvb20tZGVwYXJ0ZW1lbnRldC9vcmdhbmlzYXNqb24vQXZkZWxpbmdhci9rb21tdW5pa2Fzam9uc2VpbmluZ2EuaHRtbD9pZD00Mzk1ODQmYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBAU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPW5uLU5PHwAFCVRlbWEgQS3DhWRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTMxMzc3NyZlcHNsYW5ndWFnZT1ubi1OTx8ABQ1OZXR0c3RhZHNrYXJ0ZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUFSGplbHBkZAINDw8WBB8EBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzQ3JmVwc2xhbmd1YWdlPW5uLU5PHwAFB0tvbnRha3RkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAURTW90dGFrYXJzIGUtcG9zdDpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAIJDw8WAh8GBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAILDw8WAh8ABQtEaW4gZS1wb3N0OmRkAg8PDxYCHwYFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAhEPDxYCHwYFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAhMPDxYCHwAFCE1lbGRpbmc6ZGQCFw8PFgIfAAUJU2VuZCB0aXBzZGQCAw9kFhACAw9kFg5mD2QWAmYPFgIfAAXcA0R1IGVyIGhlcjogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PIj5yZWdqZXJpbmdhLm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zMzkmZXBzbGFuZ3VhZ2U9bm4tTk8iPkZvcm55aW5ncy0sIGFkbWluaXN0cmFzam9ucy4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzQ0JmVwc2xhbmd1YWdlPW5uLU5PIj5PbSBkZXBhcnRlbWVudGV0PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zNjMmZXBzbGFuZ3VhZ2U9bm4tTk8iPk9yZ2FuaXNhc2pvbjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTM2NiZlcHNsYW5ndWFnZT1ubi1OTyI+QXZkZWxpbmdhcjwvYT4gLyA8c3Bhbj5Lb21tdW5pa2Fzam9uc2VpbmluZ2E8L3NwYW4+ZAIBDxUBAGQCAg9kFgJmDxYCHwAF3ANEdSBlciBoZXI6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OTyI+cmVnamVyaW5nYS5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzM5JmVwc2xhbmd1YWdlPW5uLU5PIj5Gb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMuLi48L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTM0NCZlcHNsYW5ndWFnZT1ubi1OTyI+T20gZGVwYXJ0ZW1lbnRldDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzYzJmVwc2xhbmd1YWdlPW5uLU5PIj5PcmdhbmlzYXNqb248L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0zNjYmZXBzbGFuZ3VhZ2U9bm4tTk8iPkF2ZGVsaW5nYXI8L2E+IC8gPHNwYW4+S29tbXVuaWthc2pvbnNlaW5pbmdhPC9zcGFuPmQCAw9kFggCAQ9kFgYCAQ8VAQhTdGF0dXM6IGQCAg8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEFya2l2ZXJ0DQogICAgICAgICAgICAgICAgICAgIGQCBA8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEVyc3RhdHRhDQogICAgICAgICAgICAgICAgICAgIGQCAg8VARVLb21tdW5pa2Fzam9uc2VpbmluZ2FkAgMPFgIfAWgWAmYPFQEAZAIFD2QWAmYPFQHbATxwPktvbW11bmlrYXNqb25zZWluaW5nYSBmb3JtaWRsYXIgc3DDuHJzbcOlbCBmcsOlIHByZXNzYSB0aWwgcG9saXRpc2sgbGVpaW5nIG9nIGZhZ2F2ZGVsaW5nYW5lLiBWaSBoamVscGVyIHByZXNzZSBvZyBwdWJsaWt1bSBtZWQgw6UgZmlubmUgZnJhbSB0aWwgcmV0dCBhdmRlbGluZyBmb3Iga29tbWVudGFyYXIsIGJha2dydW5uc3N0b2ZmIG9nIHNha3NvcHBseXNuaW5nYXIuPC9wPmQCBA9kFgJmDxYCHwAF3ANEdSBlciBoZXI6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OTyI+cmVnamVyaW5nYS5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzM5JmVwc2xhbmd1YWdlPW5uLU5PIj5Gb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMuLi48L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTM0NCZlcHNsYW5ndWFnZT1ubi1OTyI+T20gZGVwYXJ0ZW1lbnRldDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzYzJmVwc2xhbmd1YWdlPW5uLU5PIj5PcmdhbmlzYXNqb248L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0zNjYmZXBzbGFuZ3VhZ2U9bm4tTk8iPkF2ZGVsaW5nYXI8L2E+IC8gPHNwYW4+S29tbXVuaWthc2pvbnNlaW5pbmdhPC9zcGFuPmQCBQ9kFgYCAQ9kFgJmDxYCHwFoZAICDxUDFUtvbW11bmlrYXNqb25zZWluaW5nYQxkaXNwbGF5Om5vbmUAZAIDD2QWAmYPFQHbATxwPktvbW11bmlrYXNqb25zZWluaW5nYSBmb3JtaWRsYXIgc3DDuHJzbcOlbCBmcsOlIHByZXNzYSB0aWwgcG9saXRpc2sgbGVpaW5nIG9nIGZhZ2F2ZGVsaW5nYW5lLiBWaSBoamVscGVyIHByZXNzZSBvZyBwdWJsaWt1bSBtZWQgw6UgZmlubmUgZnJhbSB0aWwgcmV0dCBhdmRlbGluZyBmb3Iga29tbWVudGFyYXIsIGJha2dydW5uc3N0b2ZmIG9nIHNha3NvcHBseXNuaW5nYXIuPC9wPmQCBg8PFgIfAWhkZAIFD2QWAmYPFgQeCV9wYWdlTGluaygpbkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BjQzOTU4NB4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcAFgxmD2QWAmYPDxYCHwFoZBYCZg8VAQBkAgEPZBYEAgEPDxYGHwVoHg5fYm91bmRQYWdlTGluawLjvhseCV9sYXN0VHlwZQUHRGVmYXVsdGQWAmYPZBYCZg8WAh4IZGlzYWJsZWRkZAIDDxYCHgVjbGFzcwUHY29udGVudBYKZg8VCgEyPS90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD00NTA0MDMmZXBzbGFuZ3VhZ2U9bm4AIUtvbW11bmlrYXNqb25zc2plZiBGcm9kZSBKYWNvYnNlbgEyATMADVByZXNzZWtvbnRha3QBM1A8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXRdPC9wPmQCAQ8WAh8BaBYCAgEPDxYGHwVoHwkC474bHwoFB0RlZmF1bHRkZAIDDxYGHwcoKwQGNDUwNDAzHgtfcGFnZVR5cGVJRAI0HwFoZAIFDxYEHgRocmVmBT0vdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NDUwNDAzJmVwc2xhbmd1YWdlPW5uHwFoZAIHDxYCHgdzdW1tYXJ5BSRUYWJlbGwgZm9yIG9wcHN0aWxsaW5nIGF2IHBlcnNvbmRhdGEWCGYPZBYCAgEPZBYEZg8VARdtYWlsdG86ZmphKGEpZmFkLmRlcC5ub2QCAQ8PFgYfBWgfCQLjvhsfCgUHRGVmYXVsdGRkAgEPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ0NjMzIj4yMiAyNCA0NiAzMzwvYT5kAgIPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0Nzk5NTIzNDk1Ij45OTUgMjMgIDQ5NTwvYT5kAgMPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQyNzEwIj4yMiAyNCAyNyAxMDwvYT5kAgIPZBYEAgEPDxYGHwVoHwkCouoaHwoFB0RlZmF1bHRkFgJmD2QWAmYPFgIfC2RkAgMPFgIfDAUHY29udGVudBYKZg8VCgEyPS90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD00Mzk1ODYmZXBzbGFuZ3VhZ2U9bm4AMFNlbmlvciBrb21tdW5pa2Fzam9uc3LDpWRnaXZlciBSYWdudmFsZCBCZXJnZ3JhdgEyATMADVByZXNzZWtvbnRha3QBM1A8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXRdPC9wPmQCAQ8WAh8BaBYCAgEPDxYGHwVoHwkCouoaHwoFB0RlZmF1bHRkZAIDDxYGHwcoKwQGNDM5NTg2Hw0CNB8BaGQCBQ8WBB8OBT0vdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NDM5NTg2JmVwc2xhbmd1YWdlPW5uHwFoZAIHDxYCHw8FJFRhYmVsbCBmb3Igb3Bwc3RpbGxpbmcgYXYgcGVyc29uZGF0YRYIZg9kFgICAQ9kFgRmDxUBF21haWx0bzpyYmUoYSlmYWQuZGVwLm5vZAIBDw8WBh8FaB8JAqLqGh8KBQdEZWZhdWx0ZGQCAQ9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDQ4MjciPjIyIDI0IDQ4IDI3PC9hPmQCAg9kFgICAQ9kFgJmDxUBPjxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3OTI0NTUzMzciPjkyNCA1NSAzMzc8L2E+ZAIDD2QWAgIBD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0MjcxMCI+MjIgMjQgMjcgMTA8L2E+ZAIDD2QWBAIBDw8WBh8FaB8JAtKWJB8KBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHwtkZAIDDxYCHwwFB2NvbnRlbnQWCmYPFQoBMj0vdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NTkyNzIyJmVwc2xhbmd1YWdlPW5uACZLb21tdW5pa2Fzam9uc3LDpWRnaXZlciBUb3IgQXVkdW4gR3JhbQEyATMADVByZXNzZWtvbnRha3QBM1A8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltGb3JueWluZ3MtLCBhZG1pbmlzdHJhc2pvbnMtIG9nIGt5cmtqZWRlcGFydGVtZW50ZXRdPC9wPmQCAQ8WAh8BaBYCAgEPDxYGHwVoHwkC0pYkHwoFB0RlZmF1bHRkZAIDDxYGHwcoKwQGNTkyNzIyHw0CNB8BaGQCBQ8WBB8OBT0vdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NTkyNzIyJmVwc2xhbmd1YWdlPW5uHwFoZAIHDxYCHw8FJFRhYmVsbCBmb3Igb3Bwc3RpbGxpbmcgYXYgcGVyc29uZGF0YRYIZg9kFgICAQ9kFgRmDxUBF21haWx0bzp0YWcoYSlmYWQuZGVwLm5vZAIBDw8WBh8FaB8JAtKWJB8KBQdEZWZhdWx0ZGQCAQ9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDY2MjEiPjIyIDI0IDY2IDIxPC9hPmQCAg8WAh8BaBYCAgEPZBYCZg8VAQBkAgMPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQyNzEwIj4yMiAyNCAyNyAxMDwvYT5kAgQPZBYEAgEPDxYGHwVoHwkCpeoaHwoFB0RlZmF1bHRkFgJmD2QWAmYPFgIfC2RkAgMPFgIfDAUHY29udGVudBYKZg8VCgEyPS90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD00Mzk1ODkmZXBzbGFuZ3VhZ2U9bm4AMlNlbmlvciBrb21tdW5pa2Fzam9uc3LDpWRnaXZlciBBbm4gS3Jpc3RpbiBMaW5kYWFzATIBMwAbTmV0dHJlZGFrdMO4ci9wcmVzc2Vrb250YWt0ATNQPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bRm9ybnlpbmdzLSwgYWRtaW5pc3RyYXNqb25zLSBvZyBreXJramVkZXBhcnRlbWVudGV0XTwvcD5kAgEPFgIfAWgWAgIBDw8WBh8FaB8JAqXqGh8KBQdEZWZhdWx0ZGQCAw8WBh8HKCsEBjQzOTU4OR8NAjQfAWhkAgUPFgQfDgU9L3RlbXBsYXRlcy9QZXJzb25BZG1pbmlzdHJhc2pvbi5hc3B4P2lkPTQzOTU4OSZlcHNsYW5ndWFnZT1ubh8BaGQCBw8WAh8PBSRUYWJlbGwgZm9yIG9wcHN0aWxsaW5nIGF2IHBlcnNvbmRhdGEWCGYPZBYCAgEPZBYEZg8VARdtYWlsdG86YWtsKGEpZmFkLmRlcC5ub2QCAQ8PFgYfBWgfCQKl6hofCgUHRGVmYXVsdGRkAgEPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ0ODU2Ij4yMiAyNCA0OCA1NjwvYT5kAgIPZBYCAgEPZBYCZg8VAT48YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzQ1MjQxNzgxIj40NTIgNDEgNzgxPC9hPmQCAw9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDI3MTAiPjIyIDI0IDI3IDEwPC9hPmQCBQ9kFgQCAQ8PFgYfBWgfCQKj6hofCgUHRGVmYXVsdGRkAgMPFgIfDAUHY29udGVudBYKZg8VCgEyPS90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD00Mzk1ODcmZXBzbGFuZ3VhZ2U9bm4ALVNlbmlvciBrb21tdW5pa2Fzam9uc3LDpWRnaXZlciBMZWl2IEVsbGluZ3NlbgEyATMMZGlzcGxheTpub25lAAEzUDxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0Zvcm55aW5ncy0sIGFkbWluaXN0cmFzam9ucy0gb2cga3lya2plZGVwYXJ0ZW1lbnRldF08L3A+ZAIBDxYCHwFoFgICAQ8PFgYfBWgfCQKj6hofCgUHRGVmYXVsdGRkAgMPFgYfBygrBAY0Mzk1ODcfDQI0HwFoZAIFDxYEHw4FPS90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD00Mzk1ODcmZXBzbGFuZ3VhZ2U9bm4fAWhkAgcPFgIfDwUkVGFiZWxsIGZvciBvcHBzdGlsbGluZyBhdiBwZXJzb25kYXRhFghmD2QWAgIBD2QWBGYPFQEXbWFpbHRvOmxlbChhKWZhZC5kZXAubm9kAgEPDxYGHwVoHwkCo+oaHwoFB0RlZmF1bHRkZAIBD2QWAgIBD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0NDYwOSI+MjIgMjQgNDYgMDk8L2E+ZAICD2QWAgIBD2QWAmYPFQE+PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDc5MTc1MjYxNSI+OTE3IDUyIDYxNTwvYT5kAgMPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQyNzEwIj4yMiAyNCAyNyAxMDwvYT5kAgkPZBYCZg8VARVLb21tdW5pa2Fzam9uc2VpbmluZ2FkAgsPFgIfDgUVbWFpbHRvOmtvbUBmYWQuZGVwLm5vZAIMDxUBFUtvbW11bmlrYXNqb25zZWluaW5nYWQCDw9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDQ2MDUiPjIyIDI0IDQ2IDA1PC9hPmQCEw9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDI3MTAiPjIyIDI0IDI3IDEwPC9hPmQCFw8PFgQfBWgfCgUHRGVmYXVsdGRkAgUPZBYGAgEPZBYCAgEPZBYCZg8WAh8MBQpEZXBQcm9maWxlFgJmDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zMzkmZXBzbGFuZ3VhZ2U9bm4tTk9kAgcPZBYCAgEPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysFCB8BaGQCDQ9kFgwCAw9kFgJmDxUBFUtvbW11bmlrYXNqb25zZWluaW5nYWQCBQ8WAh8OBRVtYWlsdG86a29tQGZhZC5kZXAubm9kAgYPFQEVS29tbXVuaWthc2pvbnNlaW5pbmdhZAIJD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0NDYwNSI+MjIgMjQgNDYgMDU8L2E+ZAIND2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0MjcxMCI+MjIgMjQgMjcgMTA8L2E+ZAIRDw8WBB8FaB8KBQdEZWZhdWx0ZGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zMzkmZXBzbGFuZ3VhZ2U9bm4tTk8aRnJhbXNpZGEgdGlsIGRlcGFydGVtZW50ZXRkAgMPFgYeCV9QYWdlTGluaygrBAMzMzkeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBZIAgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MzQwJmVwc2xhbmd1YWdlPW5uLU5PAAdBa3R1ZWx0ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9MzQxJmVwc2xhbmd1YWdlPW5uLU5PAARUZW1hZAIHD2QWAmYPFQEAZAIID2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTM0MiZlcHNsYW5ndWFnZT1ubi1OTwAMUHJlc3Nlc2VudGVyZAIKD2QWAmYPFQEAZAILD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTMxMzA4MSZlcHNsYW5ndWFnZT1ubi1OTwAIRG9rdW1lbnRkAg0PZBYCZg8VAQhTZWxlY3RlZGQCDg9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzQ0JmVwc2xhbmd1YWdlPW5uLU5PABBPbSBkZXBhcnRlbWVudGV0ZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQNBL3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD01ODIyMDYmZXBzbGFuZ3VhZ2U9bm4tTk8APEZvcm55aW5ncy0sIGFkbWluaXN0cmFzam9ucy0gb2cga3lya2plbWluaXN0ZXIgUmlnbW9yIEFhc3J1ZGQCEw9kFgJmDxUBAGQCFA9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MzYxJmVwc2xhbmd1YWdlPW5uLU5PABRBbm5hIHBvbGl0aXNrIGxlaWluZ2QCFg9kFgJmDxUBAGQCFw9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MzYyJmVwc2xhbmd1YWdlPW5uLU5PABRBZG1pbmlzdHJhdGl2IGxlaWluZ2QCGQ9kFgJmDxUBCFNlbGVjdGVkZAIaD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zNjMmZXBzbGFuZ3VhZ2U9bm4tTk8ADE9yZ2FuaXNhc2pvbmQCHA9kFgJmDxUBCFNlbGVjdGVkZAIdD2QWAmYPFQQIU2VsZWN0ZWQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0zNjYmZXBzbGFuZ3VhZ2U9bm4tTk8ACkF2ZGVsaW5nYXJkAh8PZBYCZg8VAQBkAiAPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzY3JmVwc2xhbmd1YWdlPW5uLU5PAAlIaXN0b3Jpa2tkAiQPZBYCZg8VAQBkAiUPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTExNTE5NiZlcHNsYW5ndWFnZT1ubi1OTwAVVW5kZXJsaWdnamFuZGUgZXRhdGFyZAInD2QWAmYPFQEAZAIoD2QWAmYPFQM1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0xMTUxOTcmZXBzbGFuZ3VhZ2U9bm4tTk8AFFRpbGtueXR0YSB2ZXJrc2VtZGVyZAIqD2QWAmYPFQEAZAIrD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTM2NCZlcHNsYW5ndWFnZT1ubi1OTwAOQW5zdmFyc29tcsOlZGVkAi0PZBYCZg8VAQBkAi4PZBYCZg8VAzIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ0MDk3MCZlcHNsYW5ndWFnZT1ubgAWU3R5cmVyLCByw6VkIG9nIHV0dmFsZ2QCMA9kFgJmDxUBAGQCMQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zNDcmZXBzbGFuZ3VhZ2U9bm4tTk8AB0tvbnRha3RkAjUPZBYCZg8VAQBkAjYPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzQ1JmVwc2xhbmd1YWdlPW5uLU5PAA1MeWQgb2cgYmlsZXRlZAI4D2QWAmYPFQEAZAI5D2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzNzM0NiZlcHNsYW5ndWFnZT1ubgANRG9rdW1lbnRhcmtpdmQCBQ9kFgICAQ9kFgJmDxUB9wQ8cCBhbGlnbj0ibGVmdCI+PHNwYW4gc3R5bGU9IkZPTlQtU0laRTogMTJwdDsgRk9OVC1GQU1JTFk6ICdUaW1lcyBOZXcgUm9tYW4nOyBtc28tZmFyZWFzdC1mb250LWZhbWlseTogJ1RpbWVzIE5ldyBSb21hbic7IG1zby1hbnNpLWxhbmd1YWdlOiBOTy1CT0s7IG1zby1mYXJlYXN0LWxhbmd1YWdlOiBOTy1CT0s7IG1zby1iaWRpLWxhbmd1YWdlOiBBUi1TQSI+PGZvbnQgZmFjZT0iVmVyZGFuYSIgc2l6ZT0iMSI+Rm9ybnlpbmdzLSwgYWRtaW5pc3RyYXNqb25zLSBvZyBreXJramVkZXBhcnRlbWVudGV0LCBBa2Vyc2dhdGEgNTksIFBvc3Rib2tzIDgwMDQgRGVwLCAwMDMwIE9zbG8gfCBUbGYuIDIyIDI0IDkwIDkwPGJyIC8+RS1wb3N0OiA8YSBocmVmPSJtYWlsdG86cG9zdG1vdHRha0BmYWQuZGVwLm5vIj5wb3N0bW90dGFrQGZhZC5kZXAubm88L2E+IHwgTmV0dHJlZGFrdMO4ciA8YSBocmVmPSJtYWlsdG86YWtsQGZhZC5kZXAubm8iPkFubiBLcmlzdGluIExpbmRhYXM8L2E+IHwgQW5zdmFybGlnIHJlZGFrdMO4cjogPGEgaHJlZj0iL3RlbXBsYXRlcy9QZXJzb25BZG1pbmlzdHJhc2pvbi5hc3B4P2lkPTQ1MDQwMyZlcHNsYW5ndWFnZT1OTyI+RnJvZGUgSmFjb2JzZW48L2E+PC9mb250Pjwvc3Bhbj48L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgMBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGQFVGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3QkbHN0VW5pdmVyc2FsJGN0bDA1JFBhZ2VMaXN0MQ8PZmRkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsSGVhZGVyJGNoaWxkcmVubGlzdCRjaGlsZHBhZ2VzDw9mZGQFVGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3QkbHN0VW5pdmVyc2FsJGN0bDA0JFBhZ2VMaXN0MQ8PZmRkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwMyRQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwMiRQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBXpjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JEFzc29jaWF0ZWRFeHRlcm5hbE9yZyRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbA8PZmRkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwMSRQYWdlTGlzdDEPD2ZkZOgZOjhwQRZKWu7KhtjhcUzXPXTQ" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/fad/dep/org/avdelinger/kommunikasjonsenheten.html?id=439584">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/fad/departemeanta/organisauvdna/Ossodagat/gulahallanovttadat.html?id=439584">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/fad/about-the-ministry/Organisation/Departments/communication-unit.html?id=439584">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/fad.html?id=339"><img class="ProfileLogo" src="/styles/Images/fad/fad_nn.gif" alt='Fornyings-, administrasjons- og kyrkjedepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Fornyings-, administrasjons- og kyrkjedepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Del/Tips' /><span class="open" id="open">Del/Tips</span><span class="display-none" id="close">Lukk</span></a></li>
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/fad/313777.html?id=313777">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/fad/om-departementet/Kontakt.html?id=347">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584', 'Kommunikasjonseininga')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584&amp;description=Kommunikasjonseininga' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Kommunikasjonseininga','','http://www.regjeringen.no/nn/dep/fad/om-departementet/organisasjon/Avdelingar/kommunikasjonseininga.html?id=439584',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+
+    
+
+    
+    <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/fad.html?id=339">Fornyings-, administrasjons...</a> / <a href="/nn/dep/fad/om-departementet.html?id=344">Om departementet</a> / <a href="/nn/dep/fad/om-departementet/organisasjon.html?id=363">Organisasjon</a> / <a href="/nn/dep/fad/om-departementet/organisasjon/Avdelingar.html?id=366">Avdelingar</a> / <span>Kommunikasjonseininga</span>
+</p>
+    <div class="documentTop">        
+        
+        <h1>Kommunikasjonseininga</h1>
+        
+        <div class="pageDescription"><p>Kommunikasjonseininga formidlar spørsmål frå pressa til politisk leiing og fagavdelingane. Vi hjelper presse og publikum med å finne fram til rett avdeling for kommentarar, bakgrunnsstoff og saksopplysningar.</p></div>        
+     </div>
+     
+    <div class="documentBody">
+        
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/FAD/Portrettbilder/FJA_133x180.jpg" alt="Kommunikasjonssjef Frode Jacobsen. Foto: Stian Lysberg Solum, Scanpix" class="portrait" />
+            <div class="content">
+            <h2>
+                <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver-frode-jacobsen.html?id=450403" title="">
+                    Kommunikasjonssjef Frode Jacobsen
+                </a>
+            </h2>
+            <h3 class="subDescription" style="">Pressekontakt</h3>
+                <p class="ArticleInfo">[Fornyings-, administrasjons- og kyrkjedepartementet]</p>
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <script type="text/javascript"><!--
+document.write(dc('', 'C8F6A9E7F4E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8C2C5F6A6A9B8BBE7F4A7A6E6B8ADACE6ACA9AEE1A9E0A9A2AEF6A6A9B8BBF4E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8C2C5F6EFA7A6E6B8ADACE6ACA9AEE1A9E0A9A2AEF2A7BCA4A1A9A5EFF5AEADBAA0E8A9F4'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722244633">22 24 46 33</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr3">
+		<th>
+                            Mobil: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4799523495">995 23  495</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/FAD/Portrettbilder/RBE_133x180.jpg" alt="Senior kommunikasjonsrådgiver Ragnvald Berggrav. Foto: Sara Johannessen" class="portrait" />
+            <div class="content">
+            <h2>
+                <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver.html?id=439586" title="">
+                    Senior kommunikasjonsrådgiver Ragnvald Berggrav
+                </a>
+            </h2>
+            <h3 class="subDescription" style="">Pressekontakt</h3>
+                <p class="ArticleInfo">[Fornyings-, administrasjons- og kyrkjedepartementet]</p>
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <script type="text/javascript"><!--
+document.write(dc('', 'A39DC28C9F83838383838383838383838383838383838383838383838383838383A9AE9DCDC2D3D08C9FCCCD8DD3C6C78DC7C2C58AC28BC6C1D19DCDC2D3D09F8383838383838383838383838383838383838383838383838383838383838383A9AE9D84CCCD8DD3C6C78DC7C2C58AC28BC6C1D199CCD7CFCAC2CE849EC5C6D1CB83C29F'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722244827">22 24 48 27</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr3">
+		<th>
+                            Mobil: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4792455337">924 55 337</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/FAD/Portrettbilder/TAG_133x180.jpg" alt="" class="portrait" />
+            <div class="content">
+            <h2>
+                <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/kommunikasjonsradgiver-tor-audun-gram.html?id=592722" title="">
+                    Kommunikasjonsrådgiver Tor Audun Gram
+                </a>
+            </h2>
+            <h3 class="subDescription" style="">Pressekontakt</h3>
+                <p class="ArticleInfo">[Fornyings-, administrasjons- og kyrkjedepartementet]</p>
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <script type="text/javascript"><!--
+document.write(dc('', '6856094754484848484848484848484848484848484848484848484848484848486265560609181B4754070646180D0C460C090E4109400F091C560609181B5448484848484848484848484848484848484848484848484848484848484848486265564F070646180D0C460C090E4109400F091C52071C040109054F550E0D1A00480954'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722246621">22 24 66 21</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/FAD/Portrettbilder/AKL_133x180.jpg" alt="Kommunikasjonsrådgiver Ann Kristin Lindaas. Foto: Stian Lysberg Solum, Scanpix" class="portrait" />
+            <div class="content">
+            <h2>
+                <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/informasjonsradgiver-ann-kristin-lindaas.html?id=439589" title="">
+                    Senior kommunikasjonsrådgiver Ann Kristin Lindaas
+                </a>
+            </h2>
+            <h3 class="subDescription" style="">Nettredaktør/pressekontakt</h3>
+                <p class="ArticleInfo">[Fornyings-, administrasjons- og kyrkjedepartementet]</p>
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <script type="text/javascript"><!--
+document.write(dc('', '675906485B474747474747474747474747474747474747474747474747474747476D6A5909061714485B080949170203490306014E064F0B0C0659090617145B47474747474747474747474747474747474747474747474747474747474747476D6A5940080949170203490306014E064F0B0C065D08130B0E060A405A0102150F47065B'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722244856">22 24 48 56</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr3">
+		<th>
+                            Mobil: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4745241781">452 41 781</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <div class="content">
+            <h2>
+                <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver-leiv-ellingsen.html?id=439587" title="">
+                    Senior kommunikasjonsrådgiver Leiv Ellingsen
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Fornyings-, administrasjons- og kyrkjedepartementet]</p>
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <script type="text/javascript"><!--
+document.write(dc('', '5A643B75667A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A505764343B2A2975663534742A3F3E743E3B3C733B72363F3664343B2A29667A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A5057647D3534742A3F3E743E3B3C733B72363F3660352E36333B377D673C3F28327A3B66'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722244609">22 24 46 09</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr3">
+		<th>
+                            Mobil: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4791752615">917 52 615</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+ 
+
+    </div>
+    <div class="printContact">
+		<div class="Toolbox">   
+        <h2 class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Kommunikasjonseininga</h3>            
+            <p class="noPadBtm"><img id='Eoi_6' class='obfimg' src='/images/emailimages/c9a871d9863f0562841bc83908c45c14.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_6', '8DB3ECA2B1F9FEE2FDA0E8ADE9E3E8DEB3AFE2E3A3FDE8E9A3E9ECEBCDE0E2E6B7E2F9E1E4ECE0AFB0EBE8FFE5ADECB1'));//--></script></p>
+                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Kommunikasjonseininga">
+                    <tr>
+                        <td>
+                        Telefon:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722244605">22 24 46 05</a></td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                        Faks:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a></td>
+
+                    </tr>  
+                </table>
+                <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Fornyings- og administrasjonsdepartementet<br />Postboks 8004 Dep.<br />0030 Oslo<br /><b>Besøksadresse:</b><br />Akersgt. 59</p>
+        </div>
+    </div>
+     
+    </div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/fad.html?id=339'><img src="/upload/FAD/Profilelementer/FAD_profil_198.jpg" alt="Fornyings-, administrasjons- og kyrkjedepartementet" /></a></div>
+                                        
+                                        
+                                        
+                                        
+    
+        
+                                        
+                                                                        
+                                        
+    <div id="AreaContactInfo" class="Toolbox">   
+        <h2 class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Kommunikasjonseininga</h3>            
+            <p class="noPadBtm"><img id='Eoi_7' class='obfimg' src='/images/emailimages/c9a871d9863f0562841bc83908c45c14.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_7', '566837796A222539267B33763238330568746717093930381F2235372238391538393F313304223E313F040938393F313304223E313F040938393F313304223E313F043238172433223833150938393F3133043A3A23100966663A2235746B323F767439387826333278323730163B393D6C39223A3F373B746B3033243E76376A'));//--></script></p>
+                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Kommunikasjonseininga">
+                    <tr>
+                        <td>
+                        Telefon:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722244605">22 24 46 05</a></td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                        Faks:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722242710">22 24 27 10</a></td>
+
+                    </tr>  
+                </table>
+                <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Fornyings- og administrasjonsdepartementet<br />Postboks 8004 Dep.<br />0030 Oslo<br /><b>Besøksadresse:</b><br />Akersgt. 59</p>
+        </div>
+    </div>
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/fad.html?id=339">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/aktuelt.html?id=340" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/Tema.html?id=341" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/pressesenter.html?id=342" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/dokument.html?id=313081" title=''>
+            Dokument</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/fad/om-departementet.html?id=344" title=''>
+            Om departementet</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/fornyings--og-kyrkjeminister-rigmor-aasr.html?id=582206" title=''>
+            Fornyings-, administrasjons- og kyrkjeminister Rigmor Aasrud</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/Anna-politisk-leiing.html?id=361" title=''>
+            Anna politisk leiing</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/Administrativ-leiing.html?id=362" title=''>
+            Administrativ leiing</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/fad/om-departementet/organisasjon.html?id=363" title=''>
+            Organisasjon</a>
+    <ul><li class="Selected">
+        <a class="ISI_MENU Selected" href="/nn/dep/fad/om-departementet/organisasjon/Avdelingar.html?id=366" title=''>
+            Avdelingar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/organisasjon/Historikk.html?id=367" title=''>
+            Historikk</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/Underliggjande-etatar.html?id=115196" title=''>
+            Underliggjande etatar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/Tilknytta-verksemder.html?id=115197" title=''>
+            Tilknytta verksemder</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/ansvarsomrade.html?id=364" title=''>
+            Ansvarsområde</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/dep/styrer-rad-og-utvalg.html?id=440970" title=''>
+            Styrer, råd og utvalg</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/om-departementet/Kontakt.html?id=347" title=''>
+            Kontakt</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/Lyd-og-bilete.html?id=345" title=''>
+            Lyd og bilete</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fad/dokumentarkiv.html?id=437346" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="left"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: NO-BOK; mso-fareast-language: NO-BOK; mso-bidi-language: AR-SA"><font face="Verdana" size="1">Fornyings-, administrasjons- og kyrkjedepartementet, Akersgata 59, Postboks 8004 Dep, 0030 Oslo | Tlf. 22 24 90 90<br />E-post: <img id='Eoi_8' class='obfimg' src='/images/emailimages/2f7c3e284ba45bc96f6a465e77a5344e.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_8', '675906485B08094917020349030601270C061313080A13140817594508094917020349030601270C061313080A131408175D08130B0E060A455A0102150F47065B'));//--></script> | Nettredaktør <img id='Eoi_9' class='obfimg' src='/images/emailimages/bee0ad8bd8668b4ed25aeeade2abb96c.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_9', '142A753B28677575707A7D58347A7D60677D665F347A7A552A367B7A3A6471703A70757254787F752E7B60787D757936297271667C347528'));//--></script> | Ansvarlig redaktør: <a href="/nb/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver-frode-jacobsen.html?id=450403">Frode Jacobsen</a></font></span></p></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

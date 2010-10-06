@@ -1,0 +1,682 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Biletarkiv - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Biletarkiv" />
+<meta name="DCSext.regj.pagetype" content="Konfigurert Søk" />
+<meta name="DCSext.regj.pageid" content="574" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="kud" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Biletarkiv" />
+<meta name="DC.Title" content="Biletarkiv" />
+<meta name="DC.Creator" content="Kulturdepartementet" />
+<meta name="DC.Date" content="2006-11-13" />
+<meta name="DC.Date.Available" content="2006-11-13" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Konfigurert Søk" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/kud/pressesenter/Biletarkiv.html?id=574" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Kulturdepartementet" />
+<meta name="creation_date" content="Mon, 13 Nov 2006 11:04:00 GMT" />
+<meta name="LAST-MODIFIED" content="Mon, 13 Nov 2006 11:04:34 GMT" />
+<meta name="REVISED" content="Mon, 13 Nov 2006 11:04:34 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/kud.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/kud/pressesenter/Biletarkiv.html?id=574" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTU3MDM0MzI3D2QWAmYPZBYIZg8VAgJubgJubmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAXfCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJCaWxldGFya2l2IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IktvbmZpZ3VyZXJ0IFMmIzI0ODtrIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSI1NzQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0ia3VkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IkJpbGV0YXJraXYiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iQmlsZXRhcmtpdiIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9Ikt1bHR1cmRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA2LTExLTEzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDYtMTEtMTMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iS29uZmlndXJlcnQgUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvbm4vZGVwL2t1ZC9wcmVzc2VzZW50ZXIvQmlsZXRhcmtpdi5odG1sP2lkPTU3NCIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iS3VsdHVyZGVwYXJ0ZW1lbnRldCIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9Ik1vbiwgMTMgTm92IDIwMDYgMTE6MDQ6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iTW9uLCAxMyBOb3YgMjAwNiAxMTowNDozNCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJNb24sIDEzIE5vdiAyMDA2IDExOjA0OjM0IEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0ibm4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAU0L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTU3NCZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFL1NpZGEgYmxpciB2aXN0IHDDpSBueW5vcnNrLiAoYWt0aXZ0IHNwcsOla3ZhbGcpHwAFB055bm9yc2sfBAU3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTU3NCZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwMFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBAU3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTU3NCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFSFRoaXMgcGFnZSBpcyBub3QgYXZhaWxhYmxlIGluIGVuZ2xpc2guIENsaWNrIGhlcmUgdG8gc2hvdyBlbmdsaXNoIG1lbnVzLh8ABQdFbmdsaXNoHwQFNC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD01NzQmZXBzbGFuZ3VhZ2U9RU5kZAICDxUBASBkAgMPZBYMZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk9kAgEPFQEVRnJhbXNpZGEgdGlsIHBvcnRhbGVuZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9bm4tTk8ZUmVnamVyaW5nYSBTdG9sdGVuYmVyZyBJSTIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1ubi1OT2QCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTQ1JmVwc2xhbmd1YWdlPW5uLU5PZAIEDxUBE0t1bHR1cmRlcGFydGVtZW50ZXRkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQcU8O4ayBob3MgS3VsdHVyZGVwYXJ0ZW1lbnRldARTw7hrEVF1aWNrU2VhcmNoQnV0dG9uBFPDuGtkAgMPDxYCHwAFHFPDuGsgcMOlIGhlaWxlIHJlZ2plcmluZ2Eubm9kZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUChQFodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9ubi9kZXAva3VkL3ByZXNzZXNlbnRlci9CaWxldGFya2l2Lmh0bWw/aWQ9NTc0JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1ubi1OTx8ABQlUZW1hIEEtw4VkZAILD2QWAgIBDw8WBB8EBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0zMTM4NTQmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUNTmV0dHN0YWRza2FydGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPW5uLU5PHwAFBUhqZWxwZGQCDQ8PFgQfBAU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU1MyZlcHNsYW5ndWFnZT1ubi1OTx8ABQdLb250YWt0ZGQCBA9kFgQCAQ9kFgYCAQ9kFgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYQAgMPDxYCHwAFEU1vdHRha2FycyBlLXBvc3Q6ZGQCBw8PFgIeDEVycm9yTWVzc2FnZQUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCQ8PFgIfBgUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCCw8PFgIfAAULRGluIGUtcG9zdDpkZAIPDw8WAh8GBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAIRDw8WAh8GBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAITDw8WAh8ABQhNZWxkaW5nOmRkAhcPDxYCHwAFCVNlbmQgdGlwc2RkAgMPZBYSAgEPFgIfAWhkAgMPZBYCZg8WAh8ABZMCRHUgZXIgaGVyOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk8iPnJlZ2plcmluZ2Eubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU0NSZlcHNsYW5ndWFnZT1ubi1OTyI+S3VsdHVyZGVwYXJ0ZW1lbnRldDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NTQ4JmVwc2xhbmd1YWdlPW5uLU5PIj5QcmVzc2VzZW50ZXI8L2E+IC8gPHNwYW4+QmlsZXRhcmtpdjwvc3Bhbj5kAgQPFQEKQmlsZXRhcmtpdmQCBQ8WAh8BaBYCZg8VAQBkAgYPFQEAZAIHD2QWAgIGD2QWCgIBD2QWBAIDDw8WAh8AZWRkAgcPDxYCHwBlZGQCAw9kFgICAQ9kFgoCEQ8PFgIfBgVNDQogICAgICAgICAgICAgICAgICAgICAgICBFLXBvc3RhZHJlc3NlIG3DpSBmeWxsYXN0IGlubg0KICAgICAgICAgICAgICAgICAgICBkZAITDw8WAh8GBUENCiAgICAgICAgICAgICAgICAgICAgICAgIEZlaWwgZS1wb3N0Zm9ybWF0DQogICAgICAgICAgICAgICAgICAgIGRkAhUPZBYCAgMPEA8WAh4LXyFEYXRhQm91bmRnZGQWAGQCFw8PFgIfAAUIRm9ydHNldHRkZAIZDw8WAh8ABQZBdmJyeXRkZAIED2QWAgIDDw8WAh8ABRBUaWxiYWtlIHRpbCBzaWRhZGQCBQ9kFgQCBw8PFgIfAAUSQXZzbHV0dCBhYm9ubmVtZW50ZGQCCQ8PFgIfAAUTRm9ydHNldHQgYWJvbm5lbWVudGRkAgYPZBYCAgMPDxYCHwAFEFRpbGJha2UgdGlsIHNpZGFkZAIIDw8WAh8BaGQWBGYPFgIfAWhkAgIPFgIfAWhkAgkPZBYCAgMPZBYCZg8WAh4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcAFghmD2QWEAIBDxYCHgRocmVmBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgyNDA5JmVwc2xhbmd1YWdlPW5uFgICAQ8PFgYfBWgeDl9ib3VuZFBhZ2VMaW5rAonGIx4JX2xhc3RUeXBlBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHghkaXNhYmxlZGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMj0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgyNDA5JmVwc2xhbmd1YWdlPW5uAB1CaWxkZXIgYXYgTG90dGUgR3JlcHAgS251dHNlbgEyATMMZGlzcGxheTpub25lAAEzAGQCAw8WAh8BaBYCZg8PFgYfBWgfCgKJxiMfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCicYjHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHg1fbGFuZ3VhZ2VUZXh0BTcvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19iaWxkZWFya2l2ZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8NBTsvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfYmlsZGVhcmtpdmRkAgsPDxYCHwFoZBYCZg8VAQBkAgEPZBYQAgEPFgIfCQU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU4MjQwMiZlcHNsYW5ndWFnZT1ubhYCAgEPDxYGHwVoHwoCgsYjHwsFB0RlZmF1bHRkFgJmD2QWAmYPFgIfDGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMj0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgyNDAyJmVwc2xhbmd1YWdlPW5uABtCaWxkZXIgYXYgQW5uaWtlbiBIdWl0ZmVsZHQBMgEzDGRpc3BsYXk6bm9uZQABMwBkAgMPFgIfAWgWAmYPDxYGHwVoHwoCgsYjHwsFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8KAoLGIx8LBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfCWQfAWgWBAIBDw8WAh8NBTcvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19iaWxkZWFya2l2ZGQCAg8VAQBkAgkPFgQfCWQfAWgWAgIBDw8WAh8NBTsvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfYmlsZGVhcmtpdmRkAgsPDxYCHwFoZBYCZg8VAQBkAgIPZBYQAgEPFgIfCQU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU4MjY0MCZlcHNsYW5ndWFnZT1ubhYCAgEPDxYGHwVoHwoC8McjHwsFB0RlZmF1bHRkFgJmD2QWAmYPFgIfDGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMj0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTgyNjQwJmVwc2xhbmd1YWdlPW5uAB1CaWxkZXIgYXYgTHVibmEgSmFmZmVyeSBGamVsbAEyATMMZGlzcGxheTpub25lAAEzAGQCAw8WAh8BaBYCZg8PFgYfBWgfCgLwxyMfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoC8McjHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHw0FNy90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2JpbGRlYXJraXZkZAICDxUBAGQCCQ8WBB8JZB8BaBYCAgEPDxYCHw0FOy90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19iaWxkZWFya2l2ZGQCCw8PFgIfAWhkFgJmDxUBAGQCAw9kFhACAQ8WAh8JBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTg0OTUxJmVwc2xhbmd1YWdlPW5uFgICAQ8PFgYfBWgfCgL32SMfCwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8MZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01ODQ5NTEmZXBzbGFuZ3VhZ2U9bm4AHUJpbGRlciBhdiBSb2dlciBSZW1tZSBTb2xoZWltATIBMwxkaXNwbGF5Om5vbmUAATMAZAIDDxYCHwFoFgJmDw8WBh8FaB8KAvfZIx8LBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfCgL32SMfCwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwlkHwFoFgQCAQ8PFgIfDQU3L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfYmlsZGVhcmtpdmRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDQU7L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX2JpbGRlYXJraXZkZAILDw8WAh8BaGQWAmYPFQEAZAIKD2QWAmYPFgIfAWcWAgIDD2QWAmYPZBYOAgEPZBYCZg8VAkAvdGVtcGxhdGVzL1BlcnNvbkFkbWluaXN0cmFzam9uLmFzcHg/aWQ9NDk5MDUwJmVwc2xhbmd1YWdlPW5uLU5PIEtvbW11bmlrYXNqb25zc2plZiBIYW5uZSBHasO4cnR6ZAICDxUCHm1haWx0bzpoYW5uZS5nam9ydHpAa3VkLmRlcC5ubwBkAgUPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ3MDgzIj4yMiAyNCA3MCA4MzwvYT5kAgcPZBYCAgEPZBYCZg8VAT88YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0Nzk1NzU1MjEzIj45NSA3NSA1MiAxMzwvYT5kAgkPFgIfAWgWBGYPZBYCZg8PFgIfAWhkZAIBD2QWAmYPFQEAZAILDxYCHwFoFgICAQ8PFgIfAWhkZAINDw8WCB8FaB8KAuq6Hh8LBQdEZWZhdWx0HwFoZGQCBQ9kFgYCAQ9kFgICAQ9kFgJmDxYCHgVjbGFzcwUKRGVwUHJvZmlsZRYCZg8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTQ1JmVwc2xhbmd1YWdlPW5uLU5PZAIHD2QWAgIBD2QWCgICDw8WAh8BaGQWAmYPZBYCAgEPFgQfCAsrBAgfAWhkAgQPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysECB8BaGQCBg8PFgIfAWhkFgJmD2QWAgIBDxYEHwgLKwQIHwFoZAIIDw8WAh8BaGQWAmYPZBYCAgEPFgIfAWhkAgoPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysEAx8BaGQCDQ9kFgICAQ9kFgJmDxYCHwFnFgICAw9kFgJmD2QWDgIBD2QWAmYPFQJAL3RlbXBsYXRlcy9QZXJzb25BZG1pbmlzdHJhc2pvbi5hc3B4P2lkPTQ5OTA1MCZlcHNsYW5ndWFnZT1ubi1OTyBLb21tdW5pa2Fzam9uc3NqZWYgSGFubmUgR2rDuHJ0emQCAg8VAh5tYWlsdG86aGFubmUuZ2pvcnR6QGt1ZC5kZXAubm8AZAIFD2QWAgIBD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0NzA4MyI+MjIgMjQgNzAgODM8L2E+ZAIHD2QWAgIBD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDc5NTc1NTIxMyI+OTUgNzUgNTIgMTM8L2E+ZAIJDxYCHwFoFgRmD2QWAmYPDxYCHwFoZGQCAQ9kFgJmDxUBAGQCCw8WAh8BaBYCAgEPDxYCHwFoZGQCDQ8PFggfBWgfCgLquh4fCwUHRGVmYXVsdB8BaGRkAgMPZBYCAgEPZBYEAgEPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTQ1JmVwc2xhbmd1YWdlPW5uLU5PGkZyYW1zaWRhIHRpbCBkZXBhcnRlbWVudGV0ZAIDDxYGHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM1NDUeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBYsAgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NTQ2JmVwc2xhbmd1YWdlPW5uLU5PAAdBa3R1ZWx0ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NTQ3JmVwc2xhbmd1YWdlPW5uLU5PAARUZW1hZAIHD2QWAmYPFQEIU2VsZWN0ZWRkAggPZBYCZg8VBAA3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTU0OCZlcHNsYW5ndWFnZT1ubi1OTwAMUHJlc3Nlc2VudGVyZAIKD2QWAmYPFQEAZAILD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTU2NCZlcHNsYW5ndWFnZT1ubi1OTwAPUHJlc3NlbWVsZGluZ2FyZAIND2QWAmYPFQEAZAIOD2QWAmYPFQMxL3RlbXBsYXRlcy9jYWxlbmRhci5hc3B4P2lkPTU2NSZlcHNsYW5ndWFnZT1ubi1OTwAIS2FsZW5kZXJkAhAPZBYCZg8VAQhTZWxlY3RlZGQCEQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD01NzQmZXBzbGFuZ3VhZ2U9bm4tTk8ACkJpbGV0YXJraXZkAhMPZBYCZg8VAQBkAhQPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjA0OTM1JmVwc2xhbmd1YWdlPW5uLU5PACFPZmZlbnRsZWcgZWxla3Ryb25pc2sgcG9zdGpvdXJuYWxkAhgPZBYCZg8VAQBkAhkPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzE0MDk2JmVwc2xhbmd1YWdlPW5uLU5PAAhEb2t1bWVudGQCGw9kFgJmDxUBAGQCHA9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NTAmZXBzbGFuZ3VhZ2U9bm4tTk8AEE9tIGRlcGFydGVtZW50ZXRkAh4PZBYCZg8VAQBkAh8PZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTUxJmVwc2xhbmd1YWdlPW5uLU5PAA1MeWQgb2cgYmlsZXRlZAIhD2QWAmYPFQEAZAIiD2QWAmYPFQMkL3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9MTE1MzIyAA1Eb2t1bWVudGFya2l2ZAIFD2QWAgIBD2QWAmYPFQHCAzxhIGhyZWY9Im1haWx0bzpwb3N0bW90dGFrQGt1ZC5kZXAubm8iPkt1bHR1cmRlcGFydGVtZW50ZXQ8L2E+LCBBa2Vyc2d0IDU5IChSNSksIFBvc3RhZHJlc3NlOiBLdWx0dXJkZXBhcnRlbWVudGV0LCBQb3N0Ym9rcyA4MDMwIERlcCwgMDAzMCBPc2xvfCBUbGYuIDIyIDI0Jm5ic3A7NzgmbmJzcDszOSwgRmFrczogMjIgMjQgOTUgNTAsPGJyIC8+RS1wb3N0OiA8YSBocmVmPSJtYWlsdG86cG9zdG1vdHRha0BrdWQuZGVwLm5vIj5wb3N0bW90dGFrQGt1ZC5kZXAubm88L2E+fCBOZXR0cmVkYWt0w7hyOiA8YSBocmVmPSJtYWlsdG86V2VuY2hlLVN0YWR2ZW4uTnlib0BrdWQuZGVwLm5vIj5XZW5jaGUgU3RhZHZlbiBOeWJvPC9hPiwgQW5zdmFybGlnIHJlZGFrdMO4cjogPGEgaHJlZj0ibWFpbHRvOmhhbm5lLmdqb3J0ekBrdWQuZGVwLm5vIj5IYW5uZSBHasO4cnR6PC9hPjxiciAvPjxiciAvPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYCwVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAWRAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkSG9yaW5nc0ZseXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWZAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSREb2N1bWVudFJlbGF0aW9uc2hpcDIkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFkgFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JFN0YW5kYXJkR3JvdXBpbmdEb2N1bWVudENvbnRleHQxJEhvcmluZ3NOb3RhdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRk42y0K0xdEC3DADPULU62I5XSGlc=" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/kud/pressesenter/bildearkiv.html?id=574">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/kud/pressesenter/Biletarkiv.html?id=574">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/kkd/preassaguovdda/Govvaarkiiva.html?id=574">Sámegiella</a></li>
+        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is not available in english. Click here to show english menus." class="ISI_IGNORE" href="/en/dep/kud/pressesenter/bildearkiv.html?id=574">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/kud.html?id=545"><img class="ProfileLogo" src="/styles/Images/kud/kud_nn.gif" alt='Kulturdepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Kulturdepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/kud/pressesenter/Biletarkiv.html?id=574&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/kud/Nettstadskart.html?id=313854">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/kud/om-departementet/kontakt.html?id=553">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/kud/pressesenter/Biletarkiv.html?id=574" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/kud/pressesenter/Biletarkiv.html?id=574', 'Biletarkiv')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/kud/pressesenter/Biletarkiv.html?id=574&amp;description=Biletarkiv' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Biletarkiv','','http://www.regjeringen.no/nn/dep/kud/pressesenter/Biletarkiv.html?id=574',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                             
+    
+    
+
+    
+   <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
+    <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/kud.html?id=545">Kulturdepartementet</a> / <a href="/nn/dep/kud/pressesenter.html?id=548">Pressesenter</a> / <span>Biletarkiv</span>
+</p>
+    <div class="documentTop">
+      <h1>Biletarkiv</h1>
+      
+            
+      <div style="clear:both"></div>
+      
+    </div>
+   
+    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">  
+         
+         
+
+            
+       
+        <div class="documentBody">                  
+            
+        <div class="ArticleView"> 
+            <a href="/nn/dep/kud/dep/politisk_ledelse/statssekretar-lotte-grepp-knutsen-/bilder-av-lotte-grepp-knutsen.html?id=582409" class="ISI_IGNORE">
+                <img src="/upload/KKD/Ingressbilder/Annet/Statssekretaer_Lotte-Grepp-Knutsen_FotoYngveKveine_100x75.jpg" alt="Statssekretær Lotte Grepp Knutsen. Foto: Yngve Kveine" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/kud/dep/politisk_ledelse/statssekretar-lotte-grepp-knutsen-/bilder-av-lotte-grepp-knutsen.html?id=582409" title="">
+                        Bilder av Lotte Grepp Knutsen
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/kud/dep/kulturminister-anniken-huitfeldt/bilder-av-anniken-huitfeldt.html?id=582402" class="ISI_IGNORE">
+                <img src="/upload/KKD/Ingressbilder/Statsråden/huitfeldt_100x75_FotoScanpix.jpg" alt="Kulturminister Anniken Huitfeldt. Foto: Scanpix" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/kud/dep/kulturminister-anniken-huitfeldt/bilder-av-anniken-huitfeldt.html?id=582402" title="">
+                        Bilder av Anniken Huitfeldt
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/kud/dep/politisk_ledelse/statssekretar-lubna-jaffery-fjell/bilder-av-lubna-jaffery-fjell.html?id=582640" class="ISI_IGNORE">
+                <img src="/upload/KKD/Ingressbilder/Annet/lubna-100x75_FotoMagnusRidola.jpg" alt="Statssekretær Lubna Jaffery Fjell. Foto: Magnus Ridola" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/kud/dep/politisk_ledelse/statssekretar-lubna-jaffery-fjell/bilder-av-lubna-jaffery-fjell.html?id=582640" title="">
+                        Bilder av Lubna Jaffery Fjell
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            <a href="/nn/dep/kud/dep/politisk_ledelse/politisk-radgiver-roger-remme-solheim/bilder-av-roger-remme-solheim.html?id=584951" class="ISI_IGNORE">
+                <img src="/upload/KUD/Bilder/Ingressbilder/Politisk_ledelse/Roger_Solheim_FotoKUD_100x75_hvitbakgrunn.jpg" alt="Roger Solheim Foto: Kulturdepartementet" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/nn/dep/kud/dep/politisk_ledelse/politisk-radgiver-roger-remme-solheim/bilder-av-roger-remme-solheim.html?id=584951" title="">
+                        Bilder av Roger Remme Solheim
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+ 
+           
+        </div>  
+       
+         
+
+    
+         
+    </div>  
+	<div class="printContact">
+		<div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox">   
+    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_H2Header" class="ToolboxHeader">
+       
+                        Kontaktinformasjon
+                    
+    </h2>
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/nn/dep/kud/om-departementet/organisasjon/avdelingar/informasjonseininga/kommunikasjonssjef-hanne-gjortz.html?id=499050" class="structuredDataEmail">Kommunikasjonssjef Hanne Gjørtz</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/a7994f8a10b3ec6552f15fc9d40837f2.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', 'F3CD92DCCF87809C83DE96D3979D96A0CDD4D4CE969F8A8780D3D49C9DDD839697DD978698B38987819C9994DD969D9D929BC99C879F9A929ED4CE9596819BD392CF'));//--></script></p>
+					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
+						 <tr>
+	<td>
+                        Telefon:
+                    </td>
+	<td><a class="telephoneLink" href="tel:+4722247083">22 24 70 83</a></td>
+</tr>
+
+						 <tr>
+	<td>
+                        Mobil:
+                    </td>
+	<td><a class="telephoneLink" href="tel:+4795755213">95 75 52 13</a></td>
+</tr>
+ 
+						 
+					</table>
+					
+					            
+					<!-- Separator -->
+            </div>
+         
+</div>
+	</div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/kud.html?id=545'><img src="/upload/KKD/Profilelementer/profilbilde.jpg" alt="" /></a></div>
+                                        
+                                        
+    
+    
+
+                                        
+                                        
+    
+
+     
+     
+    
+    
+     
+        
+                                        
+                                                                        
+                                        
+    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo" class="Toolbox">   
+    <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_H2Header" class="ToolboxHeader">
+       
+                        Kontaktinformasjon
+                    
+    </h2>
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/nn/dep/kud/om-departementet/organisasjon/avdelingar/informasjonseininga/kommunikasjonssjef-hanne-gjortz.html?id=499050" class="structuredDataEmail">Kommunikasjonssjef Hanne Gjørtz</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/a7994f8a10b3ec6552f15fc9d40837f2.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', '033D622C3F77706C732E6623676D66503D24243E666F7A777023246C6D2D7366672D677668437977716C69642D666D6D626B396C776F6A626E243E6566716B23623F'));//--></script></p>
+					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
+						 <tr>
+	<td>
+                        Telefon:
+                    </td>
+	<td><a class="telephoneLink" href="tel:+4722247083">22 24 70 83</a></td>
+</tr>
+
+						 <tr>
+	<td>
+                        Mobil:
+                    </td>
+	<td><a class="telephoneLink" href="tel:+4795755213">95 75 52 13</a></td>
+</tr>
+ 
+						 
+					</table>
+					
+					            
+					<!-- Separator -->
+            </div>
+         
+</div> 
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/kud.html?id=545">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/aktuelt.html?id=546" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/Tema.html?id=547" title=''>
+            Tema</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/kud/pressesenter.html?id=548" title=''>
+            Pressesenter</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/pressesenter/pressemeldingar.html?id=564" title=''>
+            Pressemeldingar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/pressesenter/Kalender.html?id=565" title=''>
+            Kalender</a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/nn/dep/kud/pressesenter/Biletarkiv.html?id=574" title=''>
+            Biletarkiv</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/aktuelt/Offentleg-elektronisk-postjournal---OEP.html?id=604935" title=''>
+            Offentleg elektronisk postjournal</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/Dokument.html?id=314096" title=''>
+            Dokument</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/om-departementet.html?id=550" title=''>
+            Om departementet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/kud/Lyd-og-bilete.html?id=551" title=''>
+            Lyd og bilete</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/dokumentarkiv.html?id=115322" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><img id='Eoi_3' class='obfimg' src='/images/emailimages/c29217ad03a81400e3ed4d7c4cc95a5e.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '85BBE4AAB9F1E0F1EBE0E8E0F1F7E4F5E0E1F7F0F1E9F0CEBBA7EAEBABF5E0E1ABE1F0EEC5EEE4F1F1EAE8F1F6EAF5BFEAF1E9ECE4E8A7B8E3E0F7EDA5E4B9'));//--></script>, Akersgt 59 (R5), Postadresse: Kulturdepartementet, Postboks 8030 Dep, 0030 Oslo| Tlf. 22 24&nbsp;78&nbsp;39, Faks: 22 24 95 50,<br />E-post: <img id='Eoi_4' class='obfimg' src='/images/emailimages/c29217ad03a81400e3ed4d7c4cc95a5e.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_4', '053B642A396A6B2B7560612B61706E456E6471716A6871766A753B276A6B2B7560612B61706E456E6471716A6871766A753F6A71696C646827386360776D256439'));//--></script>| Nettredaktør: <img id='Eoi_5' class='obfimg' src='/images/emailimages/a8a5fd017159fa9fbdc1a6fcddaa2c2e.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_5', 'F6C897D9CA99948FB8D6989380929782A5D6939E959893A1C8D49998D8869392D892839DB699948FB8D8989380929782A5DB939E959893A1CC99829A9F979BD4CB9093849ED697CA'));//--></script>, Ansvarlig redaktør: <img id='Eoi_6' class='obfimg' src='/images/emailimages/a7994f8a10b3ec6552f15fc9d40837f2.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_6', 'CEF0AFE1F2B4BABC36A489EEABA0A0AF86F0ECA1A0E0BEABAAE0AABBA58EB4BABCA1A4A9E0ABA0A0AFA6F4A1BAA2A7AFA3ECF3A8ABBCA6EEAFF2'));//--></script><br /><br /></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

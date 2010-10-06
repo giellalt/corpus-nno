@@ -1,0 +1,1630 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	S&#248;k - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Søk" />
+<meta name="DCSext.regj.pagetype" content="Søk" />
+<meta name="DCSext.regj.pageid" content="86008" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="regjeringano" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Søk" />
+<meta name="KEYWORDS" content="Søk" />
+<meta name="DC.Creator" content="regjeringa.no" />
+<meta name="DC.Subject" content="Søk" />
+<meta name="DC.Date" content="2006-11-14" />
+<meta name="DC.Date.Available" content="2006-11-14" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Søk" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/sok.html?id=86008" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="regjeringa.no" />
+<meta name="creation_date" content="Tue, 14 Nov 2006 14:47:00 GMT" />
+<meta name="LAST-MODIFIED" content="Tue, 14 Nov 2006 14:47:51 GMT" />
+<meta name="REVISED" content="Tue, 14 Nov 2006 14:47:51 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/sok.html?id=86008" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTExOTU4ODM1NA9kFgJmD2QWCGYPFQICbm4Cbm5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQF1Qo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdldHlwZSIgY29udGVudD0iUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9Ijg2MDA4IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2FubyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJTJiMyNDg7ayIgLz4NCjxtZXRhIG5hbWU9IktFWVdPUkRTIiBjb250ZW50PSJTJiMyNDg7ayIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9InJlZ2plcmluZ2Eubm8iIC8+DQo8bWV0YSBuYW1lPSJEQy5TdWJqZWN0IiBjb250ZW50PSJTJiMyNDg7ayIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDYtMTEtMTQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwNi0xMS0xNCIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJTJiMyNDg7ayIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9ubi9zb2suaHRtbD9pZD04NjAwOCIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0icmVnamVyaW5nYS5ubyIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IlR1ZSwgMTQgTm92IDIwMDYgMTQ6NDc6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iVHVlLCAxNCBOb3YgMjAwNiAxNDo0Nzo1MSBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJUdWUsIDE0IE5vdiAyMDA2IDE0OjQ3OjUxIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0ibm4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBNiNjdGwwMF9GdWxsUmVnaW9uX0NlbnRlckFuZFJpZ2h0UmVnaW9uX21haW5TZWFyY2hGaWVsZGQCCw8WAh8BaBYCZg8VARAjQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAUyL3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9ODYwMDgmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS9TaWRhIGJsaXIgdmlzdCBww6Ugbnlub3Jzay4gKGFrdGl2dCBzcHLDpWt2YWxnKR8ABQdOeW5vcnNrHwQFNS90ZW1wbGF0ZXMvU2VhcmNoUGFnZS5hc3B4P2lkPTg2MDA4JmVwc2xhbmd1YWdlPW5uLU5PZGQCAg8PFgYfAwU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8EBTUvdGVtcGxhdGVzL1NlYXJjaFBhZ2UuYXNweD9pZD04NjAwOCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFKkNsaWNrIGhlcmUgdG8gZGlzcGxheSB0aGlzIHBhZ2UgaW4gZW5nbGlzaB8ABQdFbmdsaXNoHwQFNS90ZW1wbGF0ZXMvU2VhcmNoUGFnZS5hc3B4P2lkPTg2MDA4JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIBDxUBFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPW5uLU5PGVJlZ2plcmluZ2EgU3RvbHRlbmJlcmcgSUkyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9bm4tTk9kAgMPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIEDxUBDXJlZ2plcmluZ2Eubm9kAgYPZBYSZg9kFgRmDw8WAh8BaGQWAmYPZBYEAgIPFQQcU8O4ayBww6UgaGVpbGUgcmVnamVyaW5nYS5ubwRTw7hrEVF1aWNrU2VhcmNoQnV0dG9uBFPDuGtkAgMPDxYEHwAFHFPDuGsgcMOlIGhlaWxlIHJlZ2plcmluZ2Eubm8fAWhkZAIBDw8WBh4LX2lzRWRpdGFibGVoHglfbGFzdFR5cGUFB0RlZmF1bHQfAWdkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQJraHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vbm4vc29rLmh0bWw/aWQ9ODYwMDgmYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBAU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPW5uLU5PHwAFCVRlbWEgQS3DhWRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTIyMzI3NCZlcHNsYW5ndWFnZT1ubi1OTx8ABQ1OZXR0c3RhZHNrYXJ0ZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUFSGplbHBkZAINDw8WBB8EBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjI0NjM3JmVwc2xhbmd1YWdlPW5uLU5PHwAFB0tvbnRha3RkZAIED2QWBAIBD2QWEAIDDw8WAh8ABQ1yZWdqZXJpbmdhLm5vZGQCBQ8PFgIfAAUKUm9vdFBvcnRhbGRkAggPFQEEU8O4a2QCCw8PFgIfAGUWAh4Jb25rZXlkb3duBZ4CaWYoZXZlbnQud2hpY2ggfHwgZXZlbnQua2V5Q29kZSl7aWYgKChldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgPT0gMTMpKSB7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fYnRuU2VhcmNoJykuZm9jdXMoKTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9idG5TZWFyY2gnKS5jbGljaygpO3JldHVybiBmYWxzZTt9fSBlbHNlIHtyZXR1cm4gdHJ1ZX07IGQCDQ8PFgQeD0NvbW1hbmRBcmd1bWVudAUmJm9mZnNldD0wJmhpdHM9MjAmc29sdXRpb249Z292Jmxhbmc9bm4fAAUEU8O4a2RkAg8PDxYCHwAFCU51bGxzdGlsbGRkAhEPDxYEHwAFClPDuGtlaGplbHAfBAVAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ0NjcwNSZlcHNsYW5ndWFnZT1ubi1OT2RkAhkPZBYGAgEPZBYCZg8WAh4FY2xhc3MFDGRvY3VtZW50SW5mbxYCAgEPDxYCHwAFGVZpc2VyIHRyZWZmIDEtMjAgYXYgOTk4NzdkZAIEDw8WBB8FaB8GBQdEZWZhdWx0ZGQCBQ9kFgJmDxYCHgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwAWKGYPZBYCZg8PFgIfAWhkFgJmDxUBAGQCAQ9kFhACAQ8WBB4EaHJlZgUxL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTYyMDM1NSZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYGHwVoHg5fYm91bmRQYWdlTGluawLD7iUfBgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjEvdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjIwMzU1JmVwc2xhbmd1YWdlPW5uLU5PACVGb3J0c2F0dCBtZXN0IHN0w7h0dGUgdmVkIHN0dWRpZXN0YXJ0ATIBMwxkaXNwbGF5Om5vbmUAATNHPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bTnloZWl0LCBLdW5uc2thcHNkZXBhcnRlbWVudGV0LCAwNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBWgfDALD7iUfBgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwwCw+4lHwYFB0RlZmF1bHRkZAIGDxUBxQI8YmxvY2txdW90ZT4gU3RhdHNyw6VkIFRvcmEgQWFzbGFuZCB2aWwgbsOlIGFuYmVmYWxlIFN0b3J0aW5nZXQgb20gaWtrZSDDpSBlbmRyZSB1dGJldGFsaW5nc3J1dGluZW4gZm9yIHN0dWRpZXN0w7h0dGVuLiBJIGZvcnNsYWcgdGlsIGJ1ZHNqZXR0IGZvciBLdW5uc2thcHNkZXBhcnRlbWVudGV0IHNvbSBibGUgcHJlc2VudGVydCBpIGRhZyBmb3Jlc2xvIEFhc2xhbmQgYXQgc3R1ZGllc3TDuHR0ZW4gc2t1bGxlIGJldGFsZXMgdXQgaSBsaWtlIHN0b3JlIHN1bW1lciBwZXIgbcOlbmVkLiBEZXR0ZSB2YWt0ZSBzdGVya2UgcmVha3Nqb25lciBmcmE8L2Jsb2NrcXVvdGU+ZAIHDxYEHwtkHwFoFgQCAQ8PFgIeDV9sYW5ndWFnZVRleHQFMi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX255aGV0ZGQCAg8VAQBkAgkPFgQfC2QfAWgWAgIBDw8WAh8NBTYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfbnloZXRkZAILD2QWAmYPFQEAZAICD2QWEAIBDxYEHwsFPS90ZW1wbGF0ZXMvQnJldnRpbFN0b3J0aW5nZXQuYXNweD9pZD02MjAyODcmZXBzbGFuZ3VhZ2U9bm4tTk8fAWgWAgIBDw8WBh8FaB8MAv/tJR8GBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyPS90ZW1wbGF0ZXMvQnJldnRpbFN0b3J0aW5nZXQuYXNweD9pZD02MjAyODcmZXBzbGFuZ3VhZ2U9bm4tTk8AT1N2YXIgcMOlIHNrcmlmdGxpZyBzcMO4cnNtw6VsIG5yLiAxNzg5IGZyYSBzdG9ydGluZ3NyZXByZXNlbnRhbnQgU3ZlaW4gRmzDpXR0ZW4BMgEzACBQcm9kdWtzam9uc3RpbHNrdWRkIGdydW5udmlsa8OlcgEzXDxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0JyZXYgdGlsIFN0b3J0aW5nZXQsIExhbmRicnVrcy0gb2cgbWF0ZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8FaB8MAv/tJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAL/7SUfBgUHRGVmYXVsdGRkAgYPFQFiPGJsb2NrcXVvdGU+IEhlbGUgYnJldmV0IGZyYSBsYW5kYnJ1a3MtIG9nIG1hdG1pbmlzdGVyZW4gYXYgMDUuMTAuMjAxMCAocGRmLCA1MTIgS2IpIDwvYmxvY2txdW90ZT5kAgcPFgQfC2QfAWgWBAIBDw8WAh8NBUAvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19icmV2X3RpbF9zdG9ydGluZ2V0ZGQCAg8VAQBkAgkPFgQfC2QfAWgWAgIBDw8WAh8NBUQvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfYnJldiB0aWwgc3RvcnRpbmdldGRkAgsPZBYCZg8VAQBkAgMPZBYQAgEPFgQfCwUyL3RlbXBsYXRlcy9SZWdlbHZlcmsuYXNweD9pZD02MjAzNTQmZXBzbGFuZ3VhZ2U9bm4fAWgWAgIBDw8WBh8FaB8MAsLuJR8GBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyMi90ZW1wbGF0ZXMvUmVnZWx2ZXJrLmFzcHg/aWQ9NjIwMzU0JmVwc2xhbmd1YWdlPW5uAIEBSMO4cmluZ3N1dHRhbGVsc2VyIChIw7hyaW5nOiBGb3JzbGFnIHRpbCBlbmRyaW5nZXIgaSB1dGxlbmRpbmdzZm9yc2tyaWZ0ZW4gLSBrb250cm9sbCBtZWQgcmVpc2VuZGUgbWVsbG9tIFN2YWxiYXJkIG9nIGZhc3RsYW5kZXQpATIBMwxkaXNwbGF5Om5vbmUAATNYPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bSMO4eXJpbmdzdXR0YWxlLCBKdXN0aXMtIG9nIHBvbGl0aWRlcGFydGVtZW50ZXQsIDA1LjEwLjIwMTBdPC9wPmQCAw8WAh8BaBYCZg8PFgYfBWgfDALC7iUfBgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwwCwu4lHwYFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2jDuHJpbmdzdXR0YWxlbHNlZGQCAg8VAQBkAgkPFgQfC2QfAWgWAgIBDw8WAh8NBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfaG9lcmluZ3N1dHRhbGVsc2VkZAILD2QWAmYPFQEAZAIED2QWEAIBDxYEHwsFMS90ZW1wbGF0ZXMvTnloZXQuYXNweD9pZD02MjAzNDUmZXBzbGFuZ3VhZ2U9bm4tTk8fAWgWAgIBDw8WBh8FaB8MArnuJR8GBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyMS90ZW1wbGF0ZXMvTnloZXQuYXNweD9pZD02MjAzNDUmZXBzbGFuZ3VhZ2U9bm4tTk8AH0F0b21rb21taXNqb25zbcO4dGV0IGkgTXVybWFuc2sBMgEzDGRpc3BsYXk6bm9uZQABM0Y8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltOeWhlaXQsIFV0YW5yaWtzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwCue4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MArnuJR8GBQdEZWZhdWx0ZGQCBg8VAcQCPGJsb2NrcXVvdGU+IDMuIOKAkyA0LiBva3RvYmVyIGxlZGV0IHN0YXRzZWtyZXTDpnIgRXJpayBMYWhuc3RlaW4gZGVuIG5vcnNrZSBkZWxlZ2Fzam9uZW4gdW5kZXIgZGV0IMOlcmxpZ2UgbcO4dGV0IGkgZGVuIG5vcnNrLXJ1c3Npc2tlIGF0b21rb21taXNqb25lbi4gTcO4dGV0IGZhbnQgc3RlZCBpIE11cm1hbnNrLiBIZXIgcmVkZWdqw7hyZXMgZm9yIGRlIG1lc3Qgc2VudHJhbGUgcHVua3RlciBzb20gZnJlbWtvbSB1bmRlciBtw7h0ZXQuIE3DuHRldCBibGUgZXR0ZXJmdWxndCBhdiBwcm9zamVrdGJlc8O4ayB0aWwgQW5kcmVqZXZidWt0YS48L2Jsb2NrcXVvdGU+ZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQUyL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfbnloZXRkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ueWhldGRkAgsPZBYCZg8VAQBkAgUPZBYQAgEPFgQfCwU0L3RlbXBsYXRlcy9NZWRpYU9iamVrdC5hc3B4P2lkPTYyMDMzNSZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwwCr+4lHwYFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI0L3RlbXBsYXRlcy9NZWRpYU9iamVrdC5hc3B4P2lkPTYyMDMzNSZlcHNsYW5ndWFnZT1ubgArLSBFdCBidWRzamV0dCBmb3IgYXJiZWlkLCB2ZWxmZXJkIG9nIG1pbGrDuAEyATMMZGlzcGxheTpub25lAAEzTjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0x5ZCBvZyBiaWxkZSwgU3RhdHNtaW5pc3RlcmVucyBrb250b3IsIDA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8MAq/uJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKv7iUfBgUHRGVmYXVsdGRkAgYPFQGcATxibG9ja3F1b3RlPiBSZWdqZXJpbmdlbiBsYSA1LiBva3RvYmVyIGZyZW0gc3RhdHNidWRzamV0dGV0IDIwMTEuIFNlIHZpZGVvIG1lZCBzdGF0c21pbmlzdGVyZW4gZGVyIGhhbiBnaXIgZW4ga29ydCBwcmVzZW50YXNqb24gYXYgYnVkc2pldHRldC4gPC9ibG9ja3F1b3RlPmQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FOC90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX21lZGlhb2JqZWt0ZGQCAg8VAQBkAgkPFgQfC2QfAWgWAgIBDw8WAh8NBTwvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfbWVkaWFvYmpla3RkZAILD2QWAmYPFQEAZAIGD2QWEAIBDxYEHwsFPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMzMyZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYEHwVoHwwCre4lZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMzMyZlcHNsYW5ndWFnZT1ubi1OTwAXTcO4dGUgbWVkIFRyb21zLWLDuG5kZXIBMgEzDGRpc3BsYXk6bm9uZQABM1g8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltLYWxlbmRlcmhlbmRpbmcsIExhbmRicnVrcy0gb2cgbWF0ZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwCre4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MAq3uJR8GBQdEZWZhdWx0ZGQCBg8VAZQBPGJsb2NrcXVvdGU+IExhbmRicnVrcy0gb2cgbWF0bWluaXN0ZXIgTGFycyBQZWRlciBCcmVrayBtw7h0ZXIgYsO4bmRlciBmcmEgVHJvbXMgc29tIGVyIHJhbW1ldCBhdiBhdmxpbmdzc2thZGVyLiBMZXMgcHJlc3NlaW52aXRhc2pvbi4gPC9ibG9ja3F1b3RlPmQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FPS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2thbGVuZGVyaGVuZGVsc2VkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FQS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19rYWxlbmRlcmhlbmRlbHNlZGQCCw9kFgJmDxUBAGQCBw9kFhACAQ8WBB8LBTEvdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjIwMzI0JmVwc2xhbmd1YWdlPW5uLU5PHwFoFgICAQ8PFgYfBWgfDAKk7iUfBgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjEvdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjIwMzI0JmVwc2xhbmd1YWdlPW5uLU5PAClGb3JhbiBza2plbWEgZm9yIGhlbGTDuGducyBvbXNvcmdzcGxhc3NlcgEyATMMZGlzcGxheTpub25lAAEzTzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W055aGVpdCwgSGVsc2UtIG9nIG9tc29yZ3NkZXBhcnRlbWVudGV0LCAwNS4xMC4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBWgfDAKk7iUfBgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwwCpO4lHwYFB0RlZmF1bHRkZAIGDxUB0wI8YmxvY2txdW90ZT4gUmVnamVyaW5nZW4gbGlnZ2VyIGZvcmFuIHNramVtYSBmb3Igw6UgbsOlIHNpdHQgbcOlbCBvbSBoZWxkw7hnbnMgb21zb3Jnc3BsYXNzZXIgaSAyMDE1LCBvZyBsZWdnZXIgb2dzw6UgaSAyMDExIGlubiBlbiByYW1tZSBww6UgMi4wMDAgaGVsZMO4Z25zIG9tc29yZ3NwbGFzc2VyLCBzb20gZXIgNzAwIG1lciBlbm4gZGV0IHNvbSBrcmV2ZXMgZm9yIMOlIG7DpSBtw6VsZXQgb20gMTIuMDAwLiDigKIgUmVnamVyaW5nZW4gaGFyIHNvbSBtw6VsIMOlIGdpIHRpbHNhZ24gdGlsIGJ5Z2dpbmcgYXYgMTIuMDAwIGhlbGTDuGducyBvbXNvcmdzcGxhc3NlcjwvYmxvY2txdW90ZT5kAgcPFgQfC2QfAWgWBAIBDw8WAh8NBTIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19ueWhldGRkAgIPFQEAZAIJDxYEHwtkHwFoFgICAQ8PFgIfDQU2L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX255aGV0ZGQCCw9kFgJmDxUBAGQCCA9kFhACAQ8WBB8LBTcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjIwMzIzJmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfDAKj7iUfBgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjIwMzIzJmVwc2xhbmd1YWdlPW5uAB9MYW5kc2RlbHNzYW1saW5nIFBQVCBvZyBTdGF0cGVkATIBMwxkaXNwbGF5Om5vbmUAATNOPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bVGFsZS9hcnRpa2tlbCwgS3VubnNrYXBzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwCo+4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MAqPuJR8GBQdEZWZhdWx0ZGQCBg8VAY8BPGJsb2NrcXVvdGU+IEtyaXN0aW4gSGFsdm9yc2VucyB0YWxlIHRpbCBsYW5kc2RlbHNzYW1saW5nIFBQVCBvZyBTdGF0cGVkIGkgQm9kw7ggMjguIHNlcHRlbWJlciAyMDEwLiBMZW5rZSB0aWwgdGFsZW4gaSBwZGYtZm9ybWF0IDwvYmxvY2txdW90ZT5kAgcPFgQfC2QfAWgWBAIBDw8WAh8NBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua190YWxlL2FydGlra2VsZGQCAg8VAQBkAgkPFgQfC2QfAWgWAgIBDw8WAh8NBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfdGFsZS9hcnRpa2tlbGRkAgsPZBYCZg8VAQBkAgkPZBYQAgEPFgQfCwU9L3RlbXBsYXRlcy9Ccm9zanlyZU9nVmVpbGVkbmluZy5hc3B4P2lkPTYyMDMxNyZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwwCne4lHwYFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI9L3RlbXBsYXRlcy9Ccm9zanlyZU9nVmVpbGVkbmluZy5hc3B4P2lkPTYyMDMxNyZlcHNsYW5ndWFnZT1ubgArRmFrdGFhcms6IEJhcm5laGFnZXIgaSBzdGF0c2J1ZHNqZXR0ZXQgMjAxMQEyATMMZGlzcGxheTpub25lAAEzWjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1JldHRsZWlpbmdhciBvZyBicm9zanlyYXIsIEt1bm5za2Fwc2RlcGFydGVtZW50ZXQsIDA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8MAp3uJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKd7iUfBgUHRGVmYXVsdGRkAgYPFQHMAjxibG9ja3F1b3RlPiBGcmEgMS4gamFudWFyIDIwMTEgb3ZlcnRhciBrb21tdW5lbmUgaGVsZSBhbnN2YXJldCBmb3Igw6UgZmluYW5zaWVyZSBiYXJuZWhhZ2VuZS4gTWVucyBhbmRyZSBvcHBnYXZlciBpbm5lbiBibGFudCBhbm5ldCBoZWxzZSBvZyB1dGRhbm5pbmcgYWxsZXJlZGUgaGFyIHbDpnJ0IOKAnXJhbW1lZmluYW5zaWVydOKAnSBpIGVuIMOlcnJla2tlLCBoYXIgYmFybmVoYWdlb21yw6VkZXQgdsOmcnQgdW5udGF0dCBww6UgZ3J1bm4gYXYgYXJiZWlkZXQgbWVkIMOlIHNpa3JlIGV0IHRpbHN0cmVra2VsaWcgYW50YWxsIHBsYXNzZXIuIEkgU29yaWE8L2Jsb2NrcXVvdGU+ZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQVAL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfYnJvc2p5cmUvdmVpbGVkbmluZ2RkAgIPFQEAZAIJDxYEHwtkHwFoFgICAQ8PFgIfDQVEL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX2Jyb3NqeXJlL3ZlaWxlZG5pbmdkZAILD2QWAmYPFQEAZAIKD2QWEAIBDxYEHwsFPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMwOSZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYEHwVoHwwCle4lZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMwOSZlcHNsYW5ndWFnZT1ubi1OTwAdT3NsbyBCb2xpZy0gb2cgQnlwbGFuZm9yZW5pbmcBMgEzDGRpc3BsYXk6bm9uZQABM1g8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltLYWxlbmRlcmhlbmRpbmcsIExhbmRicnVrcy0gb2cgbWF0ZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwCle4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MApXuJR8GBQdEZWZhdWx0ZGQCBg8VAfMBPGJsb2NrcXVvdGU+IFN0YXRzc2VrcmV0w6ZyIGkgTGFuZGJydWtzLSBvZyBtYXRkZXBhcnRlbWVudGV0IE9sYSBULiBIZWdnZW0gaG9sZGVyIGlubmxlZ2cgb2cgZGVsdGFyIGkgZGViYXR0IGhvcyBPc2xvIEJvbGlnLSBvZyBCeXBsYW5mb3JlbmluZy4gVGVtYTogQXJlYWxwb2xpdGlrayBvZyB1dGJ5Z2dpbmdzc3RyYXRlZ2kgaSBPc2xvLW9tcsOlZGV0LiBTdGVkOiBIw6VuZHZlcmtlcmVuLCBPc2xvLiA8L2Jsb2NrcXVvdGU+ZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQU9L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfa2FsZW5kZXJoZW5kZWxzZWRkAgIPFQEAZAIJDxYEHwtkHwFoFgICAQ8PFgIfDQVBL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX2thbGVuZGVyaGVuZGVsc2VkZAILD2QWAmYPFQEAZAILD2QWEAIBDxYEHwsFPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMwOCZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYEHwVoHwwClO4lZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyPC90ZW1wbGF0ZXMvS2FsZW5kZXJoZW5kZWxzZS5hc3B4P2lkPTYyMDMwOCZlcHNsYW5ndWFnZT1ubi1OTwAjTm9yZ2VzbWVzdGVyc2thcCBpIGtqw7h0dHByb2R1a3RlciABMgEzDGRpc3BsYXk6bm9uZQABM1g8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltLYWxlbmRlcmhlbmRpbmcsIExhbmRicnVrcy0gb2cgbWF0ZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwClO4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MApTuJR8GBQdEZWZhdWx0ZGQCBg8VAaMBPGJsb2NrcXVvdGU+IExhbmRicnVrcy0gb2cgbWF0bWluaXN0ZXIgTGFycyBQZWRlciBCcmVrayBkZWxlciB1dCBoZWRlcnNwcmlzIHVuZGVyIE5vcmdlc21lc3RlcnNrYXAgaSBrasO4dHRwcm9kdWt0ZXIuIFN0ZWQ6IEt1bGluYXJpc2sgQWthZGVtaSwgT3Nsby4gPC9ibG9ja3F1b3RlPmQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FPS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2thbGVuZGVyaGVuZGVsc2VkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FQS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19rYWxlbmRlcmhlbmRlbHNlZGQCCw9kFgJmDxUBAGQCDA9kFhACAQ8WBB8LBTwvdGVtcGxhdGVzL0thbGVuZGVyaGVuZGVsc2UuYXNweD9pZD02MjAzMDcmZXBzbGFuZ3VhZ2U9bm4tTk8fAWgWAgIBDw8WBB8FaB8MApPuJWRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjwvdGVtcGxhdGVzL0thbGVuZGVyaGVuZGVsc2UuYXNweD9pZD02MjAzMDcmZXBzbGFuZ3VhZ2U9bm4tTk8AJktvbmZlcmFuc2Ugb20gZm9yZWJ5Z2dpbmcgYXYgbWF0YXZmYWxsATIBMwxkaXNwbGF5Om5vbmUAATNYPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bS2FsZW5kZXJoZW5kaW5nLCBMYW5kYnJ1a3MtIG9nIG1hdGRlcGFydGVtZW50ZXQsIDA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8MApPuJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKT7iUfBgUHRGVmYXVsdGRkAgYPFQG9ATxibG9ja3F1b3RlPiBMYW5kYnJ1a3MtIG9nIG1hdG1pbmlzdGVyIExhcnMgUGVkZXIgQnJla2sgaG9sZGVyIGlubmxlZ2cgcMOlIGtvbmZlcmFuc2Ugb20gZm9yZWJ5Z2dpbmcgYXYgbWF0YXZmYWxsLiBTdGVkOk7DpnJpbmdzbGl2ZXRzIEh1cywgTWFqb3JzdHVhLiBBcnIuOiBOSE8gTWF0IG9nIERyaWtrZS4gPC9ibG9ja3F1b3RlPmQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FPS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2thbGVuZGVyaGVuZGVsc2VkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FQS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19rYWxlbmRlcmhlbmRlbHNlZGQCCw9kFgJmDxUBAGQCDQ9kFhACAQ8WBB8LBTMvdGVtcGxhdGVzL1JhcHBvcnQuYXNweD9pZD02MjAzMDYmZXBzbGFuZ3VhZ2U9bm4tTk8fAWgWAgIBDw8WBh8FaB8MApLuJR8GBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyMy90ZW1wbGF0ZXMvUmFwcG9ydC5hc3B4P2lkPTYyMDMwNiZlcHNsYW5ndWFnZT1ubi1OTwAnQW5hbHlzZSBhdiBrb3N0bmFkZXIgaSBiYXJuZWhhZ2VuZSAyMDA5ATIBMwxkaXNwbGF5Om5vbmUAATNIPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUmFwcG9ydCwgS3VubnNrYXBzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwVoHwwCku4lHwYFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8FaB8MApLuJR8GBQdEZWZhdWx0ZGQCBg8VAdABPGJsb2NrcXVvdGU+IEbDvHJzdCBvZyBIw7h2ZXJzdGFkIGhhciBww6Ugb3BwZHJhZyBmcmEgS3VubnNrYXBzZGVwYXJ0ZW1lbnRldCBnamVubm9tZsO4cnQgZW4gdW5kZXJzw7hrZWxzZSBvbSBrb3N0bmFkZXIgaSBiYXJuZWhhZ2VuZSBmb3IgMjAwOS4gTGVzIHVuZGVyc8O4a2Vsc2VuIG9tIGtvc3RuYWRlciBpIGJhcm5laGFnZW5lIGhlci4gPC9ibG9ja3F1b3RlPmQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FNC90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3JhcHBvcnRkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FOC90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yYXBwb3J0ZGQCCw9kFgJmDxUBAGQCDg9kFhACAQ8WBB8LBTYvdGVtcGxhdGVzL0hvZXJpbmdzbm90YXQuYXNweD9pZD02MjAzMDMmZXBzbGFuZ3VhZ2U9bm4fAWgWAgIBDw8WBh8FaB8MAo/uJR8GBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyNi90ZW1wbGF0ZXMvSG9lcmluZ3Nub3RhdC5hc3B4P2lkPTYyMDMwMyZlcHNsYW5ndWFnZT1ubgBFSMO4cmluZ3Nub3RhdCAoSMO4cmluZyDigJMgU3RvbHRlbmJlcmd1dHZhbGdldDogUmFwcG9ydCBvbSBuYXJrb3Rpa2EpATIBMwxkaXNwbGF5Om5vbmUAATNXPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bSMO4eXJpbmdzbm90YXQsIEhlbHNlLSBvZyBvbXNvcmdzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8FaB8MAo/uJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKP7iUfBgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfaMO4cmluZ3Nub3RhdGRkAgIPFQEAZAIJDxYEHwtkHwFoFgICAQ8PFgIfDQU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX2hvZXJpbmdzbm90YXRkZAILD2QWAmYPFQEAZAIPD2QWEAIBDxYEHwsFMi90ZW1wbGF0ZXMvUmVnZWx2ZXJrLmFzcHg/aWQ9NjIwMzAyJmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfDAKO7iUfBgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjIvdGVtcGxhdGVzL1JlZ2VsdmVyay5hc3B4P2lkPTYyMDMwMiZlcHNsYW5ndWFnZT1ubgBKSMO4cmluZ3N1dHRhbGVsc2VyIChIw7hyaW5nIOKAkyBTdG9sdGVuYmVyZ3V0dmFsZ2V0OiBSYXBwb3J0IG9tIG5hcmtvdGlrYSkBMgEzDGRpc3BsYXk6bm9uZQABM1g8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltIw7h5cmluZ3N1dHRhbGUsIEhlbHNlLSBvZyBvbXNvcmdzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8FaB8MAo7uJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKO7iUfBgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfaMO4cmluZ3N1dHRhbGVsc2VkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FQi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ob2VyaW5nc3V0dGFsZWxzZWRkAgsPZBYCZg8VAQBkAhAPZBYQAgEPFgQfCwU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTYyMDMwNCZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwwCkO4lHwYFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTYyMDMwNCZlcHNsYW5ndWFnZT1ubgARSMO4cmluZ3NpbnN0YW5zZXIBMgEzDGRpc3BsYXk6bm9uZQABM148cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltSZWRha3Nqb25lbGwgYXJ0aWtrZWwsIEhlbHNlLSBvZyBvbXNvcmdzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8FaB8MApDuJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKQ7iUfBgUHRGVmYXVsdGRkAgYPFQHCAjxibG9ja3F1b3RlPiBBZHJlc3NlbGlzdGUgRGVwYXJ0ZW1lbnRlbmUgSMO4eWVzdGVyZXR0IExhZ21hbm5zcmV0dGVuZSBEb21zdG9sc2FkbWluaXN0cmFzam9uZW4gQWx0ZXJuYXRpdiB0aWwgdm9sZCDigJMgYmVoYW5kbGluZ3MtIG9nIGtvbXBldGFuc2VzZW50ZXIgQXBvdGVrZm9yZW5pbmdlbiBCYXJuZW9tYnVkZXQgQnJlZHR2ZWl0IGZlbmdzZWwsIGZvcnZhcmluZ3MtIG9nIHNpa3JpbmdzYW5zdGFsdCBEYXRhdGlsc3luZXQgRGVuIHJldHRzbWVkaXNpbnNrZSBrb21taXNqb24gRGV0IGtyaW1pbmFsaXRldHNmb3JlYnlnZ2VuZGUgcsOlZDwvYmxvY2txdW90ZT5kAgcPFgQfC2QfAWgWBAIBDw8WAh8NBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILD2QWAmYPFQEAZAIRD2QWEAIBDxYEHwsFMC90ZW1wbGF0ZXMvQnJldi5hc3B4P2lkPTYyMDMwNSZlcHNsYW5ndWFnZT1ubi1OTx8BaBYCAgEPDxYGHwVoHwwCke4lHwYFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATIwL3RlbXBsYXRlcy9CcmV2LmFzcHg/aWQ9NjIwMzA1JmVwc2xhbmd1YWdlPW5uLU5PAERIw7hyaW5nc2JyZXYgKEjDuHJpbmcg4oCTIFN0b2x0ZW5iZXJndXR2YWxnZXQ6IFJhcHBvcnQgb20gbmFya290aWthKQEyATMMZGlzcGxheTpub25lAAEzVjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0jDuHlyaW5nc2JyZXYsIEhlbHNlLSBvZyBvbXNvcmdzZGVwYXJ0ZW1lbnRldCwgMDUuMTAuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8FaB8MApHuJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKR7iUfBgUHRGVmYXVsdGRkAgYPFQHIAjxibG9ja3F1b3RlPiBTZSBhZHJlc3NlbGlzdGUgRGVyZXMgcmVmIFbDpXIgcmVmIERhdG8gMjAxMDAzNTg0L1NNTSA1LjEwLjIwMTAgSMO4cmluZyDigJMgU3RvbHRlbmJlcmd1dHZhbGdldDogUmFwcG9ydCBvbSBuYXJrb3Rpa2EgSGVsc2UtIG9nIG9tc29yZ3NkZXBhcnRlbWVudGV0IHNlbmRlciBtZWQgZGV0dGUgcMOlIGjDuHJpbmcgU3RvbHRlbmJlcmd1dHZhbGdldHMgcmFwcG9ydCBvbSBuYXJrb3Rpa2EuIFJhcHBvcnRlbiBlciB1dGFyYmVpZGV0IGF2IGV0IHV0dmFsZyBsZWRldCBhdiBUaG9ydmFsZCBTdG9sdGVuYmVyZywgb2cgb3ZlcmxldmVydDwvYmxvY2txdW90ZT5kAgcPFgQfC2QfAWgWBAIBDw8WAh8NBTkvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19ow7hyaW5nc2JyZXZkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FPS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ob2VyaW5nc2JyZXZkZAILD2QWAmYPFQEAZAISD2QWEAIBDxYEHwsFOS90ZW1wbGF0ZXMvSG9lcmluZ3Nkb2t1bWVudC5hc3B4P2lkPTYyMDMwMSZlcHNsYW5ndWFnZT1ubh8BaBYCAgEPDxYGHwVoHwwCje4lHwYFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI5L3RlbXBsYXRlcy9Ib2VyaW5nc2Rva3VtZW50LmFzcHg/aWQ9NjIwMzAxJmVwc2xhbmd1YWdlPW5uADVIw7hyaW5nIOKAkyBTdG9sdGVuYmVyZ3V0dmFsZ2V0OiBSYXBwb3J0IG9tIG5hcmtvdGlrYQEyATMMZGlzcGxheTpub25lAAEzWjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0jDuHlyaW5nc2Rva3VtZW50LCBIZWxzZS0gb2cgb21zb3Jnc2RlcGFydGVtZW50ZXQsIDA1LjEwLjIwMTBdPC9wPmQCAw8WAh8BaBYCZg8PFgYfBWgfDAKN7iUfBgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwwCje4lHwYFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8LZB8BaBYEAgEPDxYCHw0FPS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX2jDuHJpbmdzZG9rdW1lbnRkZAICDxUBAGQCCQ8WBB8LZB8BaBYCAgEPDxYCHw0FQS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ob2VyaW5nc2Rva3VtZW50ZGQCCw9kFgJmDxUBHkjDuHlyaW5nc2ZyaXN0OiA3LiBqYW51YXIgMjAxMWQCEw9kFhACAQ8WBB8LBTcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjIwMjk4JmVwc2xhbmd1YWdlPW5uHwFoFgICAQ8PFgYfBWgfDAKK7iUfBgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjIwMjk4JmVwc2xhbmd1YWdlPW5uABXDhSBzdMO4dHRlIGVyIMOlIGxlZGUBMgEzDGRpc3BsYXk6bm9uZQABM008cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltUYWxlL2FydGlra2VsLCBGb3JzdmFyc2RlcGFydGVtZW50ZXQsIDA1LjEwLjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8FaB8MAoruJR8GBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBWgfDAKK7iUfBgUHRGVmYXVsdGRkAgYPFQHJAjxibG9ja3F1b3RlPiBLcm9uaWtrIGF2IGZvcnN2YXJzbWluaXN0ZXIgR3JldGUgRmFyZW1vIGkgVkcsIDUuIG9rdG9iZXIgMjAxMCBEZXQgaGFuZGxlciBpa2tlIG9tIG9yZGJydWsgVsOlcmUgc29sZGF0ZXIgZ2rDuHIgZW4gZ2xpbXJlbmRlIGlubnNhdHMg4oCTIG9nIGZvcnRqZW5lciBzdG9yIGFuZXJramVubmVsc2UgZm9yIGRldCEgSmVnIGVyIGVuaWcgbWVkIFZHcyBIYW5uZSBTa2FydHZlaXQgaSBvbXRyZW50IGFsdCBodW4gc2tyaXZlciBzaXN0IGzDuHJkYWcuIEphIOKAkyB2aSBza2FsIGhhIHN0b3IgdGFraMO4eWRlIGZvciBodmEgc29sZGF0ZXI8L2Jsb2NrcXVvdGU+ZAIHDxYEHwtkHwFoFgQCAQ8PFgIfDQU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfdGFsZS9hcnRpa2tlbGRkAgIPFQEAZAIJDxYEHwtkHwFoFgICAQ8PFgIfDQU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3RhbGUvYXJ0aWtrZWxkZAILD2QWAmYPFQEAZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQIkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAw8WBh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcBNB4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFiACAQ9kFgJmDxUBAGQCAg9kFgJmDxUDOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMTUwJmVwc2xhbmd1YWdlPW5uLU5PAAdBa3R1ZWx0ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM6L3RlbXBsYXRlcy9Qb3J0YWxUZW1hRm9yc2lkZS5hc3B4P2lkPTIwOCZlcHNsYW5ndWFnZT1ubi1OTwAEVGVtYWQCBw9kFgJmDxUBAGQCCA9kFgJmDxUDNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDM5NDYyJmVwc2xhbmd1YWdlPW5uLU5PAAxQcmVzc2VzZW50ZXJkAgoPZBYCZg8VAQBkAgsPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM5Mjc5JmVwc2xhbmd1YWdlPW5uLU5PAAhEb2t1bWVudGQCDQ9kFgJmDxUBAGQCDg9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00Mzc0OTUmZXBzbGFuZ3VhZ2U9bm4ADEx5ZCBvZyBiaWxkZWQCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDNC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NDMzMTQmZXBzbGFuZ3VhZ2U9bm4tTk8ADU9tIHJlZ2plcmluZ2FkAhMPZBYCZg8VAQBkAhQPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ1MDQyOSZlcHNsYW5ndWFnZT1ubi1OTwANT20gbmV0dHN0YWRlbmQCFg9kFgJmDxUBAGQCFw9kFgJmDxUDNi90ZW1wbGF0ZXMvU2VhcmNoUGFnZS5hc3B4P2lkPTExNTMyMiZlcHNsYW5ndWFnZT1ubi1OTwANRG9rdW1lbnRhcmtpdmQCBQ9kFgICAQ9kFgJmDxUB+AE8cCBhbGlnbj0iY2VudGVyIj5EZXBhcnRlbWVudGVuZXMgc2VydmljZXNlbnRlciwgRWluYXIgR2VyaGFyZHNlbnMgcGxhc3MgMywgUG9zdGJva3MgODEyOSBEZXAsIDAwMzIgT1NMTyZuYnNwOzxiciAvPlRsZjogMjIgMjQgOTAgOTAgfCBFLXBvc3Q6IDxhIGhyZWY9Im1haWx0bzpyZWRha3Nqb25lbkBkc3MuZGVwLm5vIj48Zm9udCBjb2xvcj0iIzgwMDA4MCI+cmVkYWtzam9uZW5AZHNzLmRlcC5ubzwvZm9udD48L2E+Jm5ic3A7PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYAwVDY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbA8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZG30vjd4fNF3e/2Afo1two9VQAdv" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_mainSearchField">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/sok.html?id=86008">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/sok.html?id=86008">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/ohcan.html?id=86008">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/search.html?id=86008">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn.html?id=4"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_nn.gif" alt='regjeringa.no' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <p><strong>Tips:</strong><br />Du kan avgrense søket vidare ved å skrive inn fleire søkeord eller bruke navigatorane i høgre spalte.</p>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/sok.html?id=86008&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/Nettstadskart.html?id=223274">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/kontakt.html?id=224637">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+             
+                
+                
+                
+
+                <div id="searchHolder">
+                    
+    
+
+                    <div id="searchBox" class="documentTop">
+                        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+	                    <h1>Søk</h1>  
+                         
+                       
+                                                
+                            <input name="ctl00$FullRegion$CenterAndRightRegion$mainSearchField" type="text" id="ctl00_FullRegion_CenterAndRightRegion_mainSearchField" tabindex="1" class="mainSearchField" ViewState="true" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl00_FullRegion_CenterAndRightRegion_btnSearch').focus();document.getElementById('ctl00_FullRegion_CenterAndRightRegion_btnSearch').click();return false;}} else {return true}; " />
+                            <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$btnSearch" value="Søk" id="ctl00_FullRegion_CenterAndRightRegion_btnSearch" tabindex="2" class="SearchButMain" />
+                            <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$btnClearSearch" value="Nullstill" id="ctl00_FullRegion_CenterAndRightRegion_btnClearSearch" tabindex="3" class="SearchResetMain" />
+                            <a id="ctl00_FullRegion_CenterAndRightRegion_soeketipsside" class="soeketips" href="/nn/Om-nettstaden/Hjelp/sokehjelp.html?id=446705">Søkehjelp</a>
+                                
+                         <div id="ctl00_FullRegion_CenterAndRightRegion_suggestedQuery">
+	
+                                <a id="ctl00_FullRegion_CenterAndRightRegion_btnSuggestedQuery" href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$btnSuggestedQuery','')"></a>
+                         
+</div>              	 
+	                </div> 
+                </div>
+				
+                    
+
+                              
+                
+        <div class="tabbedmenu">
+            <ul>
+    
+        
+                <li class='searchtab selected'>
+                    <a id="ctl00_FullRegion_CenterAndRightRegion_TabbControl_SourceNavigatorRepeater_ctl01_SourceNavigatorElementRepeater_ctl00_SourceNavigatorHyperLink">regjeringa.no (99877)</a>
+                </li>
+            
+                <li class='searchtab '>
+                    <a id="ctl00_FullRegion_CenterAndRightRegion_TabbControl_SourceNavigatorRepeater_ctl01_SourceNavigatorElementRepeater_ctl01_SourceNavigatorHyperLink" href="/nn/dokumentarkiv.html?pageRef=86008&amp;querystring=&amp;offset=0&amp;sortby=dcdate&amp;hits=1&amp;searchview=governmentnnsppublished&amp;solution=archive&amp;lang=nn&amp;id=115322">Dokumentarkiv (42446)</a>
+                </li>
+            
+    
+        </ul> </div>
+    
+                
+                <div id="AreaContent">    
+                    <div id="ctl00_FullRegion_CenterAndRightRegion_Sorting_searchResultTop" class="documentInfo NavigatorTop NavigatorBtm">
+	
+    <div id="ctl00_FullRegion_CenterAndRightRegion_Sorting_sortByDiv" class="sortBy"> 
+        <strong>SORTER ETTER: </strong>         
+        <a id="ctl00_FullRegion_CenterAndRightRegion_Sorting_SortByRelevance" href="/nn/sok.html?querystring=&amp;offset=0&amp;sortby=default&amp;sortorder=DESC&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">Relevans</a>
+        <a id="ctl00_FullRegion_CenterAndRightRegion_Sorting_SortByPublished" disabled="disabled" class="selected">Sist publisert</a>
+        <a id="ctl00_FullRegion_CenterAndRightRegion_Sorting_SortByAlphabetic" href="/nn/sok.html?querystring=&amp;offset=0&amp;sortby=sortablepagename&amp;sortorder=ASC&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">Alfabetisk</a>            
+    </div>                      
+
+</div>
+
+<div id="ctl00_FullRegion_CenterAndRightRegion_HitsControl_searchHitSummary" class="documentInfo"> 
+    <span id="ctl00_FullRegion_CenterAndRightRegion_HitsControl_lbHitInfo">Viser treff 1-20 av 99877</span>
+</div>     
+
+
+    <div class="documentPaging">
+        <ul>
+                            
+    
+            <li>
+                
+                <span id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl01_Span1" class="selected">1</span>                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl02_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">2</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl03_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=40&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">3</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl04_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=60&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">4</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl05_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=80&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">5</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl06_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=100&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">6</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl07_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=120&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">7</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl08_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=140&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">8</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl09_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=160&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">9</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl10_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=180&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">10</a>
+                                            
+            </li>
+    
+            <li id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl11_Li2" class="leftspace">
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingTop_TopPagingRepeater_ctl11_HyperLink3" href="/nn/sok.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">Neste ></a>
+            </li>                        
+        </ul>
+        </div>
+                                               
+                        
+                        <div class="documentBody">
+                        
+                        
+    
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/kd/Aktuelt/Nyheiter/2010/fortsatt-mest-stotte-ved-studiestart.html?id=620355" title="">
+                        Fortsatt mest støtte ved studiestart
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Nyheit, Kunnskapsdepartementet, 05.10.2010]</p>
+                <p>Statsråd Tora Aasland vil nå anbefale Stortinget om ikke å endre utbetalingsrutinen for studiestøtten</p>
+                
+                <blockquote> Statsråd Tora Aasland vil nå anbefale Stortinget om ikke å endre utbetalingsrutinen for studiestøtten. I forslag til budsjett for Kunnskapsdepartementet som ble presentert i dag foreslo Aasland at studiestøtten skulle betales ut i like store summer per måned. Dette vakte sterke reaksjoner fra</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl01_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/lmd/aktuelt/Svar-til-Stortinget/Brev-til-Stortinget/2010/svar-pa-skriftlig-sporsmal-nr-1789-fra-s.html?id=620287" title="">
+                        Svar på skriftlig spørsmål nr. 1789 fra stortingsrepresentant Svein Flåtten
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="">Produksjonstilskudd grunnvilkår</h3>
+                <p class="ArticleInfo">[Brev til Stortinget, Landbruks- og matdepartementet, 05.10.2010]</p>
+                
+                
+                <blockquote> Hele brevet fra landbruks- og matministeren av 05.10.2010 (pdf, 512 Kb) </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl02_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/jd/dok/hoeringer/hoeringsdok/2010/horing-forslag-til-endringer-i-utlending/horingsuttalelser-2.html?id=620354" title="">
+                        Høringsuttalelser (Høring: Forslag til endringer i utlendingsforskriften - kontroll med reisende mellom Svalbard og fastlandet)
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Høyringsuttale, Justis- og politidepartementet, 05.10.2010]</p>
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl03_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/ud/Aktuelt/Nyheiter/2010/atomkommisjonsmote.html?id=620345" title="">
+                        Atomkommisjonsmøtet i Murmansk
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Nyheit, Utanriksdepartementet, 05.10.2010]</p>
+                <p>3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk. </p>
+                
+                <blockquote> 3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk. Her redegjøres for de mest sentrale punkter som fremkom under møtet. Møtet ble etterfulgt av prosjektbesøk til Andrejevbukta.</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl04_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/smk/lyd_bilde/video1/statsministeren-kommenterer-statsbudsjet.html?id=620335" title="">
+                        - Et budsjett for arbeid, velferd og miljø
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Lyd og bilde, Statsministerens kontor, 05.10.2010]</p>
+                <p>Regjeringen la 5. oktober frem statsbudsjettet 2011. Se video med statsministeren der han gir en kort presentasjon av budsjettet.</p>
+                
+                <blockquote> Regjeringen la 5. oktober frem statsbudsjettet 2011. Se video med statsministeren der han gir en kort presentasjon av budsjettet. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl05_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/lmd/om-departementet/landbruks--og-matminister-lars-peder-bre/kalender/2010-3/Mote-med-Troms-bonder.html?id=620333" title="">
+                        Møte med Troms-bønder
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Kalenderhending, Landbruks- og matdepartementet, 05.10.2010]</p>
+                <p>Landbruks- og matminister Lars Peder Brekk møter bønder fra Troms som er rammet av avlingsskader. Les presseinvitasjon. </p>
+                
+                <blockquote> Landbruks- og matminister Lars Peder Brekk møter bønder fra Troms som er rammet av avlingsskader. Les presseinvitasjon. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl06_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/Aktuelt/Nyheiter/2010/foran-skjema-for-heldogns-omsorgsplasser.html?id=620324" title="">
+                        Foran skjema for heldøgns omsorgsplasser
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Nyheit, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                <p>Regjeringen ligger foran skjema for å nå sitt mål om heldøgns omsorgsplasser i 2015, og legger også i 2011 inn en ramme på 2.000 heldøgns omsorgsplasser, som er 700 mer enn det som kreves for å nå målet om 12.000.</p>
+                
+                <blockquote> Regjeringen ligger foran skjema for å nå sitt mål om heldøgns omsorgsplasser i 2015, og legger også i 2011 inn en ramme på 2.000 heldøgns omsorgsplasser, som er 700 mer enn det som kreves for å nå målet om 12.000. • Regjeringen har som mål å gi tilsagn til bygging av 12.000 heldøgns omsorgsplasser</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl07_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/kd/aktuelt/taler_artikler/kunnskapsministerens-taler-og-artikler/taler-og-artikler-av-kunnskapsminister-k/2010/Landsdelssamling-PPT-og-Statped.html?id=620323" title="">
+                        Landsdelssamling PPT og Statped
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Tale/artikkel, Kunnskapsdepartementet, 05.10.2010]</p>
+                <p>Kristin Halvorsens tale til landsdelssamling PPT og Statped i Bodø 28. september 2010.</p>
+                
+                <blockquote> Kristin Halvorsens tale til landsdelssamling PPT og Statped i Bodø 28. september 2010. Lenke til talen i pdf-format </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl08_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/kd/dok/veiledninger_brosjyrer/2010/Faktaark-Barnehager-i-statsbudsjettet-2011.html?id=620317" title="">
+                        Faktaark: Barnehager i statsbudsjettet 2011
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Rettleiingar og brosjyrar, Kunnskapsdepartementet, 05.10.2010]</p>
+                <p>Fra 1. januar 2011 overtar kommunene hele ansvaret for å finansiere barnehagene. Mens andre oppgaver innen blant annet helse og utdanning allerede har vært ”rammefinansiert” i en årrekke, har barnehageområdet vært unntatt på grunn av arbeidet med å sikre et tilstrekkelig antall plasser. I Soria Moria-erklæringen fra 2005 het det: ”Inntil full dekning er nådd, skal det fortsatt være øremerkede tilskudd”.</p>
+                
+                <blockquote> Fra 1. januar 2011 overtar kommunene hele ansvaret for å finansiere barnehagene. Mens andre oppgaver innen blant annet helse og utdanning allerede har vært ”rammefinansiert” i en årrekke, har barnehageområdet vært unntatt på grunn av arbeidet med å sikre et tilstrekkelig antall plasser. I Soria</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl09_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/lmd/om-departementet/Anna-politisk-leiing/statssekretar_ola_t_heggem_/kalender/2010/Oslo-Bolig--og-Byplanforening.html?id=620309" title="">
+                        Oslo Bolig- og Byplanforening
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Kalenderhending, Landbruks- og matdepartementet, 05.10.2010]</p>
+                <p>Statssekretær i Landbruks- og matdepartementet Ola T. Heggem holder innlegg og deltar i debatt hos Oslo Bolig- og Byplanforening. </p>
+                
+                <blockquote> Statssekretær i Landbruks- og matdepartementet Ola T. Heggem holder innlegg og deltar i debatt hos Oslo Bolig- og Byplanforening. Tema: Arealpolitikk og utbyggingsstrategi i Oslo-området. Sted: Håndverkeren, Oslo. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl10_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/lmd/om-departementet/landbruks--og-matminister-lars-peder-bre/kalender/2010-3/Norgesmesterskap-i-kjottprodukter-.html?id=620308" title="">
+                        Norgesmesterskap i kjøttprodukter 
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Kalenderhending, Landbruks- og matdepartementet, 05.10.2010]</p>
+                <p>Landbruks- og matminister Lars Peder Brekk deler ut hederspris under Norgesmesterskap i kjøttprodukter.</p>
+                
+                <blockquote> Landbruks- og matminister Lars Peder Brekk deler ut hederspris under Norgesmesterskap i kjøttprodukter. Sted: Kulinarisk Akademi, Oslo. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl11_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/lmd/om-departementet/landbruks--og-matminister-lars-peder-bre/kalender/2010-3/Konferanse-om-forebygging-av-matavfall.html?id=620307" title="">
+                        Konferanse om forebygging av matavfall
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Kalenderhending, Landbruks- og matdepartementet, 05.10.2010]</p>
+                <p>Landbruks- og matminister Lars Peder Brekk holder innlegg på konferanse om forebygging av matavfall. </p>
+                
+                <blockquote> Landbruks- og matminister Lars Peder Brekk holder innlegg på konferanse om forebygging av matavfall. Sted:Næringslivets Hus, Majorstua. Arr.: NHO Mat og Drikke. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl12_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/kd/Dokument/Rapportar-og-planar/Rapportar/2010/Analyse-av-kostnader-i-barnehagene-2009.html?id=620306" title="">
+                        Analyse av kostnader i barnehagene 2009
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Rapport, Kunnskapsdepartementet, 05.10.2010]</p>
+                <p>Fürst og Høverstad har på oppdrag fra Kunnskapsdepartementet gjennomført en undersøkelse om kostnader i barnehagene for 2009</p>
+                
+                <blockquote> Fürst og Høverstad har på oppdrag fra Kunnskapsdepartementet gjennomført en undersøkelse om kostnader i barnehagene for 2009. Les undersøkelsen om kostnader i barnehagene her. </blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl13_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/dok/hoeringer/hoeringsdok/2010/Horing--Stoltenbergutvalget-Rapport-om-narkotika/Horingsnotat.html?id=620303" title="">
+                        Høringsnotat (Høring – Stoltenbergutvalget: Rapport om narkotika)
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Høyringsnotat, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl14_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/dok/hoeringer/hoeringsdok/2010/Horing--Stoltenbergutvalget-Rapport-om-narkotika/Horingsuttalelser.html?id=620302" title="">
+                        Høringsuttalelser (Høring – Stoltenbergutvalget: Rapport om narkotika)
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Høyringsuttale, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl15_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/dok/hoeringer/hoeringsdok/2010/Horing--Stoltenbergutvalget-Rapport-om-narkotika/horingsinstanser.html?id=620304" title="">
+                        Høringsinstanser
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Redaksjonell artikkel, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                
+                
+                <blockquote> Adresseliste Departementene Høyesterett Lagmannsrettene Domstolsadministrasjonen Alternativ til vold – behandlings- og kompetansesenter Apotekforeningen Barneombudet Bredtveit fengsel, forvarings- og sikringsanstalt Datatilsynet Den rettsmedisinske kommisjon Det kriminalitetsforebyggende råd</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl16_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/Dokument/Hoyringar/Hoyringsdokument/2010/Horing--Stoltenbergutvalget-Rapport-om-narkotika/horingsbrev.html?id=620305" title="">
+                        Høringsbrev (Høring – Stoltenbergutvalget: Rapport om narkotika)
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Høyringsbrev, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                
+                
+                <blockquote> Se adresseliste Deres ref Vår ref Dato 201003584/SMM 5.10.2010 Høring – Stoltenbergutvalget: Rapport om narkotika Helse- og omsorgsdepartementet sender med dette på høring Stoltenbergutvalgets rapport om narkotika. Rapporten er utarbeidet av et utvalg ledet av Thorvald Stoltenberg, og overlevert</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl17_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/hod/dok/hoeringer/hoeringsdok/2010/Horing--Stoltenbergutvalget-Rapport-om-narkotika.html?id=620301" title="">
+                        Høring – Stoltenbergutvalget: Rapport om narkotika
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Høyringsdokument, Helse- og omsorgsdepartementet, 05.10.2010]</p>
+                
+                
+                
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl18_Label1">Høyringsfrist: 7. januar 2011</span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+        <div class="ArticleView"> 
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/nn/dep/fd/aktuelt/taler_artikler/ministeren/taler-og-artikler-av-forsvarsminister-gr/2010/A-stotte-er-a-lede.html?id=620298" title="">
+                        Å støtte er å lede
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Tale/artikkel, Forsvarsdepartementet, 05.10.2010]</p>
+                <p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo.</p>
+                
+                <blockquote> Kronikk av forsvarsminister Grete Faremo i VG, 5. oktober 2010 Det handler ikke om ordbruk Våre soldater gjør en glimrende innsats – og fortjener stor anerkjennelse for det! Jeg er enig med VGs Hanne Skartveit i omtrent alt hun skriver sist lørdag. Ja – vi skal ha stor takhøyde for hva soldater</blockquote>
+                <p>
+                    
+                    
+                </p>
+                <span id="ctl00_FullRegion_CenterAndRightRegion_listingUniversal_lstUniversal_ctl19_Label1"></span>                 
+           </div>
+        </div> 
+    
+        <hr class="seperator" />   
+    
+ 
+ 
+                        </div>
+
+                         
+
+
+    <div class="documentPaging PagingBtm">
+        <ul>
+                            
+    
+            <li>
+                
+                <span id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl01_Span1" class="selected">1</span>                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl02_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">2</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl03_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=40&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">3</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl04_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=60&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">4</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl05_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=80&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">5</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl06_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=100&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">6</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl07_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=120&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">7</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl08_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=140&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">8</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl09_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=160&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">9</a>
+                                            
+            </li>
+    
+            <li>
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl10_HyperLink2" href="/nn/sok.html?querystring=&amp;offset=180&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">10</a>
+                                            
+            </li>
+    
+            <li id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl11_Li2" class="leftspace">
+                <a id="ctl00_FullRegion_CenterAndRightRegion_PagingBottom_TopPagingRepeater_ctl11_HyperLink3" href="/nn/sok.html?querystring=&amp;offset=20&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;lang=nn&amp;solution=gov&amp;searchview=governmentnnsppublished&amp;id=86008">Neste ></a>
+            </li>                        
+        </ul>
+        </div>
+                           
+                            
+                    
+                    
+                </div>                
+                
+                <div id="AreaRight" class="AreaSearchRight">
+                    
+        <div class="Navigatorbox">
+            <h2 class="NavigatorboxHeader documentInfo">Avgrens søk</h2>    
+            <div class="NavigatorboxContent">
+    
+        <div class="NavigatorItem">
+            <h3 class="NavigatorItemHeader">
+                Sjå berre dokumenttype: 
+            </h3>
+            <div class="NavigatorItemContent">
+            
+            <ul>
+            
+                          
+            
+               
+                     
+            
+            
+            
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eBrev,S,Type+Name+Taxonomy,S,Brev&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Brev (2836)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eH%c3%b8ringer,S,Type+Name+Taxonomy,S,H%c3%b8ringer&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Høyringar (10611)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eLover_og_regler,S,Type+Name+Taxonomy,S,Lover_og_regler&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Lover og reglar (4299)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eLyd_og_bilde,S,Type+Name+Taxonomy,S,Lyd_og_bilde&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Lyd og bilde (970)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eNyheter_og_pressemeldinger,S,Type+Name+Taxonomy,S,Nyheter_og_pressemeldinger&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Nyheiter og pressemeldingar (35238)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eOffisielt_fra_Statsr%c3%a5d,S,Type+Name+Taxonomy,S,Offisielt_fra_Statsr%c3%a5d&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Offisielt frå statsråd (707)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5ePersoner_og_organisasjonsenheter,S,Type+Name+Taxonomy,S,Personer_og_organisasjonsenheter&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Personar og organisasjonseiningar (1153)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eProposisjoner,_meldinger_og_NOU-er,S,Type+Name+Taxonomy,S,Proposisjoner,_meldinger_og_NOU-er&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Proposisjonar, meldingar og NOU-ar (4118)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eRapporter_og_planer,S,Type+Name+Taxonomy,S,Rapporter_og_planer&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Rapportar og planar (3851)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eBrosjyre_Veiledning,S,Type+Name+Taxonomy,S,Brosjyre_Veiledning&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Rettleiingar og brosjyrar (1200)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eRundskriv,S,Type+Name+Taxonomy,S,Rundskriv&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Rundskriv (1818)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eSvar_til_Stortinget,S,Type+Name+Taxonomy,S,Svar_til_Stortinget&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Svar til Stortinget (8585)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eTaler_og_artikler,S,Type+Name+Taxonomy,S,Taler_og_artikler&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Taler og artiklar (5946)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eTema_og_redaksjonelt_innhold,S,Type+Name+Taxonomy,S,Tema_og_redaksjonelt_innhold&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Tema og redaksjonelt innhald (14412)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dctypenametaxonomy,S,%5eAndre_dokumenter,S,Type+Name+Taxonomy,S,Andre_dokumenter&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Andre dokument (1790)</a>
+				   </li>
+				
+        </ul></div></div>
+    
+        <div class="NavigatorItemSeperator NavigatorBtm"></div>
+    
+        <div class="NavigatorItem">
+            <h3 class="NavigatorItemHeader">
+                Sjå berre tema: 
+            </h3>
+            <div class="NavigatorItemContent">
+            
+            <ul>
+            
+                          
+            
+               
+                     
+            
+            
+            
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI1691421,S,Tema+ID+Taxonomy,S,EPI1691421&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Arbeid og velferd  (2358)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI8336,S,Tema+ID+Taxonomy,S,EPI8336&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Bustad og eigedom (1105)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI8341,S,Tema+ID+Taxonomy,S,EPI8341&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Energi (1755)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI8345,S,Tema+ID+Taxonomy,S,EPI8345&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Familie og oppvekst (2064)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI8349,S,Tema+ID+Taxonomy,S,EPI8349&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Forbrukar (448)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI8353,S,Tema+ID+Taxonomy,S,EPI8353&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Forsvars- og sikkerhetspolitikk (874)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9341,S,Tema+ID+Taxonomy,S,EPI9341&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Helse og omsorg (1299)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9345,S,Tema+ID+Taxonomy,S,EPI9345&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Innvandring og inkludering (837)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9349,S,Tema+ID+Taxonomy,S,EPI9349&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Internasjonalt (7096)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9357,S,Tema+ID+Taxonomy,S,EPI9357&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Kommunar og distrikt (2119)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9353,S,Tema+ID+Taxonomy,S,EPI9353&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Kultur, fritid og livssyn (1610)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9361,S,Tema+ID+Taxonomy,S,EPI9361&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Likestilling (604)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9365,S,Tema+ID+Taxonomy,S,EPI9365&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Lov og rett (1382)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9369,S,Tema+ID+Taxonomy,S,EPI9369&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Mat, fiskeri og landbruk (8598)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9373,S,Tema+ID+Taxonomy,S,EPI9373&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Miljø (6945)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9377,S,Tema+ID+Taxonomy,S,EPI9377&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Næringsliv (5415)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9381,S,Tema+ID+Taxonomy,S,EPI9381&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Offentleg forvaltning (2343)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI10256,S,Tema+ID+Taxonomy,S,EPI10256&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Samfunnssikkerheit (480)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9385,S,Tema+ID+Taxonomy,S,EPI9385&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Transport og kommunikasjon (2275)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9389,S,Tema+ID+Taxonomy,S,EPI9389&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Urfolk og minoritetar (381)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9393,S,Tema+ID+Taxonomy,S,EPI9393&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Utdanning og forsking (3338)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI5605956,S,Tema+ID+Taxonomy,S,EPI5605956&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Vulkanutbruddet på Island (39)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dccategoryidtaxonomy,S,%5eEPI9397,S,Tema+ID+Taxonomy,S,EPI9397&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Økonomi (5880)</a>
+				   </li>
+				
+        </ul></div></div>
+    
+        <div class="NavigatorItemSeperator NavigatorBtm"></div>
+    
+        <div class="NavigatorItem">
+            <h3 class="NavigatorItemHeader">
+                Sjå berre utgivar: 
+            </h3>
+            <div class="NavigatorItemContent">
+            
+            <ul>
+            
+                          
+            
+               
+                     
+            
+            
+            
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,875,S,Dokumenteier,S,875&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Statsministerens kontor (3154)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,165,S,Dokumenteier,S,165&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Arbeidsdepartementet (3671)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,298,S,Dokumenteier,S,298&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Barne-, likestillings- og inkluderingsdepartementet (3646)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,216,S,Dokumenteier,S,216&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Finansdepartementet (16849)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,257,S,Dokumenteier,S,257&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Fiskeri- og kystdepartementet (2649)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,339,S,Dokumenteier,S,339&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Fornyings-, administrasjons- og kyrkjedepartementet (2789)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,380,S,Dokumenteier,S,380&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Forsvarsdepartementet (1942)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,421,S,Dokumenteier,S,421&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Helse- og omsorgsdepartementet (3754)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,463,S,Dokumenteier,S,463&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Justis- og politidepartementet (5404)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,504,S,Dokumenteier,S,504&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Kommunal- og regionaldepartementet (6463)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,545,S,Dokumenteier,S,545&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Kulturdepartementet (2659)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,586,S,Dokumenteier,S,586&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Kunnskapsdepartementet (5134)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,627,S,Dokumenteier,S,627&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Landbruks- og matdepartementet (9848)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,261191,S,Dokumenteier,S,261191&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Miljøverndepartementet (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,668,S,Dokumenteier,S,668&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Miljøverndepartementet (5398)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,709,S,Dokumenteier,S,709&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Nærings- og handelsdepartementet (2841)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,750,S,Dokumenteier,S,750&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Olje- og energidepartementet (3088)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,791,S,Dokumenteier,S,791&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Samferdselsdepartementet (3961)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,833,S,Dokumenteier,S,833&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Utanriksdepartementet (9765)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,232462,S,Dokumenteier,S,232462&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Utanriksdepartementet (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,4,S,Dokumenteier,S,4&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">regjeringa.no (925)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,547992,S,Dokumenteier,S,547992&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Framtidens byer (785)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,410096,S,Dokumenteier,S,410096&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Styrer, råd og utvalg (77)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,520595,S,Dokumenteier,S,520595&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Stedsutvikling (94)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,468120,S,Dokumenteier,S,468120&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Barnebortføring (37)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,582877,S,Dokumenteier,S,582877&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: eSporing (57)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,600140,S,Dokumenteier,S,600140&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Oslo Climate and Forest Conference (14)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,584945,S,Dokumenteier,S,584945&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Portal: Internasjonale klimaforhandlinger (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcownername,S,279683,S,Dokumenteier,S,279683&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Europaportalen (4780)</a>
+				   </li>
+				
+        </ul></div></div>
+    
+        <div class="NavigatorItemSeperator NavigatorBtm"></div>
+    
+        <div class="NavigatorItem">
+            <h3 class="NavigatorItemHeader">
+                Sjå berre tidsrom: 
+            </h3>
+            <div class="NavigatorItemContent">
+            
+            <ul>
+            
+                          
+            
+               
+                     
+            
+            
+            
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=docdatetime,S,%5b2010-09-28;%5d,S,Timestamp,S,Siste++uke&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Siste veke (1106)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=docdatetime,S,%5b2010-09-05;%5d,S,Timestamp,S,Siste++30+dager&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">Siste månad (2189)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2010,S,Date+Taxonomy,S,2010&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2010 (11883)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2009,S,Date+Taxonomy,S,2009&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2009 (16787)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2008,S,Date+Taxonomy,S,2008&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2008 (15989)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2007,S,Date+Taxonomy,S,2007&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2007 (15785)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2006,S,Date+Taxonomy,S,2006&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2006 (13607)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2005,S,Date+Taxonomy,S,2005&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2005 (5010)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2004,S,Date+Taxonomy,S,2004&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2004 (3827)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2003,S,Date+Taxonomy,S,2003&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2003 (3479)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2002,S,Date+Taxonomy,S,2002&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2002 (2967)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2001,S,Date+Taxonomy,S,2001&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2001 (2291)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2000,S,Date+Taxonomy,S,2000&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">2000 (2336)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1999,S,Date+Taxonomy,S,1999&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1999 (1194)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1998,S,Date+Taxonomy,S,1998&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1998 (943)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1997,S,Date+Taxonomy,S,1997&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1997 (530)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1996,S,Date+Taxonomy,S,1996&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1996 (301)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1995,S,Date+Taxonomy,S,1995&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1995 (194)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1994,S,Date+Taxonomy,S,1994&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1994 (144)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1993,S,Date+Taxonomy,S,1993&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1993 (107)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1992,S,Date+Taxonomy,S,1992&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1992 (23)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1991,S,Date+Taxonomy,S,1991&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1991 (16)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1990,S,Date+Taxonomy,S,1990&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1990 (16)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1989,S,Date+Taxonomy,S,1989&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1989 (14)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1988,S,Date+Taxonomy,S,1988&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1988 (17)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1987,S,Date+Taxonomy,S,1987&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1987 (15)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1986,S,Date+Taxonomy,S,1986&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1986 (6)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1985,S,Date+Taxonomy,S,1985&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1985 (10)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1984,S,Date+Taxonomy,S,1984&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1984 (4)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1983,S,Date+Taxonomy,S,1983&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1983 (4)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1982,S,Date+Taxonomy,S,1982&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1982 (9)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1981,S,Date+Taxonomy,S,1981&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1981 (9)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1980,S,Date+Taxonomy,S,1980&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1980 (8)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1979,S,Date+Taxonomy,S,1979&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1979 (11)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1978,S,Date+Taxonomy,S,1978&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1978 (5)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1977,S,Date+Taxonomy,S,1977&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1977 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1976,S,Date+Taxonomy,S,1976&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1976 (5)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1975,S,Date+Taxonomy,S,1975&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1975 (6)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1974,S,Date+Taxonomy,S,1974&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1974 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1973,S,Date+Taxonomy,S,1973&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1973 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1972,S,Date+Taxonomy,S,1972&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1972 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1971,S,Date+Taxonomy,S,1971&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1971 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1970,S,Date+Taxonomy,S,1970&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1970 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1969,S,Date+Taxonomy,S,1969&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1969 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1968,S,Date+Taxonomy,S,1968&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1968 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1966,S,Date+Taxonomy,S,1966&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1966 (6)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1965,S,Date+Taxonomy,S,1965&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1965 (4)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1964,S,Date+Taxonomy,S,1964&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1964 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1962,S,Date+Taxonomy,S,1962&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1962 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1961,S,Date+Taxonomy,S,1961&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1961 (4)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1959,S,Date+Taxonomy,S,1959&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1959 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1958,S,Date+Taxonomy,S,1958&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1958 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1957,S,Date+Taxonomy,S,1957&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1957 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1956,S,Date+Taxonomy,S,1956&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1956 (4)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1954,S,Date+Taxonomy,S,1954&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1954 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1953,S,Date+Taxonomy,S,1953&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1953 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1952,S,Date+Taxonomy,S,1952&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1952 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1951,S,Date+Taxonomy,S,1951&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1951 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1950,S,Date+Taxonomy,S,1950&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1950 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1949,S,Date+Taxonomy,S,1949&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1949 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1948,S,Date+Taxonomy,S,1948&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1948 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1947,S,Date+Taxonomy,S,1947&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1947 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1946,S,Date+Taxonomy,S,1946&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1946 (3)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1939,S,Date+Taxonomy,S,1939&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1939 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1936,S,Date+Taxonomy,S,1936&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1936 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1933,S,Date+Taxonomy,S,1933&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1933 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1932,S,Date+Taxonomy,S,1932&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1932 (2)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1930,S,Date+Taxonomy,S,1930&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1930 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1927,S,Date+Taxonomy,S,1927&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1927 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1923,S,Date+Taxonomy,S,1923&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1923 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1903,S,Date+Taxonomy,S,1903&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1903 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1901,S,Date+Taxonomy,S,1901&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1901 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/nn/sok.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1898,S,Date+Taxonomy,S,1898&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bshowforlanguages,nn,,%3c%3edcdate,min,2010-10-06T01:08:04Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=20&amp;searchview=governmentnnsppublished&amp;solution=gov&amp;lang=nn&amp;id=86008">1898 (1)</a>
+				   </li>
+				
+        </ul></div></div>
+    
+            </div> 
+        </div>
+    
+                    
+                </div> 
+    
+
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn.html?id=4">
+            Framsida til portalen</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/aktuelt.html?id=1150" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/tema.html?id=208" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/presse.html?id=439462" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dok.html?id=439279" title=''>
+            Dokument</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/lyd_bilde.html?id=437495" title=''>
+            Lyd og bilde</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/Om-regjeringa.html?id=443314" title=''>
+            Om regjeringa</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/Om-nettstaden.html?id=450429" title=''>
+            Om nettstaden</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dokumentarkiv.html?id=115322" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="center">Departementenes servicesenter, Einar Gerhardsens plass 3, Postboks 8129 Dep, 0032 OSLO&nbsp;<br />Tlf: 22 24 90 90 | E-post: <img id='Eoi_1' class='obfimg' src='/images/emailimages/cc8068e7cd4930f223ca4cb5bf0fccf1.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', 'C6F8A7E9FAF8B2A8A9A0E9FAA9A8E8B6A3A2E8B5B5A286A8A3A8A9ACB5ADA7A2A3B4F8E4F6FEF6F6F6FEE5E4FBB4A9AAA9A5E6B2A8A9A0FAF8E4A9A8E8B6A3A2E8B5B5A286A8A3A8A9ACB5ADA7A2A3B4FCA9B2AAAFA7ABE4FBA0A3B4AEE6A7FA'));//--></script>&nbsp;</p></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

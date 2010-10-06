@@ -1,0 +1,785 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Veg- og baneavdelinga (VB) - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Veg- og baneavdelinga (VB)" />
+<meta name="DCSext.regj.pagetype" content="Avdeling" />
+<meta name="DCSext.regj.pageid" content="1574" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="sd" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Veg- og baneavdelinga (VB)" />
+<meta name="DC.Title" content="Veg- og baneavdelinga (VB)" />
+<meta name="DC.Creator" content="Samferdselsdepartementet" />
+<meta name="DC.Date" content="2007-02-09" />
+<meta name="DC.Date.Available" content="2007-02-09" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Avdeling" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Samferdselsdepartementet" />
+<meta name="creation_date" content="Fri, 09 Feb 2007 08:12:00 GMT" />
+<meta name="LAST-MODIFIED" content="Fri, 09 Feb 2007 08:13:02 GMT" />
+<meta name="REVISED" content="Fri, 09 Feb 2007 08:13:02 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/sd.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjA0MDAxMjgPZBYCZg9kFghmDxUCAm5uAm5uZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BasLPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IkF2ZGVsaW5nIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIxNTc0IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9InNkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpIiAvPg0KPG1ldGEgbmFtZT0iREMuVGl0bGUiIGNvbnRlbnQ9IlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iU2FtZmVyZHNlbHNkZXBhcnRlbWVudGV0IiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZSIgY29udGVudD0iMjAwNy0wMi0wOSIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUuQXZhaWxhYmxlIiBjb250ZW50PSIyMDA3LTAyLTA5IiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZS5TdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUiIGNvbnRlbnQ9IkF2ZGVsaW5nIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL25uL2RlcC9zZC9vbS1kZXBhcnRlbWVudGV0L29yZ2FuaXNhc2pvbi9hdmRlbGluZ2FyL1ZlZy0tb2ctYmFuZWF2ZGVsaW5nYS1WQi5odG1sP2lkPTE1NzQiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZS5QcmVmZXJlbmNlIiBjb250ZW50PSJubi1OTyIgLz4NCjxtZXRhIG5hbWU9IkRDLlB1Ymxpc2hlciIgY29udGVudD0icmVnamVyaW5nZW4ubm8iIC8+DQo8bWV0YSBuYW1lPSJBVVRIT1IiIGNvbnRlbnQ9IlNhbWZlcmRzZWxzZGVwYXJ0ZW1lbnRldCIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IkZyaSwgMDkgRmViIDIwMDcgMDg6MTI6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iRnJpLCAwOSBGZWIgMjAwNyAwODoxMzowMiBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJGcmksIDA5IEZlYiAyMDA3IDA4OjEzOjAyIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0ibm4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAUvL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTE1NzQmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS9TaWRhIGJsaXIgdmlzdCBww6Ugbnlub3Jzay4gKGFrdGl2dCBzcHLDpWt2YWxnKR8ABQdOeW5vcnNrHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTc0JmVwc2xhbmd1YWdlPW5uLU5PZGQCAg8PFgYfAwU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8EBTIvdGVtcGxhdGVzL0F2ZGVsaW5nLmFzcHg/aWQ9MTU3NCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFKkNsaWNrIGhlcmUgdG8gZGlzcGxheSB0aGlzIHBhZ2UgaW4gZW5nbGlzaB8ABQdFbmdsaXNoHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTc0JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIBDxUBFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAg9kFgZmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPW5uLU5PGVJlZ2plcmluZ2EgU3RvbHRlbmJlcmcgSUkyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9bm4tTk9kAgUPZBYCZg9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM5MzMWJAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTg3NSZlcHNsYW5ndWFnZT1ubi1OTxdTdGF0c21pbmlzdGVyZW5zIGtvbnRvcmQCAg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0xNjUmZXBzbGFuZ3VhZ2U9bm4tTk8UQXJiZWlkc2RlcGFydGVtZW50ZXRkAgMPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9Mjk4JmVwc2xhbmd1YWdlPW5uLU5PM0Jhcm5lLSwgbGlrZXN0aWxsaW5ncy0gb2cgaW5rbHVkZXJpbmdzZGVwYXJ0ZW1lbnRldGQCBA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9bm4tTk8TRmluYW5zZGVwYXJ0ZW1lbnRldGQCBQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yNTcmZXBzbGFuZ3VhZ2U9bm4tTk8dRmlza2VyaS0gb2cga3lzdGRlcGFydGVtZW50ZXRkAgYPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MzM5JmVwc2xhbmd1YWdlPW5uLU5PM0Zvcm55aW5ncy0sIGFkbWluaXN0cmFzam9ucy0gb2cga3lya2plZGVwYXJ0ZW1lbnRldGQCBw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0zODAmZXBzbGFuZ3VhZ2U9bm4tTk8VRm9yc3ZhcnNkZXBhcnRlbWVudGV0ZAIID2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQyMSZlcHNsYW5ndWFnZT1ubi1OTx5IZWxzZS0gb2cgb21zb3Jnc2RlcGFydGVtZW50ZXRkAgkPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPW5uLU5PHkp1c3Rpcy0gb2cgcG9saXRpZGVwYXJ0ZW1lbnRldGQCCg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01MDQmZXBzbGFuZ3VhZ2U9bm4tTk8iS29tbXVuYWwtIG9nIHJlZ2lvbmFsZGVwYXJ0ZW1lbnRldGQCCw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01NDUmZXBzbGFuZ3VhZ2U9bm4tTk8TS3VsdHVyZGVwYXJ0ZW1lbnRldGQCDA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01ODYmZXBzbGFuZ3VhZ2U9bm4tTk8WS3VubnNrYXBzZGVwYXJ0ZW1lbnRldGQCDQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD02MjcmZXBzbGFuZ3VhZ2U9bm4tTk8eTGFuZGJydWtzLSBvZyBtYXRkZXBhcnRlbWVudGV0ZAIOD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTY2OCZlcHNsYW5ndWFnZT1ubi1OTxdNaWxqw7h2ZXJuZGVwYXJ0ZW1lbnRldGQCDw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03MDkmZXBzbGFuZ3VhZ2U9bm4tTk8hTsOmcmluZ3MtIG9nIGhhbmRlbHNkZXBhcnRlbWVudGV0ZAIQD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc1MCZlcHNsYW5ndWFnZT1ubi1OTxxPbGplLSBvZyBlbmVyZ2lkZXBhcnRlbWVudGV0ZAIRD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc5MSZlcHNsYW5ndWFnZT1ubi1OTxhTYW1mZXJkc2Vsc2RlcGFydGVtZW50ZXRkAhIPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9ODMzJmVwc2xhbmd1YWdlPW5uLU5PFVV0YW5yaWtzZGVwYXJ0ZW1lbnRldGQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NzkxJmVwc2xhbmd1YWdlPW5uLU5PZAIEDxUBGFNhbWZlcmRzZWxzZGVwYXJ0ZW1lbnRldGQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBCFTw7hrIGhvcyBTYW1mZXJkc2Vsc2RlcGFydGVtZW50ZXQEU8O4axFRdWlja1NlYXJjaEJ1dHRvbgRTw7hrZAIDDw8WAh8ABRxTw7hrIHDDpSBoZWlsZSByZWdqZXJpbmdhLm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAq8BaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vbm4vZGVwL3NkL29tLWRlcGFydGVtZW50ZXQvb3JnYW5pc2Fzam9uL2F2ZGVsaW5nYXIvVmVnLS1vZy1iYW5lYXZkZWxpbmdhLVZCLmh0bWw/aWQ9MTU3NCZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUJVGVtYSBBLcOFZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODcxJmVwc2xhbmd1YWdlPW5uLU5PHwAFDU5ldHRzdGFkc2thcnRkZAIMDw8WBB8EBTUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ4ODY0MSZlcHNsYW5ndWFnZT1ubi1OTx8ABQVIamVscGRkAg0PDxYEHwQFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD03OTkmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUHS29udGFrdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABRFNb3R0YWthcnMgZS1wb3N0OmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAgkPDxYCHwcFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAgsPDxYCHwAFC0RpbiBlLXBvc3Q6ZGQCDw8PFgIfBwUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCEQ8PFgIfBwUkRHUgbcOlIGFuZ2kgZWkgZ3lsZGlnIGUtcG9zdGFkcmVzc2UuZGQCEw8PFgIfAAUITWVsZGluZzpkZAIXDw8WAh8ABQlTZW5kIHRpcHNkZAIDD2QWEAIDD2QWDmYPZBYCZg8WAh8ABdsDRHUgZXIgaGVyOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk8iPnJlZ2plcmluZ2Eubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc5MSZlcHNsYW5ndWFnZT1ubi1OTyI+U2FtZmVyZHNlbHNkZXBhcnRlbWVudGV0PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD03OTYmZXBzbGFuZ3VhZ2U9bm4tTk8iPk9tIGRlcGFydGVtZW50ZXQ8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgxNSZlcHNsYW5ndWFnZT1ubi1OTyI+T3JnYW5pc2Fzam9uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODE4JmVwc2xhbmd1YWdlPW5uLU5PIj5BdmRlbGluZ2FyPC9hPiAvIDxzcGFuPlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpPC9zcGFuPmQCAQ8VAQBkAgIPZBYCZg8WAh8ABdsDRHUgZXIgaGVyOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk8iPnJlZ2plcmluZ2Eubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc5MSZlcHNsYW5ndWFnZT1ubi1OTyI+U2FtZmVyZHNlbHNkZXBhcnRlbWVudGV0PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD03OTYmZXBzbGFuZ3VhZ2U9bm4tTk8iPk9tIGRlcGFydGVtZW50ZXQ8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgxNSZlcHNsYW5ndWFnZT1ubi1OTyI+T3JnYW5pc2Fzam9uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODE4JmVwc2xhbmd1YWdlPW5uLU5PIj5BdmRlbGluZ2FyPC9hPiAvIDxzcGFuPlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpPC9zcGFuPmQCAw9kFggCAQ9kFgYCAQ8VAQhTdGF0dXM6IGQCAg8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEFya2l2ZXJ0DQogICAgICAgICAgICAgICAgICAgIGQCBA8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEVyc3RhdHRhDQogICAgICAgICAgICAgICAgICAgIGQCAg8VARpWZWctIG9nIGJhbmVhdmRlbGluZ2EgKFZCKWQCAw8WAh8BaBYCZg8VAQBkAgUPFgIfAWgWAmYPFQEAZAIED2QWAmYPFgIfAAXbA0R1IGVyIGhlcjogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PIj5yZWdqZXJpbmdhLm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03OTEmZXBzbGFuZ3VhZ2U9bm4tTk8iPlNhbWZlcmRzZWxzZGVwYXJ0ZW1lbnRldDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Nzk2JmVwc2xhbmd1YWdlPW5uLU5PIj5PbSBkZXBhcnRlbWVudGV0PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD04MTUmZXBzbGFuZ3VhZ2U9bm4tTk8iPk9yZ2FuaXNhc2pvbjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTgxOCZlcHNsYW5ndWFnZT1ubi1OTyI+QXZkZWxpbmdhcjwvYT4gLyA8c3Bhbj5WZWctIG9nIGJhbmVhdmRlbGluZ2EgKFZCKTwvc3Bhbj5kAgUPZBYGAgEPZBYCZg8WAh8BaGQCAg8VAxpWZWctIG9nIGJhbmVhdmRlbGluZ2EgKFZCKQxkaXNwbGF5Om5vbmUAZAIDDxYCHwFoFgJmDxUBAGQCBg8PFgIfAWhkZAIFD2QWAmYPFgQeCV9wYWdlTGluaygrBAQxNTc0Hgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwAWDGYPZBYCZg8PFgIfAWhkFgJmDxUBAGQCAQ9kFggCAQ8PFggfBmgeDl9ib3VuZFBhZ2VMaW5rAsekFB4JX2xhc3RUeXBlBQdEZWZhdWx0HwFoZGQCAg8VCgEyMy90ZW1wbGF0ZXMvU2Vrc2pvbi5hc3B4P2lkPTMzMjM1OSZlcHNsYW5ndWFnZT1ubi1OTwAvU2Vrc2pvbiBmb3IgdHJhZmlra3RyeWdnbGVpayBvZyBiZXJlZHNrYXAgKFRCUykBMgEzDGRpc3BsYXk6bm9uZQABMwBkAgMPFgIfAWgWAgIBDw8WBh8GaB8KAsekFB8LBQdEZWZhdWx0ZGQCBQ8WAh4Hc3VtbWFyeQUkVGFiZWxsIGZvciBvcHBzdGlsbGluZyBhdiBwZXJzb25kYXRhFghmD2QWAgIBD2QWAgIBDw8WBh8GaB8KAsekFB8LBQdEZWZhdWx0ZGQCAQ9kFgICAQ9kFgJmDxUBPzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDkwOTAiPjIyIDI0IDkwIDkwPC9hPmQCAg8WAh8BaBYCAgEPZBYCZg8VAQBkAgMPZBYCAgEP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D2QWAmYPFQEaVmVnLSBvZyBiYW5lYXZkZWxpbmdhIChWQilkAgUPFgIfDwUbbWFpbHRvOnBvc3Rtb3R0YWtAc2QuZGVwLm5vZAIGDxUBGlZlZy0gb2cgYmFuZWF2ZGVsaW5nYSAoVkIpZAIJD2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0OTA5MCI+MjIgMjQgOTAgOTA8L2E+ZAIND2QWAmYPFQE/PGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0NTYwOCI+MjIgMjQgNTYgMDg8L2E+ZAIRDw8WBB8GaB8LBQdEZWZhdWx0ZGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03OTEmZXBzbGFuZ3VhZ2U9bm4tTk8aRnJhbXNpZGEgdGlsIGRlcGFydGVtZW50ZXRkAgMPFgYfBSgrBAM3OTEeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBZIAgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NzkyJmVwc2xhbmd1YWdlPW5uLU5PAAdBa3R1ZWx0ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NzkzJmVwc2xhbmd1YWdlPW5uLU5PAARUZW1hZAIHD2QWAmYPFQEAZAIID2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTc5NCZlcHNsYW5ndWFnZT1ubi1OTwAMUHJlc3Nlc2VudGVyZAIKD2QWAmYPFQEAZAILD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3NjY3NyZlcHNsYW5ndWFnZT1ubi1OTwAIRG9rdW1lbnRkAg0PZBYCZg8VAQhTZWxlY3RlZGQCDg9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Nzk2JmVwc2xhbmd1YWdlPW5uLU5PABBPbSBkZXBhcnRlbWVudGV0ZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQNBL3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD01ODIyMzEmZXBzbGFuZ3VhZ2U9bm4tTk8ALFNhbWZlcmRzZWxzbWluaXN0ZXIgTWFnbmhpbGQgTWVsdHZlaXQgS2xlcHBhZAITD2QWAmYPFQEAZAIUD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD04MTMmZXBzbGFuZ3VhZ2U9bm4tTk8AFEFubmEgcG9saXRpc2sgbGVpaW5nZAIWD2QWAmYPFQEAZAIXD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD04MTQmZXBzbGFuZ3VhZ2U9bm4tTk8AFEFkbWluaXN0cmF0aXYgbGVpaW5nZAIZD2QWAmYPFQEIU2VsZWN0ZWRkAhoPZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgxNSZlcHNsYW5ndWFnZT1ubi1OTwAMT3JnYW5pc2Fzam9uZAIcD2QWAmYPFQEAZAIdD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgxNyZlcHNsYW5ndWFnZT1ubi1OTwART3JnYW5pc2Fzam9uc2thcnRkAh8PZBYCZg8VAQhTZWxlY3RlZGQCIA9kFgJmDxUECFNlbGVjdGVkMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODE4JmVwc2xhbmd1YWdlPW5uLU5PAApBdmRlbGluZ2FyZAIiD2QWAmYPFQEAZAIjD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgxOSZlcHNsYW5ndWFnZT1ubi1OTwAISGlzdG9yaWVkAicPZBYCZg8VAQBkAigPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTExNTIxOSZlcHNsYW5ndWFnZT1ubi1OTwAVVW5kZXJsaWdnamFuZGUgZXRhdGFyZAIqD2QWAmYPFQEAZAIrD2QWAmYPFQM1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0xMTUyMTgmZXBzbGFuZ3VhZ2U9bm4tTk8AFFRpbGtueXR0YSB2ZXJrc2VtZGVyZAItD2QWAmYPFQEAZAIuD2QWAmYPFQM1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00NDM0OTMmZXBzbGFuZ3VhZ2U9bm4tTk8AFVN0eXJlciwgcsOlZCBvZyB1dHZhbGQCMA9kFgJmDxUBAGQCMQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD03OTkmZXBzbGFuZ3VhZ2U9bm4tTk8AB0tvbnRha3RkAjUPZBYCZg8VAQBkAjYPZBYCZg8VAzovdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Nzk3JmVwc2xhbmd1YWdlPW5uAAxMeWQgb2cgYmlsZGVkAjgPZBYCZg8VAQBkAjkPZBYCZg8VAyQvdGVtcGxhdGVzL1NlYXJjaFBhZ2UuYXNweD9pZD0xMTUzMjIADURva3VtZW50YXJraXZkAgUPZBYCAgEPZBYCZg8VAZUDPHAgYWxpZ249ImNlbnRlciI+U2FtZmVyZHNlbHNkZXBhcnRlbWVudGV0LCBBa2Vyc2dhdGEgNTkgKFI1KSwgUG9zdGJva3MgODAxMCBEZXAsIDAwMzAgT3NsbyZuYnNwOzxiciAvPlRlbGVmb24gMjIgMjQgOTAgOTAsIGZha3MgMjIgMjQmbmJzcDs5NSA3MS4gRS1wb3N0OiA8YSB0aXRsZT0iRS1wb3N0IHRpbCBTRCIgaHJlZj0ibWFpbHRvOnBvc3Rtb3R0YWtAc2QuZGVwLm5vIj48Zm9udCBjb2xvcj0iIzAwMzE3MyI+cG9zdG1vdHRha0BzZC5kZXAubm88L2ZvbnQ+PC9hPjxiciAvPk5ldHRyZWRha3TDuHI6IDxhIHRpdGxlPSJUb3IgTWlkdGLDuCIgaHJlZj0ibWFpbHRvOnRvci5taWR0Ym9Ac2QuZGVwLm5vIj5Ub3IgTWlkdGLDuDwvYT4gQW5zdmFybGVnIHJlZGFrdMO4cjogQW5uZSBNYXJpZSBTdG9ybGk8L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgJBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbA8PZmRkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwNSRQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsSGVhZGVyJGNoaWxkcmVubGlzdCRjaGlsZHBhZ2VzDw9mZGQFemN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwNCRQYWdlTGlzdDEPD2ZkZNo+arI4312c1jQ09bSGTRaQ/s7u" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/sd/dep/organisasjon/avdelinger/veg-_og_baneavdelingen.html?id=1574">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/sd/Departemeantta-birra/Organisauvdna/Ossodagat/luodda--ja-bana--ossodat.html?id=1574">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/sd/about-the-ministry/organisation/departments/department-of-public-roads-and-rail-tran.html?id=1574">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/sd.html?id=791"><img class="ProfileLogo" src="/styles/Images/sd/sd_nn.gif" alt='Samferdselsdepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Samferdselsdepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Del/Tips' /><span class="open" id="open">Del/Tips</span><span class="display-none" id="close">Lukk</span></a></li>
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/sd/Nettstadskart.html?id=313871">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/sd/om-departementet/kontakt.html?id=799">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574', 'Veg- og baneavdelinga (VB)')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574&amp;description=Veg- og baneavdelinga (VB)' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Veg- og baneavdelinga (VB)','','http://www.regjeringen.no/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB.html?id=1574',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+
+    
+
+    
+    <p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/sd.html?id=791">Samferdselsdepartementet</a> / <a href="/nn/dep/sd/om-departementet.html?id=796">Om departementet</a> / <a href="/nn/dep/sd/om-departementet/organisasjon.html?id=815">Organisasjon</a> / <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar.html?id=818">Avdelingar</a> / <span>Veg- og baneavdelinga (VB)</span>
+</p>
+    <div class="documentTop">        
+        
+        <h1>Veg- og baneavdelinga (VB)</h1>
+        
+                
+     </div>
+     
+    <div class="documentBody">
+        
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB/Seksjon-for-trafikktryggleik-og-beredska.html?id=332359" title="">
+                    Seksjon for trafikktryggleik og beredskap (TBS)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            
+            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr1">
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_7' class='obfimg' src='/images/emailimages/1f6035af4cec5a164ed087295b1767e3.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_7', '27574243094354674C465353484A53544857'));//--></script>.no</span>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr2">
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl01_Tr4">
+		<th>
+                        Faks: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a>
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB/Banseseksjonen-BS.html?id=332360" title="">
+                    Baneseksjonen (BS)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            
+            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr1">
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_8' class='obfimg' src='/images/emailimages/1f6035af4cec5a164ed087295b1767e3.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_8', '552530317B3126153E3421213A3821263A25'));//--></script>.no</span>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr2">
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl02_Tr4">
+		<th>
+                        Faks: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a>
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB/Vegseksjonen-VS.html?id=332361" title="">
+                    Vegseksjonen (VS)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            
+            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr1">
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_9' class='obfimg' src='/images/emailimages/1f6035af4cec5a164ed087295b1767e3.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_9', 'C2B2A7A6ECA6B182A9A3B6B6ADAFB6B1ADB2'));//--></script>.no</span>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr2">
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a>
+                    </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl03_Tr4">
+		<th>
+                        Faks: 
+                    </th>
+		<td>
+                        <a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a>
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <div class="contentNoPic">
+            <h2>
+                <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB/ekspedisjonssjef-knut-ronning.html?id=332362" title="">
+                    Ekspedisjonssjef Knut Rønning
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none">Veg- og baneavdelinga</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <img id='Eoi_1' class='obfimg' src='/images/emailimages/9cb6fc199bd5444fc9a506cd9fdbb5d0.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '5C623D73607C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C565162323D2C2F73603332722C393872382F1C3B32353232332E722829323762323D2C2F607C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C5651627B3332722C393872382F1C3B32353232332E722829323766332830353D317B613A392E347C3D60'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722248301">22 24 83 01</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl04_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <div class="contentNoPic">
+            <h2>
+                <a href="/nn/dep/sd/om-departementet/organisasjon/avdelingar/Veg--og-baneavdelinga-VB/Avdelingsdirektor-Tore-Raasok.html?id=446961" title="">
+                    Avdelingsdirektør Tore Raasok
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none">Veg- og baneavdelinga</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr1">
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <img id='Eoi_2' class='obfimg' src='/images/emailimages/b87321921bd40dbaf671fe5285ac7848.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', 'C2FCA3EDFEE2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2C8CFFCACA3B2B1EDFEADACECB2A7A6ECA6B182A9ADB1A3A3B0ECA7B0ADB6FCACA3B2B1FEE2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2C8CFFCE5ADACECB2A7A6ECA6B182A9ADB1A3A3B0ECA7B0ADB6F8ADB6AEABA3AFE5FFA4A7B0AAE2A3FE'));//--></script>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr2">
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722248308">22 24 83 08</a>
+                        </td>
+	</tr>
+	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_list_lstUniversal_ctl05_Tr4">
+		<th>
+                            Faks: 
+                        </th>
+		<td>
+                            <a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+ 
+
+    </div>
+    <div class="printContact">
+		<div class="Toolbox">   
+        <h2 class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Veg- og baneavdelinga (VB)</h3>            
+            <p class="noPadBtm"><img id='Eoi_3' class='obfimg' src='/images/emailimages/3eacdf2dc4840bea0da4cb8c98e6b076.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '48762967743C3B2738652D682C262D1B766A272666382D2C662C3B0823293C3C27253C3B273872273C242129256A752E2D3A20682974'));//--></script></p>
+                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Veg- og baneavdelinga (VB)">
+                    <tr>
+                        <td>
+                        Telefon:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a></td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                        Faks:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a></td>
+
+                    </tr>  
+                </table>
+                <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Besøk:<br />Akersgata 59 (R5), <br />Oslo<br /><br />Post:<br />Postboks 8010 Dep<br />0030 Oslo</p>
+        </div>
+    </div>
+     
+    </div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/sd.html?id=791'><img src="/upload/SD/Profilelementer/SD_web_rute_01.gif" alt="Samferdselsdepartementet" /></a></div>
+                                        
+                                        
+                                        
+                                        
+    
+        
+                                        
+                                                                        
+                                        
+    <div id="AreaContactInfo" class="Toolbox">   
+        <h2 class="ToolboxHeader">
+            
+                        Kontaktinformasjon
+                    
+        </h2>
+        <div class="ToolboxContent">
+            <h3 class="relatedContactHead">Veg- og baneavdelinga (VB)</h3>            
+            <p class="noPadBtm"><img id='Eoi_4' class='obfimg' src='/images/emailimages/3eacdf2dc4840bea0da4cb8c98e6b076.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_4', '85BBE4AAB9F1F6EAF5A8E0A5E1EBE0D6BBA7B4C4DAEAE3EBCCF1E6E4F1EBEAC6EBEAECE2E0D7F1EDE2ECD7DAEBEAECE2E0D7F1EDE2ECD7DAEBEAECE2E0D7F1EDE2ECD7E1EBC4F7E0F1EBE0C6DAEBEAECE2E0D7E9E9F0C3DAB5B5E9F1E6A7B8E1ECA5A7EAEBABF5E0E1ABE1F6C5EEE4F1F1EAE8F1F6EAF5BFEAF1E9ECE4E8A7B8E3E0F7EDA5E4B9'));//--></script></p>
+                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Veg- og baneavdelinga (VB)">
+                    <tr>
+                        <td>
+                        Telefon:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722249090">22 24 90 90</a></td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                        Faks:
+                    </td>
+
+                        <td><a class="telephoneLink" href="tel:+4722245608">22 24 56 08</a></td>
+
+                    </tr>  
+                </table>
+                <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+                <p>Besøk:<br />Akersgata 59 (R5), <br />Oslo<br /><br />Post:<br />Postboks 8010 Dep<br />0030 Oslo</p>
+        </div>
+    </div>
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/sd.html?id=791">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/Aktuelt.html?id=792" title=''>
+            Aktuelt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/Tema.html?id=793" title=''>
+            Tema</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/pressesenter.html?id=794" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/dokument.html?id=276677" title=''>
+            Dokument</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/sd/om-departementet.html?id=796" title=''>
+            Om departementet</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/samferdselsminister-magnhild-meltveit-kl.html?id=582231" title=''>
+            Samferdselsminister Magnhild Meltveit Kleppa</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/anna-politisk-leiing.html?id=813" title=''>
+            Anna politisk leiing</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/administrativ-leiing.html?id=814" title=''>
+            Administrativ leiing</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/nn/dep/sd/om-departementet/organisasjon.html?id=815" title=''>
+            Organisasjon</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/organisasjon/organisasjonskart.html?id=817" title=''>
+            Organisasjonskart</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU Selected" href="/nn/dep/sd/om-departementet/organisasjon/avdelingar.html?id=818" title=''>
+            Avdelingar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/organisasjon/historie.html?id=819" title=''>
+            Historie</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/Underliggjande-etatar.html?id=115219" title=''>
+            Underliggjande etatar</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/Tilknytta-verksemder.html?id=115218" title=''>
+            Tilknytta verksemder</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/Styrer-rad-og-utval.html?id=443493" title=''>
+            Styrer, råd og utval</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/om-departementet/kontakt.html?id=799" title=''>
+            Kontakt</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/sd/lyd_bilde.html?id=797" title=''>
+            Lyd og bilde</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/dokumentarkiv.html?id=115322" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p align="center">Samferdselsdepartementet, Akersgata 59 (R5), Postboks 8010 Dep, 0030 Oslo&nbsp;<br />Telefon 22 24 90 90, faks 22 24&nbsp;95 71. E-post: <img id='Eoi_5' class='obfimg' src='/images/emailimages/3eacdf2dc4840bea0da4cb8c98e6b076.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_5', '84BAE5ABB8BAF0EAEBE2ABB8EBEAAAF4E1E0AAE0F7C4EFE5F0F0EBE9F0F7EBF4BAA6B7B3B5B7B4B4A7A6B9F6EBE8EBE7A4F0EAEBE2B8BAA6EBEAAAF4E1E0AAE0F7C4EFE5F0F0EBE9F0F7EBF4BEEBF0E8EDE5E9A6B9E2E1F6ECA4A6C0D7A4E8EDF0A4F0F7EBF4A9C1A6B9E1E8F0EDF0A4E5B8'));//--></script><br />Nettredaktør: <img id='Eoi_6' class='obfimg' src='/images/emailimages/42a54499134ecd9249e3f5d3254e859c.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_6', 'C2FCA3EDFE3AA0B6A6AB8FE2B0AD96FCE0ADACECB2A7A6ECA6B182ADA0B6A6ABAFECB0ADB6F8ADB6AEABA3AFE0FFA4A7B0AAE2E03AA0B6A6AB8FE2B0AD96E0FFA7AEB6ABB6E2A3FE'));//--></script> Ansvarleg redaktør: Anne Marie Storli</p></div>
+        
+        
+                    
+        
+    </form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>

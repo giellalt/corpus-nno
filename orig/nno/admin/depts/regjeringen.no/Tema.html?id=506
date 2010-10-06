@@ -1,0 +1,623 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nn" lang="nn">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Tema - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Tema" />
+<meta name="DCSext.regj.pagetype" content="Departementstemaforside" />
+<meta name="DCSext.regj.pageid" content="506" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="krd" />
+<meta name="DCSext.regj.language" content="nn-NO" />
+<meta name="TITLE" content="Tema" />
+<meta name="DC.Title" content="Tema" />
+<meta name="DC.Creator" content="Kommunal- og regionaldepartementet" />
+<meta name="DC.Date" content="2006-11-13" />
+<meta name="DC.Date.Available" content="2006-11-13" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Departementstemaforside" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/nn/dep/krd/Tema.html?id=506" />
+<meta name="DC.Language" content="nn-NO" />
+<meta name="DC.Language.Preference" content="nn-NO" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Kommunal- og regionaldepartementet" />
+<meta name="creation_date" content="Mon, 13 Nov 2006 10:28:00 GMT" />
+<meta name="LAST-MODIFIED" content="Mon, 13 Nov 2006 10:28:36 GMT" />
+<meta name="REVISED" content="Mon, 13 Nov 2006 10:28:36 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="nn" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/krd.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/nn/dep/krd/Tema.html?id=506" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzM5MjQxNTU3D2QWAmYPZBYIZg8VAgJubgJubmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAXeCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJUZW1hIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IkRlcGFydGVtZW50c3RlbWFmb3JzaWRlIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSI1MDYiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0ia3JkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IlRlbWEiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iVGVtYSIgLz4NCjxtZXRhIG5hbWU9IkRDLkNyZWF0b3IiIGNvbnRlbnQ9IktvbW11bmFsLSBvZyByZWdpb25hbGRlcGFydGVtZW50ZXQiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA2LTExLTEzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDYtMTEtMTMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iRGVwYXJ0ZW1lbnRzdGVtYWZvcnNpZGUiIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvbm4vZGVwL2tyZC9UZW1hLmh0bWw/aWQ9NTA2IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9Im5uLU5PIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0ibm4tTk8iIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJLb21tdW5hbC0gb2cgcmVnaW9uYWxkZXBhcnRlbWVudGV0IiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iTW9uLCAxMyBOb3YgMjAwNiAxMDoyODowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJNb24sIDEzIE5vdiAyMDA2IDEwOjI4OjM2IEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9Ik1vbiwgMTMgTm92IDIwMDYgMTA6Mjg6MzYgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJubiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxAWAh4GYWN0aW9uBRwvbm4vZGVwL2tyZC9UZW1hLmh0bWw/aWQ9NTA2ZBYKAgEPZBYGAgIPFQERI3F1aWNrc2VhcmNoaW5wdXRkAgsPZBYCZg8VAWkjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9SaWdodFJlZ2lvbl9SaWdodFJlZ2lvbkNvbnRhY3RJbmZvX1JlbGF0ZWRDb250YWN0MV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBTwvdGVtcGxhdGVzL0RlcGFydGVtZW50VGVtYUZvcnNpZGUuYXNweD9pZD01MDYmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8EBS9TaWRhIGJsaXIgdmlzdCBww6Ugbnlub3Jzay4gKGFrdGl2dCBzcHLDpWt2YWxnKR8ABQdOeW5vcnNrHwUFPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTUwNiZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwQFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBQU/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NTA2JmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfBAUqQ2xpY2sgaGVyZSB0byBkaXNwbGF5IHRoaXMgcGFnZSBpbiBlbmdsaXNoHwAFB0VuZ2xpc2gfBQU/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NTA2JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PZAIBDxUBFUZyYW1zaWRhIHRpbCBwb3J0YWxlbmQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1ubi1OT2QCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPW5uLU5PGVJlZ2plcmluZ2EgU3RvbHRlbmJlcmcgSUkyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9bm4tTk9kAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTUwNCZlcHNsYW5ndWFnZT1ubi1OT2QCBA8VASJLb21tdW5hbC0gb2cgcmVnaW9uYWxkZXBhcnRlbWVudGV0ZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUEK1PDuGsgaG9zIEtvbW11bmFsLSBvZyByZWdpb25hbGRlcGFydGVtZW50ZXQEU8O4axFRdWlja1NlYXJjaEJ1dHRvbgRTw7hrZAIDDw8WAh8ABRxTw7hrIHDDpSBoZWlsZSByZWdqZXJpbmdhLm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAnJodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9ubi9kZXAva3JkL1RlbWEuaHRtbD9pZD01MDYmYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBQU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPW5uLU5PHwAFCVRlbWEgQS3DhWRkAgsPZBYCAgEPDxYEHwUFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTMxMzg1MSZlcHNsYW5ndWFnZT1ubi1OTx8ABQ1OZXR0c3RhZHNrYXJ0ZGQCDA8PFgQfBQU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9bm4tTk8fAAUFSGplbHBkZAINDw8WBB8FBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTEyJmVwc2xhbmd1YWdlPW5uLU5PHwAFB0tvbnRha3RkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAURTW90dGFrYXJzIGUtcG9zdDpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAIJDw8WAh8HBSREdSBtw6UgYW5naSBlaSBneWxkaWcgZS1wb3N0YWRyZXNzZS5kZAILDw8WAh8ABQtEaW4gZS1wb3N0OmRkAg8PDxYCHwcFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAhEPDxYCHwcFJER1IG3DpSBhbmdpIGVpIGd5bGRpZyBlLXBvc3RhZHJlc3NlLmRkAhMPDxYCHwAFCE1lbGRpbmc6ZGQCFw8PFgIfAAUJU2VuZCB0aXBzZGQCAw9kFgYCAw8WBh4aRXhwb3J0U2Vuc2l0aXZlRGF0YVdhcm5pbmdlHhRDbG9zZVByb3ZpZGVyV2FybmluZ2UeDURlbGV0ZVdhcm5pbmdlZAIFD2QWCgIBD2QWAmYPFgIfAAXDAUR1IGVyIGhlcjogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPW5uLU5PIj5yZWdqZXJpbmdhLm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01MDQmZXBzbGFuZ3VhZ2U9bm4tTk8iPktvbW11bmFsLSBvZyByZWdpb25hbGRlcGFydC4uLjwvYT4gLyA8c3Bhbj5UZW1hPC9zcGFuPmQCAg8VAQRUZW1hZAIDDxYCHwFoFgJmDxUBAGQCBA8VAQBkAgcPZBYIAgEPZBYEAgEPDxYGHwZoHg5fYm91bmRQYWdlTGluawLw6iAeCV9sYXN0VHlwZQUHRGVmYXVsdGRkAgMPZBYIAgEPZBYCZg8VAi0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01MjIzNzMmZXBzbGFuZ3VhZ2U9bm4ZS29tbXVuZXbDpXBlbiAtIGhlcmFsZGlra2QCAg9kFgJmDxUCLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTU0MDA4NiZlcHNsYW5ndWFnZT1ubhhJbnRlcmtvbW11bmFsdCBzYW1hcmJlaWRkAgMPZBYCZg8VAjAvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01MzU5NjEmZXBzbGFuZ3VhZ2U9bm4tTk8sRWlnZW5rb250cm9sbCBpIGtvbW11bmFuZSBvZyBmeWxrZXNrb21tdW5hbmVkAgQPZBYCZg8VAi0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01NDAwODcmZXBzbGFuZ3VhZ2U9bm4PS29tbXVuZXN0cnVrdHVyZAICD2QWBAIBDw8WBh8GaB8LAvHqIB8MBQdEZWZhdWx0ZGQCAw9kFgQCAQ9kFgJmDxUCLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTU0MDA4OCZlcHNsYW5ndWFnZT1ubg5Mb2thbGRlbW9rcmF0aWQCAg9kFgJmDxUCNC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NTY0OTEmZXBzbGFuZ3VhZ2U9bm4tTk8EVmFsZ2QCAw9kFgICAQ8PFgYfBmgfCwLwrSEfDAUHRGVmYXVsdGRkAgQPZBYCAgEPDxYGHwZoHwsCxvMjHwwFB0RlZmF1bHRkZAIHDzwrABIEBBYEHwAFBkRlbGV0ZR4LRGVzY3JpcHRpb24FDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0Hw0FCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfDQUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8NBQ1SZXN0b3JlICd7MH0nZAIFD2QWBgIBD2QWAgIBD2QWAmYPFgIeBWNsYXNzBQpEZXBQcm9maWxlFgJmDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01MDQmZXBzbGFuZ3VhZ2U9bm4tTk9kAgcPZBYCAgEPZBYKAgIPDxYCHwFoZBYCZg9kFgICAQ8WBB4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcIHwFoZAIEDw8WAh8BaGQWAmYPZBYCAgEPFgQfDwsrBAgfAWhkAgYPDxYCHwFoZBYCZg9kFgICAQ8WBB8PCysECB8BaGQCCA8PFgIfAWhkFgJmD2QWAgIBDxYCHwFoZAIKDw8WAh8BaGQWAmYPZBYCAgEPFgQfDwsrBAMfAWhkAgkPZBYCAgEPPCsAEgQEFgQfAAUGRGVsZXRlHw0FDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0Hw0FCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfDQUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8NBQ1SZXN0b3JlICd7MH0nZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTUwNCZlcHNsYW5ndWFnZT1ubi1OTxpGcmFtc2lkYSB0aWwgZGVwYXJ0ZW1lbnRldGQCAw8WBh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcDNTA0Hg9fTnVtYmVyT2ZMZXZlbHMCCh4KX0V4cGFuZEFsbGgWQAIBD2QWAmYPFQEAZAICD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTUwNSZlcHNsYW5ndWFnZT1ubi1OTwAHQWt0dWVsdGQCBA9kFgJmDxUBCFNlbGVjdGVkZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NTA2JmVwc2xhbmd1YWdlPW5uLU5PAARUZW1hZAIHD2QWAmYPFQEAZAIID2QWAmYPFQMqL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTQzJmVwc2xhbmd1YWdlPW5uABpCb2xpZy0gb2cgYnlnbmluZ3Nwb2xpdGlra2QCCg9kFgJmDxUBAGQCCw9kFgJmDxUDKy90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTEyMzgmZXBzbGFuZ3VhZ2U9bm4AHkRpc3RyaWt0cy0gb2cgcmVnaW9uYWxwb2xpdGlra2QCDQ9kFgJmDxUBAGQCDg9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTUzNzk2MyZlcHNsYW5ndWFnZT1ubgAWRm9yaG9sZGV0IGtvbW11bmUtc3RhdGQCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTUzNzk2NSZlcHNsYW5ndWFnZT1ubgAURm9ybnlpbmcgaSBrb21tdW5lbmVkAhMPZBYCZg8VAQBkAhQPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01Mzc5NjYmZXBzbGFuZ3VhZ2U9bm4AD0tvbW11bmXDuGtvbm9taWQCFg9kFgJmDxUBAGQCFw9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTUzNzk2OCZlcHNsYW5ndWFnZT1ubgAkS29tbXVuZWp1c3Mgb2cga29tbXVuYWwgb3JnYW5pc2VyaW5nZAIZD2QWAmYPFQEAZAIaD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9NTM3OTY5JmVwc2xhbmd1YWdlPW5uABFWYWxnIG9nIGRlbW9rcmF0aWQCHA9kFgJmDxUBAGQCHQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NDY1NDImZXBzbGFuZ3VhZ2U9bm4AFURhdGFiYXNlciBvZyByZWdpc3RyZWQCHw9kFgJmDxUBAGQCIA9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTU4ODIzMCZlcHNsYW5ndWFnZT1ubgA4Rm9yc2tuaW5nIG9tIGtvbW11bmVyIG9nIHJlZ2lvbmVyLCBib2xpZywgYnlnZyBvZyBtaWxqw7hkAiQPZBYCZg8VAQBkAiUPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NTA3JmVwc2xhbmd1YWdlPW5uLU5PAAxQcmVzc2VzZW50ZXJkAicPZBYCZg8VAQBkAigPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjcyNTA5JmVwc2xhbmd1YWdlPW5uLU5PAAhEb2t1bWVudGQCKg9kFgJmDxUBAGQCKw9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01MDkmZXBzbGFuZ3VhZ2U9bm4tTk8AEE9tIGRlcGFydGVtZW50ZXRkAi0PZBYCZg8VAQBkAi4PZBYCZg8VAzovdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTEwJmVwc2xhbmd1YWdlPW5uAAxMeWQgb2cgYmlsZGVkAjAPZBYCZg8VAQBkAjEPZBYCZg8VAyQvdGVtcGxhdGVzL1NlYXJjaFBhZ2UuYXNweD9pZD0xMTUzMjIADURva3VtZW50YXJraXZkAgUPZBYCAgEPZBYCZg8VAeoCPHA+S29tbXVuYWwtIG9nIHJlZ2lvbmFsZGVwYXJ0ZW1lbnRldCwgQWtlcnNnYXRhIDU5LCBQb3N0Ym9rcyA4MTEyIERlcCwgMDAzMiBPc2xvIHwgVGVsZWZvbjogMjIgMjQgOTAgOTA8YnIgLz5FLXBvc3Q6IDxhIGhyZWY9Im1haWx0bzpwb3N0bW90dGFrQGtyZC5kZXAubm8iPnBvc3Rtb3R0YWtAa3JkLmRlcC5ubzwvYT4mbmJzcDt8IEFuc3ZhcmxlZyByZWRha3TDuHI6Jm5ic3A7PGEgaHJlZj0ibWFpbHRvOmxpdi1tZXJldGUud2lrZXJAa3JkLmRlcC5ubyI+TGl2IE1lcmV0ZSBXaWtlcjwvYT4gfCBOZXR0cmVkYWt0w7hyOiA8YSBocmVmPSJtYWlsdG86cm9nZXIuaG9sbXNlbkBrcmQuZGVwLm5vIj5Sb2dlciBIb2xtc2VuPC9hPjwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGBQFkgFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JFN0YW5kYXJkR3JvdXBpbmdEb2N1bWVudENvbnRleHQxJEhvcmluZ3NOb3RhdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBV5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0SGllcmFyY2h5JFBhZ2VMaXN0NSRjdGwwMyRQYWdlTGlzdDIyDw9mZGQFkQFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JFN0YW5kYXJkR3JvdXBpbmdEb2N1bWVudENvbnRleHQxJEhvcmluZ3NGbHl0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFN1YmplY3RIaWVyYXJjaHkkUGFnZUxpc3Q0JGN0bDAzJFBhZ2VMaXN0MjEPD2ZkZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFN1YmplY3RIaWVyYXJjaHkkUGFnZUxpc3Q0JGN0bDA1JFBhZ2VMaXN0MjEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBV5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0SGllcmFyY2h5JFBhZ2VMaXN0NSRjdGwwMiRQYWdlTGlzdDIyDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kU3ViamVjdEhpZXJhcmNoeSRQYWdlTGlzdDQkY3RsMDQkUGFnZUxpc3QyMQ8PZmRkBU1jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0SGllcmFyY2h5JFBhZ2VMaXN0NA8PZmRkBU1jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0SGllcmFyY2h5JFBhZ2VMaXN0NQ8PZmRkBZkBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRSZWxhdGVkTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kU3ViamVjdEhpZXJhcmNoeSRQYWdlTGlzdDQkY3RsMDIkUGFnZUxpc3QyMQ8PZmRkBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBV5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0SGllcmFyY2h5JFBhZ2VMaXN0NSRjdGwwNCRQYWdlTGlzdDIyDw9mZGQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFN1YmplY3RIaWVyYXJjaHkkUGFnZUxpc3Q1JGN0bDAxJFBhZ2VMaXN0MjIPD2ZkZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kU3ViamVjdEhpZXJhcmNoeSRQYWdlTGlzdDQkY3RsMDEkUGFnZUxpc3QyMQ8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZBkphjfGUY98eKmatlhfgpxLWYQn" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Gå til søk</a></li>
+                    <li><a href="#Content">Gå til innhald</a></li>
+                    <li><a href="#AreaTopSiteNav">Gå til toppnavigasjon</a></li>
+                    <li><a href="#AreaLeft">Gå til lokalnavigasjon</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Gå til kontaktinformasjon</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/krd/tema.html?id=506">Bokmål</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Sida blir vist på nynorsk. (aktivt språkvalg)" class="ISI_IGNORE" href="/nn/dep/krd/Tema.html?id=506">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/krd/fadda.html?id=506">Sámegiella</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/krd/Subjects.html?id=506">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/nn.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Framsida til portalen' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/nn.html?id=4">regjeringa.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/nn/Om-regjeringa/stoltenberg-ii.html?id=85843' class="ISI_MENU">Regjeringa Stoltenberg II</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/nn/dep.html?id=933" class="ISI_MENU">Departementa</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/nn/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/aid.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kyrkjedepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/nn/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nn/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utanriksdepartementet</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/nn/dep/krd.html?id=504"><img class="ProfileLogo" src="/styles/Images/krd/krd_nn.gif" alt='Kommunal- og regionaldepartementet' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Kommunal- og regionaldepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Søk' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Søk' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Søk på heile regjeringa.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Del/Tips' /><span class="open" id="open">Del/Tips</span><span class="display-none" id="close">Lukk</span></a></li>
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å skrive ut sida' />Utskrift</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nn/dep/krd/Tema.html?id=506&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/nn/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/nn/dep/krd/Nettstadskart.html?id=313851">Nettstadskart</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/nn/Om-nettstaden/Hjelp.html?id=488641">Hjelp</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/nn/dep/krd/Om-departementet/Kontakt.html?id=512">Kontakt</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Tips ein venn</strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakars e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Del artikkelen</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/krd/Tema.html?id=506" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/krd/Tema.html?id=506', 'Tema')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/krd/Tema.html?id=506&amp;description=Tema' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Tema','','http://www.regjeringen.no/nn/dep/krd/Tema.html?id=506',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+
+    
+
+    
+    
+
+    
+
+<p class="breadcrumbs">Du er her: <a href="/nn.html?id=4">regjeringa.no</a> / <a href="/nn/dep/krd.html?id=504">Kommunal- og regionaldepart...</a> / <span>Tema</span>
+</p>
+<div class="documentTop portalSubject"> 
+ <h1>Tema</h1>
+ 
+ 
+</div>
+ 
+<div class="PortalSubjectsList">
+<ul>
+   <li><h2><a href="/nn/dep/krd/Tema/bolig-_og_bygningspolitikk.html?id=943">Bolig- og bygningspolitikk</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/boligsosialt_arbeid.html?id=516363">Boligsosialt arbeid</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/internasjonalt-samarbeid-om-bolig--og-by.html?id=517330">Internasjonalt samarbeid om bolig- og bygningspolitikk</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/byggesak/byggekostnader.html?id=536208">Byggekostnader</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/byggesak/sikkerhet-bygg.html?id=536209">Sikkerhet: Bygg</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/byggesak/ubyggingsavtaler.html?id=536210">Utbyggingsavtaler</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/boligmarkedet.html?id=559390">Boligmarkedet</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/byggeskikk-miljo-og-universell-utforming.html?id=559391">Byggeskikk, miljø og universell utforming</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk/byggesak.html?id=559392">Byggesak</a><span class="portalSubDivider">|</span></li>
+                </ul></li>
+ 
+   <li><h2><a href="/nn/dep/krd/Tema/regional-_og_distriktspolitikk.html?id=1238">Distrikts- og regionalpolitikk</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/md/tema/planlegging_plan-_og_bygningsloven/regional_planlegging.html?id=1239">Regional planlegging</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/internasjonalt-samarbeid-om-distrikts--o.html?id=517331">Internasjonalt samarbeid om distrikts- og regionalpolitikk</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/bakgrunn-og-malsettinger-i-distrikts--og.html?id=526841">Bakgrunn og målsettinger i distrikts- og regionalpolitikken</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/utvikling-av-bedrifter-og-naringsmiljo.html?id=526842">Utvikling av bedrifter og næringsmiljø</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/levende-og-attraktive-lokalsamfunn.html?id=526843">Levende og attraktive lokalsamfunn</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/virkeomrader-retningslinjer-og-regler.html?id=526844">Virkeområder, retningslinjer og regler</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/regional-_og_distriktspolitikk/omradepolitikk.html?id=577623">Områdeinnsats</a><span class="portalSubDivider">|</span></li>
+                </ul></li>
+ 
+   <li><h2><a href="/nn/dep/krd/Tema/forholdet-kommune-stat.html?id=537963">Forholdet kommune-stat</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/forholdet-kommune-stat/konsultasjoner-mellom-staten-og-kommunes.html?id=540082">Konsultasjoner mellom staten og kommunesektoren</a><span class="portalSubDivider">|</span></li>
+                </ul></li>
+ 
+   <li><h2><a href="/nn/dep/krd/Tema/fornying-i-kommunene.html?id=537965">Fornying i kommunene</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/fornying-i-kommunene/forvaltningsreformen.html?id=540079">Forvaltningsreformen</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/fornying-i-kommunene/forsok-i-kommunesektoren.html?id=540080">Forsøk i kommunesektoren</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/fornying-i-kommunene/etikk-i-kommunesektoren.html?id=540081">Etikk i kommunesektoren</a><span class="portalSubDivider">|</span></li>
+                </ul></li>
+ 
+   <li><h2><a href="/nn/dep/krd/Tema/kommuneokonomi.html?id=537966">Kommuneøkonomi</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/kommuneokonomi/inntektssystemet-.html?id=540083">Inntektssystemet for kommuner og fylkeskommuner</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/kommuneokonomi/kostra.html?id=1233">KOSTRA</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/kommuneokonomi/kommuneregnskap.html?id=540085">Kommuneregnskap</a><span class="portalSubDivider">|</span></li>
+                </ul></li>
+ </ul> 
+</div>
+<div class="PortalSubjectsList">
+<ul>
+ <li> 
+  <h2><a href="/nn/dep/krd/Tema/kommunejuss.html?id=537968">Kommunejuss og kommunal organisering</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/kommunejuss/kommunevapen.html?id=522373">Kommunevåpen - heraldikk</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/kommunejuss/interkommunalt-samarbeid.html?id=540086">Interkommunalt samarbeid</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/Tema/kommunejuss/eigenkontroll-i-kommunane-og-fylkeskommu.html?id=535961">Eigenkontroll i kommunane og fylkeskommunane</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/tema/kommunejuss/kommunestruktur-.html?id=540087">Kommunestruktur</a><span class="portalSubDivider">|</span></li>
+                </ul>
+ </li>
+ 
+ <li> 
+  <h2><a href="/nn/dep/krd/Tema/valg-og-demokrati.html?id=537969">Valg og demokrati</a></h2>
+              <ul> 
+                     <li><a href="/nn/dep/krd/tema/valg-og-demokrati/lokaldemokrati-2.html?id=540088">Lokaldemokrati</a><span class="portalSubDivider">|</span></li>
+                 
+                     <li><a href="/nn/dep/krd/kampanjer/valportalen.html?id=456491">Valg</a><span class="portalSubDivider">|</span></li>
+                </ul>
+ </li>
+ 
+ <li> 
+  <h2><a href="/nn/dep/krd/Dokument/databaser-og-registre.html?id=546542">Databaser og registre</a></h2>
+              
+ </li>
+ 
+ <li> 
+  <h2><a href="/nn/dep/krd/Tema/krd-forskning.html?id=588230">Forskning om kommuner og regioner, bolig, bygg og miljø</a></h2>
+              
+ </li>
+ </ul> 
+</div>
+<div style="clear: both;"></div>
+
+        
+	                    
+        <div class="printContact">
+            
+        </div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/nn/dep/krd.html?id=504'><img src="/upload/KRD/Profilelementer/KRD_profil.jpg" alt="Kommunal- og regionaldepartementet" /></a></div>
+                                        
+                                        
+    
+
+                                        
+                                        
+    
+
+     
+     
+    
+    
+     
+        
+                                        
+       
+
+                                                                        
+                                        
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nn/dep/krd.html?id=504">
+            Framsida til departementet</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/Aktuelt.html?id=505" title=''>
+            Aktuelt</a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/nn/dep/krd/Tema.html?id=506" title=''>
+            Tema</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/bolig-_og_bygningspolitikk.html?id=943" title=''>
+            Bolig- og bygningspolitikk</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/regional-_og_distriktspolitikk.html?id=1238" title=''>
+            Distrikts- og regionalpolitikk</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/forholdet-kommune-stat.html?id=537963" title=''>
+            Forholdet kommune-stat</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/fornying-i-kommunene.html?id=537965" title=''>
+            Fornying i kommunene</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/kommuneokonomi.html?id=537966" title=''>
+            Kommuneøkonomi</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/kommunejuss.html?id=537968" title=''>
+            Kommunejuss og kommunal organisering</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/valg-og-demokrati.html?id=537969" title=''>
+            Valg og demokrati</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/dok/databaser-og-registre.html?id=546542" title=''>
+            Databaser og registre</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/tema/krd-forskning.html?id=588230" title=''>
+            Forskning om kommuner og regioner, bolig, bygg og miljø</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/pressesenter.html?id=507" title=''>
+            Pressesenter</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/Dokument.html?id=272509" title=''>
+            Dokument</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/Om-departementet.html?id=509" title=''>
+            Om departementet</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nn/dep/krd/lyd_bilde.html?id=510" title=''>
+            Lyd og bilde</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/dokumentarkiv.html?id=115322" title=''>
+            Dokumentarkiv</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p>Kommunal- og regionaldepartementet, Akersgata 59, Postboks 8112 Dep, 0032 Oslo | Telefon: 22 24 90 90<br />E-post: <img id='Eoi_1' class='obfimg' src='/images/emailimages/4f96b63cd195f1d0856590db2d29a3eb.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '231D420C1F4C4D0D5346470D47514863484257574C4E57504C531D014C4D0D5346470D47514863484257574C4E57504C53194C574F4A424E011E4546514B03421F'));//--></script>&nbsp;| Ansvarleg redaktør:&nbsp;<img id='Eoi_2' class='obfimg' src='/images/emailimages/d2bde6b644fc8340755b780802216b3a.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', 'E4DA85CBD896818F8DB3C48190819681A9C4928DA8DAC68B8ACA948180CA80968FA496818F8D93CA819081968189C9928D88DE8B90888D8589C6D98281968CC485D8'));//--></script> | Nettredaktør: <img id='Eoi_3' class='obfimg' src='/images/emailimages/8cb8b2b0c6e21482b67c9171f5082840.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '9CA2FDB3A0F2F9EFF1F0F3D4BCEEF9FBF3CEA2BEF3F2B2ECF9F8B2F8EEF7DCF2F9EFF1F0F3F4B2EEF9FBF3EEA6F3E8F0F5FDF1BEA1FAF9EEF4BCFDA0'));//--></script></p></div>
+        
+        
+        
+   
+    
+
+ 
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
+</script>
+</form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>
