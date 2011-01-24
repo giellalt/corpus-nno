@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Kulturministeren-deler-ut-Norsk-Artistforbunds-arespris.html?id=620439'"/>
+<xsl:variable name="para_nob" select="'kulturministeren-deler-ut-norsk-artistforbunds-arespris.html?id=620439'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

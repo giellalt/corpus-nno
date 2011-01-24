@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'radata-skal-kunne-brukes-av-flere.html?id=624786'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Vuoodieuid-galget-eanet-sahttit-geavahit.html?id=624786'"/>
+<xsl:variable name="para_sme" select="'vuoodieuid-galget-eanet-sahttit-geavahit.html?id=624786'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

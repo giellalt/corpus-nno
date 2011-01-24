@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Apent-landbrukspolitisk-mote-i-Sjak.html?id=615794'"/>
+<xsl:variable name="para_nob" select="'apent-landbrukspolitisk-mote-i-sjak.html?id=615794'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

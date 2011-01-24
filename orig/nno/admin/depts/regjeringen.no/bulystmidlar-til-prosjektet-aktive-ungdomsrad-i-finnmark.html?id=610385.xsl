@@ -101,7 +101,7 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_sma" select="'Arromelastoeviertieh-prosjektasse-Iedtjeles-noereraerieh-Finnmarkesne.html?id=610385'"/>
+<xsl:variable name="para_sma" select="'arromelastoeviertieh-prosjektasse-iedtjeles-noereraerieh-finnmarkesne.html?id=610385'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

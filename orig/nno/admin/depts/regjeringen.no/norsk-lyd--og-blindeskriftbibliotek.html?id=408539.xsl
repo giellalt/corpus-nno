@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'norsk-lyd--og-blindeskriftbibliotek.html?id=408539'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Norgga-jietna--ja-almmehemiidalagirjerajus-.html?id=408539'"/>
+<xsl:variable name="para_sme" select="'norgga-jietna--ja-almmehemiidalagirjerajus-.html?id=408539'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

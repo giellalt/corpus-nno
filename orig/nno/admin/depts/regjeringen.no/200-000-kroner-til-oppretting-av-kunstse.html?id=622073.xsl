@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'200-000-ruvdno-Daiddaguovddaiid-asaheapmai-Norggas.html?id=622073'"/>
+<xsl:variable name="para_sme" select="'200-000-ruvdno-daiddaguovddaiid-asaheapmai-norggas.html?id=622073'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

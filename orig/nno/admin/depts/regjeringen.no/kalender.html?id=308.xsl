@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'kalender.html?id=308'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Manaid--ja-dassearvodepartemeantta-kaleanddar.html?id=308'"/>
+<xsl:variable name="para_sme" select="'manaid--ja-dassearvodepartemeantta-kaleanddar.html?id=308'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

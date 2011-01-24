@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Kick-off-konferanse---EUs-8-rammeprogram-for-forskning.html?id=616101'"/>
+<xsl:variable name="para_nob" select="'kick-off-konferanse---eus-8-rammeprogram-for-forskning.html?id=616101'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

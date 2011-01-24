@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Apne-Hausttakken-matmarkedet-i-Skjak.html?id=615793'"/>
+<xsl:variable name="para_nob" select="'apne-hausttakken-matmarkedet-i-skjak.html?id=615793'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

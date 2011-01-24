@@ -101,9 +101,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Fylkesmannen-positivt-ut-av-kommuneundersokelse.html?id=621441'"/>
+<xsl:variable name="para_nob" select="'fylkesmannen-positivt-ut-av-kommuneundersokelse.html?id=621441'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Fylkkamanni-govviduvvo-positiivalaat-suohkanguorahallamis.html?id=621441'"/>
+<xsl:variable name="para_sme" select="'fylkkamanni-govviduvvo-positiivalaat-suohkanguorahallamis.html?id=621441'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

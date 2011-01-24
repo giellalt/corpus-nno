@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Kan-spare-milliarder-pa-smartere-groftegraving-for-bredband.html?id=607412'"/>
+<xsl:variable name="para_nob" select="'kan-spare-milliarder-pa-smartere-groftegraving-for-bredband.html?id=607412'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Vejola-seastit-miljarddaid-jos-goaivu-eara-vugiid-mielde-goivvohagaid--govdafierpmadahkii.html?id=607412'"/>
+<xsl:variable name="para_sme" select="'vejola-seastit-miljarddaid-jos-goaivu-eara-vugiid-mielde-goivvohagaid--govdafierpmadahkii.html?id=607412'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

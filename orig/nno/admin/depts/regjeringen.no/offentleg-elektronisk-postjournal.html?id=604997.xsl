@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Offentlig-elektronisk-postjournal.html?id=604997'"/>
+<xsl:variable name="para_nob" select="'offentlig-elektronisk-postjournal.html?id=604997'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Byogkeles-elektronihken-paastejournale.html?id=604997'"/>
+<xsl:variable name="para_sme" select="'byogkeles-elektronihken-paastejournale.html?id=604997'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

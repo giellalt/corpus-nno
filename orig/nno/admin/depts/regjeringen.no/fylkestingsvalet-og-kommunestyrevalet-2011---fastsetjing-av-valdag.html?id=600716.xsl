@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Fylkkadiggevalga-ja-suohkan-gielddastivravalga-2011--valgabeaivvi-mearrideapmi.html?id=600716'"/>
+<xsl:variable name="para_sme" select="'fylkkadiggevalga-ja-suohkan-gielddastivravalga-2011--valgabeaivvi-mearrideapmi.html?id=600716'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

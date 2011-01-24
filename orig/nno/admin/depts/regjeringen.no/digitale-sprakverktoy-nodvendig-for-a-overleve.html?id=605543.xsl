@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Digitale-sprakverktoy-nodvendig-for-a-overleve.html?id=605543'"/>
+<xsl:variable name="para_nob" select="'digitale-sprakverktoy-nodvendig-for-a-overleve.html?id=605543'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Digitala-giellareaiddut-leat-dehalaa-giela-ceavzimii.html?id=605543'"/>
+<xsl:variable name="para_sme" select="'digitala-giellareaiddut-leat-dehalaa-giela-ceavzimii.html?id=605543'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

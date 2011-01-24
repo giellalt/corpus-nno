@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Arbeidsministeren-holder-innlegg-pa-NHO-konferanse.html?id=619000'"/>
+<xsl:variable name="para_nob" select="'arbeidsministeren-holder-innlegg-pa-nho-konferanse.html?id=619000'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'tre-ministre-med-brev-til-kommunene-om-m.html?id=621039'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Golbma-ministariid-reive-suohkaniidda-giehtatelefon--ja-govdafierpmadathuksema-birra.html?id=621039'"/>
+<xsl:variable name="para_sme" select="'golbma-ministariid-reive-suohkaniidda-giehtatelefon--ja-govdafierpmadathuksema-birra.html?id=621039'"/>
 <xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html?id=621259'"/>
 <xsl:variable name="para_swe" select="''"/>
 

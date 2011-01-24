@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'under_behandling.html?id=1765'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Ait-mat-leat-meannuduvvomin-.html?id=1765'"/>
+<xsl:variable name="para_sme" select="'ait-mat-leat-meannuduvvomin-.html?id=1765'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

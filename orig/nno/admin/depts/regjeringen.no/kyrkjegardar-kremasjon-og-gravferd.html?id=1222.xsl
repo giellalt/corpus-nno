@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'kirkegarder_kremasjon_og_gravferd.html?id=1222'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Girkogarddit-kremauvnnat-ja-havdadeamit.html?id=1222'"/>
+<xsl:variable name="para_sme" select="'girkogarddit-kremauvnnat-ja-havdadeamit.html?id=1222'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

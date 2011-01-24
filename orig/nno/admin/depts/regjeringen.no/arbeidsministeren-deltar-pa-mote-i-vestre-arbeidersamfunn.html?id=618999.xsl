@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Arbeidsministeren-deltar-pa-mote-i-Vestre-arbeidersamfunn.html?id=618999'"/>
+<xsl:variable name="para_nob" select="'arbeidsministeren-deltar-pa-mote-i-vestre-arbeidersamfunn.html?id=618999'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

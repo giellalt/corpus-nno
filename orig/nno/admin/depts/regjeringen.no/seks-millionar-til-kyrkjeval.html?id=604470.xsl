@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Seks-millioner-til-kirkevalg.html?id=604470'"/>
+<xsl:variable name="para_nob" select="'seks-millioner-til-kirkevalg.html?id=604470'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Guhtta-milliuvnna-girkovalggaide.html?id=604470'"/>
+<xsl:variable name="para_sme" select="'guhtta-milliuvnna-girkovalggaide.html?id=604470'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

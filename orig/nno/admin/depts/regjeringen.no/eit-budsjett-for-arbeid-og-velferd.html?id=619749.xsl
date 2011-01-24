@@ -102,8 +102,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'et-budsjett-for-arbeid-og-velferd.html?id=619749'"/>
-<xsl:variable name="para_sma" select="'Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html?id=620957'"/>
-<xsl:variable name="para_sme" select="'Barggu-ja-alggu-bueahtta.html?id=619749'"/>
+<xsl:variable name="para_sma" select="'haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html?id=620957'"/>
+<xsl:variable name="para_sme" select="'barggu-ja-alggu-bueahtta.html?id=619749'"/>
 <xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html?id=621259'"/>
 <xsl:variable name="para_swe" select="''"/>
 

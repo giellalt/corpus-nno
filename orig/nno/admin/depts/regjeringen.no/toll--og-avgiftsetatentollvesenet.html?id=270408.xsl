@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'toll--og-avgiftsetatentollvesenet.html?id=270408'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Duollo--ja-divatetahttaDuollodoaimmahat.html?id=270408'"/>
+<xsl:variable name="para_sme" select="'duollo--ja-divatetahttaduollodoaimmahat.html?id=270408'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

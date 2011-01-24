@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'statens-pensjonsfond---norge.html?id=270389'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Stahta-penunfoanda---Norga.html?id=270389'"/>
+<xsl:variable name="para_sme" select="'stahta-penunfoanda---norga.html?id=270389'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

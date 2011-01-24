@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Fornyingsministeren-droftet-digitalt-forstevalg-med-toppledere-i-staten.html?id=604363'"/>
+<xsl:variable name="para_nob" select="'fornyingsministeren-droftet-digitalt-forstevalg-med-toppledere-i-staten.html?id=604363'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Oasmahttinministtar-digatalai-digitala-vuosttavalljema-stahta-njunnoiiguin.html?id=604363'"/>
+<xsl:variable name="para_sme" select="'oasmahttinministtar-digatalai-digitala-vuosttavalljema-stahta-njunnoiiguin.html?id=604363'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

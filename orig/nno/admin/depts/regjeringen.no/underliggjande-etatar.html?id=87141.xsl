@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'underliggende_etater.html?id=87141'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Vuollasa-asahusat.html?id=87141'"/>
+<xsl:variable name="para_sme" select="'vuollasa-asahusat.html?id=87141'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
