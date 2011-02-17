@@ -59,7 +59,7 @@
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'437'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision$'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>

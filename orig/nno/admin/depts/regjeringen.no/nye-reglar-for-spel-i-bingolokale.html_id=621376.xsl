@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'293'"/>
+<xsl:variable name="wordcount" select="'292'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -101,7 +101,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'fylkesmannen-positivt-ut-av-kommuneundersokelse.html_id=621441'"/>
+<xsl:variable name="para_nob" select="'Fylkesmannen-positivt-ut-av-kommuneundersokelse.html_id=621441'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'oa-njuolggadusat-bigobaikkiid-spealuid-v.html_id=621376'"/>
 <xsl:variable name="para_smj" select="''"/>

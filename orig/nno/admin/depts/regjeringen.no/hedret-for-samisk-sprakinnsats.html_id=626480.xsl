@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'870'"/>
+<xsl:variable name="wordcount" select="'869'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -94,16 +94,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'Norway-welcomes-agreement-in-Cancun.html_id=628050'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'handlingsplan.html_id=626612'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'balkkaupmi-samegiela-agiruama-ovddas.html_id=626480'"/>
+<xsl:variable name="para_sme" select="'Balkkaupmi-samegiela-agiruama-ovddas.html_id=626480'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

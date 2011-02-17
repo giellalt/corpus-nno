@@ -75,7 +75,7 @@ function printPage()
     <form name="aspnetForm" method="post" action="/nn/dep/fin/pressesenter/Pressemeldingar/2010/nye-budsjettal-for-2010.html?id=627167" id="aspnetForm" enctype="multipart/form-data">
 <div>
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAgIBEBYCHgZhY3Rpb24FVC9ubi9kZXAvZmluL3ByZXNzZXNlbnRlci9QcmVzc2VtZWxkaW5nYXIvMjAxMC9ueWUtYnVkc2pldHRhbC1mb3ItMjAxMC5odG1sP2lkPTYyNzE2N2RkGCAFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJERvY3VtZW50UmVsYXRpb25zaGlwMiRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBU5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwMSRib2R5Vmlld3MPD2QCAWQFfmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBV9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRTdWJwYWdlVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0Mg8PZmRkBWhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwxNSRBdXRob3JMaXN0MSRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBVZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRTZWFyY2hUYWJWaWV3cw8PZAIBZAVSY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRTZWFyY2hSZXN1bHRzTGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMPMqMCAAEAAAD/////AQAAAAAAAAAMAgAAAEJSZWdqZXJpbmdlbiwgVmVyc2lvbj0yLjEuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAGJSZWdqZXJpbmdlbi50ZW1wbGF0ZXMuVW5pdHMuTG9uZ0RvY3VtZW50U2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2wrU2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2xTdGF0ZQIAAAAqPFNlYXJjaEFuZExpc3RQYW5lbFZpc2libGU+a19fQmFja2luZ0ZpZWxkJzxUYWJsZU9mQ29udGVudHNWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZAAAAQECAAAAAAELZAVEY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDcPMqMCAAEAAAD/////AQAAAAAAAAAMAgAAAEJSZWdqZXJpbmdlbiwgVmVyc2lvbj0yLjEuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAGJSZWdqZXJpbmdlbi50ZW1wbGF0ZXMuVW5pdHMuTG9uZ0RvY3VtZW50U2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2wrU2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2xTdGF0ZQIAAAAqPFNlYXJjaEFuZExpc3RQYW5lbFZpc2libGU+a19fQmFja2luZ0ZpZWxkJzxUYWJsZU9mQ29udGVudHNWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZAAAAQECAAAAAAELZAVVY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckQ29udGVudHNUYWJWaWV3cw8PZGZkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRkb2N1bWVudFZpZXdzDw9kAgFkBUtjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRoZWFyaW5nVmlld3MPD2QCAWQFaGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDE4JEF1dGhvckxpc3QxJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJENvbnRlbnRzVGFiVmlld3MPD2RmZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0MQ8PZmRkBU9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFRpcEFGcmllbmRQbGFjZWhvbGRlciRUaXBBRnJpZW5kJFRpcFZpZXdzDw9kAgFkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QxDw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJHRvcFZpZXdzDw9kAgFkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSRNdWx0aVBhZ2VMaXN0Dw9mZGQFPmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJFZpZXdzDw9kAgFkBYABY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAV3Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb3JpbmdzTm90YXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVOY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDgkUGFnZUxpc3QyDw9mZGQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0Mg8PZmRkBVVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjaWxkcmVuTGlzdCRjaGlsZHBhZ2VzDw9mZGQFc2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJHBhZ2VoZWFkaW5naW5mbzEkQXV0aG9yTGlzdDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVTY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckU2VhcmNoVGFiVmlld3MPD2QCAWQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAVjY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckU2VhcmNoUmVzdWx0c0xpc3QkbHN0VW5pdmVyc2FsDw9mZGQm9qk6V3CDSUqPeJcXHEz6HT7mGg==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWQYIAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFS2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGhlYXJpbmdWaWV3cw8PZAIBZAVOY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDEkYm9keVZpZXdzDw9kAgFkBX5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJFJlbGF0ZWRMb3ZGb3Jza3JpZnQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVfY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkU3VicGFnZVRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAVoY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMTUkQXV0aG9yTGlzdDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVTY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckU2VhcmNoVGFiVmlld3MPD2QCAWQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFNlYXJjaFJlc3VsdHNMaXN0JGxzdFVuaXZlcnNhbA8PZmRkBVJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFRGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3DzKjAgABAAAA/////wEAAAAAAAAADAIAAABCUmVnamVyaW5nZW4sIFZlcnNpb249Mi4xLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABiUmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLkxvbmdEb2N1bWVudFNlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sK1NlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sU3RhdGUCAAAAKjxTZWFyY2hBbmRMaXN0UGFuZWxWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZCc8VGFibGVPZkNvbnRlbnRzVmlzaWJsZT5rX19CYWNraW5nRmllbGQAAAEBAgAAAAABC2QFVWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JENvbnRlbnRzVGFiVmlld3MPD2RmZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkZG9jdW1lbnRWaWV3cw8PZAIBZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkdG9wVmlld3MPD2QCAWQFVmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFNlYXJjaFRhYlZpZXdzDw9kAgFkBVhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRDb250ZW50c1RhYlZpZXdzDw9kZmQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDEPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVzY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkcGFnZWhlYWRpbmdpbmZvMSRBdXRob3JMaXN0MSRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBVVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjaWxkcmVuTGlzdCRjaGlsZHBhZ2VzDw9mZGQFY2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JFNlYXJjaFJlc3VsdHNMaXN0JGxzdFVuaXZlcnNhbA8PZmRkBT5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRWaWV3cw8PZAIBZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzDzKjAgABAAAA/////wEAAAAAAAAADAIAAABCUmVnamVyaW5nZW4sIFZlcnNpb249Mi4xLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABiUmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLkxvbmdEb2N1bWVudFNlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sK1NlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sU3RhdGUCAAAAKjxTZWFyY2hBbmRMaXN0UGFuZWxWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZCc8VGFibGVPZkNvbnRlbnRzVmlzaWJsZT5rX19CYWNraW5nRmllbGQAAAEBAgAAAAABC2QFaGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDE4JEF1dGhvckxpc3QxJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFd2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9yaW5nc05vdGF0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFTmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA4JFBhZ2VMaXN0Mg8PZmRkBV5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNyRUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QyDw9mZGQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0MQ8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSR1eFZpZXdzDw9kZmQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZBIZUiE3unIN1QgqgmxZFxw4Vl0W" />
 </div>
 
         
@@ -434,7 +434,7 @@ function GetThis(T, C, U, L)
 						 <a href="/nn/dep/fin/dep/org/avdelinger/finansavdelingen/ekspedisjonssjef-morten-baltzersen.html?id=450617" class="structuredDataEmail">Ekspedisjonssjef Morten Baltzersen</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/cc6fc548515bdc171a60ad5838ca26db.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '81BFE0AEBDF5F2EEF1ACE4A1E5EFE4D2BFA6A6BCE4EDF8F5F2A1A6EEEFAFF1E4E5AFEFE8E7C1EFE4F2F3E4FBF5EDE0E3AFEFE4F5F3EEECBBEEF5EDE8E0ECA6BCE7E4F3E9A1E0BD'));//--></script></p>
+document.write(dc('Eoi_1', '053B642A3971766A75286025616B60563B22223860697C717625226A6B2B7560612B6B6C63456B607677607F716964672B6B6071776A683F6A71696C646822386360776D256439'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -466,7 +466,7 @@ document.write(dc('Eoi_1', '81BFE0AEBDF5F2EEF1ACE4A1E5EFE4D2BFA6A6BCE4EDF8F5F2A1
 						 <a href="/nn/dep/fin/dep/org/avdelinger/okonomiavdelingen/ekspedisjonssjef-knut-moum.html?id=450630" class="structuredDataEmail">Ekspedisjonssjef Knut Moum</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/955a1a58ad6c01a7005fb52064a52308.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '7D431C5241090E120D50185D1913182E435A5A40181104090E5D5A1213530D18195313141B3D10081210530908131647120911141C105A401B180F155D1C41'));//--></script></p>
+document.write(dc('Eoi_2', '734D125C4F07001C035E1653171D16204D54544E161F0A070053541C1D5D0316175D1D1A15331E061C1E5D07061D18491C071F1A121E544E1516011B53124F'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -495,10 +495,10 @@ document.write(dc('Eoi_2', '7D431C5241090E120D50185D1913182E435A5A40181104090E5D
                      
             <div class="ToolboxContent">
 					<h3 class="relatedContactHead">
-						 <a href="/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/Informasjonseininga.html?id=426425" class="structuredDataEmail">Informasjonseininga</a>
+						 <a href="/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/kommunikasjonseininga.html?id=426425" class="structuredDataEmail">Kommunikasjonseininga</a>
 					</h3>
-					<p class="noPadBtm"><img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/aebc6b1cb887b4101e3b631937f8ec98.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '407E216F7C34332F306D2560242E25137E67677D252C39343360672F2E6E3025246E2E2926002E253425282E25332E2F2A33212D322F262E297A2F342C29212D677D2625322860217C'));//--></script></p>
+					<p class="noPadBtm"><img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/4fd6bd724ff983deac78d64c2f451419.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', '0D336C2231797E627D20682D6963685E332A2A30686174797E2D2A6263237D68692363646B4D636879686563687E6362677E6C666463786060626637627961646C602A306B687F652D6C31'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -520,7 +520,7 @@ document.write(dc('Eoi_3', '407E216F7C34332F306D2560242E25137E67677D252C39343360
 					    <h3 class="noPadBtm">
                         Adresse:
                     </h3>
-					    <p>Finansdepartementet<br />Informasjonseininga<br />Postboks 8008 Dep<br />0030 Oslo</p>
+					    <p>Finansdepartementet<br />Kommunikasjonseininga<br />Postboks 8008 Dep<br />0030 Oslo</p>
 <p><br /></p>
 <p><b>Besøksadresse:</b><br />Akersgata 40<br />Oslo</p>
             </div>
@@ -569,7 +569,7 @@ document.write(dc('Eoi_3', '407E216F7C34332F306D2560242E25137E67677D252C39343360
           
                 <li><a href="/nn/dep/fin/pressesenter/pressemeldinger/2009/nokkeltall-i-budsjettet-for-2010.html?id=579481">Nøkkeltall i budsjettet for 2010</a></li>
           
-                <li><a href="/nn/dep/fin/dok/regpubl/prop/2010-2011/prop-47-ls-2010-2011.html?id=627168">Prop. 47 LS (2010-2011)</a><br /><span>Lov om opphevelse av lov 30. mai 1986 nr. 23 om statens petroleumsforsikringsfond mv. og ny saldering av statsbudsjettet 2010</span></li>
+                <li><a href="/nn/dep/fin/dok/regpubl/prop/2010-2011/prop-47-ls-2010-2011.html?id=627168">Prop. 47 LS (2010–2011)</a><br /><span>Lov om opphevelse av lov 30. mai 1986 nr. 23  om statens petroleumsforsikringsfond mv.  og ny saldering av statsbudsjettet 2010</span></li>
           
             </ul></div>
               
@@ -594,7 +594,7 @@ document.write(dc('Eoi_3', '407E216F7C34332F306D2560242E25137E67677D252C39343360
 						 <a href="/nn/dep/fin/dep/org/avdelinger/finansavdelingen/ekspedisjonssjef-morten-baltzersen.html?id=450617" class="structuredDataEmail">Ekspedisjonssjef Morten Baltzersen</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/cc6fc548515bdc171a60ad5838ca26db.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', 'B789D6988BC3C4D8C79AD297D3D9D2E48990908AD2DBCEC3C49790D8D999C7D2D399D9DED1F7D9D2C4C5D2CDC3DBD6D599D9D2C3C5D8DA8DD8C3DBDED6DA908AD1D2C5DF97D68B'));//--></script></p>
+document.write(dc('Eoi_4', '2E104F01125A5D415E034B0E4A404B7D100909134B42575A5D0E094140005E4B4A004047486E404B5D5C4B545A424F4C00404B5A5C414314415A42474F430913484B5C460E4F12'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -626,7 +626,7 @@ document.write(dc('Eoi_4', 'B789D6988BC3C4D8C79AD297D3D9D2E48990908AD2DBCEC3C497
 						 <a href="/nn/dep/fin/dep/org/avdelinger/okonomiavdelingen/ekspedisjonssjef-knut-moum.html?id=450630" class="structuredDataEmail">Ekspedisjonssjef Knut Moum</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/955a1a58ad6c01a7005fb52064a52308.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '320C531D0E46415D421F5712565C57610C15150F575E4B464112155D5C1C4257561C5C5B54725F475D5F1C46475C59085D465E5B535F150F5457405A12530E'));//--></script></p>
+document.write(dc('Eoi_5', 'C6F8A7E9FAB2B5A9B6EBA3E6A2A8A395F8E1E1FBA3AABFB2B5E6E1A9A8E8B6A3A2E8A8AFA086ABB3A9ABE8B2B3A8ADFCA9B2AAAFA7ABE1FBA0A3B4AEE6A7FA'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -655,10 +655,10 @@ document.write(dc('Eoi_5', '320C531D0E46415D421F5712565C57610C15150F575E4B464112
                      
             <div class="ToolboxContent">
 					<h3 class="relatedContactHead">
-						 <a href="/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/Informasjonseininga.html?id=426425" class="structuredDataEmail">Informasjonseininga</a>
+						 <a href="/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/kommunikasjonseininga.html?id=426425" class="structuredDataEmail">Kommunikasjonseininga</a>
 					</h3>
-					<p class="noPadBtm"><img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/aebc6b1cb887b4101e3b631937f8ec98.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_6', '8FB1EEA0B3FBFCE0FFA2EAAFEBE1EADCB1A8A8B2EAE3F6FBFCAFA8E0E1A1FFEAEBA1E1E6E9CFE1EAFBEAE7E1EAFCE1E0E5FCEEE2FDE0E9E1E6B5E0FBE3E6EEE2A8B2E9EAFDE7AFEEB3'));//--></script></p>
+					<p class="noPadBtm"><img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/4fd6bd724ff983deac78d64c2f451419.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_6', '81BFE0AEBDF5F2EEF1ACE4A1E5EFE4D2BFA6A6BCE4EDF8F5F2A1A6EEEFAFF1E4E5AFEFE8E7C1EFE4F5E4E9EFE4F2EFEEEBF2E0EAE8EFF4ECECEEEABBEEF5EDE8E0ECA6BCE7E4F3E9A1E0BD'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -680,7 +680,7 @@ document.write(dc('Eoi_6', '8FB1EEA0B3FBFCE0FFA2EAAFEBE1EADCB1A8A8B2EAE3F6FBFCAF
 					    <h3 class="noPadBtm">
                         Adresse:
                     </h3>
-					    <p>Finansdepartementet<br />Informasjonseininga<br />Postboks 8008 Dep<br />0030 Oslo</p>
+					    <p>Finansdepartementet<br />Kommunikasjonseininga<br />Postboks 8008 Dep<br />0030 Oslo</p>
 <p><br /></p>
 <p><b>Besøksadresse:</b><br />Akersgata 40<br />Oslo</p>
             </div>
@@ -715,7 +715,10 @@ document.write(dc('Eoi_6', '8FB1EEA0B3FBFCE0FFA2EAAFEBE1EADCB1A8A8B2EAE3F6FBFCAF
     <ul><li class="Selected">
         <a class="ISI_MENU " href="/nn/dep/fin/pressesenter/Pressemeldingar.html?id=235" title=''>
             Pressemeldingar</a>
-    <ul><li class="Selected">
+    <ul><li class="">
+        <a class="ISI_MENU" href="/nn/dep/fin/pressesenter/pressemeldinger/2011.html?id=631054" title=''>
+            2011</a>
+    </li><li class="Selected">
         <a class="ISI_MENU Selected" href="/nn/dep/fin/pressesenter/pressemeldinger/2010.html?id=589703" title=''>
             2010</a>
     </li><li class="">
@@ -757,10 +760,10 @@ document.write(dc('Eoi_6', '8FB1EEA0B3FBFCE0FFA2EAAFEBE1EADCB1A8A8B2EAE3F6FBFCAF
         
          
 <div id="PageFooter">Finansdepartementet, &nbsp;Akersgata 40, Postboks 8008 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; &nbsp;Tlf:&nbsp;22 24 90 90, Faks:&nbsp;22 24 95 10 <br />E-post: <img id='Eoi_7' class='obfimg' src='/upload/system/emailimages/e307bd29b111715e25f69d1564450731.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_7', 'E5DB84CAD9DB918B8A83CAD98A8BCB958081CB8B8C83A58E8491918A8891968A95DBC7D6D2D4D6D5D5C6C7D8978A898A86C5918B8A83D9DBC78A8BCB958081CB8B8C83A58E8491918A8891968A95CB938C8E9784DF8A91898C8488C7D88380978DC584D9'));//--></script>&nbsp;&nbsp; |&nbsp; Nettredaktør: <img id='Eoi_8' class='obfimg' src='/upload/system/emailimages/32f656fb48ff689222ee7008a8da605d.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_8', '85BBE4AAB9BBF1EBEAE3AAB9E8F0F763C7A5EBECF1F7E4C8A5F7EAD1BBA7B6B2B4B6B5B5A6A7B8F7EAE9EAE6A5F1EBEAE3B9BBA7EAEBABF5E0E1ABEBECE3C5E8F0F7E4E7ABEBECF1F7E4E8A8F7EAF1BFEAF1E9ECE4E8A7B8E3E0F7EDA5E4B9'));//--></script>&nbsp;&nbsp; |&nbsp; Ansvarlig redaktør: <img id='Eoi_9' class='obfimg' src='/upload/system/emailimages/d9711f50301c46b444d4519449235e01.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_9', 'A49AC58B98D7C1CAC1CFC8C5E984D6C5CAD1F69A86CBCA8AD4C1C08ACACDC2E4D7C1CAC1CFC8C5C98AD6C5CAD1D69ECBD0C8CDC5C98699C2C1D6CC84C598'));//--></script></div>
-<div title="cms01" id="hostid" style="display:hidden;"><img width="10" height="10" src="/images/clear.gif" alt="cms01" /></div>
+document.write(dc('Eoi_7', '4977286675773D27262F6675262767392C2D6727202F0922283D3D26243D3A2639776B7A7E787A79796A6B743B2625262A693D27262F75776B262767392C2D6727202F0922283D3D26243D3A2639673F20223B2873263D252028246B742F2C3B21692875'));//--></script>&nbsp;&nbsp; |&nbsp; Nettredaktør: <img id='Eoi_8' class='obfimg' src='/upload/system/emailimages/32f656fb48ff689222ee7008a8da605d.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_8', '0B356A2437357F65646D2437667E79ED492B65627F796A462B79645F3529383C3A383B3B28293679646764682B7F65646D3735296465257B6E6F2565626D4B667E796A692565627F796A662679647F31647F67626A6629366D6E79632B6A37'));//--></script>&nbsp;&nbsp; |&nbsp; Ansvarlig redaktør: <img id='Eoi_9' class='obfimg' src='/upload/system/emailimages/d9711f50301c46b444d4519449235e01.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_9', '556B347A6926303B303E3934187527343B20076B773A3B7B2530317B3B3C331526303B303E3934387B27343B20276F3A21393C343877683330273D753469'));//--></script></div>
+<div title="cms04" id="hostid" style="display:hidden;"><img width="10" height="10" src="/images/clear.gif" alt="cms04" /></div>
         
         
         

@@ -15,10 +15,10 @@
 <meta name="TITLE" content="Rådata skal kunne nyttast av fleire" />
 <meta name="description" content="Fleire offentlege r&amp;#229;data skal no bli tilgjengelege for dei som m&amp;#229;tte &amp;#248;nskje &amp;#229; byggje vidare p&amp;#229; dei. Fr&amp;#229; 1. januar 2011 skal alle eigna r&amp;#229;data gjerast tilgjengelege i format som kan lesast maskinelt.
 " />
-<meta name="KEYWORDS" content="IKT-politikk" />
+<meta name="KEYWORDS" content="IKT for verdiskaping " />
 <meta name="DC.Title" content="Rådata skal kunne nyttast av fleire" />
 <meta name="DC.Creator" content="Fornyings-, administrasjons- og kyrkjedepartementet" />
-<meta name="DC.Subject" content="IKT-politikk" />
+<meta name="DC.Subject" content="IKT for verdiskaping " />
 <meta name="DC.Description" content="Fleire offentlege r&amp;#229;data skal no bli tilgjengelege for dei som m&amp;#229;tte &amp;#248;nskje &amp;#229; byggje vidare p&amp;#229; dei. Fr&amp;#229; 1. januar 2011 skal alle eigna r&amp;#229;data gjerast tilgjengelege i format som kan lesast maskinelt.
 " />
 <meta name="DC.Date" content="2010-11-16" />
@@ -77,7 +77,7 @@ function printPage()
     <form name="aspnetForm" method="post" action="/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786" id="aspnetForm" enctype="multipart/form-data">
 <div>
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAgIBEBYCHgZhY3Rpb24FYC9ubi9kZXAvZmFkL3ByZXNzZXNlbnRlci9QcmVzc2VtZWxkaW5nYXIvMjAxMC9yYWRhdGEtc2thbC1rdW5uZS1ueXR0YXN0LWF2LWZsZWlyZS5odG1sP2lkPTYyNDc4NmRkGCAFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJERvY3VtZW50UmVsYXRpb25zaGlwMiRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUtjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRoZWFyaW5nVmlld3MPD2QCAWQFfmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBXNjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRwYWdlaGVhZGluZ2luZm8xJEF1dGhvckxpc3QxJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFX2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJFN1YnBhZ2VUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QyDw9mZGQFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEFzc29jaWF0ZWRFeHRlcm5hbE9yZyRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBVJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFNlYXJjaFJlc3VsdHNMaXN0JGxzdFVuaXZlcnNhbA8PZmRkBWhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwxNSRBdXRob3JMaXN0MSRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cw8yowIAAQAAAP////8BAAAAAAAAAAwCAAAAQlJlZ2plcmluZ2VuLCBWZXJzaW9uPTIuMS4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAYlJlZ2plcmluZ2VuLnRlbXBsYXRlcy5Vbml0cy5Mb25nRG9jdW1lbnRTZWFyY2hBbmROYXZpZ2F0aW9uQ29udHJvbCtTZWFyY2hBbmROYXZpZ2F0aW9uQ29udHJvbFN0YXRlAgAAACo8U2VhcmNoQW5kTGlzdFBhbmVsVmlzaWJsZT5rX19CYWNraW5nRmllbGQnPFRhYmxlT2ZDb250ZW50c1Zpc2libGU+a19fQmFja2luZ0ZpZWxkAAABAQIAAAAAAQtkBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNw8yowIAAQAAAP////8BAAAAAAAAAAwCAAAAQlJlZ2plcmluZ2VuLCBWZXJzaW9uPTIuMS4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAYlJlZ2plcmluZ2VuLnRlbXBsYXRlcy5Vbml0cy5Mb25nRG9jdW1lbnRTZWFyY2hBbmROYXZpZ2F0aW9uQ29udHJvbCtTZWFyY2hBbmROYXZpZ2F0aW9uQ29udHJvbFN0YXRlAgAAACo8U2VhcmNoQW5kTGlzdFBhbmVsVmlzaWJsZT5rX19CYWNraW5nRmllbGQnPFRhYmxlT2ZDb250ZW50c1Zpc2libGU+a19fQmFja2luZ0ZpZWxkAAABAQIAAAAAAQtkBVVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNyRDb250ZW50c1RhYlZpZXdzDw9kZmQFTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGRvY3VtZW50Vmlld3MPD2QCAWQFVmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFNlYXJjaFRhYlZpZXdzDw9kAgFkBVhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRDb250ZW50c1RhYlZpZXdzDw9kZmQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDEPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkdG9wVmlld3MPD2QCAWQFVWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGNpbGRyZW5MaXN0JGNoaWxkcGFnZXMPD2ZkZAVjY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckU2VhcmNoUmVzdWx0c0xpc3QkbHN0VW5pdmVyc2FsDw9mZGQFPmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJFZpZXdzDw9kAgFkBU5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwMSRib2R5Vmlld3MPD2QCAWQFaGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDE4JEF1dGhvckxpc3QxJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFd2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9yaW5nc05vdGF0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFTmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA4JFBhZ2VMaXN0Mg8PZmRkBV5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNyRUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QyDw9mZGQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0MQ8PZmRkBVNjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNyRTZWFyY2hUYWJWaWV3cw8PZAIBZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSRNdWx0aVBhZ2VMaXN0Dw9mZGR0QmYheWu/qPvtJOVENdTe4x1QcQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWQYIAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFS2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGhlYXJpbmdWaWV3cw8PZAIBZAV+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRSZWxhdGVkTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAVfY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkU3VicGFnZVRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFUmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVmY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkU2VhcmNoUmVzdWx0c0xpc3QkbHN0VW5pdmVyc2FsDw9mZGQFaGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDE1JEF1dGhvckxpc3QxJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzDzKjAgABAAAA/////wEAAAAAAAAADAIAAABCUmVnamVyaW5nZW4sIFZlcnNpb249Mi4xLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABiUmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLkxvbmdEb2N1bWVudFNlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sK1NlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sU3RhdGUCAAAAKjxTZWFyY2hBbmRMaXN0UGFuZWxWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZCc8VGFibGVPZkNvbnRlbnRzVmlzaWJsZT5rX19CYWNraW5nRmllbGQAAAEBAgAAAAABC2QFRGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3DzKjAgABAAAA/////wEAAAAAAAAADAIAAABCUmVnamVyaW5nZW4sIFZlcnNpb249Mi4xLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABiUmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLkxvbmdEb2N1bWVudFNlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sK1NlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sU3RhdGUCAAAAKjxTZWFyY2hBbmRMaXN0UGFuZWxWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZCc8VGFibGVPZkNvbnRlbnRzVmlzaWJsZT5rX19CYWNraW5nRmllbGQAAAEBAgAAAAABC2QFVWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JENvbnRlbnRzVGFiVmlld3MPD2RmZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkZG9jdW1lbnRWaWV3cw8PZAIBZAVWY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkU2VhcmNoVGFiVmlld3MPD2QCAWQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJENvbnRlbnRzVGFiVmlld3MPD2RmZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0MQ8PZmRkBU9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFRpcEFGcmllbmRQbGFjZWhvbGRlciRUaXBBRnJpZW5kJFRpcFZpZXdzDw9kAgFkBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSR0b3BWaWV3cw8PZAIBZAVVY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY2lsZHJlbkxpc3QkY2hpbGRwYWdlcw8PZmRkBWNjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMSRjdGwwNyRTZWFyY2hSZXN1bHRzTGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAU+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkVmlld3MPD2QCAWQFTmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDAxJGJvZHlWaWV3cw8PZAIBZAVoY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMTgkQXV0aG9yTGlzdDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAV3Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb3JpbmdzTm90YXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVOY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDgkUGFnZUxpc3QyDw9mZGQFXmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAxJGN0bDA3JFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0Mg8PZmRkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QxDw9mZGQFc2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJHBhZ2VoZWFkaW5naW5mbzEkQXV0aG9yTGlzdDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVTY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDEkY3RsMDckU2VhcmNoVGFiVmlld3MPD2QCAWQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZK39nhevdlN/Z7Y98Jn/k41d6xVR" />
 </div>
 
         
@@ -268,12 +268,6 @@ function fbs_click()
     window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
     return false;
 }
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
 function GetThis(T, C, U, L) 
 {
 	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
@@ -328,7 +322,6 @@ function GetThis(T, C, U, L)
         <p><strong>Del artikkelen</strong></p>
         <ul class="communities">        
             <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786', 'Rådata skal kunne nyttast av fleire')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786&amp;description=Rådata skal kunne nyttast av fleire' target="_blank">Nettby</a></li>
             <li><a class="share_myspace" href="#" onclick="return GetThis('Rådata skal kunne nyttast av fleire','','http://www.regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786',3)">Myspace</a></li>
             <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
         </ul>
@@ -432,7 +425,7 @@ function GetThis(T, C, U, L)
 						 <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/informasjonsradgiver-ann-kristin-lindaas.html?id=439589" class="structuredDataEmail">Senior kommunikasjonsrådgiver Ann Kristin Lindaas</a>
 					</h3>
 					<p class="noPadBtm"><script type="text/javascript"><!--
-document.write(dc('', '39075816054D4A5649145C195D575C6A071E1E045C55404D4A191E565717495C5D175D585F10581155525803564D555058541E045F5C4B51195805'));//--></script></p>
+document.write(dc('', 'A49AC58B98D0D7CBD489C184C0CAC1F79A838399C1C8DDD0D78483CBCA8AD4C1C08AC0C5C28DC58CC8CFC59ECBD0C8CDC5C98399C2C1D6CC84C598'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -464,7 +457,7 @@ document.write(dc('', '39075816054D4A5649145C195D575C6A071E1E045C55404D4A191E565
 						 <a href="/nn/dep/fad/dep/org/avdelinger/it-politisk_avdeling.html?id=1589" class="structuredDataEmail">Avdeling for IKT og fornying</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/2f7c3e284ba45bc96f6a465e77a5344e.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '261847091A525549560B4306424843751801011B434A5F5255060149480856434208424740664D475252494B525549561C49524A4F474B011B4043544E06471A'));//--></script></p>
+document.write(dc('Eoi_2', 'F8C699D7C48C8B9788D59DD89C969DABC6DFDFC59D94818C8BD8DF9796D6889D9CD69C999EB893998C8C97958C8B9788C2978C94919995DFC59E9D8A90D899C4'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -503,7 +496,7 @@ document.write(dc('Eoi_2', '261847091A525549560B4306424843751801011B434A5F525506
                         Tema
                     </h2>
     <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ctl00_phList" class="ToolboxContent">
-	<ul><li><a href="/nn/dep/fad/tema/ikt-politikk.html?id=1367" title="" class="ISI_MENU">IKT-politikk</a></li></ul>
+	<ul><li><a href="/nn/dep/fad/tema/ikt-politikk/ikt-for-verdiskaping-.html?id=623454" title="" class="ISI_MENU">IKT for verdiskaping </a></li></ul>
 </div>
 </div>
                                         
@@ -516,6 +509,7 @@ document.write(dc('Eoi_2', '261847091A525549560B4306424843751801011B434A5F525506
  
  
                                                 
+                                        
                                         
                                                                         
                                         
@@ -533,7 +527,7 @@ document.write(dc('Eoi_2', '261847091A525549560B4306424843751801011B434A5F525506
 						 <a href="/nn/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/informasjonsradgiver-ann-kristin-lindaas.html?id=439589" class="structuredDataEmail">Senior kommunikasjonsrådgiver Ann Kristin Lindaas</a>
 					</h3>
 					<p class="noPadBtm"><script type="text/javascript"><!--
-document.write(dc('', '635D024C5F17100C134E0643070D06305D44445E060F1A171043440C0D4D1306074D0702054A024B0F0802590C170F0A020E445E0506110B43025F'));//--></script></p>
+document.write(dc('', 'B38DD29C8FC7C0DCC39ED693D7DDD6E08D94948ED6DFCAC7C09394DCDD9DC3D6D79DD7D2D59AD29BDFD8D289DCC7DFDAD2DE948ED5D6C1DB93D28F'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -565,7 +559,7 @@ document.write(dc('', '635D024C5F17100C134E0643070D06305D44445E060F1A171043440C0
 						 <a href="/nn/dep/fad/dep/org/avdelinger/it-politisk_avdeling.html?id=1589" class="structuredDataEmail">Avdeling for IKT og fornying</a>
 					</h3>
 					<p class="noPadBtm"><img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/2f7c3e284ba45bc96f6a465e77a5344e.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '0B356A24377F78647B266E2B6F656E58352C2C366E67727F782B2C6465257B6E6F256F6A6D4B606A7F7F64667F78647B31647F67626A662C366D6E79632B6A37'));//--></script></p>
+document.write(dc('Eoi_4', 'C1FFA0EEFDB5B2AEB1ECA4E1A5AFA492FFE6E6FCA4ADB8B5B2E1E6AEAFEFB1A4A5EFA5A0A781AAA0B5B5AEACB5B2AEB1FBAEB5ADA8A0ACE6FCA7A4B3A9E1A0FD'));//--></script></p>
 					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
 						     <tr>
 	<td>
@@ -650,8 +644,8 @@ document.write(dc('Eoi_4', '0B356A24377F78647B266E2B6F656E58352C2C366E67727F782B
         
          
 <div id="PageFooter"><p align="left"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: NO-BOK; mso-fareast-language: NO-BOK; mso-bidi-language: AR-SA"><font face="Verdana" size="1">Fornyings-, administrasjons- og kyrkjedepartementet, Akersgata 59, Postboks 8004 Dep, 0030 Oslo | Tlf. 22 24 90 90<br />E-post: <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/2f7c3e284ba45bc96f6a465e77a5344e.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '013F602E3D6E6F2F7164652F656067416A6075756E6C75726E713F236E6F2F7164652F656067416A6075756E6C75726E713B6E756D68606C233C6764736921603D'));//--></script> | Nettredaktør <img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/bee0ad8bd8668b4ed25aeeade2abb96c.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_6', '1B257A3427687A7A7F7572573B75726F687269503B75755A25397475356B7E7F357F7A7D5B77707A21746F77727A7639267D7E69733B7A27'));//--></script> | Ansvarlig redaktør: <a href="/nb/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver-frode-jacobsen.html?id=450403">Frode Jacobsen</a></font></span></p></div>
+document.write(dc('Eoi_5', '053B642A396A6B2B7560612B616463456E6471716A6871766A753B276A6B2B7560612B616463456E6471716A6871766A753F6A71696C646827386360776D256439'));//--></script> | Nettredaktør <img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/bee0ad8bd8668b4ed25aeeade2abb96c.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_6', '3D035C12014E5C5C595354711D5354494E544F761D53537C031F5253134D585913595C5B7D51565C07524951545C501F005B584F551D5C01'));//--></script> | Ansvarlig redaktør: <a href="/nb/dep/fad/dep/org/avdelinger/kommunikasjonsenheten/seniorradgiver-frode-jacobsen.html?id=450403">Frode Jacobsen</a></font></span></p></div>
 <div title="cms01" id="hostid" style="display:hidden;"><img width="10" height="10" src="/images/clear.gif" alt="cms01" /></div>
         
         

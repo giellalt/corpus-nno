@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'301'"/>
+<xsl:variable name="wordcount" select="'300'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -94,16 +94,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'Norway-welcomes-agreement-in-Cancun.html_id=628050'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'verdighetsgarantien.html_id=624134'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'marianne-a-olsen-oaui-jagi-2010-gandhistipeandda.html_id=623349'"/>
+<xsl:variable name="para_sme" select="'Marianne-A-Olsen-oaui-jagi-2010-Gandhistipeandda.html_id=623349'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
