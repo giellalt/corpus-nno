@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dokumentarkiv/Regjeringa-Stoltenberg-II/Arbeids--og-inkluderingsdepartementet/andre-dokumenter/personer/2005/arbeids--og-inkluderingsminister-bjarne-.html_id=1326'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/nn/dokumentarkiv/Regjeringa-Stoltenberg-II/Arbeids--og-inkluderingsdepartementet/andre-dokumenter/personer/2005/arbeids--og-inkluderingsminister-bjarne-.html?id=1326'"/>
 <xsl:variable name="title" select="'Ovddeš bargo- ja searvadahttinministtar Bjarne Håkon Hanssen - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
