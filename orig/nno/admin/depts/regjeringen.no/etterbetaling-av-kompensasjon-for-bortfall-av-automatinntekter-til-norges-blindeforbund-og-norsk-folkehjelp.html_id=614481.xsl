@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/Etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-Norges-Blindeforbund-og-Norsk-Folkehjelp.html?id=614481'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/Etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-Norges-Blindeforbund-og-Norsk-Folkehjelp.html_id=614481'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Lassebuhtadusa máksin Norgga Čalmmehemiidlihttui ja Norgga Álbmotveahkkái automáhtasisaboađuid massima geažil  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -94,16 +94,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'a-good-but-tight-defence-budget.html?id=619069'"/>
+<xsl:variable name="para_eng" select="'a-good-but-tight-defence-budget.html_id=619069'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'84-millioner-dokumenter-vil-ikke-forsvin.html?id=614526'"/>
+<xsl:variable name="para_nob" select="'84-millioner-dokumenter-vil-ikke-forsvin.html_id=614526'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'lassebuhtadusa-maksin-norgga-almmehemiidlihttui-ja-norgga-albmotveahkkai-automahtasisaboauid-massima-geail-.html?id=614481'"/>
+<xsl:variable name="para_sme" select="'lassebuhtadusa-maksin-norgga-almmehemiidlihttui-ja-norgga-albmotveahkkai-automahtasisaboauid-massima-geail-.html_id=614481'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

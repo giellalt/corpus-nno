@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Senter-for-statleg-okonomistyring.html?id=270409'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Senter-for-statleg-okonomistyring.html_id=270409'"/>
 <xsl:variable name="title" select="'Stáhta ekonomiijastivrenguovddáš - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -93,16 +93,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'the-norwegian-government-agency-for-fina.html?id=270409'"/>
+<xsl:variable name="para_eng" select="'the-norwegian-government-agency-for-fina.html_id=270409'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'senter-for-statlig-okonomistyring.html?id=270409'"/>
+<xsl:variable name="para_nob" select="'senter-for-statlig-okonomistyring.html_id=270409'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'stahta-ekonomiijastivrenguovdda.html?id=270409'"/>
+<xsl:variable name="para_sme" select="'stahta-ekonomiijastivrenguovdda.html_id=270409'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

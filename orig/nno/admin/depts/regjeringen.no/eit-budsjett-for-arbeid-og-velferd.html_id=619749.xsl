@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fin/pressesenter/Pressemeldingar/2010/eit-budsjett-for-arbeid-og-velferd.html?id=619749'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fin/pressesenter/Pressemeldingar/2010/eit-budsjett-for-arbeid-og-velferd.html_id=619749'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Barggu ja čálggu bušeahtta - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -94,17 +94,17 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'russia-and-norway-sign-agreement-on-loca.html?id=622461'"/>
+<xsl:variable name="para_eng" select="'russia-and-norway-sign-agreement-on-loca.html_id=622461'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'et-budsjett-for-arbeid-og-velferd.html?id=619749'"/>
-<xsl:variable name="para_sma" select="'haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html?id=620957'"/>
-<xsl:variable name="para_sme" select="'barggu-ja-alggu-bueahtta.html?id=619749'"/>
-<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html?id=621259'"/>
+<xsl:variable name="para_nob" select="'et-budsjett-for-arbeid-og-velferd.html_id=619749'"/>
+<xsl:variable name="para_sma" select="'haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
+<xsl:variable name="para_sme" select="'barggu-ja-alggu-bueahtta.html_id=619749'"/>
+<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html_id=621259'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

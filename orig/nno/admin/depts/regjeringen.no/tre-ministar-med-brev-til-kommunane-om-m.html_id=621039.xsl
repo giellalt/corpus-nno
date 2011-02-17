@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fad/aktuelt/nyheiter/2010/tre-ministar-med-brev-til-kommunane-om-m.html?id=621039'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/fad/aktuelt/nyheiter/2010/tre-ministar-med-brev-til-kommunane-om-m.html_id=621039'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Golbma ministariid reive suohkaniidda giehtatelefon- ja govdafierpmádathuksema birra - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -101,10 +101,10 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'tre-ministre-med-brev-til-kommunene-om-m.html?id=621039'"/>
+<xsl:variable name="para_nob" select="'tre-ministre-med-brev-til-kommunene-om-m.html_id=621039'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'golbma-ministariid-reive-suohkaniidda-giehtatelefon--ja-govdafierpmadathuksema-birra.html?id=621039'"/>
-<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html?id=621259'"/>
+<xsl:variable name="para_sme" select="'golbma-ministariid-reive-suohkaniidda-giehtatelefon--ja-govdafierpmadathuksema-birra.html_id=621039'"/>
+<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html_id=621259'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
