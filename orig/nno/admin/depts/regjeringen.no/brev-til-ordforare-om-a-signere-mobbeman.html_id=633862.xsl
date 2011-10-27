@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/kd/Dokument/Andre-dokument/Brev/Utvalde-brev/2011/brev-til-ordforare-om-a-signere-mobbeman.html?id=633862'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Dán oktavuođas ávžžuhan din meannudit dán ášši iežadet gielddas, ja vuolláičállit báikkálaš julggaštusa - regjeringen.no'"/>
+<xsl:variable name="title" select="'D&#225;n oktavuo&#273;as &#225;v&#382;&#382;uhan din meannudit d&#225;n &#225;&#353;&#353;i ie&#382;adet gielddas, ja vuoll&#225;i&#269;&#225;llit b&#225;ikk&#225;la&#353; julgga&#353;tusa - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -69,7 +58,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="1"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -103,7 +92,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'brev-til-ordforere-.html_id=633862'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Dan-oktavuoas-avuhan-din-meannudit-dan-ai-ieadet-gielddas-ja-vuollaiallit-baikkala-julggatusa.html_id=633862'"/>
+<xsl:variable name="para_sme" select="'dan-oktavuoas-avuhan-din-meannudit-dan-ai-ieadet-gielddas-ja-vuollaiallit-baikkala-julggatusa.html_id=633862'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
