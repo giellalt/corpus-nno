@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -97,7 +97,7 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'the-future-of-the-norwegian-government-q.html_id=670543'"/>
+<xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>

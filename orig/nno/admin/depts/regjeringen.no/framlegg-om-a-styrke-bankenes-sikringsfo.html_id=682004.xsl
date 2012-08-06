@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -97,7 +97,7 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'financial-markets-report.html_id=682184'"/>
+<xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
@@ -107,7 +107,7 @@
 <xsl:variable name="para_nob" select="'foreslar-a-styrke-bankenes-sikringsfond.html_id=682004'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'arvala-nannet-bakkuid-sihkarastinfoandda.html_id=682004'"/>
-<xsl:variable name="para_smj" select="'virggevahagahttemadastus.html_id=682373'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
