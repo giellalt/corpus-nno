@@ -98,7 +98,7 @@
 <xsl:variable name="para_sme" select="'ain-doarjut-mattasamegiela.html_id=682459'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
-
+<xsl:variable name="para_mixed" select="'ain-doarjut-mattasamegiela.html_id=682459'"/>
 
 <!-- Tag the specified elements with the specified language: -->
 <xsl:variable name="danlang" select="'dan'"/>
