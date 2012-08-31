@@ -95,7 +95,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'fylkesmannsembete-gis-en-styrket-rolle-o.html_id=682371'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371'"/>
+<xsl:variable name="para_mixed" select="'fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
