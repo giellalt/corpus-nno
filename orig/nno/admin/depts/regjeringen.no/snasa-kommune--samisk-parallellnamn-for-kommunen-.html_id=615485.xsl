@@ -90,9 +90,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'nord.html_id=615757'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'snaasen-tjielte--tjielten-saemien-baalte.html_id=615485'"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'snaasen-tjielte--tjielten-saemien-baalte.html_id=615485'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
