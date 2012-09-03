@@ -95,7 +95,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'rkv.html_id=670543'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'raehuskvartala-boahtteaigi.html_id=670543'"/>
+<xsl:variable name="para_mixed" select="'raehuskvartala-boahtteaigi.html_id=670543'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
