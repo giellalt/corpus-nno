@@ -95,7 +95,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'okt-tilsyn-med-bemanningsbransjen.html_id=682370'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'stuorap-barrajgahttjo-barggijsuorges.html_id=682370'"/>
+<xsl:variable name="para_mixed" select="'stuorap-barrajgahttjo-barggijsuorges.html_id=682370'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
