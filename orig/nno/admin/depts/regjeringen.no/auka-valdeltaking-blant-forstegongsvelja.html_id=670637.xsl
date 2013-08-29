@@ -93,8 +93,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'minnemarkering-pa-holocaustdagen.html_id=670621'"/>
-<xsl:variable name="para_sma" select="'giske-eun-jielemeministerh-gaavnesji.html_id=672425'"/>
 <xsl:variable name="para_sme" select="'eanet-vuosttasgeardde-jienasteaddjit-ser.html_id=670637'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

@@ -93,7 +93,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'god-utvikling-i-norsk-okonomi.html_id=682404'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'suohkansuorggi-vearrodietnasat-lassanit-.html_id=682335'"/>
 <xsl:variable name="para_smj" select="''"/>

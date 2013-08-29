@@ -95,8 +95,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'pass-pa-personvernet-ditt.html_id=710274'"/>
-<xsl:variable name="para_sma" select="'nannoesabpoe-klijmaraajvarimmieh-jih-voe.html_id=710557'"/>
 <xsl:variable name="para_sme" select="'lagu-albmotmeahcci-lea-asahuvvon.html_id=710329'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

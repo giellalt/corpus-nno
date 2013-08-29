@@ -96,7 +96,6 @@
 <xsl:variable name="para_nob" select="'norge-vil-innga-avtale-med-imf-om-lan.html_id=682399'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'norga-aigu-dahkat-loatnasoahpamua-imfin.html_id=682399'"/>
-<xsl:variable name="para_smj" select="'19-gisjugisvuoda-libjjav-oadtju.html_id=685913'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

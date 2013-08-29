@@ -95,9 +95,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'onsker-innspill-til-evalueringen-av-gald.html_id=704187'"/>
-<xsl:variable name="para_sma" select="'kultuvrebudsjete-2013---finnmarhke.html_id=707322'"/>
-<xsl:variable name="para_sme" select="'320-miljovnna-ruvnno-lassiarvodivatbuhta.html_id=701356'"/>
 <xsl:variable name="para_smj" select="'lagabui-115-miljovnna-ruvnno-lassaneapmi.html_id=701355'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>

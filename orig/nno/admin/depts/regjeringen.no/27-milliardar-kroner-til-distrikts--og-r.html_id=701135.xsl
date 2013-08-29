@@ -93,10 +93,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'regjeringens-forslag-til-skatte--og-avgi.html_id=704089'"/>
-<xsl:variable name="para_sma" select="'raavrevijhke-saemien-gielen-reeremedajve.html_id=704691'"/>
 <xsl:variable name="para_sme" select="'27-miljardda-kruvnnu-biire--ja-guovllupo.html_id=701135'"/>
-<xsl:variable name="para_smj" select="'miljardda-ruvdnosa-ruhtamearri-digitalis.html_id=704060'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

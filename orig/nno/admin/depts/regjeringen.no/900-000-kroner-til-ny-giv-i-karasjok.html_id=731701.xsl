@@ -95,10 +95,8 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'tilskudd-til-elevbesok-til-tre-teatre-i-.html_id=731945'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'900-000-kr-proektii-oa-agiruan--karajoga.html_id=731701'"/>
-<xsl:variable name="para_smj" select="'rabaj-lahko-almmukmiehtsev-tjappa-dalken.html_id=733478'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
 <xsl:variable name="para_rus" select="''"/>

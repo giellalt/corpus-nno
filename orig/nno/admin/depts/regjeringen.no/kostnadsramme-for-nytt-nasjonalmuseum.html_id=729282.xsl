@@ -95,10 +95,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'e6-halselv--mollnes-anleggsstart-host-20.html_id=729466'"/>
-<xsl:variable name="para_sma" select="'politiijaielggadeapmi-geigejuvvui-faremo.html_id=730801'"/>
 <xsl:variable name="para_sme" select="'golloramma-oa-naunalamuseii.html_id=729282'"/>
-<xsl:variable name="para_smj" select="'sami-ofelaortnet-viiddiduvvo-.html_id=731571'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
 <xsl:variable name="para_rus" select="''"/>

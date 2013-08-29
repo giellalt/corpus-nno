@@ -88,16 +88,12 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'surrogate-maternity.html_id=660199'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'konkurranse-om-levering-av-digital-post.html_id=708247'"/>
-<xsl:variable name="para_sma" select="'nannoesabpoe-klijmaraajvarimmieh-jih-voe.html_id=710557'"/>
-<xsl:variable name="para_sme" select="'gilvu-doaimmahit-digitala-poastta.html_id=708247'"/>
 <xsl:variable name="para_smj" select="'raddidus-ajggu-tjadadit-politiguoradalla.html_id=708095'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>

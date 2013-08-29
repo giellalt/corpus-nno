@@ -96,7 +96,6 @@
 <xsl:variable name="para_nob" select="'god-utvikling-i-norsk-okonomi.html_id=682404'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'norgga-ekonomiija-ovdana-bures.html_id=682404'"/>
-<xsl:variable name="para_smj" select="'19-gisjugisvuoda-libjjav-oadtju.html_id=685913'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

@@ -93,8 +93,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'onsker-innspill-til-evalueringen-av-gald.html_id=704187'"/>
-<xsl:variable name="para_sma" select="'raavrevijhke-saemien-gielen-reeremedajve.html_id=704691'"/>
 <xsl:variable name="para_sme" select="'eanet-ruhta-luonddudiehtojuohkimii-ja-ha.html_id=703559'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

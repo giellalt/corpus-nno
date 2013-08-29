@@ -93,7 +93,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'endringer-i-psykisk-helsevernloven--styr.html_id=682169'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'nannosut-ruhtadanvuogadat.html_id=682184'"/>
 <xsl:variable name="para_smj" select="''"/>

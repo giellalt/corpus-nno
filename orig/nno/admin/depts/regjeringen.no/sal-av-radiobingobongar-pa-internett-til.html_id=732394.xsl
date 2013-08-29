@@ -95,10 +95,8 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'statsrad-rigmor-aasrud-besoker-markomean.html_id=732897'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'doekeme-raadijove-bingobongijste-gaskevi.html_id=732394'"/>
-<xsl:variable name="para_smj" select="'rabaj-lahko-almmukmiehtsev-tjappa-dalken.html_id=733478'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
 <xsl:variable name="para_rus" select="''"/>

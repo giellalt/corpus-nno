@@ -90,7 +90,6 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'nord.html_id=615757'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'ollugat-jearahit-loanaid-viessobakus.html_id=615293'"/>
 <xsl:variable name="para_smj" select="''"/>
