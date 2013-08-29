@@ -96,7 +96,7 @@
 <xsl:variable name="para_nob" select="'regjeringen-prioriterer-utviklingen-av-d.html_id=659582'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'vihtta-miljardda-kruvnno-eanet-gielddaid.html_id=657120'"/>
-<xsl:variable name="para_smj" select="'291-miljovnna-raehuskoartila-lassigoluid.html_id=659567'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
