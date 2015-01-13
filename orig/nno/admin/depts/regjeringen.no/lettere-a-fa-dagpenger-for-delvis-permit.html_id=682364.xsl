@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -94,9 +95,9 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'lettere-a-fa-dagpenger-for-delvis-permit.html_id=682364'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_mixed" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
-<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sma" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
+<xsl:variable name="para_sme" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
+<xsl:variable name="para_smj" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
