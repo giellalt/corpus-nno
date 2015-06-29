@@ -88,7 +88,6 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="storfjord-kommune--samisk-og-kvensk-navn-pa-kommunen-.html_id=752498" xml:lang="nob"/>
 	<parallel_text location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami.html_id=752365" xml:lang="sme"/>
 </xsl:variable>
 
