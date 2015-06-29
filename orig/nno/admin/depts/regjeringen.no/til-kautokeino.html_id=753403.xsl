@@ -88,9 +88,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
+	<parallel_text location="stahtarai-sanner-guovdageidnui.html_id=753403" xml:lang="sme"/>
 	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh.html_id=753007"/>
-	<parallel_text xml:lang="nob" location="reguleringsplan-for-nussir-og-ulveryggen.html_id=753353"/>
+	<parallel_text xml:lang="nob" location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-.html_id=753007"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

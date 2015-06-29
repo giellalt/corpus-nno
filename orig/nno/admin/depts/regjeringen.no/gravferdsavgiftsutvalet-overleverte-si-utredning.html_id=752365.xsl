@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -87,8 +88,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="Storfjord-kommune--samisk-og-kvensk-navn-pa-kommunen-.html_id=752498" xml:lang="nob"/>
-	<parallel_text location="Havdadandivatlavdegoddi-geigii-ieas-ielggadeami.html_id=752365" xml:lang="sme"/>
+	<parallel_text location="storfjord-kommune--samisk-og-kvensk-navn-pa-kommunen-.html_id=752498" xml:lang="nob"/>
+	<parallel_text location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami.html_id=752365" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
