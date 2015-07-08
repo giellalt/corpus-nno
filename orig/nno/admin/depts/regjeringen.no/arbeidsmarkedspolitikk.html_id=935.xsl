@@ -84,7 +84,6 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="labour-market-policy.html_id=935" xml:lang="eng"/>
-	<parallel_text location="arbeidsmarkedspolitikk.html_id=935" xml:lang="nob"/>
 	<parallel_text location="bargomarkanpolitihkka.html_id=935" xml:lang="sme"/>
 </xsl:variable>
 
