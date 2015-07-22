@@ -91,7 +91,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="lihkku-beivviin---lahkoeh-biejjine---vuo.html_id=671387" xml:lang="nob"/>
-	<parallel_text location="lihkku-beivviin---lahkoeh-biejjine---vuo.html_id=671387" xml:lang="sma"/>
+	<parallel_text location="lihkku-beivviin---lahkoeh-biejjine---vuo_id_671387.html" xml:lang="sma"/>
 	<parallel_text location="lihkku-beivviin---lahkoeh-biejjine---vuo.html_id=671387" xml:lang="sme"/>
 	<parallel_text location="lihkku-beivviin---lahkoeh-biejjine---vuo_id_671387.html" xml:lang="smj"/>
 </xsl:variable>

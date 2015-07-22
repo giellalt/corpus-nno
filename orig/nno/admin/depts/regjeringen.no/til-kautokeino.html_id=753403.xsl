@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -89,7 +88,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="stahtarai-sanner-guovdageidnui.html_id=753403" xml:lang="sme"/>
-	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh.html_id=753007"/>
+	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh_id_753007.html"/>
 	<parallel_text xml:lang="nob" location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-.html_id=753007"/>
 </xsl:variable>
 

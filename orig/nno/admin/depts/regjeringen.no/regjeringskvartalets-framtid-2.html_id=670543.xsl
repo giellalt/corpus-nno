@@ -89,7 +89,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="the-future-of-the-norwegian-government-q_id_670543.html" xml:lang="eng"/>
 	<parallel_text location="rkv.html_id=670543" xml:lang="nob"/>
-	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="sma"/>
+	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="sma"/>
 	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="sme"/>
 	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="smj"/>
 </xsl:variable>
