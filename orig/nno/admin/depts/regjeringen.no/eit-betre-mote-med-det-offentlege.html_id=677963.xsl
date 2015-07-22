@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -89,6 +89,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="et-bedre-mote-med-det-offentlige.html_id=677963" xml:lang="nob"/>
 	<parallel_text location="buoret-oktavuohta-almmolavuoain.html_id=677963" xml:lang="sme"/>
+<parallel_text location="public-administration-to-be-fully-digita_id_677988.html" xml:lang="eng"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="eid-success-creates-demand-for-more-government-funding.html_id=604472" xml:lang="eng"/>
+	<parallel_text location="eid-success-creates-demand-for-more-government-funding_id_604472.html" xml:lang="eng"/>
 	<parallel_text location="minid-suksess-krever-13-millioner-kroner-mer.html_id=604472" xml:lang="nob"/>
 	<parallel_text location="minid-menestus-gaibida-13-milliuvnna-ruvdnosa-lasahusa.html_id=604472" xml:lang="sme"/>
 </xsl:variable>

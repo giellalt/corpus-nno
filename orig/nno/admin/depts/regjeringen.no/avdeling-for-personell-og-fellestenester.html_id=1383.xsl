@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="the-department-of-personnel-and-general-.html_id=1383" xml:lang="eng"/>
+	<parallel_text location="the-department-of-personnel-and-general-_id_1383.html" xml:lang="eng"/>
 	<parallel_text location="avdeling_for_personell_og_fellestjeneste.html_id=1383" xml:lang="nob"/>
 	<parallel_text location="bargiid-ja-oktasabalvalusaid-ossodat.html_id=1383" xml:lang="sme"/>
 </xsl:variable>

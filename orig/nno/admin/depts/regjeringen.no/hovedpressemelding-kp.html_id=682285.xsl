@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -87,7 +87,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="municipalities-will-see-sharp-increase-i.html_id=682285" xml:lang="eng"/>
+	<parallel_text location="municipalities-will-see-sharp-increase-i_id_682285.html" xml:lang="eng"/>
 	<parallel_text location="dieiha-garra-dienaslassaneami-suohkaniid.html_id=682285" xml:lang="sme"/>
 </xsl:variable>
 

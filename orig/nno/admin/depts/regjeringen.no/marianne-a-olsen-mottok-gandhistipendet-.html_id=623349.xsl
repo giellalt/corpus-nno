@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -85,6 +85,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="marianne-a-olsen-oaui-jagi-2010-gandhistipeandda.html_id=623349" xml:lang="sme"/>
+<parallel_text location="russia-and-norway-sign-agreement-on-loca_id_622461.html" xml:lang="eng"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
