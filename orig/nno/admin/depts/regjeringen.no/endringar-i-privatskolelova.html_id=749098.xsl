@@ -90,6 +90,7 @@
 	<parallel_text location="klare-prioriteringer-i-hoyere-utdanning-.html_id=749226" xml:lang="nob"/>
 	<parallel_text location="privahtaskuvlalahka-rievda.html_id=749098" xml:lang="sme"/>
 <parallel_text location="norway-offers-un-airlift-support_id_749123.html" xml:lang="eng"/>
+<parallel_text location="ekspeartalavdegoddi-galga-geahadit-gield_id_748785.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

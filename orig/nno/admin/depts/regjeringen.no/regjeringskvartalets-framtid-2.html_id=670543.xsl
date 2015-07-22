@@ -91,7 +91,7 @@
 	<parallel_text location="rkv.html_id=670543" xml:lang="nob"/>
 	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="sma"/>
 	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="sme"/>
-	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="smj"/>
+	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

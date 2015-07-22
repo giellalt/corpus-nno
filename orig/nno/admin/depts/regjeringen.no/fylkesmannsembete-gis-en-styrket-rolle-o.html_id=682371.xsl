@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -90,7 +90,7 @@
 	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o.html_id=682371" xml:lang="nob"/>
 	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="sma"/>
 	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="sme"/>
-	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="smj"/>
+	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
