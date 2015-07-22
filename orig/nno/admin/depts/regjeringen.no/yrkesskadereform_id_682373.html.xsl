@@ -90,7 +90,7 @@
 	<parallel_text location="yrkesskadereform_id_682373.html" xml:lang="nob"/>
 	<parallel_text location="virggevahagahttemadastus_id_682373.html" xml:lang="sma"/>
 	<parallel_text location="virggevahagahttemadastus_id_682373.html" xml:lang="smj"/>
-	<parallel_text location="virggevahagahttemadastus.html_id=682373" xml:lang="sme"/>
+	<parallel_text location="virggevahagahttemadastus_id_682373.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

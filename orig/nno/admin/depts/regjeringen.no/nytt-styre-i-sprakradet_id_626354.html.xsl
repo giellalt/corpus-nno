@@ -84,7 +84,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="giellarai-oa-stivra--.html_id=626354" xml:lang="sme"/>
+	<parallel_text location="giellarai-oa-stivra--_id_626354.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

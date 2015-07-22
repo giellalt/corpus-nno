@@ -85,7 +85,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="how-to-change-your-ballot-paper_id_542033.html" xml:lang="eng"/>
 	<parallel_text location="slik-kan-du-endre-pa-stemmeseddelen_id_542033.html" xml:lang="nob"/>
-	<parallel_text location="na-don-sahtat-rievdadit-jienastanlihpu.html_id=542033" xml:lang="sme"/>
+	<parallel_text location="na-don-sahtat-rievdadit-jienastanlihpu_id_542033.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

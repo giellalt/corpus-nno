@@ -88,7 +88,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="770-millioner-kroner-til-utgifter-etter-_id_682462.html" xml:lang="nob"/>
-	<parallel_text location="770-miljovnna-kruvnnu-raehuskvartala-gol.html_id=682462" xml:lang="sme"/>
+	<parallel_text location="770-miljovnna-kruvnnu-raehuskvartala-gol_id_682462.html" xml:lang="sme"/>
 <parallel_text location="770-million-to-cover-expenses-after-the-_id_682462.html" xml:lang="eng"/>
 </xsl:variable>
 
