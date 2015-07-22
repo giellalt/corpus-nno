@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="minister-of-trade-and-industry-trond-gis_id_582212.html" xml:lang="eng"/>
-	<parallel_text location="narings--og-handelsminister-trond-giske.html_id=582212" xml:lang="nob"/>
+	<parallel_text location="narings--og-handelsminister-trond-giske_id_582212.html" xml:lang="nob"/>
 	<parallel_text location="ealahus--ja-gavpeministtar-trond-giske.html_id=582212" xml:lang="sme"/>
 </xsl:variable>
 

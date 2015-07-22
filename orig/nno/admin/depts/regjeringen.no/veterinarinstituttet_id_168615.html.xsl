@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="the-national-veterinary-institute_id_168615.html" xml:lang="eng"/>
-	<parallel_text location="veterinarinstituttet.html_id=168615" xml:lang="nob"/>
+	<parallel_text location="veterinarinstituttet_id_168615.html" xml:lang="nob"/>
 	<parallel_text location="veterinearainstituhtta.html_id=168615" xml:lang="sme"/>
 </xsl:variable>
 

@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="proof-of-identity-id_id_541951.html" xml:lang="eng"/>
-	<parallel_text location="legitimasjon.html_id=541951" xml:lang="nob"/>
+	<parallel_text location="legitimasjon_id_541951.html" xml:lang="nob"/>
 	<parallel_text location="legitimauvdna.html_id=541951" xml:lang="sme"/>
 </xsl:variable>
 

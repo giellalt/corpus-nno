@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="cultural-heritage-department_id_590159.html" xml:lang="eng"/>
-	<parallel_text location="kulturvernavdelingen.html_id=590159" xml:lang="nob"/>
+	<parallel_text location="kulturvernavdelingen_id_590159.html" xml:lang="nob"/>
 	<parallel_text location="kultursuodjalusossodat.html_id=590159" xml:lang="sme"/>
 </xsl:variable>
 

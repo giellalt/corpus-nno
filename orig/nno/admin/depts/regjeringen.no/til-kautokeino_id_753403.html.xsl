@@ -89,7 +89,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="stahtarai-sanner-guovdageidnui.html_id=753403" xml:lang="sme"/>
 	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh_id_753007.html"/>
-	<parallel_text xml:lang="nob" location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-.html_id=753007"/>
+	<parallel_text xml:lang="nob" location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-_id_753007.html"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

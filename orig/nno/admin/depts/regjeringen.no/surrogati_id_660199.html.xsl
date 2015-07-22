@@ -88,7 +88,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="surrogate-maternity_id_660199.html" xml:lang="eng"/>
-	<parallel_text location="surrogati.html_id=660199" xml:lang="nob"/>
+	<parallel_text location="surrogati_id_660199.html" xml:lang="nob"/>
 	<parallel_text location="surrogatiija-.html_id=660199" xml:lang="sme"/>
 </xsl:variable>
 

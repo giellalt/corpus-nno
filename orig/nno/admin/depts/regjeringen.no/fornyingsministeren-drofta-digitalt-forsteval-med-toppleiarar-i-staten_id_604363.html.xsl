@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="fornyingsministeren-droftet-digitalt-forstevalg-med-toppledere-i-staten.html_id=604363" xml:lang="nob"/>
+	<parallel_text location="fornyingsministeren-droftet-digitalt-forstevalg-med-toppledere-i-staten_id_604363.html" xml:lang="nob"/>
 	<parallel_text location="oasmahttinministtar-digatalai-digitala-vuosttavalljema-stahta-njunnoiiguin.html_id=604363" xml:lang="sme"/>
 </xsl:variable>
 

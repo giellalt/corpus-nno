@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="eid-success-creates-demand-for-more-government-funding_id_604472.html" xml:lang="eng"/>
-	<parallel_text location="minid-suksess-krever-13-millioner-kroner-mer.html_id=604472" xml:lang="nob"/>
+	<parallel_text location="minid-suksess-krever-13-millioner-kroner-mer_id_604472.html" xml:lang="nob"/>
 	<parallel_text location="minid-menestus-gaibida-13-milliuvnna-ruvdnosa-lasahusa.html_id=604472" xml:lang="sme"/>
 </xsl:variable>
 

@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="every-citizen-now-able-to-look-public-authorities-in-the-cards_id_605000.html" xml:lang="eng"/>
-	<parallel_text location="na-kan-du-kikke-forvaltningen-i-kortene.html_id=605000" xml:lang="nob"/>
+	<parallel_text location="na-kan-du-kikke-forvaltningen-i-kortene_id_605000.html" xml:lang="nob"/>
 	<parallel_text location="dal-don-beasat-diehtit-maid-halddahus-barga.html_id=605000" xml:lang="sme"/>
 </xsl:variable>
 
