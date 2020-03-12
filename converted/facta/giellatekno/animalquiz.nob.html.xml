@@ -1,0 +1,62 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Animal Quiz</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>250</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/animalquiz.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="animalquiz.eng.html"/>
+    <parallel_text xml:lang="sme" location="animalquiz.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="vep">Animal Quiz</p>
+    <list>
+      <p type="listitem">Val av språk og dyr</p>
+      <p type="listitem">Informasjon om dyra</p>
+      <p type="listitem" xml:lang="nob">Nyttige ordlister</p>
+      <p type="listitem">Animal Quiz-lenkje</p>
+    </list>
+    <p>I dette spelet skal du gjette kva dyr datamaskina har vald - eller du kan velje dyr, og så skal datamaskina gjette (ikkje implementert enno).</p>
+    <p type="title">Val av språk og dyr</p>
+    <p>Før du byrjar må du velje språk (eitt eller fleire) (bruk CTRL [eller SHIFT] viss du vil velje fleire språk på ein gong). Slik kan du bruke meir enn eitt språk når du gjettar, og til slutt får du tilleggspoeng viss du klarer å omsetje namnet på dyret til dei andre språka du har vald.</p>
+    <p>Du kan velje</p>
+    <list>
+      <p type="listitem">eit lett dyr</p>
+      <p type="listitem">eit lett eller litt vanskelegare dyr</p>
+      <p type="listitem">kva dyr som helst</p>
+    </list>
+    <p type="title">Informasjon om dyra</p>
+    <p>I menyen kan du få informasjon om dyra. Berre informasjonstypane som du har vald vil vere synlege, ikkje heile menyen for kvart dyr. For kvar type informasjon du vel, forsvinn denne frå menyen etterpå. Informasjonstypen blir likevel verande viss der er meir informasjon om det emnet, slik at du kan velje den same på nytt. Informasjonstypane er:</p>
+    <list>
+      <p type="listitem">- gos máilmmis (kvar i verda dyret finst)</p>
+      <p type="listitem">- gos luonddus (kor i naturen - habitat)</p>
+      <p type="listitem">- biebmu (kva dyret et)</p>
+      <p type="listitem">- makkár ealli (kva slags dyr - kategori)</p>
+      <p type="listitem">- sturrodat/hápmi (storleik/form)</p>
+      <p type="listitem" xml:lang="nob">- ivdni (farge)</p>
+      <p type="listitem">- gorudis (spesielle kjenneteikn)</p>
+      <p type="listitem" xml:lang="sme">- lihkadeapmi</p>
+      <p type="listitem" xml:lang="sme">- attáldagat</p>
+      <p type="listitem" xml:lang="sme">- buktagat</p>
+      <p type="listitem" xml:lang="sme">- sahkaneapmi</p>
+    </list>
+    <p type="title" xml:lang="nob">Nyttige ordlister</p>
+    <p>Ordliste: Dyra som er med i Animal Quiz</p>
+    <p>Ordliste: Kategorisering av dyra</p>
+    <p type="title">Animal Quiz-lenkje</p>
+    <p xml:lang="vep">AnimalQuiz VISL</p>
+    <p>Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

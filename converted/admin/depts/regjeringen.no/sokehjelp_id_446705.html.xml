@@ -1,0 +1,67 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ohcanveahkki  - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>511</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/Om-nettstaden/Hjelp/sokehjelp.html?id=446705</origFileName>
+    <parallel_text xml:lang="eng" location="help-with-search_id_446705.html"/>
+    <parallel_text xml:lang="nob" location="sokeveileder_id_446705.html"/>
+    <parallel_text xml:lang="sme" location="ohcanveahkki-_id_446705.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Søkehjelp - regjeringen.no</p>
+    <p>
+      <em type="italic">Korleis søker eg? </em>
+    </p>
+    <p/>
+    <list>
+      <p type="listitem">Skriv eitt eller fleire søkeord i søkefeltet. Bruk så presise ord som mogleg. Trykk på søkeknappen.</p>
+      <p type="listitem">Bruk mellomrom mellom orda dersom du skriv fleire søkeord i søkefeltet. Skriv du fleire ord, får du berre sider som inneheld alle orda.</p>
+      <p type="listitem">Bruk <em type="italic">OR </em>mellom fleire ord dersom du ønskjer å finne sider som inneheld eitt eller fleire søkeord. <em type="italic">Eksempel: </em>eu OR eøs OR europarådet – gir treff på dokument som inneheld éin eller fleire av orda. </p>
+      <p type="listitem">Bruk - teiknet (minus) framfor ordet som skal utelatast ved søket. <em type="italic">Eksempel: </em>bondevik –stoltenberg gir treff på dokument som inneheld informasjon om Bondevik, men ikkje Stoltenberg. </p>
+      <p type="listitem">Bruk hermeteikn " " for å søke på kombinasjon av ord i ei spesiell rekkefølgje. <em type="italic">Eksempel: </em><span type="quote">"statsministerens kontor"</span>. </p>
+      <p type="listitem">Bruk stjerne * for å søke med open ending. <em type="italic">Eksempel: </em>inform*, vil gi treff på sider som inneheld f.eks. informasjon, informasjonsplikt og informere. </p>
+    </list>
+    <p>
+      <em type="italic">Avansert søk </em>
+    </p>
+    <p><em type="italic">Korleis er søkeresultatet sortert? </em>Søkeresultatet blir sortert med dei mest relevante sidene først. Du kan også velje å sortere på dato eller alfabetisk. </p>
+    <p><em type="italic">Korleis avgrensar eg søket? </em>Avgrens søket ytterlegare ved å velje kategoriar i høgre meny. </p>
+    <p><em type="italic">Korleis utvidar eg søket? </em>Søker du på ei av departementa sine sider, er det kun sider frå dette departementet som blir vist i trefflista. Du kan utvide trefflista til å gjelde heile regjeringa.no. </p>
+    <p><em type="italic">Kva ligg under fanen <span type="quote">"Dokumentarkiv"</span> </em>Søker du på heile regjeringa.no, får du høve til å velje trefflista i dokumentarkivet. Dokumentarkivet inneheld bl. a. pressemeldingar, nyheiter, taler og artiklar frå tidlegare regjeringar samt dokument som ikkje lenger er gyldige. </p>
+    <p>
+      <em type="italic">Avansert søk </em>
+    </p>
+    <list>
+      <p type="listitem">Avansert søk støttar vanlege søk med hermeteikn, minus og stjerne.</p>
+      <p type="listitem">Avansert søk støttar bruk av dei boolske operatorane AND, OR og NOT.</p>
+      <p type="listitem">Du kan angi nærleik mellom søkeord med operatoren NEAR.</p>
+      <p type="listitem">Du kan angi søk i felt med bruk av kolon (:) mellom feltnamn og søkeord.</p>
+      <p type="listitem">Parentesar blir brukt for å gruppere søkeord og angi presedens for bruk av operatorane.</p>
+      <p type="listitem">Ved ugyldig bruk av avansert søk skal søket behandlast som eit vanleg fritekstsøk. Søk på f.eks. <span type="quote">“jens AND OR NOT”</span> (utan hermeteikn) gir treff på dokument der orda jens, and, or og not finst saman.</p>
+      <p type="listitem">Eksempel på avansert søk: o eu OR eøs OR europarådet – gir treff på dokument som inneheld éitt eller fleire av søkeorda. o statsminister (Jagland OR Bondevik OR Stoltenberg) – gir treff på dokument som omtalar éin eller fleire av statsministrane. o hurtigtog NOT gardermo* – gir treff på dokument som inneheld hurtigtog men ikkje variantar av gardermo[en/banen]. o NEAR (jens statsminister N=6) – gir treff på dokument der orda jens og statsminister finst med maks 6 ord mellom (N=6 må være med stor N!) o NEAR (jens statsminister) – gir treff på dokument der orda jens og statsminister finst nær kvarandre (maks 4 ord mellom). o NEAR (statsminister Hanssen Meltveit N=11) – gir treff på dokument der ALLE orda finst innanfor 11 ord. o island (aske OR støv) title:flytrafikk – samansatt søk som gir treff på dokument der ordet island og enten aske eller støv finst kvar som helst, og der ordet flytrafikk finst i tittelen.</p>
+    </list>
+  </body>
+</document>

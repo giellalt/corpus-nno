@@ -1,0 +1,40 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Gáldu lea guorahallojuvvon - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>151</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/galdu-er-evaluert.html?id=699176</origFileName>
+    <parallel_text xml:lang="eng" location="co2_id_698862.html"/>
+    <parallel_text xml:lang="nob" location="galdu-er-evaluert_id_699176.html"/>
+    <parallel_text xml:lang="sme" location="galdu-lea-guorahallojuvvon_id_699176.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Gáldu er evaluert - regjeringen.no</p>
+    <p>
+      <em type="italic">Fornyings-, administrasjons- og kyrkjeminister Rigmor Aasrud fekk fredag 14. september overlevert rapporten etter evalueringa av Gáldu – Kompetansesenteret for urfolks rettar. Senteret er evaluert av Rambøll Management Consulting på oppdrag frå departementet. </em>
+    </p>
+    <p>Gáldu – Kompetansesenteret for urfolks rettar blei etablert i 2002 for å auke kunnskapen om og forståinga for urfolksrettar og samiske rettar. Dette er første gongen senteret er evaluert.</p>
+    <p>Evalueringa viser at Gáldu jobbar aktivt og breitt ut mot nasjonale og internasjonale målgrupper. I rapporten blir det òg gitt tilrådingar om å gjennomføre ein prosess for å gjere det tydelegare kva behov Gáldu skal imøtekomme og for å klargjere mandat og målgrupper. Tilrådingane elles er å avklare vidare organisering og tilknyting, å innføre mål- og resultatstyring i større grad og å utvikle tiltak i tråd med behov og ressursar.</p>
+    <p>Departementet vil vurdere oppfølginga av tilrådingane, i samarbeid med Utanriksdepartementet, Sametinget og Gáldu.</p>
+    <p>Les rapporten</p>
+  </body>
+</document>

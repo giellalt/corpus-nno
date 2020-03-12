@@ -1,0 +1,55 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Vuoruheames vuođđolágaávvudeami - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>162</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/satsing-pa-grunnlovsjubileet.html?id=701351</origFileName>
+    <parallel_text xml:lang="sme" location="vuoruheames-vuoolagaavvudeami_id_701351.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Satsing på grunnlovsjubiléet - regjeringen.no</p>
+    <p>Kulturdepartementets budsjett blir styrkt med 11 millionar kroner i 2013 i samband med førebuingar til grunnlovsjubileet.</p>
+    <p>Auken er knytt til førebuing av jubileumsaktivitetar og blir delt mellom fleire verksemder på ulike kulturfelt, frå scenekunst og musikk til kulturvern, museum og språk:</p>
+    <list>
+      <p type="listitem">Foreininga Norden 300 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Nobels Fredssenter 700 000 kroner</p>
+      <p type="listitem">Mela 600 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Hålogaland Teater 700 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Bergen Nasjonale Opera 700 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Dansens Hus 400 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Dramatikkens hus 300 000 kroner</p>
+      <p type="listitem">Riksmålsforbundet 100 000 kroner</p>
+      <p type="listitem">Akershusmuseet 500 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Jødisk Museum i Oslo 200 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Hedmark fylkesmuseum 1 million kroner</p>
+      <p type="listitem">Mjøsmuseet 600 000 kroner</p>
+      <p type="listitem">Hringariki 100 000 kroner</p>
+      <p type="listitem">Næs Jernverksmuseum 200 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Sørlandets Kunstmuseum 200 000 kroner</p>
+      <p type="listitem" xml:lang="nob">Museum Stavanger 500 000 kroner</p>
+      <p type="listitem">Musea i Sogn og Fjordane 400 000 kroner</p>
+      <p type="listitem">Sunnmøre Museum 1 million kroner</p>
+      <p type="listitem" xml:lang="nob">Stiklestad Nasjonale Kultursenter 200 000 kroner</p>
+    </list>
+    <p>I tillegg held arbeidet med rehabiliteringa av Eidsvollsbygningen fram, og tilskotet til inventarprosjektet blir styrkt med 2,5 millionar kroner.</p>
+  </body>
+</document>

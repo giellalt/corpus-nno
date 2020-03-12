@@ -1,0 +1,170 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1904</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.udir.no/kl06/MAT5-02/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName>
+    <parallel_text xml:lang="eng" location="laereplan_matematikk2t2p.html"/>
+    <parallel_text xml:lang="sma" location="laereplan_matematikk2t2p.html"/>
+    <parallel_text xml:lang="sme" location="laereplan_matematikk2t2p.html"/>
+    <parallel_text xml:lang="smj" location="laereplan_matematikk2t2p.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Udir.no - Læreplan i matematikk 2T og 2P</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p type="title" xml:lang="nob">Læreplan i matematikk 2T og 2P</p>
+    <p>Fastsett som forskrift av Kunnskapsdepartementet 21.06.2013</p>
+    <p>Gjeld frå: 01.08.2013</p>
+    <p type="title" xml:lang="nob">Føremål</p>
+    <p>Matematikk er ein del av den globale kulturarven vår. Mennesket har til alle tider brukt og utvikla matematikk for å systematisere erfaringar, for å beskrive og forstå samanhengar i naturen og i samfunnet og for å utforske universet. Ei anna inspirasjonskjelde til utviklinga av faget har vore glede hos menneske over arbeid med matematikk i seg sjølv. Faget grip inn i mange vitale samfunnsområde, som medisin, økonomi, teknologi, kommunikasjon, energiforvalting og byggjeverksemd. Solid kompetanse i matematikk er dermed ein føresetnad for utvikling av samfunnet. Eit aktivt demokrati treng borgarar som kan setje seg inn i, forstå og kritisk vurdere kvantitativ informasjon, statistiske analysar og økonomiske prognosar. På den måten er matematisk kompetanse nødvendig for å forstå og kunne påverke prosessar i samfunnet.</p>
+    <p>Matematisk kompetanse inneber å bruke problemløysing og modellering til å analysere og omforme eit problem til matematisk form, løyse det og vurdere kor gyldig løysinga er. Dette har òg språklege aspekt, som det å formidle, samtale om og resonnere omkring idear. I det meste av matematisk aktivitet nyttar ein hjelpemiddel og teknologi. Både det å kunne bruke og vurdere ulike hjelpemiddel og det å kjenne til avgrensinga deira er viktige delar av faget. Kompetanse i matematikk er ein viktig reiskap for den einskilde, og faget kan leggje grunnlag for å ta vidare utdanning og for deltaking i yrkesliv og fritidsaktivitetar. Matematikk ligg til grunn for store delar av kulturhistoria vår og for utviklinga av logisk tenking. På den måten spelar faget ei sentral rolle i den allmenne danninga ved å påverke identitet, tenkjemåte og sjølvforståing.</p>
+    <p>Matematikkfaget i skolen medverkar til å utvikle den matematiske kompetansen som samfunnet og den einskilde treng. For å oppnå dette må elevane få høve til å arbeide både praktisk og teoretisk. Opplæringa vekslar mellom utforskande, leikande, kreative og problemløysande aktivitetar og ferdigheitstrening. I praktisk bruk viser matematikk sin nytte som reiskapsfag. I skolearbeidet utnyttar ein sentrale idear, former, strukturar og samanhengar i faget. Elevane må utfordrast til å kommunisere matematikk skriftleg, munnleg og digitalt. Det må leggjast til rette for at både jenter og gutar får rike erfaringar med matematikkfaget, som skaper positive haldningar og ein solid fagkompetanse. Slik blir det lagt eit grunnlag for livslang læring.</p>
+    <p type="title" xml:lang="dan">Hovudområder</p>
+    <p>Faget er strukturert i hovudområde som det er formulert kompetansemål for. Hovudområda utfyller kvarandre og må sjåast i samanheng.</p>
+    <p>Det er to variantar av læreplanen i faget. Læreplan 2T er meir teoretisk orientert, medan læreplan 2P er meir praktisk orientert. Begge variantane gjev generell studiekompetanse saman med fellesfaget matematikk på Vg1 (matematikk 1T eller 1P).</p>
+    <p xml:lang="nob">
+      <em type="bold">Oversikt over hovudområda: </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Fellesfag </em>
+    </p>
+    <p>
+      <em type="bold">Hovudområde </em>
+    </p>
+    <p xml:lang="smn">2T</p>
+    <p xml:lang="nob">Geometri</p>
+    <p>Kombinatorikk og sannsyn</p>
+    <p xml:lang="nob">Kultur og modellering</p>
+    <p xml:lang="vep">2P</p>
+    <p>Tal og algebra i praksis</p>
+    <p xml:lang="nob">Statistikk</p>
+    <p xml:lang="nob">Modellering</p>
+    <p xml:lang="nob">Funksjonar i praksis</p>
+    <p type="title">Tal og algebra i praksis</p>
+    <p>Hovudområdet tal og algebra handlar om å utvikle talforståing og innsikt i korleis tal og talbehandling inngår i system og mønster. Med tal kan ein kvantifisere mengder og storleikar. Tal omfattar både heile tal, brøk, desimaltal og prosent. Algebra i skolen generaliserer talrekning ved at bokstavar eller andre symbol representerer tal. Det gjev høve til å beskrive og analysere mønster og samanhengar. Algebra blir òg nytta i samband med dei andre hovudområda.</p>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Geometri i skolen handlar mellom anna om å analysere eigenskapar ved to- og tredimensjonale figurar og gjere konstruksjonar og berekningar. Ein studerer dynamiske prosessar som spegling, rotasjon og forskyving. Hovudområdet omfattar òg det å utføre og beskrive lokalisering og flytting.</p>
+    <p type="title" xml:lang="nob">Statistikk, sannsyn og kombinatorikk</p>
+    <p>Statistikk omfattar å planleggje, samle inn, organisere, analysere og presentere data. I analysen av data høyrer det med å beskrive generelle trekk ved datamaterialet. Å vurdere og sjå kritisk på konklusjonar og framstilling av data er sentralt i statistikk. I sannsynsrekning talfester ein kor stor sjanse det er for at ei hending skal skje. I kombinatorikk arbeider ein med systematiske måtar å finne tal på, og det er ofte nødvendig for å kunne berekne sannsyn.</p>
+    <p type="title" xml:lang="nob">Kultur og modellering</p>
+    <p>Hovudområdet kultur og modellering gjev eit overordna perspektiv på faget matematikk. Hovudområdet beskriv den logiske strukturen i faget og viser historia og den kulturelle rolla til faget. Modellering er ein fundamental prosess i faget, der utgangspunktet er noko som verkeleg finst. Dette blir beskrive matematisk med ein modell som blir bearbeidd, og resultata av det blir tolka i lys av den opphavlege situasjonen.</p>
+    <p type="title" xml:lang="nob">Funksjonar i praksis</p>
+    <p>Ein funksjon beskriv endring eller utvikling av ein storleik som er avhengig av ein annan, på ein eintydig måte. Funksjonar kan nyttast til å lage matematiske modellar av praktiske samanhengar. Hovudområdet funksjonar i praksis handlar om å bruke funksjonar til å beskrive og analysere situasjonar frå daglegliv og arbeidsliv.</p>
+    <p type="title" xml:lang="est">Timetal</p>
+    <p>Timetala er oppgjevne i einingar på 60 minutt.</p>
+    <p xml:lang="deu">STUDIEFØREBUANDE UTDANNINGSPROGRAM</p>
+    <p>Vg2: 84 timar</p>
+    <p type="title">Grunnleggjande ferdigheiter</p>
+    <p>Grunnleggjande ferdigheiter er integrerte i kompetansemåla, der dei medverkar til utvikling av og er ein del av fagkompetansen. I matematikk forstår ein grunnleggjande ferdigheiter slik:</p>
+    <p><em type="italic">Munnlege ferdigheiter </em>i matematikk inneber å skape meining gjennom å lytte, tale og samtale om matematikk. Det inneber å gjere seg opp ei meining, stille spørsmål og argumentere ved hjelp av både eit uformelt språk, presis fagterminologi og omgrepsbruk. Det vil seie å vere med i samtalar, kommunisere idear og drøfte matematiske problem, løysingar og strategiar med andre. Utvikling i munnlege ferdigheiter i matematikk går frå å delta i samtalar om matematikk til å presentere og drøfte komplekse faglege emne. Vidare går utviklinga frå å bruke eit enkelt matematisk språk til å bruke presis fagterminologi og uttrykksmåte og presise omgrep. </p>
+    <p><em type="italic">Å kunne skrive </em>i matematikk inneber å beskrive og forklare ein tankegang og setje ord på oppdagingar og idear. Det inneber å bruke matematiske symbol og det formelle matematiske språket til å løyse problem og presentere løysingar. Vidare vil det seie å lage teikningar, skisser, figurar, grafar, tabellar og diagram som er tilpassa mottakaren og situasjonen. Skriving i matematikk er ein reiskap for å utvikle eigne tankar og eiga læring. Utvikling i å skrive i matematikk går frå å bruke enkle uttrykksformer til gradvis å ta i bruk eit formelt symbolspråk og ein presis fagterminologi. Vidare går utviklinga frå å beskrive og systematisere enkle situasjonar med matematikkfagleg innhald til å byggje opp ein heilskapleg argumentasjon omkring komplekse samanhengar. </p>
+    <p><em type="italic">Å kunne lese </em>i matematikk inneber å forstå og bruke symbolspråk og uttrykksformer for å skape meining i tekstar frå daglegliv og yrkesliv så vel som matematikkfaglege tekstar. Matematikkfaget er prega av samansette tekstar som inneheld matematiske uttrykk, grafar, diagram, tabellar, symbol, formlar og logiske resonnement. Lesing i matematikk inneber å sortere informasjon, analysere og vurdere form og innhald og samanfatte informasjon frå ulike element i tekstar. Utvikling i å lese i matematikk går frå å finne og bruke informasjon i tekstar med enkelt symbolspråk til å finne meining og reflektere over komplekse fagtekstar med avansert symbolspråk og omgrepsbruk. </p>
+    <p><em type="italic">Å kunne rekne </em>i matematikk inneber å bruke symbolspråk, matematiske omgrep, framgangsmåtar og varierte strategiar til problemløysing og utforsking som tek utgangspunkt både i praktiske, daglegdagse situasjonar og i matematiske problem. Dette inneber å kjenne att og beskrive situasjonar der matematikk inngår, og bruke matematiske metodar til å behandle problemstillingar. Eleven må òg kommunisere og vurdere kor gyldige løysingane er. Utvikling av å rekne i matematikk går frå grunnleggjande talforståing og å kjenne att og løyse problem ut frå enkle situasjonar til å analysere og løyse eit spekter av komplekse problem med eit variert utval av strategiar og metodar. Vidare inneber dette i aukande grad å bruke ulike hjelpemiddel i berekningar, modellering og kommunikasjon. </p>
+    <p><em type="italic">Digitale ferdigheiter </em>i matematikk inneber å bruke digitale verktøy til læring gjennom spel, utforsking, visualisering og presentasjon. Det handlar òg om å kjenne til, bruke og vurdere digitale verktøy til berekningar, problemløysing, simulering og modellering. Vidare vil det seie å finne informasjon, analysere, behandle og presentere data med formålstenlege verktøy, og vere kritisk til kjelder, analysar og resultat. Utvikling i digitale ferdigheiter inneber å arbeide med samansette digitale tekstar med aukande grad av kompleksitet. Vidare inneber det å bli stadig meir merksam på den nytten digitale verktøy har for læring i matematikkfaget. </p>
+    <p type="title" xml:lang="nob">Kompetansemål etter 2T</p>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for det geometriske biletet av vektorar som piler i planet og berekne sum, differanse og skalarprodukt av vektorar og produktet av tal og vektor</p>
+      <p type="listitem">rekne med vektorar i planet skrivne på koordinatform, berekne lengder, avstandar og vinklar med vektorrekning og avgjere når to vektorar er parallelle eller ortogonale</p>
+      <p type="listitem" xml:lang="nob">teikne og beskrive kurver på parameterform og berekne skjeringspunkt mellom slike kurver</p>
+    </list>
+    <p type="title">Kombinatorikk og sannsyn</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for og bruke omgrepa vilkårslaust (bm.: uavhengig) og vilkårsbunde (bm.: betinget) sannsyn, bruke Bayes’ setning på to hendingar og vurdere og tolke resultata</p>
+      <p type="listitem">berekne sannsyn ved ordna utval med og utan tilbakelegging, og ved uordna utval utan tilbakelegging</p>
+      <p type="listitem">rekne med binomisk og hypergeometrisk sannsyn og kjenne att og modellere slike fordelingar i ulike situasjonar</p>
+    </list>
+    <p type="title" xml:lang="nob">Kultur og modellering</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">analysere teoretiske og praktiske problemstillingar, finne mønster og struktur i ulike situasjonar og beskrive samanhengar ved hjelp av matematiske modellar</p>
+      <p type="listitem">utforske matematiske modellar, samanlikne ulike modellar og vurdere kva for informasjon modellane kan gje, og kva for gyldigheitsområde og avgrensingar dei har</p>
+      <p type="listitem">bruke digitale verktøy i utforsking, modellbygging og presentasjon</p>
+      <p type="listitem">finne, vurdere og presentere døme frå matematikkens fleirkulturelle historie og drøfte kva matematikken har å seie for naturvitskap, teknologi, samfunnsliv og kultur</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 2P</p>
+    <p type="title">Tal og algebra i praksis</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">rekne med potensar og tal på standardform med positive og negative eksponentar, og bruke dette i praktiske samanhengar</p>
+      <p type="listitem">rekne med prosent og vekstfaktor, gjere suksessive renteberekningar og rekne praktiske oppgåver med eksponentiell vekst</p>
+    </list>
+    <p type="title" xml:lang="nob">Statistikk</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">planleggje, gjennomføre og vurdere statistiske undersøkingar</p>
+      <p type="listitem" xml:lang="dan">berekne og drøfte sentralmål og spreiingsmål</p>
+      <p type="listitem">berekne og gjere greie for kumulativ og relativ frekvens, representere data i tabellar og diagram og drøfte ulike dataframstillingar og kva inntrykk dei kan gje</p>
+      <p type="listitem">gruppere data og berekne sentralmål for eit gruppert datamateriale</p>
+      <p type="listitem" xml:lang="nob">bruke rekneark i statistiske berekningar og presentasjonar</p>
+    </list>
+    <p type="title" xml:lang="nob">Modellering</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere målingar i praktiske forsøk og formulere matematiske modellar på grunnlag av observerte data</p>
+      <p type="listitem">analysere praktiske problemstillingar knytte til daglegliv, økonomi, statistikk og geometri, finne mønster og struktur i ulike situasjonar og beskrive samanhengar mellom storleikar ved hjelp av matematiske modellar</p>
+      <p type="listitem">utforske matematiske modellar, samanlikne ulike modellar som beskriv same praktiske situasjon, og vurdere kva for informasjon modellane kan gje, og kva for gyldigheitsområde og avgrensingar dei har</p>
+      <p type="listitem">bruke digitale verktøy i utforsking, modellbygging og presentasjon</p>
+    </list>
+    <p type="title" xml:lang="nob">Funksjonar i praksis</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">bruke digitale verktøy til å undersøkje kombinasjonar av polynomfunksjonar, rotfunksjonar, potensfunksjonar og eksponentialfunksjonar som beskriv praktiske situasjonar, ved å bestemme nullpunkt, ekstremalpunkt og skjeringspunkt og finne gjennomsnittleg vekstfart og tilnærmingsverdiar for momentan vekstfart</p>
+      <p type="listitem">bruke funksjonar til å modellere, drøfte og analysere praktiske samanhengar</p>
+    </list>
+    <p type="title" xml:lang="nob">Vurdering</p>
+    <p>
+      <em type="bold">Matematikk fellesfag 2T og 2P </em>
+    </p>
+    <p xml:lang="dan">Retningsliner for sluttvurdering:</p>
+    <p xml:lang="nob">
+      <em type="bold">Standpunktvurdering </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p xml:lang="nob">Vg2 studieførebuande utdanningsprogram</p>
+    <p>Elevane skal ha éin standpunktkarakter.</p>
+    <p>
+      <em type="bold">Eksamen for elevar </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p xml:lang="nob">Vg2 studieførebuande utdanningsprogram</p>
+    <p>Elevane kan trekkjast ut til skriftleg eller munnleg eksamen. Skriftleg eksamen blir utarbeidd og sensurert sentralt. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>
+    <p xml:lang="dan">
+      <em type="bold">Eksamen for privatistar </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p xml:lang="nob">Vg2 studieførebuande utdanningsprogram</p>
+    <p>Privatistane skal opp til skriftleg eksamen. Eksamen blir utarbeidd og sensurert sentralt.</p>
+    <p>Dei generelle retningslinene om vurdering er fastsette i forskrifta til opplæringslova.</p>
+  </body>
+</document>

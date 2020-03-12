@@ -1,0 +1,40 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Organisašuvdna - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>83</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/om-departementet/organisasjon.html?id=363</origFileName>
+    <parallel_text xml:lang="eng" location="organisation_id_363.html"/>
+    <parallel_text xml:lang="nob" location="org_id_363.html"/>
+    <parallel_text xml:lang="sme" location="organisauvdna_id_363.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Organisasjon - regjeringen.no</p>
+    <p>Fornyings- og administrasjonsdepartementet samordner fornyingsarbeidet i offentlig sektor og har ansvar for forvaltningspolitikk, konkurransepolitikk, IKT-politikk og statlig arbeidsgiverpolitikk.</p>
+    <p>Departementet ledes av fornyings- og administrasjonsministeren. Statsråden har en politisk stab med en statssekretær og en politisk rådgiver.</p>
+    <p>Departementsråd Karin Moe Røisland er departementets øverste administrative leder. I departementsrådens stab inngår Kommunikasjonsenheten og forværelse for departementsråd og politisk ledelse.</p>
+    <p>Fornyings- og administrasjonsdepartementet består av fem avdelinger og en stabsenhet: Avdeling for IKT og fornying, Arbeidsgiverpolitisk avdeling, Konkurransepolitisk avdeling, Statsforvaltningsavdelingen, Administrasjonsavdelingen og Kommunikasjonsenheten.</p>
+  </body>
+</document>

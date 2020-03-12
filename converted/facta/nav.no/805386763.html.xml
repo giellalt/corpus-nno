@@ -1,0 +1,74 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>NAV - Foreldrepenger ved adopsjon - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>833</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Stønadsperioden for foreldrepengar ved adopsjon</p>
+    <p>Lova er endra frå 1. juli 2009. Lengda på stønadsperioden er avhengig av om datoen for omsorgsovertakinga ved adopsjon er 30. juni 2009 og tidlegare eller 1. juli 2009 og seinare. Nedanfor omtaler vi reglane som gjeld for adopsjon 1. juli 2009 og seinare.</p>
+    <p>Lengda på stønadsperioden er òg avhengig av om begge foreldra har rett til foreldrepengar, om berre mor har rett, om berre far har rett, om mor har åleineomsorg for barnet eller far har åleineomsorg for barnet. I tillegg er stønadsperioden lengre ved adopsjon av fleire barn samtidig. Nedanfor finn du meir informasjon om dei ulike lengdene på stønadsperioden og om det gjeld spesielle vilkår for uttak av foreldrepengar i periodane.</p>
+    <p type="title">Når både mor og far har rett</p>
+    <p>Når foreldra bur saman og begge har rett til foreldrepengar, er stønadsperioden 43 veker med 100 prosent dekningsgrad og 53 veker med 80 prosent dekningsgrad. Stønadsperioden startar ved datoen for omsorgsovertaking eller datoen for adopsjon. Perioden er tre veker kortare enn ved fødsel fordi stønadsperioden ved fødsel seinast startar tre veker før termindatoen.</p>
+    <p>Visse veker av stønadsperioden er øyremerkte far. Veker som ikkje er øyremerkte far, kan foreldra dele.</p>
+    <p>Dersom stillingsprosenten til mora før adopsjon var 50 eller meir …</p>
+    <list>
+      <p type="listitem">… er 10 veker øyremerkte far (fedrekvoten)</p>
+      <p type="listitem">... er 33/43 veker felles for foreldra (det blir stilt spesielle krav til mor når far skal ta ut foreldrepengar som ikkje er fedrekvote – sjå nedanfor)</p>
+    </list>
+    <p>Dersom stillingsprosenten til mora før adopsjon var mindre enn 50 …</p>
+    <list>
+      <p type="listitem">… er ingen veker øyremerkte far</p>
+      <p type="listitem">… kan foreldra dele heile perioden (det blir stilt spesielle krav til mor når far skal ta ut foreldrepengar som ikkje er fedrekvote – sjå nedanfor)</p>
+    </list>
+    <p>Det er med andre ord ikkje fedrekvote dersom stillingsprosenten til mora før fødselen var mindre enn 50.</p>
+    <p type="title">Når berre mor har rett til foreldrepengar</p>
+    <p>Når foreldra bur saman, men berre mor har rett til foreldrepengar, er stønadsperioden 43 veker med 100 prosent dekningsgrad og 53 veker med 80 prosent dekningsgrad. Mor får heile perioden åleine. Far kan likevel opparbeide seg rett til foreldrepengar mens mor får foreldrepengar. Dersom foreldra ønskjer det, kan far gjere seg nytte av denne retten.</p>
+    <p type="title">Når berre far har rett til foreldrepengar</p>
+    <p>Når foreldra bur saman, men berre far har rett til foreldrepengar, er stønadsperioden 37 veker med 100 prosent dekningsgrad og 47 veker med 80 prosent dekningsgrad. Vekene som ville vore øyremerkte mor ved fødsel (tre veker før og seks veker etter fødselen), er trekte frå. Det er med andre ord ikkje fedrekvote når berre far har rett til foreldrepengar. Det blir stilt spesielle krav til mor når far skal ta ut foreldrepengar som ikkje er fedrekvote – sjå nedanfor. Mor kan ha rett til eingongsstønad i tillegg til at far får foreldrepengar.</p>
+    <p type="title">Når mor er åleine om omsorga</p>
+    <p>Når mor har rett til foreldrepengar og bur åleine med barnet, er stønadstida 43 veker med 100 prosent dekningsgrad og 53 veker med 80 prosent dekningsgrad. Mor får heile perioden åleine. Det er ikkje fedrekvote.</p>
+    <p type="title">Når far er åleine om omsorga</p>
+    <p>Når far har rett til foreldrepengar og bur åleine med barnet, er stønadstida 43 veker med 100 prosent dekningsgrad og 53 veker med 80 prosent dekningsgrad.</p>
+    <p type="title">Adopsjon av fleire barn samtidig</p>
+    <list>
+      <p type="listitem">Når både mor og far har rett til foreldrepengar, blir det lagt til 5/7 veker (avhengig av kva dekningsgrad som er vald) til dei vekene som er felles for foreldra.</p>
+      <p type="listitem">Når berre éin av foreldra har rett til foreldrepengar, blir 5/7 veker (avhengig av kva dekningsgrad som er vald) lagde til dei vekene som vedkommande har rett til.</p>
+    </list>
+    <p type="title">Spesielle krav til mor når far skal ta ut foreldrepengar</p>
+    <p>Når far skal ta ut foreldrepengar som ikkje er fedrekvote, er det ein føresetnad at mor</p>
+    <list>
+      <p type="listitem">arbeider heilt eller delvis</p>
+      <p type="listitem">tek offentleg utdanning på heiltid</p>
+      <p type="listitem">studerer i kombinasjon med arbeid som til saman blir heiltid</p>
+      <p type="listitem">på grunn av sjukdom eller skade er heilt avhengig av hjelp til å ta seg av barnet</p>
+      <p type="listitem">er innlagd i helseinstitusjon og ikkje kan ta seg av barnet</p>
+      <p type="listitem">deltek i introduksjonsprogrammet for innvandrarar som nyleg er komne</p>
+      <p type="listitem">deltek i kvalifiseringsprogrammet for personar med vesentleg nedsett arbeids- og inntektsevne</p>
+    </list>
+    <p>Dersom mor etter adopsjon arbeider minst 75 prosent av full arbeidstid, reknar ein mor for å arbeide fulltid. Far kan derfor i slike tilfelle få foreldrepengar med utgangspunkt i at mor arbeider fulltid. Arbeider mor mindre enn 75 prosent av full arbeidstid, blir foreldrepengane til faren reduserte i tråd med reduksjonen i arbeidstida til mora. Dersom far ønskjer å arbeide fulltid for å utsetje perioden, er det eit vilkår at også mor arbeider eller studerer på fulltid. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
+    <p type="title">De får eit barn til i stønadsperioden</p>
+    <p>Dersom de får eit barn til før stønadsperioden for det førre barnet er oppbrukt, mister de retten til å ta ut dei ubrukte vekene for det førre barnet. Derimot har de rett til full periode med foreldrepengar for det nyfødde barnet. Den nye perioden startar tre veker før termindatoen.</p>
+  </body>
+</document>

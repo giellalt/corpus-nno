@@ -1,0 +1,38 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Vuođđodieđuid galget eanet sáhttit geavahit - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2010</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>274</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/radata-skal-kunne-nyttast-av-fleire.html?id=624786</origFileName>
+    <parallel_text xml:lang="nob" location="radata-skal-kunne-brukes-av-flere_id_624786.html"/>
+    <parallel_text xml:lang="sme" location="vuoodieuid-galget-eanet-sahttit-geavahit_id_624786.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rådata skal kunne nyttast av fleire - regjeringen.no</p>
+    <p>
+      <em type="italic">Fleire offentlege rådata skal no bli tilgjengelege for dei som måtte ønskje å byggje vidare på dei. I dag finst det både nett-tenester og mobile applikasjonar som viser alt frå vêrmeldingar og flytider til bussruter og kvar nærmaste idrettsanlegg er. Desse tenestene er ofte utvikla av private verksemder sjølv om dei er baserte på informasjon som blir forvalta av det offentlege. Frå 1. januar 2011 skal alle eigna rådata gjerast tilgjengelege i format som kan lesast maskinelt. </em>
+    </p>
+    <p>- Dette gjeld informasjon som har samfunnsmessig verdi, som kan brukast vidare, som det ikkje er teieplikt på og der ein reknar med at kostnadene ved tilgjengeleggjering ikkje er store, seier fornyingsminister Rigmor Aasrud. Kravet skal gå inn i alle tildelingsbrev som departementa skal sende til sine direktorat og etatar for 2011 for å beskrive kva dei skal gjere kommande år.</p>
+    <p><em type="italic">Vidarebruk </em>EU har berekna marknadsverdien av offentlege data i EU og Noreg til 200 milliardar kroner. Ved å gjere offentleg informasjon i maskinleselege format tilgjengeleg, blir det opna opp for nye, innovative tenester baserte på desse dataa. </p>
+    <p>- Det viktigaste no er å få ut data slik at vi kan lære meir om korleis data bør gjerast tilgjengelege og kva offentlege data kan nyttast til, seier Aasrud. - Vi har valt å begynne med dei data det er lettast å frigi. Det er eit solid første steg som skal medverke til å auke forståinga for og medvitet om vidarebruk, og kva verdi rådata kan ha for samfunnet.</p>
+    <p>Fellesføringa seier òg at etatane ved nyetablering eller oppgradering av datasystem skal vurdere om rådata bør gjerast tilgjengelege i maskinleselege format.</p>
+  </body>
+</document>

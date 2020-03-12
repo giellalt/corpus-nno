@@ -1,0 +1,43 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Stáhta penšunfoanda - Olgoriikkat - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>342</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder/Statens-pensjonsfond.html?id=270410</origFileName>
+    <parallel_text xml:lang="eng" location="the-government-pension-fund-_id_270410.html"/>
+    <parallel_text xml:lang="nob" location="statens-pensjonsfond---utland_id_270410.html"/>
+    <parallel_text xml:lang="sme" location="stahta-penunfoanda---olgoriikkat_id_270410.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Statens pensjonsfond - regjeringen.no</p>
+    <p>Statens pensjonsfond blei oppretta ved lov 20. desember 2005 nr. 123. Statens pensjonsfond er etablert som ei overbygning over Statens petroleumsfond og Folketrygdfondet. Verksemdene i dei to fonda er vidareført innanfor den nye overbygninga. Statens pensjonsfond har såleis ikkje eige styre eller eigen administrasjon.</p>
+    <p>Fondet består av Statens pensjonsfond - Utland (tidlegare Statens petroleumsfond) og Statens pensjonsfond - Noreg</p>
+    <p>(tidlegare Folketrygdfondet). Utanlandsdelen setjast som innskot på konto i Noregs Bank. Motverdien forvaltast etter nærare reglar fastsett av Finansdepartementet. Innanlandsdelen setjast som eit kapitalinnskot i Folketrygdfondet. Motverdien forvaltast etter nærare reglar fastsett av departementet.</p>
+    <p>Etter lova har Finansdepartementet ansvaret for forvaltinga av Statens pensjonsfond. Den operative forvaltinga av Statens pensjonsfond - Utland er delegert til Noregs Bank, som plasserer midlane i samsvar med retningsliner fastsett av Finansdepartementet. Statens pensjonsfond – Noreg forvaltast av Folketrygdfondet.</p>
+    <p>Inntekter i Statens pensjonsfond – Utland er kontantstraumen frå petroleumsverksemda som blir overført frå statsbudsjettet, avkastninga av fondet si formue og netto finanstransaksjonar knytt til petroleumsverksemda. Inntekter i Statens pensjonsfond – Noreg er avkastninga av dei forvalta midlane. Midlane i Statens pensjonsfond kan berre nyttast til ei beløpsmessig overføring til statsbudsjettet etter vedtak i Stortinget. Stortinget har tidlegare trekt opp retningsliner for Statens petroleumsfond som tilseier at overføringa dekkjer det oljekorrigerte budsjettunderskotet slik det blir anslått i nysaldert budsjett. Retningslinene for budsjettpolitikken inneber at det strukturelle, oljekorrigerte budsjettunderskotet over tid skal svare til forventa realavkastning av kapitalen i utanlandsdelen av Statens pensjonsfond ved inngangen til budsjettåret. Avkastninga på midlane i Statens pensjonsfond – Noreg overførast ikkje til statskassa, men leggjast fortløpande til denne delen av fondet.</p>
+    <p>Formålet med Statens pensjonsfond er å understøtte statleg sparing for finansiering av folketrygda sine pensjonsutgifter og underbyggje langsiktige omsyn ved bruk av statens petroleumsinntekter. Pensjonsutgiftene i folketrygda vil auke sterkt gjennom dei komande tiåra. Ei vesentleg fondsoppbygging i åra framover er nødvendig for å unngå å skyve store byrder over på framtidige generasjonar.</p>
+    <p>Kapitalen i Statens pensjonsfond - Utland er i sin heilskap investert i utlandet. Fondet er investert både i aksjar og i obligasjonar og andre renteberande verdipapir.</p>
+  </body>
+</document>

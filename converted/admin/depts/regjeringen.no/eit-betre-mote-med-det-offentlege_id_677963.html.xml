@@ -1,0 +1,46 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Buoret oktavuohta almmolašvuođain - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>331</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/eit-betre-mote-med-det-offentlege.html?id=677963</origFileName>
+    <parallel_text xml:lang="eng" location="public-administration-to-be-fully-digita_id_677988.html"/>
+    <parallel_text xml:lang="nob" location="et-bedre-mote-med-det-offentlige_id_677963.html"/>
+    <parallel_text xml:lang="sme" location="buoret-oktavuohta-almmolavuoain_id_677963.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Eit betre møte med det offentlege - regjeringen.no</p>
+    <p>
+      <em type="italic">Regjeringa har som mål at innbyggjarar og næringsliv skal oppleve eit betre møte med det offentlege. Digitalisering skal gjere det enklare og raskare å ha med forvaltninga å gjere. Forvaltninga skal i tillegg skrive klart og forståeleg, og tilby tenester som er brukarvennlege. </em>
+    </p>
+    <p>- Brukarane av offentlege tenester skal få hjelp på ein rask, forståeleg og respektfull måte. Openheit er ein føresetnad for at brukarane skal oppleve eit betre møte med det offentlege, seier Rigmor Aasrud.</p>
+    <p>Av Digitaliseringsprogrammet <span type="quote">”På nett med innbyggerne”</span> går det fram at forvaltninga skal invitere brukarar til å delta i utviklinga av tenester, kunne seie si meining om tenestetilbodet, eller få innsyn i det som blir gjort i offentleg sektor. Offentlege verksemder skal ta utgangspunkt i brukarane sine ønske og behov når dei utviklar dei offentlege tenestene. På den måten vil regjeringa sikre ein offentleg sektor som set brukaren i sentrum.</p>
+    <p>Aasrud meiner digitalisering av forvaltninga vil gi betre tenester og raskare saksbehandlingstider i mange saker. - Det vil òg gjere det enklare å samordne informasjon og tilby heilskaplege tenester. Brukaren vil for eksempel sleppe å gi dei same opplysningane fleire gonger. Digitale tenester er i tillegg tilgjengelege døgnet rundt, og ein kan bruke tenestene frå mobiltelefon, pc eller nettbrettet heime. Brukarar som treng det, skal få hjelp til å bruke dei digitale tenestene.</p>
+    <p><em type="italic">Rekningar frå staten i nettbanken </em>Det skal bli slutt på at du må taste inn lange KID-nummer når du skal betale rekningar frå staten. Regjeringa vil leggje til rette for elektronisk faktura og autogiro til alle innbyggjarar som ønskjer det. </p>
+    <p>- Med elektronisk faktura fjernar vi ein irritasjon for brukarane. Alle som ønskjer det, kan få fakturaen direkte i nettbanken i staden for i papirkonvolutt i postkassen, seier fornyingsministeren.</p>
+    <p>Elektronisk faktura og automatisk trekk vil gjere det enklare og raskare å betale rekningar frå staten.</p>
+    <p>Regjeringa vil derfor ta initiativ overfor bankane om å etablere elektronisk faktura som standardval frå staten til innbyggjarar med nettbank.</p>
+  </body>
+</document>

@@ -1,0 +1,38 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>123</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup"/>
+    <origFileName>http://www.regjeringen.no/nn/dep/kud/Dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20012002/otprp-nr-114-2001-2002-/6.html?id=313779</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Forslag til lov om endring... - regjeringen.no</p>
+    <p>Ot.prp. nr. 114 (2001-2002)</p>
+    <p type="title">Om lov om endring i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (ny organisering av arbeidet for samiske språk)</p>
+    <p type="title">Forslag til lov om endring i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (ny organisering av arbeidet for samiske språk)</p>
+    <p type="title">I lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold skal § 3-12 lyde:</p>
+    <p type="title">§ 3-12 Organisering av samisk språkarbeid</p>
+    <p>Sametinget skal arbeide for vern og videre utvikling av samiske språk i Norge.</p>
+    <p>Sametinget utarbeider hvert fjerde år en rapport til Kongen om situasjonen for samiske språk i Norge.</p>
+    <p type="title">II</p>
+    <p>Lova tek til å gjelde frå den tid Kongen fastset.</p>
+  </body>
+</document>

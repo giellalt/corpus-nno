@@ -1,0 +1,778 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Smávvamánnáváhnemiid vuoigatvuođat - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Barne-, likestillings- og inkluderingsdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>9748</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/bld/Dokument/Rettleiingar-og-brosjyrar/2007/Rettar-for-smabarnsforeldre.html?id=454913</origFileName>
+    <parallel_text xml:lang="eng" location="the-rights-of-parents-of-small-children_id_454913.html"/>
+    <parallel_text xml:lang="nob" location="smabarnsforeldres-rettigheter_id_454913.html"/>
+    <parallel_text xml:lang="sme" location="samisk_id_454913.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rettar for småbarnsforeldre - regjeringen.no</p>
+    <p>
+      <em type="bold">Forord </em>
+    </p>
+    <p>Denne brosjyren omtaler dei lovfesta rettane under svangerskap, fødsel, adopsjon og når barna er små. Det er gjort greie for støtteordningar for heimearbeidande, yrkesaktive, arbeidsledige, skuleelevar og studentar med lån i Statens lånekasse og dei som avtener verneplikt. Omsorg for sjuke og funksjonshemma barn gir krav på særlege rettar, som også blir omtalte.</p>
+    <p>I tillegg blir det gitt ein kortfatta informasjon om helse- og sosialtenester for barn og foreldre og pedagogiske tilbod for småbarn. Tilboda på desse områda kan variere frå kommune til kommune.</p>
+    <p>Brosjyren viser til aktuelle lovreglar. Ei oversikt over lovene finst heilt til slutt i brosjyren.</p>
+    <p>Brosjyren er ajourført i januar 2007.</p>
+    <p>NAV lagar brosjyrar på mange av dei områda som er omtalte her. NAV lokalt distribuerer desse brosjyrane.</p>
+    <p>Fleire opplysningar og orientering om moglege endringar i satsar osv. kan ein få hos NAV lokalt, hos Arbeidstilsynet eller på Internett:</p>
+    <p type="listitem">Arbeidstilsynet: www.arbeidstilsynet.no</p>
+    <p type="listitem">Barne- og likestillingsdepartementet: www.bld.dep.no</p>
+    <p type="listitem">Forsvarsdepartementet: www.fd.dep.no</p>
+    <p type="listitem">NAV: www.nav.no</p>
+    <p type="listitem">Skattedirektoratet: www.skatteetaten.no</p>
+    <p type="listitem">Helse- og omsorgsdepartementet: www.hod.dep.no</p>
+    <p type="listitem">Statens lånekasse for utdanning: www.lanekassen.no</p>
+    <p>Brosjyren er gitt ut av Barne- og likestillingsdepartementet.</p>
+    <p>Offentlege kontor kan bestille brosjyren frå</p>
+    <p>Departementenes servicesenter</p>
+    <p>Kopi- og distribusjonsservice</p>
+    <p>www.publikasjoner.dep.no</p>
+    <p>E-post: publikasjonsbestilling.dep.no</p>
+    <p>Telefaks: 22 24 27 86</p>
+    <p>Oppgi publikasjonskode Q-0867 B</p>
+    <p>
+      <em type="bold">Innhald </em>
+    </p>
+    <p><em type="bold">RETTAR OG STØNADER TIL GRAVIDE </em>3 </p>
+    <p><em type="bold">OPPSEIINGSVERN </em>5 </p>
+    <p><em type="bold">FORBOD MOT DISKRIMINERING AV GRAVIDE OG PERMISJONSTAKARAR </em>6 </p>
+    <p><em type="bold">RETT TIL FRI FRÅ ARBEIDET VED FØDSEL OG ADOPSJON </em>8 </p>
+    <p><em type="bold">FORELDREPENGAR VED FØDSEL OG ADOPSJON </em>10 </p>
+    <p>– Opptening av rett til foreldrepengar 10</p>
+    <p>– Korleis blir foreldrepengane rekna ut? 10</p>
+    <p>– Foreldrepengeperioden 11</p>
+    <p>– Deling av stønadsperioden mellom mor og far 12</p>
+    <p>– Fedrekvoten 13</p>
+    <p>– Utsetjing av foreldrepengeperioden 13</p>
+    <p>– Gradert uttak av foreldrepengar 14</p>
+    <p>– Retten til foreldrepengar ved dødfødsel eller dersom barnet døyr i stønadsperioden 16</p>
+    <p>– Eingongsstønad ved fødsel og adopsjon 16</p>
+    <p>– Heimefødsel 16</p>
+    <p>– Tilskot til foreldre som adopterer barn frå utlandet 16</p>
+    <p><em type="bold">RETT TIL REDUSERT OG FLEKSIBEL ARBEIDSTID </em>17 </p>
+    <p>– Kven har rett til redusert arbeidstid? 17</p>
+    <p>– Fritak frå overtidsarbeid og meirarbeid 17</p>
+    <p><em type="bold">ØKONOMISKE STØTTEORDNINGAR </em>19 </p>
+    <p>– Barnetrygd 19</p>
+    <p>– Kontantstøtte 21</p>
+    <p>– Skattereglar for barnefamiliar 22</p>
+    <p>– Pensjonspoeng til personar som har omsorg for små barn 23</p>
+    <p><em type="bold">STØNADSORDNING FOR EINSLEG MOR ELLER FAR </em>23 </p>
+    <p>– Barnebidrag 25</p>
+    <p>– Bidragsforskot 25</p>
+    <p><em type="bold">RETTAR NÅR BARNET ELLER BARNEPASSAREN ER SJUKE </em>26 </p>
+    <p>– Rett til fri frå arbeidet 26</p>
+    <p>– Stønad for barn som har varig sjukdom 28</p>
+    <p>– Barn på sjukehus 29</p>
+    <p><em type="bold">LÅNEKASSA SINE ORDNINGAR FOR SMÅBARNSFORELDRE </em>30 </p>
+    <p><em type="bold">VERNEPLIKTIGE MED OMSORGSANSVAR </em>32 </p>
+    <p>
+      <em type="bold">PEDAGOGISKE TILBOD FOR FØRSKULEBARN OG </em>
+    </p>
+    <p><em type="bold">DAGMAMMA/PRAKTIKANT-VERKSEMD </em>33 </p>
+    <p>– Barnehagar 33</p>
+    <p>– Open barnehage 33</p>
+    <p>– Spesialpedagogisk hjelp 33</p>
+    <p>– Dagmammaer og praktikantar 34</p>
+    <p><em type="bold">HELSE- OG SOSIALTENESTER </em>35 </p>
+    <p>– Helsestasjonar 35</p>
+    <p>– Avlastningsordningar og støttekontakt 35</p>
+    <p>– Omsorgslønn 35</p>
+    <p>– Heimetenester 36</p>
+    <p>– Familievern 36</p>
+    <p>– Foreldrerettleiing 36</p>
+    <p><em type="bold">AKTUELLE LOVER </em>36 </p>
+    <p>
+      <em type="bold">Rettar og stønader til gravide </em>
+    </p>
+    <p>
+      <em type="italic">Svangerskapskontroll </em>
+    </p>
+    <p>Ein gravid arbeidstakar har rett til fri frå arbeid med lønn i samband med svangerskapskontroll, når det ikkje er rimeleg at slike undersøkingar kan skje utanfor arbeidstida.</p>
+    <p>
+      <em type="italic">Sjukdom under svangerskapet </em>
+    </p>
+    <p>Dersom mora må vere borte frå arbeidet fordi ho er sjuk under svangerskapet, blir det rekna som vanleg sjukefråvær. Fråværet skal ikkje reknast som ein del av foreldrepengeperioden. Dei siste tre vekene før fødselen skal sjukepengar avløysast av foreldrepengar.</p>
+    <p>
+      <em type="italic">Dekning av utgifter </em>
+    </p>
+    <p>Folketrygda dekkjer eigendelen for nødvendig legeundersøking under graviditeten og for ei undersøking etter at barnet er fødd. Tilsvarande gjeld for utgifter til fysikalsk behandling til kvinner med bekkenløysing med gangvanskar under svangerskapet og inntil 6 månader etter fødselen. Dersom ein må bu heimanfrå medan ein ventar på at fødselen skal kome i gang, dekkjer trygda som hovudregel utgifter til kost og losji i opptil 10 døgn frå ein kjem til ventestaden og til ein blir innlagd på fødeheim eller sjukehus.</p>
+    <p>
+      <em type="italic">Retten til foreldrepengar ved abort </em>
+    </p>
+    <p>Retten til foreldrepengar fell bort dersom kvinna aborterer i løpet av dei første 6 månadene av svangerskapet. Abort etter 6 månader blir rekna som fødsel, og då har mora rett til foreldrepengar i 6 veker.</p>
+    <p>
+      <em type="italic">Vern mot tungt arbeid og skadelege stoff </em>
+    </p>
+    <p>Somme kvinner har arbeid som kan bli tungt sist i svangerskapet. Døme på dette er kvinner som arbeider med reingjering, i pleieyrke eller butikktilsette. Nattarbeid kan også vere tungt for gravide.</p>
+    <p>Arbeidsgivaren har plikt til å leggje arbeidet til rette slik at belastninga for den gravide ikkje blir så stor, så langt det er praktisk mogleg. Arbeidet skal leggjast opp på ein annan måte, eller den gravide skal få andre arbeidsoppgåver.</p>
+    <p>I somme yrke blir arbeidstakarar utsette for særlege faktorar som ein veit eller trur kan skade fosteret:</p>
+    <p type="listitem">Fysiske faktorar som til dømes arbeid under trykk eller ioniserande stråling.</p>
+    <p type="listitem">Biologiske faktorar som til dømes toksoplasma eller rubellavirus (raude hundar).</p>
+    <p type="listitem">Kjemiske faktorar som til dømes løysemiddel, kreftframkallande stoff, metall som bly, kvikksølv, krom eller nikkel, cytostatika, visse plastråstoff, visse ugras- og innsektgifter og kolos, narkosegassar eller andre gassar som blir tekne opp i blodet.</p>
+    <p>Arbeidsgivaren har ei særleg plikt til å ta omsyn til at gravide bør unngå alle skadelege stoff i arbeidsmiljøet. For somme typar arbeid der det er særlege risikoforhold, finst det eigne reglar. Arbeidstilsynet kan gi nærmare informasjon om dette.</p>
+    <p>Menn og kvinner som har problem med å få barn, bør vere merksame på at årsaka kan liggje i arbeidsmiljøet. Arbeidsgivarar er forplikta til å arbeide for at arbeidsmiljøet ikkje fører til forplantningsskadar for kvinnelege eller mannlege arbeidstakarar.</p>
+    <p>
+      <em type="italic">Svangerskapspengar </em>
+    </p>
+    <p>Gravide kvinner som må slutte å arbeide på grunn av risikofylt arbeidsmiljø, kan få rett til svangerskapspengar.</p>
+    <p>Vilkåra for arbeidstakarar er at kvinna etter føresegner i lover eller forskrifter er pålagd å slutte i arbeidet, og at det ikkje er mogleg for arbeidsgivarar å leggje arbeidet til rette eller omplassere kvinna. Ein gravid sjølvstendig næringsdrivande eller frilansar har rett til svangerskapspengar dersom ho er utsett for slike risikofaktorar som gir ein gravid arbeidstakar rett til svangerskapspengar. Det er ein føresetnad at risikofaktorane er dokumenterte, og at ho ikkje har høve til å leggje arbeidet sitt til rette.</p>
+    <p>Svangerskapspengar blir utbetalte frå det tidspunktet kvinna er pålagd å slutte i arbeidet og fram til tre veker før fødselen, då kvinna går over på foreldrepengar. Svangerskapspengar blir utrekna på same måten som sjukepengar.</p>
+    <p>
+      <em type="bold">Oppseiingsvern </em>
+    </p>
+    <p>
+      <em type="italic">Oppseiingsvernet er heimla i arbeidsmiljølova § 15-9. </em>
+    </p>
+    <p>
+      <em type="italic">Vern mot oppseiing under graviditet og permisjon </em>
+    </p>
+    <p>Ingen arbeidsgivar kan seie opp ei kvinne fordi ho er gravid. Det gjeld også i prøvetida. Ei gravid kvinne er verna mot oppseiing sjølv om ho på grunn av graviditeten ikkje kan gjere det arbeidet ho elles gjer. Ein arbeidsgivar som seier opp ei gravid kvinne og gir andre grunnar for oppseiing enn graviditeten, må kunne bevise at det er sakleg grunn for oppseiinga.</p>
+    <p>Når ein arbeidstakar tek permisjon i samband med fødsel eller adopsjon, kan vedkomande ikkje seiast opp med verknad i fråværsperioden når arbeidsgivaren er klar over at det er permisjon som er årsak til fråværet. Dersom ein arbeidstakar blir lovleg oppsagd i permisjonstida, blir oppseiingstida rekna utanom permisjonstida. Dersom halve oppseiingstida er gått når permisjonen tek til, kjem den andre halvparten av oppseiingstida når permisjonsperioden er over. Dette absolutte oppseiingsvernet i samband med fødsels- og adopsjonspermisjon gjeld i inntil eitt år.</p>
+    <p>Ein arbeidstakar som tek ut delvis permisjon eller ulønt permisjon utover det første året, kan ikkje seiast opp på grunn av det. Arbeidstakaren har med andre ord eit vern mot oppseiing som skjer på grunn av permisjonsfråværet. Ein arbeidsgivar som seier opp ein arbeidstakar som tek permisjon utover eitt år, må kunne bevise at det er sakleg grunn for oppseiinga.</p>
+    <p>Ein arbeidstakar kan sjølv seie opp stillinga si under heile permisjonstida, med den oppseiingsfristen som gjeld for arbeidsforholdet.</p>
+    <p>
+      <em type="italic">Retten til å gå tilbake til same stilling </em>
+    </p>
+    <p>Arbeidstakaren har krav på å kome tilbake til den same stillinga som vedkomande hadde før permisjonen. Det gjeld også når periodar med delvis permisjon er over, og for permisjonar utover den lovfesta retten til permisjon ved svangerskap, fødsel, adopsjon og omsorgsovertaking for fosterbarn.</p>
+    <p>Dette er ein rett som følgjer av avtaleverket mellom arbeidsgivarar og arbeidstakarar.</p>
+    <p>Unntaksvis kan det likevel vere rimeleg grunn til å omplassere ein arbeidstakar som har hatt permisjon. Det kan ha med arbeidsavtalen å gjere, eller det kan kome inn under styringsretten til arbeidsgivaren. Men omplasseringa skal ikkje skje på grunn av permisjonen.</p>
+    <p>Dersom det under fødselen oppstår skadar som gjer det vanskeleg for mora å halde fram i den stillinga ho hadde før fødselen, skal stillinga primært leggjast til rette for den nye situasjonen som har oppstått. Ved overføring til ny stilling skal mora og hennar tillitsvalde takast med på råd.</p>
+    <p>
+      <em type="bold">Forbod mot diskriminering av gravide og permisjonstakarar </em>
+    </p>
+    <p>Likestillingslova vernar mot diskriminering på grunn av kjønn. I utgangspunktet er all forskjellsbehandling på grunn av graviditet, fødsel og uttak av permisjonsrettar i strid med likestillingslova.</p>
+    <p>Men lova gir likevel eit sterkare vern under permisjon som er øyremerkt eitt av kjønna. Det vil seie at kvinner ikkje kan forskjellsbehandlast på grunn av graviditet, fødsel og uttak av den permisjonen som er øyremerkt for kvinna (3 veker før fødsel og 6 veker etter fødsel). Mannen kan heller ikkje forskjellsbehandlast ved uttak av fedrekvoten (6 veker).</p>
+    <p>Resten av permisjonen kan foreldra dele seg imellom, og forskjellsbehandling i desse vekene treng derfor ikkje vere i strid med likestillingslova. Likevel er forskjellsbehandling på grunn av permisjonsuttak i denne perioden som hovudregel også forbode, med mindre forskjellsbehandlinga har ein sakleg grunn (særskilde tilfelle).</p>
+    <p>Dersom du meiner at du er blitt utsett for ulovleg forskjellsbehandling, kan du vende deg til Likestillings- og diskrimineringsombodet.</p>
+    <p>Ombodet kan vurdere om du er blitt utsett for ulovleg forskjellsbehandling, og gi råd om korleis du kan ta opp saka. Ombodet kan gi ei skriftleg fråsegn om lovbrot. I dei fleste saker rettar partane seg etter denne fråsegna.</p>
+    <p>Dersom ein part er ueinig i fråsegna frå ombodet, kan ein bringe saka inn for Likestillings- og diskrimineringsnemnda. Ombodet kan også sjølv bringe ei sak inn for nemnda, dersom ein av partane ikkje følgjer fråsegna frå ombodet. Nemnda kan gjere vedtak i saka, og partane er forplikta til å følgje vedtaket.</p>
+    <p>Det er gratis å bruke ombodet og nemnda.</p>
+    <p>
+      <em type="bold">For somme typar arbeid finst det eigne lover og føresegner </em>
+    </p>
+    <p>
+      <em type="bold">Lover: </em>
+    </p>
+    <p>Arbeidsmiljølova §§ 4-5 og 4-2</p>
+    <p>
+      <em type="bold">Forskrifter: </em>
+    </p>
+    <p type="listitem">Forplantningsskader og arbeidsmiljø (best. nr. 535)</p>
+    <p type="listitem">Vern mot eksponering for biologiske faktorer (best. nr. 550)</p>
+    <p type="listitem">Vern mot eksponering for kjemikalier på arbeidsplassen (best. nr. 566)</p>
+    <p>
+      <em type="bold">Rettleiingar: </em>
+    </p>
+    <p type="listitem">Administrative normer for forurensning i arbeidsatmosfære (best. nr. 361)</p>
+    <p type="listitem">Løsemiddelskade kan ikke helbredes – bare unngås (best. nr. 470)</p>
+    <p type="listitem">Gravid i arbeid (best. nr. 475)</p>
+    <p>
+      <em type="bold">Orientering: </em>
+    </p>
+    <p type="listitem">Arbeidsmiljø og graviditet (best. nr. 474)</p>
+    <p>Kan bestillast frå</p>
+    <p>Tiden Norsk Forlag A/S</p>
+    <p>tlf.: 23 32 76 61, faks: 23 32 76 98/99</p>
+    <p>Internett:</p>
+    <p>www.tiden.no/arbeidsliv</p>
+    <p>eller hos Arbeidstilsynet</p>
+    <p>
+      <em type="bold">Rett til fri frå arbeidet ved fødsel og adopsjon </em>
+    </p>
+    <p>I samband med fødsel og adopsjon har foreldre rett til fri frå arbeidet etter nærmare føresegner i arbeidsmiljølova. Retten til fri frå arbeidet gjeld parallelt og utvida i høve til føresegnene om foreldrepengar i folketrygdlova kap. 14, som regulerer retten til lønn under permisjonen. Betre rettar kan følgje av ein kollektiv avtale som arbeidstakaren er omfatta av.</p>
+    <p>
+      <em type="italic">Foreldrepermisjon i det første leveåret til barnet </em>
+    </p>
+    <p>Foreldra har til saman rett til foreldrepermisjon i inntil tolv månader, eller så lenge det blir utbetalt foreldrepengar frå folketrygda. Før fødselen har mora rett til svangerskapspermisjon i 12 veker. Etter fødselen skal ho ha fødselspermisjon dei første seks vekene. Etter dette kan foreldra dele på retten til permisjon. Foreldra kan ta permisjon samtidig, men det kan få konsekvensar for retten til foreldrepengar.</p>
+    <p>
+      <em type="italic">Varsel til arbeidsgivaren </em>
+    </p>
+    <p>Varsel til arbeidsgivaren er heimla i arbeidsmiljølova § 12-7.</p>
+    <p>Hovudregelen er at arbeidsgivaren skal varslast så snart arbeidstakaren veit at han eller ho skal gjere seg nytte av rettar i samband med fødsel eller adopsjon. I samband med fødsel, og spesielt i samband med adopsjon, er det vanskeleg å vite nøyaktig tidspunkt for nedkomst eller omsorgsovertaking.</p>
+    <p type="listitem">Faren har rett til to vekers omsorgspermisjon i tilknyting til fødselen.</p>
+    <p type="listitem">Før fødselen har mora rett til tolv vekers svangerskapspermisjon.</p>
+    <p type="listitem">Etter fødselen skal ho ha fødselspermisjon dei første seks vekene.</p>
+    <p type="listitem">Foreldre har rett til ytterlegare foreldrepermisjon i det første leveåret til barnet, eller så lenge det blir gitt foreldrepengar frå trygda.</p>
+    <p type="listitem">I tillegg har kvar av foreldra rett til inntil eitt års ulønt permisjon for kvart barn.</p>
+    <p type="listitem">Mora har rett til fri for å amme.</p>
+    <p>Ved permisjon i 2 veker eller meir før barnet er fødd eller dei 6 første vekene etter fødselen, skal ein varsle om det 1 veke på førehand. Ved permisjon i 12 veker eller meir i det første leveåret til barnet skal ein gi varsel seinast 4 veker på førehand.</p>
+    <p>Dersom ein nyttar seg av retten til ulønt permisjon utover permisjon i det første leveåret til barnet, skal ein gi varsel seinast 12 veker på førehand.</p>
+    <p>Dersom arbeidstakaren ikkje held fristane, fører ikkje det til at han eller ho må utsetje permisjonen dersom han er nødvendig på grunn av forhold som arbeidstakaren ikkje hadde kjennskap til då fristen gjekk ut. Ein skal gi varsel så snart som råd.</p>
+    <p>
+      <em type="bold">Foreldrepengar ved fødsel og adopsjon </em>
+    </p>
+    <p>
+      <em type="italic">Retten til foreldrepengar er heimla i folketrygdlova kap. 14. </em>
+    </p>
+    <p>Foreldrepengar blir gitt til mor og far til barnet ved fødsel eller adopsjon av barn under 15 år.</p>
+    <p>Adopsjon av barnet til ektefellen gir som hovudregel ikkje rett til foreldrepengar. Adoptivforeldre kan likevel ha rett til foreldrepengar dersom stebarnsadopsjonen skjer så tidleg at ein framleis er innanfor stønadsperioden ved fødsel.</p>
+    <p>Personar som tek over omsorga for barn under 15 år ved tildeling av foreldreansvaret etter barnelova, kan på visse vilkår får rett til foreldrepengar som ved adopsjon.</p>
+    <p>Krav om foreldrepengar kan ein setje fram ved å fylle ut ein blankett som ein får hos NAV lokalt, eller som kan hentast på nettsidene til NAV: www.nav.no. Dette gjeld sjølv om arbeidsgivaren betaler lønn under permisjonen.</p>
+    <p>
+      <em type="bold">Opptening av rett til foreldrepengar </em>
+    </p>
+    <p>Rett til foreldrepengar tener ein opp gjennom yrkesaktivitet. Både mora og faren kan tene opp rett til foreldrepengar ved å vere yrkesaktive med pensjonsgivande inntekt i minst seks av dei siste ti månadene før vedkomande begynner å ta ut foreldrepengar.</p>
+    <p>Arbeidstid i eit anna EØS/EU-land kan leggjast saman med eit seinare arbeidsforhold i Noreg.</p>
+    <p>Likestilt med yrkesaktivitet er periodar med sjukepengar, stønad når barn er sjuke, foreldrepengar, svangerskapspengar eller dagpengar under arbeidsløyse. Likestilt med yrkesaktivitet er også periodar med lønn frå arbeidsgivaren under permisjon i samband med vidare- og etterutdanning, ventelønn, vartpengar (ventepengar), etterlønn frå arbeidsgivaren og avtening av militær- eller sivilteneste eller obligatorisk sivilforsvarsteneste.</p>
+    <p>Den pensjonsgivande inntekta i oppteningstida må ha tilsvart minst halvparten av grunnbeløpet i folketrygda på årsbasis. (Det vil seie 31 446 kroner i 2006).</p>
+    <p>
+      <em type="bold">Korleis blir foreldrepengane rekna ut? </em>
+    </p>
+    <p>Foreldrepengar blir utrekna etter inntekta til den av foreldra som har permisjon. Foreldrepengar for arbeidstakarar blir dekte med 100 prosent av inntekta. Men det blir ikkje gitt foreldrepengar for inntekter som på årsbasis ligg over 6G (377 352 kroner, 2006). Arbeidstakarar som har lønn som ligg over 6G, kan likevel ha rett til full lønn etter avtale med arbeidsgivaren.</p>
+    <p>Foreldrepengar blir som hovudregel rekna ut på same måten som sjukepengar. For arbeidstakarar legg ein vanlegvis inntekta dei siste 4 vekene ein var i arbeid, til grunn. Det kan likevel gjerast unntak dersom denne inntekta avvik meir enn 25 prosent frå den vanlege årsinntekta.</p>
+    <p>Kvinner som går over frå dagpengar under arbeidsløyse til foreldrepengar, skal ha foreldrepengane utrekna etter inntekta i dei beste seks månadene i oppteningstida, dersom dette gir eit høgre grunnlag.</p>
+    <p>
+      <em type="italic">Sjølvstendig næringsdrivande </em>
+    </p>
+    <p>Sjølvstendig næringsdrivande har rett til foreldrepengar med 65 prosent av inntekta, men kan oppnå 100 prosent dekning ved å teikne frivillig tilleggsforsikring (sjukepengeforsikring). Forsikringa må vere teikna seinast 10 månader før fødselen eller adopsjonen.</p>
+    <p>Inntektsgrunnlaget blir fastsett ut frå den pensjonsgivande inntekta dei siste 3 åra som er ferdig likna. Det blir ikkje gitt foreldrepengar for inntekter som er større enn 6 gonger grunnbeløpet i folketrygda.</p>
+    <p>
+      <em type="bold">Foreldrepengeperioden </em>
+    </p>
+    <p>Foreldrepengeperioden ved fødsel er 44 veker med full sats eller 54 veker med redusert sats. Stønadsperioden ved adopsjon er 41 veker eller 51 veker. Dersom berre faren har opptent rett, er stønadsperioden 39 veker eller 29 veker.</p>
+    <p>Med full sats meiner ein 100 prosent av utrekningsgrunnlaget (opp til 6G). For sjølvstendig næringsdrivande utan tilleggsforsikring inneber full sats 65 prosent av inntektsgrunnlaget.</p>
+    <p>Med redusert sats meiner ein 80 prosent av utrekningsgrunnlaget, oppover avgrensa til 6G. For sjølvstendig næringsdrivande utan tilleggsforsikring inneber redusert sats 80 prosent av 65 prosent av inntektsgrunnlaget.</p>
+    <p>Foreldra må velje kva for ein sats dei ønskjer før stønadsperioden tek til. Valet gjeld for heile perioden og for uttaka til begge foreldra.</p>
+    <p>
+      <em type="italic">Fleirbarnsfødslar- og adopsjonar </em>
+    </p>
+    <p>Ved fleirbarnsfødslar og ved adopsjon av fleire barn samtidig blir stønadsperioden forlengd med 5 veker for kvart barn meir enn eitt. Det gjeld ved full sats. Ved redusert sats blir det gitt 7 veker ekstra for kvart barn.</p>
+    <p>Foreldra kan fritt velje korleis dei vil fordele dei ekstra vekene seg imellom, og kan ta dei ut samtidig eller som ei forlenging av stønadsperioden.</p>
+    <p>
+      <em type="italic">Tidleg stebarnsadopsjon </em>
+    </p>
+    <p>Ved tidleg stebarnsadopsjon har adoptivforeldre tilsvarande rettar som fedrar frå adopsjonstidspunktet og i den resterande delen av stønadsperioden ved fødsel.</p>
+    <p>Ein er ikkje pliktig til å ta ut fedrekvote i desse tilfella.</p>
+    <p>
+      <em type="bold">Deling av stønadsperioden mellom mor og far </em>
+    </p>
+    <p>Mor og far kan velje å dele den lønte permisjonstida. Visse veker må likevel nyttast etter bestemte reglar. 3 veker før fødselen og 6 veker etter fødselen er det mora som skal ha permisjon. Faren har rett på 6 veker (fedrekvoten).</p>
+    <p>Den resterande delen av stønadsperioden kan foreldra etter nærmare vilkår fordele mellom seg, dersom begge har opptent rett. Ved fødsel omfattar dette inntil 29 eller 39 veker. Ved adopsjon omfattar det 35 eller 45 veker, det vil seie heile stønadsperioden med unntak av fedrekvoten. Dersom berre faren har opptent rett, kan han etter nærmare vilkår ta ut ein tilsvarande del av stønadsperioden.</p>
+    <p>Mora kan velje å begynne stønadsperioden 12 veker før fødselen. Faren kan som hovudregel ikkje ta ut foreldrepengar før frå 6 veker etter fødselen.</p>
+    <p>
+      <em type="italic">Nærmare om dei rettane fedrane har </em>
+    </p>
+    <p>For at faren skal kunne ta ut foreldrepengar som ikkje er fedrekvote, kan ikkje mora samtidig vere heime og ta seg av barnet. Dette gjeld uavhengig av om mora har rett til foreldrepengar eller ikkje. Faren kan berre ta ut foreldrepengar dersom mora etter fødselen eller omsorgsovertakinga</p>
+    <p type="listitem">går ut i arbeid</p>
+    <p type="listitem">tek offentleg godkjend utdanning på heiltid</p>
+    <p type="listitem">kombinerer arbeid og godkjend utdanning slik at dette i sum blir heiltid</p>
+    <p>Faren kan også ta ut foreldrepengar dersom mora på grunn av sjukdom eller skade er heilt avhengig av hjelp til å ta seg av barnet, eller er innlagd i helseinstitusjon.</p>
+    <p>Dersom mora arbeider deltid (mindre enn 75 prosent stilling), har faren rett til foreldrepengar tilsvarande stillingsdelen til mora. Dersom mora til dømes arbeider i 60 prosent stilling, kan faren ta ut 60 prosent foreldrepengar.</p>
+    <p>Dersom mora begynner i heiltidsarbeid (minst 75 prosent stilling) før stønadsperioden er over, kan resten av stønadsperioden takast ut av faren.</p>
+    <p>
+      <em type="italic">Nærmare om fordeling mellom faren og mora </em>
+    </p>
+    <p>Mora og faren kan begge velje å arbeide deltid, til dømes slik at begge arbeider i 50 prosent stilling. Dei kan då ta ut 50 prosent foreldrepengar kvar i resten av stønadsperioden.</p>
+    <p>Den eine eller begge foreldra kan vidare utsetje eller forlengje sin del av uttaket i samsvar med heiltids- eller deltidsarbeid. Sjå nærmare om utsetjing og gradert uttak.</p>
+    <p>Ved deling av foreldrepermisjon mellom faren og mora føreset arbeidsmiljølova at mora tek sin del samanhengande, og at faren tek sin del samanhengande. Ein kan likevel dele permisjonen på ein annan måte dersom det ligg føre særlege grunnar, og dersom ordninga ikkje verkar urimeleg for arbeidsgivaren. Det må gjerast skriftleg avtale med arbeidsgivaren om omfanget av arbeidet for å få utsetjing eller gradert uttak av foreldrepengar.</p>
+    <p>
+      <em type="bold">Fedrekvoten </em>
+    </p>
+    <p>Seks veker av stønadsperioden er øyremerkt for faren (fedrekvoten) når både mora og faren har opptent rett og mora har arbeidd i minst halv stilling i oppteningstida.</p>
+    <p>Dersom faren ikkje nyttar fedrekvoten, fell vekene vanlegvis bort. Unntak gjeld dersom faren på grunn av sjukdom eller skade er heilt avhengig av hjelp til å ta seg av barnet, eller er innlagd i helseinstitusjon. Då kan ein søkje om å få fedrekvoten overført til mora.</p>
+    <p>Fedrekvoten kan tidlegast takast ut 6 veker etter fødselen. Ved fleirbarnsfødslar eller ved adopsjon kan likevel fedrekvoten takast ut når som helst i stønadsperioden.</p>
+    <p>Dersom det er gjort skriftleg avtale med arbeidsgivaren, kan uttaket av fedrekvote utsetjast som følgje av heiltidsarbeid eller graderast i kombinasjon med delvis arbeid.</p>
+    <p>Faren sine foreldrepengar under fedrekvoten blir utrekna etter den inntekta han har. Om han oppnår 100 prosent eller 80 prosent dekning, er avhengig av den satsen foreldra har valt for heile perioden (sjå om foreldrepengeperioden).</p>
+    <p>Det blir ikkje stilt noko krav til yrkesaktivitet e.l. for mora når faren tek ut fedrekvoten. I denne perioden kan mora om ho vil også ta ut foreldrepengar på inntil 50 prosent i kombinasjon med delvis arbeid.</p>
+    <p>
+      <em type="bold">Utsetjing av foreldrepengeperioden </em>
+    </p>
+    <p>Foreldrepengeperioden skal i utgangspunktet vere samanhengande. I somme tilfelle kan han likevel utsetjast. Foreldrepengane må likevel takast ut innan tre år etter fødselen eller omsorgsovertakinga.</p>
+    <p>
+      <em type="italic">Ferie </em>
+    </p>
+    <p>Foreldrepengeperioden kan utsetjast dersom ein tek lovbestemt ferie. Når ferien er avslutta, må resten av perioden takast straks.</p>
+    <p>Ferien kan utsetjast til etter at foreldrepengeperioden er avslutta.</p>
+    <p>Arbeidstakarar opparbeider seg rett til feriepengar av foreldrepengar for dei første 12 vekene av stønadsperioden dersom ein har valt full lønnsdekning, eller 15 veker dersom ein har valt redusert lønnsdekning.</p>
+    <p>
+      <em type="italic">Arbeid på heiltid </em>
+    </p>
+    <p>Foreldrepengeperioden kan utsetjast når den som tek imot foreldrepengar, er i inntektsgivande arbeid på heiltid. Både mor og far kan utsetje uttaket. Før det kan bli gitt utsetjing, må ein ha fått utbetalt foreldrepengar i 6 veker.</p>
+    <p>Den retten faren har til foreldrepengar (ikkje fedrekvote), er avhengig av aktiviteten til mora etter fødselen eller omsorgsovertakinga. Det inneber at mora heller ikkje kan vere heimeverande når faren får utsetjing. Ved utsetjing av uttak av fedrekvote eller ved utsetjing når det er meir enn eitt år etter fødselen eller omsorgsovertakinga, blir det likevel ikkje stilt krav til mora om aktivitet. Perioden med fulltidsarbeid må dokumenterast ved skriftleg avtale med arbeidsgivaren.</p>
+    <p>Sjølvstendig næringsdrivande og frilansarar må ha ein avtale med NAV lokalt. Aktuelle blankettar for avtale finst på www.nav.no eller kan hentast hos NAV lokalt.</p>
+    <p>
+      <em type="italic">Sjukdom </em>
+    </p>
+    <p>Dersom stønadsmottakaren på grunn av sjukdom eller skade er heilt avhengig av hjelp til å ta seg av barnet, eller er innlagd i helseinstitusjon, kan stønadsperioden utsetjast. Behovet må dokumenterast med legeerklæring.</p>
+    <p>Stønadsperioden kan også utsetjast dersom barnet er innlagt på ein helseinstitusjon. Det kan til dømes vere tilfelle dersom barnet er for tidleg fødd. I slike tilfelle kan det liggje føre rett til pleiepengar.</p>
+    <p>
+      <em type="bold">Gradert uttak av foreldrepengar </em>
+    </p>
+    <p>Det går an å kombinere delvis arbeid med delvis (gradert) uttak av foreldrepengar. Då kan ein begynne i arbeid før den ordinære stønadsperioden er over, utan å tape foreldrepengerettar.</p>
+    <p>Føresetnaden er at det ligg føre skriftleg avtale med arbeidsgivaren om deltidsarbeidet, og at foreldrepengane er tekne ut innan tre år etter fødselen eller omsorgsovertakinga.</p>
+    <p>Med unntak av tre veker før og seks veker etter fødselen kan stønadsperioden ved fødsel nyttast til gradert uttak. Ved adopsjon kan heile stønadsperioden nyttast til gradert uttak.</p>
+    <p>Gradert uttak kan gjennomførast utan forlenging av stønadsperioden, til dømes ved at kvar av foreldra i ein bestemt periode arbeider 50 prosent og tek imot foreldrepengar med 50 prosent. Gradert uttak kan alternativt gjennomførast i form av ei forlenging av stønadsperioden. Foreldra må i så fall ha eit lågare samtidig uttak av foreldrepengar enn 100 prosent. Til dømes kan kvar av foreldra arbeide 60 prosent og ta imot 40 prosent foreldrepengar. Dei resterande 20 prosent av foreldrepengane kan då takast ut over ein lengre periode.</p>
+    <p>Ein eller begge av foreldra kan velje å ta ut sin del av stønadsperioden gradert. Foreldra kan velje å ha gradert uttak etter kvarandre, eller samtidig. Kor stor arbeidsprosent i høve til fulltid ein vel under det graderte uttaket, avgjer storleiken på foreldrepengeutbetalinga under arbeidet og kor lenge foreldrepengane skal strekkjast ut i tid.</p>
+    <p>Arbeidstida til mora har innverknad på kor stor del av stønadsperioden faren kan ta ut. Dersom faren skal ha gradert uttak av foreldrepengar, kan ikkje hans uttak overstige stillingsdelen til mora. Dersom det er fedrekvoten som blir teken ut gradert, har likevel aktiviteten til mora etter fødselen eller omsorgsovertakinga ingen innverknad.</p>
+    <p>
+      <em type="italic">Vilkår om avtale </em>
+    </p>
+    <p><em type="bold">Arbeidstakarar </em>må gjere ein skriftleg avtale med arbeidsgivaren om delvis arbeid som viser stillingsprosenten av fulltidsarbeid vedkomande skal arbeide i, og kor lenge dette arbeidet varer. Ønske frå arbeidstakaren skal oppfyllast dersom dette ikkje fører til vesentleg ulempe for arbeidsgivaren. Ved usemje mellom partane kan ein bringe tvisten inn for Tvisteløysingsnemnda, som blir administrert av Direktoratet for arbeidstilsynet. </p>
+    <p><em type="bold">Sjølvstendig næringsdrivande og frilansarar </em>gjer ein skriftleg avtale med NAV lokalt om delvis utbetaling av foreldrepengar i høve til stillingsprosenten. </p>
+    <p>Avtale om delvis arbeid kan endrast undervegs dersom partane er einige.</p>
+    <p>Blankettar for avtaleinngåing osv. finn ein på www.nav.no, eller ein kan få dei hos NAV lokalt. Avtalen skal leggjast fram for NAV lokalt før det graderte uttaket skal starte.</p>
+    <p>
+      <em type="bold">Retten til foreldrepengar ved dødfødsel eller dersom barnet døyr i stønadsperioden </em>
+    </p>
+    <p>Dersom barnet er dødfødt, har mora rett til 6 vekers foreldrepengar etter fødselen. Dersom barnet døyr i stønadsperioden, blir det gitt foreldrepengar i inntil 6 veker av den stønadsperioden som er att.</p>
+    <p>
+      <em type="bold">Eingongsstønad ved fødsel og adopsjon </em>
+    </p>
+    <p>Kvinner som ikkje har opptent rett til foreldrepengar, får utbetalt ein eingongsstønad. Eingongsstønaden utgjer 33 584 kroner (2007). Stortinget fastset storleiken på eingongsstønaden. Det skal ikkje betalast skatt av eingongsstønaden. Ved fleirbarnsfødsel eller adopsjon av fleire barn samtidig blir stønaden gitt per barn.</p>
+    <p>For å få eingongsstønad må ein fylle ut ein blankett som ein får hos NAV lokalt. Kravet skal setjast fram innan 6 månader etter at barnet blei fødd.</p>
+    <p>Når mora tek imot eingongsstønad, kan faren få fødsels- eller adopsjonspengar i opptil 39 veker med 80 prosent lønn eller 29 veker med full lønn, under føresetnad av at mora etter fødselen eller omsorgsovertakinga ved adopsjon går ut i arbeid, tek utdanning eller er sjuk.</p>
+    <p>Yrkesaktive som har hatt ei inntekt som er lågare enn storleiken på eingongsstønaden, får utbetalt eingongsstønad i staden for foreldrepengar.</p>
+    <p>Kvinner som har rett til fødselsstipend frå lånekassa, får dette i tillegg til eingongsstønaden.</p>
+    <p>
+      <em type="bold">Heimefødsel </em>
+    </p>
+    <p>Retten til stønad ved heimefødsel er heimla i folketrygdlova kap. 5. Ved heimefødsel har ein rett til ein kontantstønad som utgjer 1765 kroner (2007).</p>
+    <p>
+      <em type="bold">Tilskot til foreldre som adopterer barn frå utlandet </em>
+    </p>
+    <p>Foreldre som adopterer barn frå utlandet får eit kontanttilskot på 38 320 kroner (2007). Barne-, ungdoms- og familieforvaltninga behandlar søknadene om tilskot og utbetaler pengane.</p>
+    <p>Pengane blir utbetalte etter at barnet har kome til landet.</p>
+    <p>
+      <em type="bold">Rett til redusert og fleksibel arbeidstid </em>
+    </p>
+    <p>
+      <em type="italic">Rett til redusert arbeidstid er heimla i arbeidsmiljølova § 10-2 (4). </em>
+    </p>
+    <p>
+      <em type="bold">Kven har rett til redusert arbeidstid? </em>
+    </p>
+    <p>
+      <em type="italic">Både mor og far har rett til redusert arbeidstid dersom det er behov for det av vektige velferdsgrunnar. Som vektig velferdsgrunn reknar ein til dømes småbarnsforeldre sitt ønske om eller behov for meir tid saman med barna. </em>
+    </p>
+    <p>Føresetnaden for å få redusert arbeidstid er at ordninga kan gjennomførast utan særlege ulemper for verksemda. Tvistar mellom arbeidstakarar og arbeidsgivarar blir avgjorde av Tvisteløysingsnemnda. Saka blir først send til Arbeidstilsynet, som er sekretariat for nemnda. Reglane blir praktiserte slik at ulempene må vere store før ønsket om redusert arbeidstid kan avvisast.</p>
+    <p>Lova gir ikkje ein arbeidstakar som får redusert arbeidstid, rett til å behalde full lønn.</p>
+    <p>Redusert arbeidstid kan takast ut som kortare arbeidsdag, færre arbeidsdagar per veke eller i form av arbeidsfrie periodar. Behovet for arbeidsfrie periodar kan til dømes melde seg i samband med lengre skuleferiar.</p>
+    <p>Ein arbeidstakar som ønskjer redusert arbeidstid, skal gi skriftleg varsel til arbeidsgivaren snarast råd og seinast 4 veker i førevegen. Ein kan søkje om redusert arbeidstid for inntil 2 år om gongen. Når den avtalte perioden er over, har arbeidstakaren rett til å gå tilbake til tidlegare arbeidstid.</p>
+    <p>Når ein arbeidstakar har redusert arbeidstid, blir arbeid ut over det som er avtalt, ikkje rekna som overtid, men som meirarbeid. Dette gjeld arbeid som ligg innanfor vanleg arbeidstid. Meirarbeid gir ikkje rett til overtidstillegg, sjå arbeidsmiljølova § 49.</p>
+    <p>
+      <em type="bold">Fritak frå overtidsarbeid og meirarbeid </em>
+    </p>
+    <p>
+      <em type="italic">Fritak for overtidsarbeid og meirarbeid er heimla i arbeidsmiljølova § 10-6 (10). </em>
+    </p>
+    <p>Yrkesaktive småbarnsforeldre må ofte heim til faste tider for å ta seg av barna sine. Dei må til dømes hente barn i barnehagen. Ein arbeidstakar kan bli friteken for overtidsarbeid og meirarbeid som går ut over omsorga for barnet. Dersom det er nødvendig med fullstendig fritak i lengre tid, kan arbeidsgivaren krevje dokumentasjon, til dømes frå leiinga i barnehagen. Tvistar om rett til fritak blir avgjorde av Tvisteløysingsnemnda.</p>
+    <p>Arbeidstakarar har etter arbeidsmiljølova § 10-2 tredje ledd rett til fleksibel arbeidstid dersom dette kan gjennomførast utan vesentleg ulempe for verksemda. Det gir småbarnsforeldre eit høve til å få arbeidstida tilpassa eigne behov. Fleksibel arbeidstid kan til dømes gjennomførast ved ein avtale om at arbeidstakaren arbeider meir i delar av året for å ha meir fri i andre periodar, eller at arbeidstakaren innanfor visse rammer sjølv kan avgjere når på dagen vedkomande skal arbeide.</p>
+    <p>
+      <em type="bold">Økonomiske støtteordningar </em>
+    </p>
+    <p>
+      <em type="italic">I tillegg til foreldrepengar gjeld også andre økonomiske støtteordningar og særskilde skattereglar for barnefamiliar. </em>
+    </p>
+    <p>
+      <em type="bold">Barnetrygd </em>
+    </p>
+    <p>
+      <em type="italic">Barnetrygda er heimla i barnetrygdlova. </em>
+    </p>
+    <p>Barnetrygda er den viktigaste økonomiske støtteordninga for barnefamiliane.</p>
+    <p>
+      <em type="italic">Kven får barnetrygd </em>
+    </p>
+    <p>Den som har barn under 18 år buande fast hos seg, har rett til barnetrygd. Retten gjeld frå månaden etter fødselen/adopsjonen til og med månaden før barnet fyller 18 år. Retten til barnetrygd fell bort dersom barnet inngår ekteskap eller partnarskap.</p>
+    <p>Det er eit vilkår for rett til barnetrygd at barnet er busett i Noreg. Ved utanlandsopphald utover 6 månader kan ein få barnetrygd dersom barnet og den eller dei barnet bur fast saman med, er pliktige eller frivillige medlemmer i folketrygda. Utanlandsopphald på opptil 6 månader fører normalt ikkje til bortfall av retten til barnetrygd. Barn som skal opphalde seg i Noreg i kortare tid enn 12 månader, har i utgangspunktet ikkje rett til barnetrygd.</p>
+    <p>Ordinær barnetrygd for nyfødde blir tildelt automatisk. Det vil seie at foreldre i dei fleste tilfelle ikkje treng å setje fram krav om barnetrygd for nyfødde. Det må likevel setjast fram krav i somme tilfelle, mellom anna dersom barnet er eldre enn seks månader, og når det ligg føre rett til barnetrygd for eitt barn meir enn det faktiske barnetalet (utvida barnetrygd).</p>
+    <p>
+      <em type="italic">Satsar </em>
+    </p>
+    <p>Barnetrygda blir utbetalt per barn. Satsen blir fastsett av Stortinget.</p>
+    <p>For barn som bur på Svalbard, i Finnmark fylke og desse kommunane i Nord-Troms: Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord, blir det utbetalt eit særskilt tillegg.</p>
+    <p>Ein einsleg forsørgjar som har barn i alderen 0 til 3 år og fyller vilkåra for rett til utvida barnetrygd etter barnetrygdlova og full overgangsstønad etter folketrygdlova, får utbetalt eit småbarnstillegg.</p>
+    <p>Det blir gitt eitt tillegg per einsleg forsørgjar. Tillegget blir utbetalt frå månaden etter fødselen til og med den månaden barnet fyller 3 år.</p>
+    <p>
+      <em type="italic">Utvida barnetrygd til einslege forsørgjarar </em>
+    </p>
+    <p>Ein einsleg forsørgjar med barn under 18 år har rett til barnetrygd for eitt barn meir enn det faktiske barnetalet (utvida barnetrygd). Det inneber at ein einsleg forsørgjar med eitt barn får barnetrygd for to barn, osv. Retten til utvida barnetrygd fell bort dersom den einslege forsørgjaren gifter seg, får barn med ein sambuar eller har levd i eit ekteskapsliknande forhold i eit felles hushald i minst 12 av dei siste 18 månadene.</p>
+    <p>
+      <em type="italic">EØS-avtalen </em>
+    </p>
+    <p>Eit generelt vilkår for rett til barnetrygd er at barnet er busett i Noreg. Ein EØS-borgar som skal vere omfatta av norsk lovgiving etter føresegnene i forordning 1408/71, vil i utgangspunktet oppfylle kravet om bustad same kva for eit EØS-land vedkomande eller hans/hennar familie faktisk er busett i, og har krav på barnetrygd utbetalt i bustadslandet dersom dei andre vilkåra er oppfylte. Det følgjer av artikkel 73 i forordninga at barnetrygd, i eigenskap av familieyting, blir utbetalt for barn som er busette i utlandet, dersom forsørgjaren (ein av foreldra) anten arbeider i Noreg, på norsk skip, på norsk kontinentalsokkel eller er omfatta av norsk lovgiving medan han eller ho arbeider i utlandet.</p>
+    <p>
+      <em type="bold">Ordinær barnetrygd og tilleggssatsar 2007 </em>
+    </p>
+    <p>
+      <em type="italic">Sum per månad (kr) </em>
+    </p>
+    <p>
+      <em type="italic">Sum per år (kr) </em>
+    </p>
+    <p>Ordinær barnetrygd</p>
+    <p>970</p>
+    <p>11 640</p>
+    <p>
+      <em type="italic">Tillegg </em>
+    </p>
+    <p>Finnmark-, Svalbard- og Nord-Troms-tillegg</p>
+    <p>for barn 0–18 år</p>
+    <p>320</p>
+    <p>3 840</p>
+    <p>660</p>
+    <p>7 920</p>
+    <p>&lt;ramme slutt&gt;</p>
+    <p>
+      <em type="bold">Kontantstøtte </em>
+    </p>
+    <p>Retten til kontantstøtte gjeld for barn mellom 1 og 3 år og for adoptivbarn som ikkje har begynt på skulen. Kontantstøtte kan ein få i opptil 23 månader.</p>
+    <p>Vilkåret for å få kontantstøtte er at barnet ikkje gjer bruk av fulltidsplass i barnehage som det blir gitt offentleg driftstilskot til. Dersom barnet har deltidsplass i ein slik barnehage, kan ein få gradert kontantstøtte dersom den avtalte opphaldstida er under 33 timar per veke.</p>
+    <p>Kontantstøtta blir gitt per barn, utan inntekts- eller behovsprøving. Støtta er skattefri. Perioden med fulle foreldrepengar ved fødsel eller adopsjon må vere utgått før ein kan få kontantstøtte.</p>
+    <p>Det blir ikkje utbetalt kontantstøtte for fosterbarn og for barn med opphald i institusjon. Som hovudregel må barnet og den av foreldra som tek imot støtta, bu i Noreg for å få kontantstøtte. Retten til kontantstøtte fell bort dersom barnet oppheld seg i utlandet i meir enn 3 månader.</p>
+    <p>Ein EØS-borgar som skal vere omfatta av norsk lovgiving etter føresegnene i forordning 1408/71, vil i utgangspunktet oppfylle kravet om bustad same kva for eit EØS-land vedkomande eller hans/hennar familie faktisk er busett i, og har krav på kontantstøtte utbetalt i bustadslandet dersom dei andre vilkår er oppfylte. Det følgjer av artikkel 73 i forordninga at kontantstøtte, i eigenskap av familieyting, blir utbetalt for barn som er busette i utlandet, dersom forsørgjaren (ein av foreldra) anten arbeider i Noreg, på norsk skip, på norsk kontinentalsokkel eller er omfatta av norsk lovgiving medan han eller ho arbeider i utlandet.</p>
+    <p>Kontantstøtta skal som hovudregel utbetalast til den som barnet bur fast hos. Full kontantstøtte kan delast dersom foreldra ikkje bur saman og det er gjort avtale om delt bustad etter barnelova § 36. Det er ein føresetnad at foreldra er einige om delt utbetaling. Elles skal heile kontantstøtta utbetalast til den av foreldra som barnet står som fast busett hos i folkeregisteret.</p>
+    <p>Søknad om kontantstøtte skal setjast fram skriftleg ved NAV-kontoret der søkjaren bur. Søknadsskjema kan ein få hos NAV lokalt eller på www.nav.no. Satsane blir fastsette av Stortinget.</p>
+    <p>
+      <em type="bold">Kontantstøttesatsar 2007 </em>
+    </p>
+    <p>
+      <em type="italic">Avtalt opphaldstid i </em>
+    </p>
+    <p>
+      <em type="italic">barnehage per veke </em>
+    </p>
+    <p>
+      <em type="italic">Kontantstøtte i prosent </em>
+    </p>
+    <p>
+      <em type="italic">av full yting </em>
+    </p>
+    <p>
+      <em type="italic">Kroner per år </em>
+    </p>
+    <p>Ikkje bruk av barnehageplass</p>
+    <p>100 prosent</p>
+    <p>39 636</p>
+    <p>Til og med 8 timar</p>
+    <p>80 prosent</p>
+    <p>31 704</p>
+    <p>9–16 timar</p>
+    <p>60 prosent</p>
+    <p>23 784</p>
+    <p>17–24 timar</p>
+    <p>40 prosent</p>
+    <p>15 852</p>
+    <p>25–32 timar</p>
+    <p>20 prosent</p>
+    <p>7 932</p>
+    <p>33 timar eller meir</p>
+    <p>inga kontantstøtte</p>
+    <p>
+      <em type="bold">Skattereglar for barnefamiliar </em>
+    </p>
+    <p>
+      <em type="italic">Økonomisk lette for forsørgjarar gjennom skattesystemet er heimla i skattelova. </em>
+    </p>
+    <p>
+      <em type="italic">Foreldrefrådrag </em>
+    </p>
+    <p>Foreldre med barn som er under 12 år, har rett til såkalla foreldrefrådrag. Foreldrefrådrag er frådrag for legitimerte utgifter til pass og stell av barn. Frådraget blir gitt ved utrekning av allmenn inntekt. Frådraget utgjer maksimalt 25 000 kroner for eitt barn og 5000 kroner i tillegg for kvart barn utover det første barnet. For ektemakar og for sambuarar med felles barn er avgrensinga felles. Frådraget blir gitt med ein halvpart for kvar av ektemakane eller sambuarane, dersom foreldra ikkje er einige om ei anna fordeling.</p>
+    <p>For barn som på grunn av handikap eller liknande har særskilt behov for omsorg og pleie, kan ein få foreldrefrådrag for legitimerte kostnader til pass og stell sjølv om barnet er 12 år eller eldre. Pass og stell av barn omfattar ikkje særlege pleie- og omsorgsbehov som barnet har.</p>
+    <p>
+      <em type="italic">Personfrådrag i allmenn inntekt </em>
+    </p>
+    <p>Ektemakar som begge har inntekt, blir vanlegvis likna særskilt for kvar si inntekt. Det blir då gitt personfrådrag i skatteklasse 1. Ektemakar som blir likna under eitt, får personfrådrag i skatteklasse 2. Ektemakar blir alltid likna under eitt for formue. Sambuarar blir vanlegvis likna kvar for seg for formue og inntekt og får personfrådrag i skatteklasse 1. Ein einsleg forsørgjar får personfrådrag i skatteklasse 2. Personfrådraget blir fastsett årleg av Stortinget. I 2007 er personfrådraget i allmenn inntekt 37 000 kroner i skatteklasse 1 og 74 000 i skatteklasse 2. Meir informasjon om skattereglane kan ein få på likningskontoret og på www.skatteetaten.no.</p>
+    <p>
+      <em type="bold">Pensjonspoeng til personar som har omsorg for små barn </em>
+    </p>
+    <p>Personar som har omsorg for små barn, tener opp pensjonspoeng, såkalla omsorgspoeng. Det blir gitt 3,00 pensjonspoeng i året for ulønt arbeid for barn under sju år.</p>
+    <p>Omsorgspoeng blir godskrivne automatisk til den som tek imot barnetrygd for barnet/barna. Dersom omsorgsytaren har ei pensjonsgivande inntekt som gir høgre pensjonspoeng enn 3,00, ca. 251 000 kroner per år, får omsorgspoenga vanlegvis ingen innverknad. Foreldra kan be om at omsorgspoenga blir overførte til den andre av foreldra. Dersom omsorgspersonen ikkje tek imot barnetrygd, må vedkomande søkje trygdekontoret om omsorgspoeng.</p>
+    <p>Ved omsorg for eit funksjonshemma eller alvorleg sjukt barn over 7 år kan ein òg søkje om omsorgspoeng. Dersom barnet tek imot hjelpestønad etter sats 3 eller 4, skal omsorgspoeng godskrivast automatisk.</p>
+    <p>
+      <em type="bold">Stønadsordning for einsleg mor eller far </em>
+    </p>
+    <p>
+      <em type="italic">Ytingar til einslege forsørgjarar er heimla i folketrygdlova kap. 15. </em>
+    </p>
+    <p>Folketrygda gir økonomisk hjelp til ei mor eller ein far som er åleine om omsorga for barn. Ei einsleg mor eller ein einsleg far skal sikrast inntekt og mellombels hjelp til sjølvhjelp, slik at dei kan bli i stand til heilt eller delvis å forsørgje seg sjølve ved eige arbeid.</p>
+    <p>Ytingar som einsleg mor eller far kan få etter folketrygdlova:</p>
+    <p>
+      <em type="italic">Overgangsstønad </em>
+    </p>
+    <p>Overgangsstønad kan ein få i opptil 2 månader før fødselen og fram til det yngste barnet er åtte år, men ikkje meir enn i tre år til saman. Under nødvendig utdanning kan stønadstida utvidast med opp til to år. Når det yngste barnet er over tre år, må forsørgjaren vere i arbeid eller utdanning i minst halv tid, eller vere reell arbeidssøkjar for å ta imot overgangsstønad. Stønaden er inntektsprøvd og kan vere inntil 1,85G. Frå 1. mai 2006 utgjer dette 116 350 kr. i året. Frå 1. oktober 2003 blir overgangsstønaden utbetalt utan frådrag for underhaldsbidrag.</p>
+    <p>I ei omstillingstid etter separasjon, skilsmisse eller samlivsbrot, kan ei einsleg mor eller ein einsleg far få stønad i inntil to år før det yngste barnet fyller ti år. Det blir stilt krav om yrkesretta aktivitet.</p>
+    <p>
+      <em type="italic">Utdanningsstønad </em>
+    </p>
+    <p>Einslege forsørgjarar som tek nødvendig utdanning i perioden då dei har rett til overgangsstønad, kan få utdanningsstønad. Det blir vanlegvis ikkje gitt utdanningsstønad i meir enn tre år eller etter at vedkomande har oppnådd yrkeskompetanse.</p>
+    <p>
+      <em type="italic">Stønad til barnetilsyn </em>
+    </p>
+    <p>Stønad til barnetilsyn blir gitt til einslege forsørgjarar som må overlate nødvendig tilsyn med barn til andre på grunn av utdanning eller arbeid utanfor heimen, eller på grunn av at vedkomande har meldt seg som reell arbeidssøkjar eller har etablert eiga verksemd. Stønaden utgjer 64 prosent av dokumenterte utgifter opp til maksimalsatsane. Maksimalsatsane for 2007 er 35 496 kroner for eitt barn, 46 308 kroner for to barn og 52 488 kroner for tre eller fleire barn. Stønaden fell heilt bort når inntekta er over 6 gonger grunnbeløpet (377 352 kroner frå 1. mai 2006). Stønaden kan gå over eitt år ved forbigåande sjukdom hos forsørgjaren.</p>
+    <p>Stønaden blir gitt til barnet er ferdig med fjerde skuleår, men kan forlengjast på visse vilkår.</p>
+    <p>
+      <em type="italic">Tilskot til flytting for å kome i arbeid </em>
+    </p>
+    <p>Dersom det er nødvendig å flytte for å kome i arbeid, kan ein få tilskot til flytteutgifter. Stønadsmottakarar pliktar sjølve å melde frå til trygdekontoret dersom ei endring av sivilstanden eller liknande gjer at dei ikkje lenger har rett på stønad.</p>
+    <p>
+      <em type="italic">Tilskot til flytting for å kome i arbeid </em>
+    </p>
+    <p>Dersom det er nødvendig å flytte for å kome i arbeid, kan ein få tilskot til flytteutgifter.</p>
+    <p>Stønadsmottakarar pliktar sjølve å melde frå til NAV-kontoret dersom ei endring av sivilstanden eller liknande gjer at dei ikkje lenger har rett på stønad.</p>
+    <p>
+      <em type="bold">Barnebidrag </em>
+    </p>
+    <p>
+      <em type="italic">Bidragsreglane finst i kap. 8 i barnelova. Det er gitt nærmare reglar om fastsetjing og endring av barnebidrag i forskrift av 15. januar 2003. </em>
+    </p>
+    <p>Begge foreldra har plikt til etter evne å syte for underhald av barna sine.</p>
+    <p>Den av foreldra som ikkje bur fast saman med barnet, har plikt til å betale barnebidrag. Dette gjeld uavhengig av om foreldra har vore gift med kvarandre eller ikkje, og sjølv om den bidragspliktige ikkje har foreldreansvar for barnet. Det er barnet som har rett til bidrag. Den som tek imot bidrag på vegner av barnet, skal bruke det til forsørging av barnet.</p>
+    <p>Foreldre kan avtale seg imellom kor stort bidraget skal vere. Foreldre kan få rettleiing på NAV-kontoret. Blir foreldra ikkje einige, kan dei mot eit gebyr krevje at bidragsfuten fastset bidraget. Bidraget blir fastsett med utgangspunkt i kva det kostar å underhalde barn. Underhaldskostnader er fastsette sjablonmessig og varierer mellom anna med alderen. Underhaldskostnadene blir fordelte forholdsmessig mellom foreldra etter inntektene deira, avrunda til nærmaste sjettedel. Det utrekna bidraget blir vurdert mot bidragsevna til den bidragspliktige. Det blir også teke omsyn til samvær, ved at utgifter til samvær blir trekte frå det bidraget som er utrekna.</p>
+    <p>
+      <em type="bold">Bidragsforskot </em>
+    </p>
+    <p>Den av foreldra som tek imot underhaldsbidrag, kan ha rett til bidragsforskot. Som hovudregel skal storleiken på forskotet behovsprøvast ut frå inntekta til forskotsmottakaren, den sivile statusen og kor mange eigne barn i eigen husstand han eller ho forsørgjer. Forskotet blir etter behovsprøving anten gitt med 100 %, 75 % eller 50 % av fullt forskotsbeløp. Frå 1. juli 2006 er fullt forskotsbeløp 1250 kroner månaden per barn. Dersom forskotsmottakaren har ei årsinntekt som er større enn 320 gonger det månadlege beløpet for fullt bidragsforskot, fell retten til forskot bort. Forskotet er eit minstebeløp som blir utbetalt av NAV-kontoret også i situasjonar der faren er ukjend, eller der den bidragspliktige av andre grunnar ikkje betaler bidrag.</p>
+    <p>Meir informasjon kan ein få på NAV-kontoret eller på www.nav.no.</p>
+    <p>
+      <em type="bold">Rettar når barnet eller barnepassaren er sjuke </em>
+    </p>
+    <p>
+      <em type="italic">Arbeidstakarar har rett til fri når barnet eller barnepassaren er sjuke, etter arbeidsmiljølova § 12-9. Ein arbeidstakar har under fråværet rett til omsorgspengar etter kapittel 9 i folketrygdlova. </em>
+    </p>
+    <p>
+      <em type="bold">Rett til fri frå arbeidet </em>
+    </p>
+    <p>
+      <em type="italic">Sjukdom hos barnet, medrekna langvarig sjukdom og funksjonshemming </em>
+    </p>
+    <p>Arbeidstakarar som har omsorg for barn under 12 år, har rett til fri frå arbeidet og omsorgspengar når barnet er sjukt. Arbeidstakar har også rett til fri dersom barnet skal følgjast til legeundersøking eller anna oppfølging i samband med sjukdom.</p>
+    <p type="listitem">Kvar av foreldra har rett til fri inntil 10 dagar årleg.</p>
+    <p type="listitem">Foreldre med fleire enn to barn har rett til fri inntil 15 dagar kvar.</p>
+    <p type="listitem">Einslege forsørgjarar har rett til fri inntil 20 dagar, eventuelt 30 dagar dersom dei har omsorg for fleire enn to barn.</p>
+    <p>Sjølv om den eine av foreldra er åleine med omsorga, kan foreldra fordele permisjonsretten mellom seg i høve til avtalt samvær. Det er eit vilkår at trygdekontoret får skriftleg erklæring frå begge foreldra om samværsfordelinga.</p>
+    <p>Retten til permisjon når barnet eller barnepassaren er sjuke, gjeld uavhengig av om ein er deltids- eller heiltidstilsett, og uavhengig av korleis arbeidsdagane er fordelte på vekedagane. Dersom ein har kortare arbeidsdag enn vanleg, blir likevel ein dag med fråvær rekna som heil dag.</p>
+    <p>Omsorg for kronisk sjuke, langvarig sjuke eller funksjonshemma barn, og når dette fører til markert høgre risiko for fråvær frå arbeidet, gir rett til tillegg av 10 stønadsdagar for kvar av foreldra. Det inneber til dømes at eitt funksjonshemma barn gir rett til 20 stønadsdagar til kvar av foreldra. Foreldre med to ikkje-funksjonshemma og eitt funksjonshemma barn får 25 dagar kvar, og foreldre med to funksjonshemma barn får 30 dagar kvar. Er ein åleine med omsorga for eit alvorleg sjukt eller funksjonshemma barn, blir talet på stønadsdagar dobla.</p>
+    <p>Det blir gitt omsorgspengar for årleg inntekt inntil 6G (377 352 kroner frå 1. mai 2006). Inntekt utover dette blir ikkje refundert av folketrygda. Dette er i tråd med dei generelle reglane for sjuke- og foreldrepengar.* Omsorgspengar blir utrekna på same måten som sjukepengar når det er arbeidstakaren sjølv som er sjuk. Rett til omsorgspengar gjeld til og med det kalenderåret barnet fyller 12 år. Dersom barnet er kronisk sjukt eller funksjonshemma, gjeld retten til og med det året barnet fyller 18 år.</p>
+    <p>*Arbeidsgivaren betaler ut omsorgspengar ved sjukdom hos barnet, men får tilbake frå trygdekontoret det som blir utbetalt meir enn 10 dagar.</p>
+    <p>
+      <em type="italic">Sjuk barnepassar </em>
+    </p>
+    <p>Dersom den som passar barnet til dagleg, er sjuk (til dømes den eine av foreldra, ei dagmamma eller ein familiebarnehageassistent) eller dersom vedkomande er forhindra frå tilsyn med barnet fordi han eller ho følgjer eit anna barn til utgreiing eller til innlegging i helseinstitusjon, har arbeidstakarar også rett til fri med omsorgspengar etter dei same reglane som ovanfor. Desse dagane går av den same kvoten som dei dagane ein arbeidstakar har rett til når eit barn er sjukt.</p>
+    <p>
+      <em type="italic">Barn som er innlagde på sjukehus eller annan helseinstitusjon </em>
+    </p>
+    <p>Den som har eit barn som er innlagt på sjukehus eller liknande, og som oppheld seg ved sjukehuset, har rett til permisjon. Det gjeld same kor mange dagar det er tale om. Retten til permisjon gjeld også etter at barnet er utskrive, når arbeidstakaren må vere heime fordi barnet treng kontinuerleg tilsyn og pleie. Denne retten gjeld til og med det året barnet fyller 12 år, eventuelt 18 år dersom barnet har ein kronisk sjukdom, langvarig sjukdom eller er funksjonshemma.</p>
+    <p>Det blir gitt pleiepengar frå trygda når pleiebehovet strekkjer seg over meir enn 7 dagar. Pleiepengane blir gitt etter dei same føresegnene som sjukepengar frå trygda.</p>
+    <p>
+      <em type="italic">Barn med livstruande sjukdom </em>
+    </p>
+    <p>Yrkesaktive som har omsorg for barn med livstruande eller annan svært alvorleg sjukdom eller skade, har rett til permisjon. Det gjeld same kor mange dagar det er tale om. Denne retten gjeld til og med det året barnet fyller 18 år. Dersom barnet er utviklingshemma, gjeld inga aldersgrense.</p>
+    <p>Ein kan ha rett til pleiepengar frå folketrygda i tilsvarande situasjonar som dei som gir rett til permisjon. Også andre enn foreldra til barnet kan få pleiepengar dersom det er nødvendig av omsyn til barnet. Begge foreldra kan få pleiepengar samtidig, dersom det er behov for det. Pleiepengar blir utrekna på same måten som sjukepengar, men sjølvstendig næringsdrivande kan få ytinga frå første fråværsdag.</p>
+    <p>
+      <em type="italic">Kurs – opplæring </em>
+    </p>
+    <p>Det blir gitt opplæringspengar dersom den som har omsorg for barn med funksjonshemming eller ein langvarig sjukdom, går igjennom opplæring ved ein godkjend helseinstitusjon eller er med på foreldrekurs ved eit offentleg spesialpedagogisk kompetansesenter.</p>
+    <p>
+      <em type="bold">Stønad for barn som har varig sjukdom </em>
+    </p>
+    <p>Dersom barnet har ein varig sjukdom eller ei funksjonshemming, kan ein få grunnstønad, hjelpestønad eller begge delar.</p>
+    <p>At tilstanden er varig, vil seie at han varer i minst 2–3 år. Desse stønadene må det søkjast om, og søknaden må grunngivast. NAV-kontoret kan hjelpe til med dette.</p>
+    <p>
+      <em type="italic">Grunnstønad </em>
+    </p>
+    <p>Denne stønaden skal dekkje visse ekstrautgifter som følgjer av at barnet er sjukt, til dømes slitasje på klede og sengetøy, særleg dyr mat og liknande. Sjukdommen og ekstrautgiftene må vere varige, det vil seie 2–3 år. Satsane for grunnstønad varierer etter kor store dei nødvendige ekstrautgiftene er. Den lågaste satsen er 6864 kroner per år (2007).</p>
+    <p>
+      <em type="italic">Hjelpestønad </em>
+    </p>
+    <p>Ein kan få hjelpestønad dersom ein sjukdom eller ein skade er så omfattande at barnet treng ekstra tilsyn eller pleie. Hjelpestønad til tilsyn og pleie er avgrensa til private pleieforhold, det vil seie at pleia og tilsynet blir utført av familiemedlemmer eller lønt privat hjelp. Ved tildeling og utmåling av omsorgslønn for privat omsorg kan kommunen krevje at det blir søkt om hjelpestønad som grunnyting. Ordinær hjelpestønad er 12 312 kroner per år (2007). Dersom barnet treng meir tilsyn eller pleie enn det som gir rett til ordinær hjelpestønad, kan hjelpestønaden aukast, dersom det gjer at barnet lettare kan bu heime. Omfanget av tilsynet eller pleia er avgjerande.</p>
+    <p>
+      <em type="italic">Hjelpemiddel </em>
+    </p>
+    <p>Hjelpemiddel som forbetrar funksjonsevna til barnet, kan lånast frå hjelpemiddelsentralen til NAV i dei ulike fylka.</p>
+    <p>
+      <em type="bold">Barn på sjukehus </em>
+    </p>
+    <p>
+      <em type="italic">Rett til å ha pårørande hos seg </em>
+    </p>
+    <p>Barn har rett til å ha minst ein av dei pårørande hos seg under heile sjukehusopphaldet. Pårørande skal få tilbod om mat og overnatting på sjukehuset. Barn skal fritt kunne ta imot besøk utanom den vanlege besøkstida.</p>
+    <p>
+      <em type="italic">Reiseutgifter </em>
+    </p>
+    <p>Når sjukehuset av medisinske grunnar innkallar pårørande, dekkjer folketrygda reiseutgifter for den som følgjer barnet til og frå sjukehuset ved innlegging og utskriving.</p>
+    <p>
+      <em type="italic">Leik og undervisning </em>
+    </p>
+    <p>Sjukehuset skal leggje forholda til rette for leik og aktivitet. Barn i skulepliktig alder har rett til undervisning under sjukehusopphaldet.</p>
+    <p>
+      <em type="italic">Informasjon </em>
+    </p>
+    <p>Barn og pårørande har rett til forståeleg informasjon om sjukdommen og behandlinga som blir gjennomført.</p>
+    <p>
+      <em type="bold">Lånekassa sine ordningar for småbarnsforeldre </em>
+    </p>
+    <p>
+      <em type="italic">Fødselsstipend </em>
+    </p>
+    <p>Elevar og studentar som får barn medan dei er i utdanning, kan få fødselsstipend i inntil 42 veker. Vilkåra er at eleven/studenten har hatt rett til stipend og lån frå lånekassa dei siste seks månadene før fødselen, at han eller ho bur saman med barnet, og at ektemaken/sambuaren ikkje samtidig tek imot fødselspengar frå folketrygda. Det blir gjort unntak ved bruk av ordninga for uttak av graderte foreldrepengar (tidlegare tidskonto).</p>
+    <p>Både mora og faren kan få fødselsstipend dersom vilkåra er oppfylte, men tre veker før og seks veker etter fødselen er øyremerkte for mora. Resten av perioden, 33 veker, kan delast mellom foreldra, men dei kan ikkje få fødselsstipend samtidig. Fell delar av perioden i sommarferien, kan ein få stipend også for denne perioden.</p>
+    <p>Stipendsummen er lik det studenten elles kan få i stipend og lån for dei aktuelle vekene. Forskjellen er at alt blir gitt som stipend i perioden med fødselsstipend, ingenting som lån. Les meir om fødselsstipend på www.lanekassen.no/fodsel.</p>
+    <p>
+      <em type="italic">Adopsjon </em>
+    </p>
+    <p>Elevar og studentar som adopterer barn, kan få fødselsstipend i 39 veker etter adopsjonen. Vilkåra er dei same som ved fødsel.</p>
+    <p>
+      <em type="italic">Forsørgjarstipend </em>
+    </p>
+    <p>Elevar og studentar som har barn, kan få eit behovsprøvd forsørgjarstipend for eigne barn og for barna til ektefellen. Føresetnaden er at barnet er under 16 år, og at eleven/studenten bur saman med barnet i minst 40 prosent av tida. Forsørgjarstipendet er behovsprøvd i høve til inntekta til ein eventuell ektefelle/sambuar og inntekta og formuen til eleven eller studenten sjølv.</p>
+    <p>
+      <em type="italic">Lette i tilbakebetalinga ved fødsel og omsorg </em>
+    </p>
+    <p>Ein kan få betalingsutsetjing og rentefritak i inntil tolv månader frå fødselen eller adopsjonen skjedde. For å få rentefritak er det ein føresetnad at inntekta er låg.</p>
+    <p>Har ein omsorg for barn under ti år, kan ein få betalingsutsetjing og rentefritak også utover det første året etter fødselen/adopsjonen. Kravet er at både inntekta til den som har omsorga for barnet, og den samla familieinntekta, er under fastsette grenser.</p>
+    <p>Einslege forsørgjarar som har inntekt under den fastsette grensa, kan få betalingsutsetjing og rentefritak så lenge barnet er under ti år.</p>
+    <p>Les meir om betalingsutsetjing på www.lanekassen.no/utsettelse og om rentefritak på www.lanekassen.no/rentefritak.</p>
+    <p>Forskriftene til lånekassa blir fastsette av Stortinget for eitt år om gongen. Vilkåra for ordningane som er omtalte ovanfor, kan altså bli endra.</p>
+    <p>
+      <em type="bold">Vernepliktige med omsorgsansvar </em>
+    </p>
+    <p>
+      <em type="italic">Velferdspermisjon </em>
+    </p>
+    <p>Vernepliktige mannskap kan ta ut den lønte fedrekvoten sin på inntil 6 veker under avtening av førstegongstenesta. Fedrekvoten kjem i tillegg til 14 dagars permisjon i samband med fødselen til eige barn. Permisjonen kan delast opp i to periodar. Ein får gratis heimreise ved ei av permisjonsreisene. Reisetida blir rekna med i permisjonstida.</p>
+    <p>
+      <em type="italic">Einslege forsørgjarar </em>
+    </p>
+    <p>Vernepliktige som har eineomsorg for barn, får utsetjing med førstegongstenesta så lenge omsorgsforholdet varer, og inntil utløpet av det året den vernepliktige fyller 33 år.</p>
+    <p>Ved repetisjonsøvingar kan ein få utsetjing dersom ein har eineomsorg for barn, så lenge avdelinga ikkje kan tilby fleksible permisjonsordningar, slik at omsorgsbehovet til barnet kan takast hand om under øvinga på tilnærma same måten som elles.</p>
+    <p>Dette gjeld også dersom den vernepliktige har mellombels eineomsorg fordi den andre omsorgspersonen ikkje kan passe barnet på grunn av eigen arbeidssituasjon, studium eller sjukdom. (Det krevst tungtvegande grunngivingar.)</p>
+    <p>
+      <em type="italic">Delt foreldreomsorg </em>
+    </p>
+    <p>Vernepliktige som har delt omsorgsansvar, kan primært bli plasserte så nær heimstaden at dei kan bu heime, eller få kortast mogleg tenestetid.</p>
+    <p>
+      <em type="italic">Utsetjing av militærtenesta </em>
+    </p>
+    <p>Nyttar ein den lovfesta retten til fødsels- eller adopsjonspermisjon som er opparbeidd frå arbeid før militærtenesta, kan det givast utsetjing med all militærteneste så lenge omsorgspermisjonen varer.</p>
+    <p>
+      <em type="italic">Avtening av militær- eller sivilteneste </em>
+    </p>
+    <p>Avtening av militær- eller sivilteneste eller obligatorisk sivilforsvarsteneste gir oppteningsrett til fødsels- eller adopsjonspengar.</p>
+    <p>Søknader om permisjonar blir behandla av vedkomande rulleførande eining. Sjefen for Vernepliktsverket er klageinstans. Søknad om fødselspermisjon må innleverast i god tid. Permisjonstida kan fastsetjast når ein begynner på permisjonen.</p>
+    <p>
+      <em type="bold">Pedagogiske tilbod for førskulebarn og dagmamma/praktikant-verksemd </em>
+    </p>
+    <p>
+      <em type="bold">Barnehagar </em>
+    </p>
+    <p>Barnehagen er eit pedagogisk tilbod som skal vere med og gi barn ei utviklande, stimulerande og trygg førskuletid. Barnehagetilbodet varierer med omsyn til eigarforhold, pedagogisk innhald og opphaldstider. Barna blir tekne opp etter søknad, og etter reglar som er fastsette av barnehageeigaren (kommunal eller privat eigar). Kommunen har ansvaret for godkjenning og tilsyn av alle barnehagane i kommunen.</p>
+    <p>Alle barnehagar skal vere helsemessig tilfredsstillande, og lokala skal vere godkjende av kommunen (ev. helsestyresmaktene, ev. godkjende gjennom forskrift om miljøretta helsevern i barnehagar og skular).</p>
+    <p>Etter barnehagelova skal barn med nedsett funksjonsevne prioriterast ved opptak. Barn kan få spesialpedagogisk hjelp i barnehagen (sjå <span type="quote">«Spesialpedagogisk hjelp»</span> nedanfor). Det finst også spesielle ordningar for å ta vare på behova til minoritetsspråklege barn, barna til nytilkomne flyktningar og samiske barn.</p>
+    <p>Kontakt barnehageadministrasjonen i kommunen for søknadsskjema og nærmare informasjon.</p>
+    <p>
+      <em type="italic">Familiebarnehagar </em>
+    </p>
+    <p>Ein del kommunar og privatpersonar har oppretta familiebarnehagar der barna får vere i private heimar. Familiebarnehagane blir som andre barnehagar leidde av ein førskulelærar.</p>
+    <p>Lover og forskrifter: barnehagelova, kommunehelsetenestelova, forskrift om miljøretta helsevern i barnehagar og skular, forskrift om familiebarnehagar</p>
+    <p>
+      <em type="bold">Open barnehage </em>
+    </p>
+    <p>I somme kommunar/bydelar finst det opne barnehagar, som er eit gratis korttidstilbod for familiar som ikkje har ordinær barnehageplass. I dette tilbodet må barnet kome i følgje med ein omsorgsperson (foreldre, dagmamma, praktikant osv.). Open barnehage er meint som ein møtestad for både barn og omsorgspersonar/foreldre, og ein stad der ein kan få pedagogisk hjelp og oppfølging.</p>
+    <p>Lov og forskrift: barnehagelova, Rammeplan for barnehagen</p>
+    <p>
+      <em type="bold">Spesialpedagogisk hjelp </em>
+    </p>
+    <p>Barn under skulepliktig alder har rett til spesialpedagogisk hjelp når det etter sakkunnig vurdering er nødvendig. PP-tenesta er sakkunnig instans. Hjelpa kan bli gitt i heimen, barnehagen eller på annan måte. Det er PP-tenesta i kommunen som formidlar og samordnar tiltaka.</p>
+    <p>Dersom det spesialpedagogiske tilbodet blir gitt i barnehagen, skal ein gi frådrag i foreldrebetalinga for det aktuelle talet på timar barnet er tildelt slik hjelp.</p>
+    <p>Lov: opplæringslova (§ 5-7)</p>
+    <p>
+      <em type="bold">Dagmammaer og praktikantar </em>
+    </p>
+    <p>Vel foreldra å la ei dagmamma eller ein praktikant passe barna, gjeld spesielle skattereglar. Ved å tilsetje ein person til å passe barna blir ein arbeidsgivar. Som arbeidsgivar må ein følgje dei gjeldande skatte- og trygdereglane. Nærmare opplysningar om dette får ein ved å kontakte NAV lokalt, likningskontoret eller skatteoppkrevjaren.</p>
+    <p>Foreldre som er arbeidsgivar for ein praktikant eller ei dagmamma, skal ikkje betale arbeidsgivaravgift for lønn og anna godtgjersle for pass og stell av barn. Ein kan dessutan få frådrag i skattepliktig inntekt for dokumenterte utgifter til pass og stell av barn (sjå <span type="quote">«Foreldrefrådrag»</span> på side 22). Lønn for særskild omsorg eller pleie av barn med handikap eller liknande kan utløyse plikt til å betale arbeidsgivaravgift.</p>
+    <p>For dei som passar barna, er det ein fordel å ha eiga registrert inntekt. Det får verknad for utbetalingar frå folketrygda, mellom anna når det gjeld sjukepengar, og det verkar inn på opparbeidinga av pensjonspoeng.</p>
+    <p>Ei dagmamma som tek imot barn i sin eigen heim eller eit anna lokale, skal syte for at lokala er helsemessig tilfredsstillande.</p>
+    <p>For nærmare opplysningar, sjå brosjyrane <span type="quote">«Skattereglar ved barnepass»</span> og <span type="quote">«Familiebarnehagar og skatt»</span>, som ein kan få hos likningskontoret. Brosjyrane finst også på Internett, sjå www.skatteetaten.no under Publikasjonar, Brosjyrar og bøker.</p>
+    <p>Lov og forskrift: kommunehelsetenestelova og forskrift om miljøretta helsevern</p>
+    <p>
+      <em type="bold">Helse- og sosialtenester </em>
+    </p>
+    <p>
+      <em type="bold">Helsestasjonar </em>
+    </p>
+    <p>Helsestasjonane er ein del av den lovpålagde kommunale helsetenesta og er eit tilbod til barn og ungdom mellom 0 og 20 år. Verksemda, som arbeider tverrfagleg og tek utgangspunkt i ressursane til familien og i kva grad familien er i stand til å fremje helsa til barna, omfattar desse hovudoppgåvene:</p>
+    <p type="listitem">helseundersøkingar og rådgiving med oppfølging/tilvising ved behov, m.a. undersøking av syn, høyrsel og språk</p>
+    <p type="listitem">førebyggjande psykososialt arbeid</p>
+    <p type="listitem">opplysningsverksemd og rettleiing individuelt og i grupper – på ulike område som har med barnet eller foreldre og barn å gjere</p>
+    <p type="listitem">heimebesøk</p>
+    <p type="listitem">samarbeid om habilitering av barn med spesielle behov, medrekna kronisk sjuke og funksjonshemma</p>
+    <p type="listitem">informasjon om og gjennomføring av vaksinasjon</p>
+    <p type="listitem">samarbeid med skulen for å fremje gode læringsmiljø for elevar</p>
+    <p>Kommunane skal også tilby svangerskapskontroll i tilknyting til helsestasjon. Tilbodet omfattar i tillegg til helseundersøkingar også rådgiving med oppfølging/tilvising ved behov, opplysningsverksemd og samlivs- og foreldrerettleiing.</p>
+    <p>For meir informasjon sjå <span type="quote">«Forskrift 3. april 2003 om kommunens helsefremmende og forebyggende arbeid i helsestasjons- og skolehelsetjenesten»</span> (www.lovdata.no) og IS-1235, <span type="quote">«Nasjonale faglige retningslinjer for undersøking av syn, hørsel og språk hos barn»</span> (www.shdir.no).</p>
+    <p>
+      <em type="bold">Avlastningsordningar og støttekontakt </em>
+    </p>
+    <p>Kommunen har plikt til å ha avlastnings- og støttekontakttilbod som ein del av dei sosiale tenestene sine.</p>
+    <p>Avlastning er eit tilbod til familiar med særleg tyngjande omsorgsoppgåver. Tenesta blir utført i eller utanfor heimen.</p>
+    <p>Barn i familiar med ulike sosiale og helsemessige problem kan få støttekontakt. Støttekontakten kan hjelpe det enkelte barnet til ei meir variert og meiningsfylt fritid.</p>
+    <p>Kommunen vurderer behovet og omfanget.</p>
+    <p>Søknadsskjema kan ein få ved å vende seg til kommunen.</p>
+    <p>Lov: sosialtenestelova</p>
+    <p>
+      <em type="bold">Omsorgslønn </em>
+    </p>
+    <p>Omsorgslønnsordninga tek sikte på å gi økonomisk godtgjersle til personar som har særleg tyngjande omsorgsarbeid. Omsorgslønn er ei av dei tenestene kommunane pliktar å ha etter sosialtenestelova, og ho blir tildelt etter ei skjønnsmessig vurdering av behovet til brukaren og kva for andre tenester som kan vere aktuelle. Omsorgsytaren har ikkje noko rettskrav på omsorgslønn på lik linje med andre sosiale tenester.</p>
+    <p>Rundskriv I-42/98 om omsorgslønn gir ei rettleiing om ordninga.</p>
+    <p>
+      <em type="bold">Heimetenester </em>
+    </p>
+    <p>Kommunane har etter sosialtenestelova og kommunehelsetenestelova plikt til å ha tilbod om hjelp i heimen til dei som har særlege hjelpebehov. Særlege hjelpebehov kan oppstå på grunn av ei funksjonshemming hos foreldra eller barnet, av sjukdom eller av andre årsaker.</p>
+    <p>Kommunen vurderer behovet og omfanget.</p>
+    <p>Faktahefte IS-1298, <span type="quote">«Barn og unge med nedsatt funksjonsevne – hvilke rettigheter har familien?»</span>, sjå www.shdir.no.</p>
+    <p>
+      <em type="bold">Familievern </em>
+    </p>
+    <p>
+      <em type="italic">Familieverntenesta er heimla i lov om familievernkontor. </em>
+    </p>
+    <p>Familiemedlemmer som opplever problem eller vanskar i familien, kan ta kontakt med familieverntenesta, som kan gi råd og rettleiing anten til heile familien, til paret eller til enkeltpersonar. Det finst familievernkontor i kvart fylke. Tenesta er gratis.</p>
+    <p>Familieverntenesta driv også mekling i samband med separasjon/samlivsbrot. Meklinga er obligatorisk for alle ektepar og sambuarpar med felles barn under 16 år. Formålet med meklinga er at foreldre skal få hjelp til å kome fram til ein god avtale om kvar barna skal bu, samværsordning osv. etter eit samlivsbrot.</p>
+    <p>
+      <em type="bold">Foreldrerettleiing </em>
+    </p>
+    <p>Tilbod om foreldrerettleiing kan ein mellom anna få på helsestasjonen, i barnehagen og på skulen. Her kan foreldre utveksle erfaringar og ta opp spørsmål som gjeld det å oppdra eigne barn og få informasjon og rettleiing om dei behova barn har, og den utviklinga dei går igjennom. Helsestasjonen, barnehagen og skulen kan òg hjelpe til med å finne fram til andre hjelpeinstansar når foreldra ønskjer det.</p>
+    <p>Meir informasjon og ei oppdatert oversikt over materiell som er gitt ut, finst på www.bufetat.no/foreldrerettleiing.</p>
+    <p>
+      <em type="bold">Aktuelle lover </em>
+    </p>
+    <p>Arbeidsmiljølova</p>
+    <p>Barnehagelova</p>
+    <p>Barnelova</p>
+    <p>Barnetrygdlova</p>
+    <p>Familievernkontorlova</p>
+    <p>Folketrygdlova</p>
+    <p>Opplæringslova</p>
+    <p>Kontantstøttelova</p>
+    <p>Skattelova</p>
+    <p>Sosialtenestelova</p>
+  </body>
+</document>

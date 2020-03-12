@@ -1,0 +1,54 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Sølvbryllaupsgåva   - kongehuset.no</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>467</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.kongehuset.no/nyhet.html?tid=113693</origFileName>
+    <parallel_text xml:lang="sme" location="nyhet.html_tid=113693_sek=74887.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Hopp til hovedinnhold</p>
+    <p xml:lang="nob">kongehuset.no</p>
+    <p type="title">Sølvbryllaupsgåva</p>
+    <p>Hennar Majestet Dronninga var til stades da Kulturminister Hadia Tajik opna utstillinga <em type="italic">Sølvbryllupsgaven </em>ved Nordnorsk Kunstmuseum i Tromsø i ettermiddag. Utstillinga viser måleri gjevne som folkegåve til Oscar II og Dronning Sophie til bryllaupsdagen deira i 1882. </p>
+    <p xml:lang="koi">04.02.2013</p>
+    <p>I alt er det sytten måleri som blir viste fram – av dei heng seksten til dagleg på Det kongelege slottet. Det gjeld blant anna Christian Krohgs dramatiske <em type="italic">Hardt le </em>. Det har sin vanlege plass på Hans Majestet Kongens kontor, men er no sentralt på utstillinga i Tromsø. </p>
+    <p>Mange av Noregs viktigaste biletkunstnarar frå perioden er representerte, og kurator for utstillinga Knut Ljøgodt beskriv samlinga som eit tverrsnitt av kunstlivet i 1880-åra. I tillegg til Christian Krohg finn vi andre store namn som Hans Gude, Fritz Thaulow, Harriet Backer, Adelsteen Normann og Otto Sinding. Tanken var at samlinga skulle presentere Kongeparet for eit tverrsnitt av Noreg.</p>
+    <p type="title" xml:lang="nob">...en stadig Hilsen tillige fra Norges Natur</p>
+    <p>Sølvbryllaupsgåva vart levert på Slottet i Christiania nøyaktig eitt år etter feiringa, den 6. juni 1883. Med gåva følgde ei adresse som i dag blir oppbevart ved Bernadottebiblioteket på Stockholm Slott. Her heiter det i avslutninga:</p>
+    <p xml:lang="dan">
+      <em type="italic"> Vi tillader os derfor i Underdanighed at anholde om; at Deres Majestæter vilde værdiges at modtage en Samling af nationale Kunstværker, som en varig Erindring om den varme Tilslutning, hvormed det norske Folk har taget Del i denne Dags Høijtid; som en stadig Hilsen tillige fra Norges Natur, som De elsker saa høijt. </em>
+    </p>
+    <p type="title">Reiste i Nord-Noreg</p>
+    <p>Kong Oscar II gjorde to lange reiser i Nord-Noreg. Den første var i høve kroningsreisa i 1873. Da var han den første regjerande monarken som besøkte Nord-Noreg sidan Christian IV gjorde det på slutten av 1500-talet. Den andre reisa til Kong Oscar kom i 1903.</p>
+    <p xml:lang="nob"><em type="italic">- Kongen ble fascinert av naturen og av menneskene her oppe i nord, </em>sa Dronning Sonja i dag, <em type="italic">– en fascinasjon jeg uforbeholdent deler med ham! </em></p>
+    <p type="title">Den kongelege reisa</p>
+    <p><em type="italic">Sølvbryllupsgaven </em>er ein del av utstillingsrekkja <em type="italic">Den kongelige reise </em>– gåva frå Regjeringa til Kongeparets 75-årsjubileum. Gåva består av seks utstillingar med skattar frå dei kongelige samlingane av kunst, kulturhistoriske gjenstandar og fotografi: fire større utstillingar i Oslo og Bergen (2012), Tromsø og Trondheim (2013), og to vandreutstillingar som er eit tilbod til skolar, galleri og museum. </p>
+    <p>Alle seks utstillingane knyter an til tematikken kongelege reiser – det vere seg heilt konkret eller i meir metaforisk forstand. Utstillingane blir gjennomførte i regi av Nasjonalmuseet for kunst, arkitektur og design i samarbeid med Det kongelege hoffet.</p>
+    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+    <p xml:lang="nob">Smakebiter fra utstillingen Sølvbryllupsgaven og Dronning Sonjas kommentar etter omvisningen (Foto: Christian Lagaard, Det kongelige hoff)</p>
+    <p xml:lang="nob">Relaterte lenker</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Utstillingen Sølvbryllupsgaven: Takketale (Tale)</p>
+      <p type="listitem" xml:lang="nob">Kong Oscar II (1829-1907) (Artikkel)</p>
+      <p type="listitem" xml:lang="nob">De kongelige samlinger (Seksjonstekst)</p>
+      <p type="listitem" xml:lang="nob">Den kongelige reise (Seksjonstekst)</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="nob">Nordnorsk Kunstmuseum</p>
+      <p type="listitem" xml:lang="nob">Utstillingene Den kongelige reise</p>
+    </list>
+  </body>
+</document>

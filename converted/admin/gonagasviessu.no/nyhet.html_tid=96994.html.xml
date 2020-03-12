@@ -1,0 +1,57 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Kongelege reiser opna  - kongehuset.no</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>499</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.kongehuset.no/nyhet.html?tid=96994</origFileName>
+    <parallel_text xml:lang="sme" location="nyhet.html_tid=97052_sek=74887.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Hopp til hovedinnhold</p>
+    <p xml:lang="nob">kongehuset.no</p>
+    <p type="title">Kongelege reiser opna</p>
+    <p>DD.MM. Kongen og Dronninga, DD.HH.KK. Kronprinsen og Kronprinsessa, Prinsesse Märtha Louise og Prinsesse Astrid var alle til stades ved opninga av utstillinga <span type="quote" xml:lang="nob">"Kongelige reiser 1905-2005"</span> ved Kunstindustrimuseet i Oslo i dag.</p>
+    <p xml:lang="koi">15.02.2012</p>
+    <p>Utstillinga er Regjeringas gåve til Kongeparets 75-årsdagar og er den første av i alt seks forskjellige utstillingar med kunst og kulturhistoriske gjenstandar og fotografi frå dei kongelege samlingane. Dei fleste gjenstandane og fotografia har aldri tidlegare vore viste for publikum.</p>
+    <p type="title" xml:lang="nob">Historie og kulturarv</p>
+    <p>Det var statsminister Jens Stoltenberg som overrekte gåva til Kongeparet i dag. Statsministeren overrekte òg boka <span type="quote" xml:lang="nob">"Arv og Tradisjon - de kongelige samlinger"</span>. Praktverket viser eit utval av det som finst i samlingane til Slottet , og er ein del av Regjeringas gåve til Kongeparet.</p>
+    <p>I sin felles tale understreka Kong Harald og Dronning Sonja gleda over at desse skattane blir gjorde tilgjengelege for publikum. Gjenstandane er ein viktig del av Noregs historie og kulturarv, sa Kong Harald:</p>
+    <p xml:lang="nob">
+      <em type="italic">Gjenstandene forteller om sentrale begivenheter i norsk historie, mens foto og arkivalia er dokumentasjon av historien. For oss gir Regjeringens gave en kjærkommen anledning til å se vår gjerning. Vi er en del av den reisen som startet da min bestefar i 1905 sa ja til å bli Norges konge. For mange håper vi utstillingen vil bli et stevnemøte med glemte år. For barn og unge kan utstillingen bli et møte med begivenheter deres foreldre eller besteforeldre har opplevd. </em>
+    </p>
+    <p type="title">Eit enormt tilfang</p>
+    <p>Dronning Sonja understreka òg det store registreringsarbeidet som er gjennomført ved hoffet sidan 2002, og som har gjort desse utstillingane moglege:</p>
+    <p xml:lang="nob">
+      <em type="italic">Registreringen som startet med full tyngde i 2002, har både gledet oss og vekket vår nysgjerrighet. Samlingen består av ca. 400.000 gjenstander og historiske fotografier. I tillegg kommer arkivalia. Sett under ett representerer denne samlingen et enestående vitnesbyrd om Norges historie og kulturhistorie fra 1818 og frem til i dag. </em>
+    </p>
+    <p xml:lang="nob">Etter overrekkelsesseremonien, fikk Kongefamilien en guidet omvisning i utstillingen, som gjennomføres i regi av Nasjonalmuseet for kunst, arkitektur og design i samarbeid med Det kongelige hoff.</p>
+    <p type="title">Kongelege reiser gjennom 100 år</p>
+    <p>Hovedtemaet for denne første utstillinga er dei kongelege reisene som bindeledd mellom monarken og folket. Reisene til Kongeparet utgjer ein stor del av utstillinga, men vi følgjer òg utanlandsreisene til Kong Haakon og Dronning Maud, og Kong Olav og Kronprinsesse Märtha.</p>
+    <p>Utstillinga viser reiseutstyr, drakter, uniformer, ordenar og gåver gjevne til kongane og dronningane våre av utanlandske statsleiarar. Blant høgdepunkta er vogna, draktene og uniformene som vart laga til kroninga av Kong Haakon og Dronning Maud i 1906, og dessutan klesdraktene som vart brukte i samband med signinga av Kong Olav i 1958 og dagens kongepar i 1991.</p>
+    <p>Utstillinga er open for publikum i perioden 16. februar til 26. august 2012. Det vil òg bli utstillingar i Trondheim, Bergen og Tromsø, i tillegg til to vandreutstillingar.</p>
+    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+    <p xml:lang="nob">Relaterte lenker</p>
+    <list>
+      <p type="listitem" xml:lang="nob">De kongelige samlinger (Seksjonstekst)</p>
+      <p type="listitem" xml:lang="nob">Den kongelige reise (Seksjonstekst)</p>
+      <p type="listitem">Jubileumsutstillingene: Kongeparets takketale (Tale)</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="nob">Den kongelige reise: Utstillingenes egne sider</p>
+      <p type="listitem">Nasjonalmuseet</p>
+      <p type="listitem" xml:lang="est">Kunstindustrimuseet</p>
+    </list>
+  </body>
+</document>

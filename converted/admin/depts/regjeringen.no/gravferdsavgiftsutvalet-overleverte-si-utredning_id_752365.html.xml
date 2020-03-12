@@ -1,0 +1,68 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Hávdádandivatlávdegoddi geigii iežas čielggadeami / Juvlememaaksoemoenehtse sov salkehtimmiem deelli / Hávddádimdivutnammadus buvtij tjielggidusáv  - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2014</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>310</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2014/Gravferdsavgiftsutvalet-overleverte-si-utredning.html?id=752365</origFileName>
+    <parallel_text xml:lang="sma" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami_id_752365.html"/>
+    <parallel_text xml:lang="sme" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami_id_752365.html"/>
+    <parallel_text xml:lang="smj" location="havdadandivatlavdegoddi-geigii-ieas-ielggadeami_id_752365.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Gravferdsavgiftsutvalet overleverte si utredning - regjeringen.no</p>
+    <p>
+      <em type="italic">Fylkesmann Erling Lae overleverte i dag gravferdsavgiftsutvalet si utredning til kulturminister Thorhild Widvey. I utredninga foreslår utvalet å fjerne fleire avgifter som dei etterlatne må betale i samband med gravferd. </em>
+    </p>
+    <p xml:lang="nob">Gravferdsavgiftsutvalets si utredning</p>
+    <p>Utvalet vil at kremasjon skal vere gratis, og ønskjer og at dei etterlatne ikkje skal betale meir dersom avdøde skal gravleggast i ein annan kommune enn kommunen avdøde budde i. For å unngå forskjellsbehandling foreslår utvalet dessutan forenklingar i reglane om feste av grav.</p>
+    <p>
+      <em type="italic">Erling Lae og Thorhild Widvey. (Foto: KUD/Ketil Frøland) </em>
+    </p>
+    <p>- Eg takkar for arbeidet som utvalet har gjort. Vi vil gjere ei nøye vurdering av dei ulike forslaga som utvalet har lagt fram, seier kulturminister Thorhild Widvey.</p>
+    <p>- Gravferdstradisjonane er i kontinuerleg utvikling. Det har skapt eit behov for å vurdere om regelverket er godt nok tilpassa utviklingstrekka i samfunnet, seier Widvey.</p>
+    <p>Gravferdsavgiftsutvalet vart oppnemnt 10. august 2012 av Stoltenberg II-regjeringa. Utvalet har hatt som mandat å sjå på rettslege og økonomiske spørsmål i samband med gravlegging.</p>
+    <p>Utredninga frå gravferdsavgiftsutvalet skal no ut på høyring.</p>
+    <p>Utvalet har gjennomført ei samfunnsøkonomisk kostnadsutrekning som ser på både kistegravlegging og urnegravlegging. Utvalet har mellom anna henta kunnskap frå dei andre nordiske landa, vurdert behov for styringsinformasjon og statistikk, og har kome med ei rekkje forslag til regelendringar.</p>
+    <p>
+      <em type="italic">Hovudforslaga er: </em>
+    </p>
+    <list>
+      <p type="listitem">Kremasjonsavgifta blir fjerna.</p>
+      <p type="listitem">Alle gravleggingar skal utløyse 20 betalingsfrie år.</p>
+      <p type="listitem">Fordi folk er knytta til fleire stader, skal det ikkje bli kravd betaling for gravlegging i ein annan kommune enn der avdøde budde.</p>
+      <p type="listitem">Festeavgifta skal framleis bli fastsett lokalt, men skal vere den same for alle festa graver innanfor kommunen.</p>
+    </list>
+    <p>
+      <em type="italic">Utvalet har bestått av: </em>
+    </p>
+    <list>
+      <p type="listitem">Erling Lae, fylkesmann i Vestfold, Tønsberg (leiar)</p>
+      <p type="listitem" xml:lang="nob">Anne Line Bretteville-Jensen, forskingsleiar, Oslo</p>
+      <p type="listitem">Cecilie Hansen, ordførar, Sør-Varanger</p>
+      <p type="listitem">Inghild Hareide Hansen, gravplassjef, Bergen</p>
+      <p type="listitem">Helge Klingberg, pensjonist, Stokke</p>
+      <p type="listitem">Trygve Natvig, avdelingsleiar, Oslo</p>
+      <p type="listitem">Trygve Nedland, spesialrådgiver, Flekkefjord</p>
+      <p type="listitem">Gerd Signe Vigebo, økonomisjef, Vennesla</p>
+    </list>
+  </body>
+</document>

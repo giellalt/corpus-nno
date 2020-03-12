@@ -1,0 +1,43 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Setningsanalysetre</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>167</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/cealkkacoavdinmuorra.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="cealkkacoavdinmuorra.eng.html"/>
+    <parallel_text xml:lang="sme" location="cealkkacoavdinmuorra.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="nob">Setningsanalysetre</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Om setningene</p>
+      <p type="listitem">Lenkjer til analysetreet og hjelpemiddel</p>
+    </list>
+    <p>Du kan sjå på setningstre, og også bygge dine eigne. Syd-Dansk Universitets VISL-gruppe har står for teknikken, Universitetet i Tromsø har lagt inn nordsamisk.</p>
+    <p>Dette er ein beta-versjon, og det inneber at det kan vere feil, og at det er forbetringspotensiale. Vi tar gjerne mot kommentarar! (oahpa@uit.no)</p>
+    <p>Setningstreets menyar, knappar og feedback er framleis på engelsk, men vi arbeider med å få det meste omsett til samisk.</p>
+    <p type="title" xml:lang="nob">Om setningene</p>
+    <p>Vi har plukka setninger frå mange stader, tilpassa dei, og så analysert dei. Forkortingane for ordklassar og funksjonar kan i byrjinga vere litt uvande for brukarane fordi forkortingane på VISL-sidene er dei same for alle språka.</p>
+    <p>Meir enn tusen setninger brukast i både spela, Killerfiller og setningstreet. I tillegg er det omtrent 640 setninger berre for Killerfiller med morfologien spesielt tilpassa for dette (f.eks. mykje bruk av potensialis og possessive suffikser.)</p>
+    <p type="title">Lenkjer til analysetreet og hjelpemiddel</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Lær å arbeide med setningstreet</p>
+      <p type="listitem" xml:lang="nob">Link til VISL setningsanalysetreet</p>
+      <p type="listitem">Om ordklassar</p>
+      <p type="listitem">Om syntaktiske funksjonar</p>
+    </list>
+  </body>
+</document>
