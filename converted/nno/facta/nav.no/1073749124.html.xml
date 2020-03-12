@@ -1,0 +1,138 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>NAV - Bidragsforskudd - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>845</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.nav.no/Familie/Barnebidrag/Bidragsforskudd/Bidragsforskudd/1073749124.cms</origFileName>
+    <parallel_text xml:lang="eng" location="805368912.html"/>
+    <parallel_text xml:lang="nob" location="bidragsforskudd.html"/>
+    <parallel_text xml:lang="sme" location="229452.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Bidragsforskot</p>
+    <p>Bidragsforskot skal sikre at barn får eit visst beløp frå det offentlege kvar månad dersom det ikkje blir betalt bidrag, eller dersom bidraget er fastsett til eit lågare beløp enn det som kan givast i forskot.</p>
+    <p type="title">Kven kan få bidragsforskot?</p>
+    <p>Barn under 18 år som ikkje bur saman med begge foreldra, har som hovudregel rett til bidragsforskot. Den som har den faktiske omsorga for barnet, kan setje fram krav og få forskotet utbetalt til seg. Bidragsforskot blir ikkje gitt for barn som bur i fosterheim eller barnevernsinstitusjon, eller som på annan måte får fullt underhald av det offentlege.</p>
+    <p>Barnet må som hovudregel vere busett og opphalde seg i Noreg. Barnet blir rekna som busett dersom det har vore i eller skal opphalde seg i Noreg i meir enn tolv månader. Dersom visse vilkår er oppfylte, kan barnet behalde forskotet dersom det oppheld seg i utlandet i opptil seks månader. EØS‑regelverket gjer at barn som er busette i eit anna EØS‑land enn Noreg, kan ha rett til bidragsforskot. Det gjeld til dømes dersom ein av foreldra arbeider her. Du kan lese meir om bidragsforskot ved opphald i eller flytting til eit anna EØS‑land under Internasjonalt i menyen til høgre.</p>
+    <p>Eit vilkår for å få forskot er at det er eller blir avtalt eller fastsett bidrag til barnet frå den av foreldra som ikkje bur saman med det. Denne forelderen skal betale bidraget til NAV Innkrevjing .</p>
+    <p type="title">Kva kan du få?</p>
+    <p>Bidragsforskotet er behovsprøvd og kan utgjere 50, 75 eller 100 prosent av full sats. Satsen blir regulert 1. juli kvart år.</p>
+    <p>Prosentsatsen blir fastsett ut frå kor stor inntekt du har, kor mange eigne barn du har i eigen husstand, og om du er gift, registrert partnar, sambuar eller einsleg forsørgjar. Retten til forskot fell bort dersom inntekta di overstig 320 gonger den fulle forskotssatsen.</p>
+    <p>Dersom inntekta di ikkje overstig 320 gonger fullt bidragsforskot, kan du få forskot med full sats</p>
+    <list>
+      <p type="listitem">når farskapet til barnet ikkje er fastsett</p>
+      <p type="listitem">når barnet er adoptert og du er einsleg adoptant</p>
+      <p type="listitem">når den andre forelderen er død og barnet ikkje har rett til barnepensjon</p>
+    </list>
+    <p>Dersom barnet bur åleine eller saman med ein annan enn ein av foreldra, er det inga behovsprøving.</p>
+    <p>Har barnet delt bustad, kan det ha rett til forskot frå begge foreldra. Det er eit vilkår at det kan bli fastsett bidrag frå den andre forelderen, eller at forelderen sjølv eller den andre forelderen ikkje har økonomisk evne til å betale bidrag.</p>
+    <p>Så sant vilkåra ovanfor er oppfylte, kan barnet få forskot til og med den månaden det fyller 18 år.</p>
+    <p type="title">Korleis søkjer du?</p>
+    <p>Du søkjer om bidragsforskot ved å fylle ut søknadsblanketten som du finn under Skjema og vedlegg i menyen til høgre. (same kravblanketten som når du søkjer om underhaldsbidrag - NAV 54‑00.05). Her finn du òg informasjon om kva vedlegg/ dokumentasjon du må leggje ved søknaden. Vedlegget til søknadsblanketten opplyser deg om korleis du skal dokumentere inntekta di.</p>
+    <p>Du kan få bidragsforskot frå opptil tre månader før søknadsmånaden dersom vilkåra for forskot var oppfylte. Du bør derfor søkje innan tre månader etter at vilkåra blei oppfylte.</p>
+    <p>Søknaden sender eller leverer du til NAV-kontoret ditt saman med dokumentasjon av inntekta.</p>
+    <p type="title">Vedtak</p>
+    <p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
+    <p type="title">Satsar</p>
+    <p type="title">Satsar for bidragsforskott</p>
+    <p>Satsane gjeld frå 1. juli 2009.</p>
+    <p xml:lang="sme">Sats</p>
+    <p>Beløp pr månad</p>
+    <p>100 %</p>
+    <p>1 350 kr.</p>
+    <p>75 %</p>
+    <p>1 010 kr.</p>
+    <p>50 %</p>
+    <p>680 kr.</p>
+    <p type="title">Inntektsgrense for bidragsforskott for gifte/sambuande</p>
+    <p>Tabellen under viser inntektsgrenser som gjeld frå 1. juli 2009 for krav på bidragsforskot med 0, 50, 75 eller 100 prosent av full forskotssats.</p>
+    <p>Tal barn</p>
+    <p>75 %</p>
+    <p>50 %</p>
+    <p>1</p>
+    <p>163 201 - 275 700 kr.</p>
+    <p>275 701 - 432 000 kr.</p>
+    <p>2</p>
+    <p>163 201 - 324 600  kr.</p>
+    <p>324 601 - 432 000 kr.</p>
+    <p>3</p>
+    <p>163 201 - 373 500 kr.</p>
+    <p>373 501 - 432 000 kr.</p>
+    <p>4</p>
+    <p>163 201 - 422 400 kr.</p>
+    <p>422 401 - 432 000 kr.</p>
+    <p>5 og fleire</p>
+    <p>163 201 - 432 000 kr.</p>
+    <p>Årsinntekt på 163 200 kroner og lavere gir rett til 100 % forskott, mens årsinntekt over 432 000 ikkje gir rett til forskott.</p>
+    <p type="title">Inntektsgrense for bidragsforskott for einsleg forsørgjar</p>
+    <p>Tabellen under viser inntektsgrenser som gjeld frå 1. juli 2009 for krav på bidragsforskot med 0, 50, 75 eller 100 prosent av full forskotssats.</p>
+    <p>Tal barn</p>
+    <p>75 %</p>
+    <p>50 %</p>
+    <p>1</p>
+    <p>163 201 - 305 700 kr.</p>
+    <p>305 701 - 432 000 kr.</p>
+    <p>2</p>
+    <p>163 201 - 354 600 kr.</p>
+    <p>354 601 - 432 000 kr.</p>
+    <p>3</p>
+    <p>163 201 - 403 500 kr.</p>
+    <p>403 501 - 432 000 kr.</p>
+    <p>4 og flere</p>
+    <p>163 201 - 432 000 kr.</p>
+    <p>Årsinntekt på 163 200 kroner og lavere gir rett til 100 prosent forskott, mens årsinntekt over 432 000 ikkje gir rett til forskott.</p>
+    <p type="title">Utbetalingsdatoar</p>
+    <p type="title">Bidragsforskot</p>
+    <p>Utbetalingsdatoar for bidragsforskot for 2010.</p>
+    <p>Jan.</p>
+    <p>Feb.</p>
+    <p>Mars</p>
+    <p>April</p>
+    <p xml:lang="sme">Mai</p>
+    <p>Juni</p>
+    <p>Juli</p>
+    <p>Aug.</p>
+    <p xml:lang="sme">Sept.</p>
+    <p>Okt.</p>
+    <p>Nov.</p>
+    <p>Des.</p>
+    <p>7.</p>
+    <p>4.</p>
+    <p>4.</p>
+    <p>9.</p>
+    <p>6.</p>
+    <p>4.</p>
+    <p>6.</p>
+    <p>5.</p>
+    <p>6.</p>
+    <p>6.</p>
+    <p>4.</p>
+    <p>6.</p>
+    <p>Forskuddsutbetalinger (bidrag) skal være tilgjengelig INNEN den 10. i hver måned.</p>
+  </body>
+</document>

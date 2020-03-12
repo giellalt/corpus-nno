@@ -1,0 +1,55 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ná don jienastat ovddalgihtii - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>428</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/krd/kampanjer/valportalen/stortingsval/royste-pa-forehand.html?id=457115</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-vote-in-advance_id_457115.html"/>
+    <parallel_text xml:lang="nob" location="forhandsstemme_id_457115.html"/>
+    <parallel_text xml:lang="sme" location="na-don-jienastat-ovddalgihtii_id_457115.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Slik røystar du på førehand - regjeringen.no</p>
+    <p type="title">Ordinær førehandsrøysting</p>
+    <p>Den 10. august startar den ordinære førehandsrøystinga. Du kan røyste på førehand heilt fram til og med 11. september.</p>
+    <p>Det er kommunen som tek imot førehandsrøyster. Kommunen bestemmer når og kvar du kan røyste på førehand og informerar om dette.</p>
+    <p>Kommunen tek også imot førehandsrøyster på helse- og sosialinstitusjonar.</p>
+    <p>Du kan røyste på førehand i kommunar kvar som helst i heile landet. Derfor kan du røyste i ein annan kommune enn der du bur/er manntalsført. Dersom du røystar utanfor fylket du er registrert som busett i, vil du få utdelt ein kvit røystesetel som er påført dei registrerte politiske partia. Du må då krysse av for eller skrive på kva for parti/gruppe du vil røyste på. Du kan også nytte røystesetel som du har med frå eige fylke.</p>
+    <p type="title">Slik røystar du på førehand:</p>
+    <list>
+      <p type="listitem">I vallokalet vender du deg til valfunksjonær som gir deg røystesetelkonvoutt og som forklarar deg korleis du skal gå fram for å røyste.</p>
+      <p type="listitem">Du går til valavlukket, veljer røystesetel, gjer eventuelle endringar og legg deretter røystesetelen i røystesetelkonvolutten.</p>
+      <p type="listitem">Gå til valfunksjonæren, som legg røystesetelkonvolutten og valkortet ditt ned i ein omslagskonvolutt, som deretter blir lagd i valurna. Røysta blir send til heimkommunen din for å bli tald opp.</p>
+    </list>
+    <p><em type="italic">Hugs legitimasjon! </em>Vallova krev at ein veljar som er ukjend for røystemottakar skal legitimere seg. <em type="italic">D </em>øme på legitimasjon er pass, førarkort og bankkort med bilete, men du kan også bruke annan type legitimasjon. Kravet er at den inneheld namnet til veljaren, fødselsdato og bilete. </p>
+    <p>Det er ikkje nødvendig å ta med valkortet, men det forenklar arbeidet for valfunksjonærane dersom du tar det med, og det går raskare for deg å røyste.</p>
+    <p>Hugs at røysta di må rekke å nå fram til heimkommunen din innan valdagen. Du bør derfor vere ute i god tid.</p>
+    <p type="title">Er du sjuk eller ufør?</p>
+    <p>Dersom du ikkje kan komme til eit vallokale fordi du er sjuk eller ufør, kan du søkje valstyret i kommunen din om å få røyste heime eller der du held til. Kommunen vil kunngjere når søknadsfristen er. Dersom du får samtykke i å røyste heime, kjem det nokon frå kommunen heim til deg og tek imot førehandsrøysta der.</p>
+    <p type="title">Oppheld du deg i utlandet?</p>
+    <p>Dersom du bur eller av andre grunnar oppheld deg i utlandet eller på Svalbard og Jan Mayen, kan du røyste på førehand på norske utanriksstasjonar eller hos særskilt oppnemnde røystemottakarar, eller du kan brevrøyste . </p>
+    <p>Du kan ikkje røyste på valdagen dersom du har røysta på førehand. Du kan heller ikkje røyste på førehand fleire gonger.</p>
+  </body>
+</document>

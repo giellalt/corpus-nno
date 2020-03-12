@@ -1,0 +1,46 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Šaddá álkibut ovdagihtii jienastit - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>380</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nn/dep/krd/pressesenter/pressemeldingar/2012/det-blir-enklare-a-forehandsstemme.html?id=710339</origFileName>
+    <parallel_text xml:lang="eng" location="new-pilot-with-internet-voting-in-2013_id_710138.html"/>
+    <parallel_text xml:lang="sme" location="adda-alkibut-ovdagihtii-jienastit_id_710339.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Det blir enklare å førehandsstemme - regjeringen.no</p>
+    <p>
+      <em type="italic">Snart er konvolutten til stemmesetlar ved val historie. På sjølve valdagen kan veljarane allereie leggje stemmesetelen rett i valurna utan konvolutt. No gjer regjeringa framlegg om at dei som stemmer på førehand også skal sleppe å nytte stemmesetelkonvolutt. </em>
+    </p>
+    <p>- Det er viktig at valrutinane er sikre, forståelege og tillitsskapande. Det vil forenkle valhandlinga at veljarane møter mest mogleg like rutinar, anten dei stemmer på førehand eller på valdagen, seier statsråd Liv Signe Navarsete.</p>
+    <p>Ordninga med papirmanntal er grunnen til at stemmesetelkonvolutt til no har vore nytta ved førehandsstemming. For å sikre at kvar veljar berre får godkjend ei stemme, må ein sende stemma og informasjon om veljaren til valstyret som kryssar veljaren av i manntalet. Teknologien tillet no at ein kan føre og halde manntalet à jour elektronisk. Det gjer at ein kan krysse av veljarane i det elektroniske manntalet med det same dei stemmer.</p>
+    <p>I dag har valstyret i kvar kommune ansvar for å halde manntal til bruk ved valet. Regjeringa gjer framlegg om at staten tek over dette ansvaret. Med det får ein eit landsdekkjande elektronisk manntal.</p>
+    <p>- Regjeringa er oppteken av at det offentlege følgjer med i den teknologiske utviklinga. Ved å ta over ansvar for manntalet, løyser staten ei utfordring for kommunane. Samstundes blir det enklare for både veljarar og valfunksjonærar å gjennomføre val. Det har også vore viktig å sikre betre hemmeleghald av stemmer. Fleire veljarar reagerer på at stemma deira i dag vert lagt saman med valkort med personinformasjon. Med den nye ordninga er ikkje dette naudsynt, seier Navarsete.</p>
+    <p>Veljarar som stemmer i ein annan kommune enn der dei er ført inn i manntalet, må framleis nytte stemmesetelkonvolutt. Det blir jamvel gjort framlegg om at ein frå no skal lime igjen konvolutten.</p>
+    <p>Regjeringa vil også tydeleggjere og lovfeste krava til vallokala. Det finst allereie reglar om at vallokala skal vere egna og tilgjengelege, men reglane er uoversiktlege.</p>
+    <p>- Tilgjenge til og i vallokala er viktig for at alle skal kunne stemme. Eigna vallokale handlar om at veljarane skal føle seg komfortable og visse på at rutinane for tryggleik er på plass. Valstyret i kommunen må sørgje for dette når dei plukkar ut stemmestader, seier Navarsete.</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Lenke til lovproposisjonen</p>
+    </list>
+    <p>Kommunal- og regionaldepartementet sin pressetelefon: 22 24 25 00.</p>
+  </body>
+</document>

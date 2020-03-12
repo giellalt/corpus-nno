@@ -1,0 +1,44 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Norgga Báŋkku ođđa váldostivra  - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2011</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>242</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2011/nytt-hovudstyre-i-noregs-bank.html?id=664718</origFileName>
+    <parallel_text xml:lang="nob" location="oppnevninger-til-norges-banks-hovedstyre_id_664718.html"/>
+    <parallel_text xml:lang="sme" location="norgga-bakku-oa-valdostivra-_id_664718.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Nytt hovudstyre i Noregs Bank - regjeringen.no</p>
+    <p>
+      <em type="italic">Regjeringa har i dag gjenoppnemnd Liselott Kilaas som medlem til hovudstyret i Noregs Bank, og oppnemnd Egil Matsen som nytt medlem til hovudstyret. Espen R. Moen vert oppnemnd som nytt 2. varamedlem til hovudstyret i Noregs Bank, til erstatning for Egil Matsen. Alle medlemmene er oppnemnde for perioden 1. januar 2012 – 31. desember 2015. </em>
+    </p>
+    <p>Liselott Kilaas har bedriftsøkonomisk kompetanse og røynsle frå næringslivet. Egil Matsen er professor ved Institutt for samfunnsøkonomi, NTNU, og forskar innan makroøkonomi og finans, og har vore 2. varamedlem i hovudstyret sidan 1. januar 2010. Espen R. Moen vert oppnemnd som nytt 2. varamedlem til hovudstyret i Noregs Bank til erstatning for Egil Matsen. Moen er professor i samfunnsøkonomi ved BI og professor II ved Universitetet i Oslo.</p>
+    <p>- Eg er vel nøgd med den nye samansetjinga av hovudstyret. Det er viktig at hovudstyret er sett saman på ein slik måte at det reflekterer ein brei fagleg bakgrunn og kompetanse, og med betydeleg innsikt i samfunnsøkonomiske problemstillingar, seier finansminister Sigbjørn Johnsen.</p>
+    <p>Frå 1. januar 2012 vil hovudstyret med dette få følgjande samansetjing (representantane for dei tilsette er ikkje tekne med):</p>
+    <p>Leiar: Sentralbanksjef Øystein Olsen Nestleiar: Visesentralbanksjef Jan Fredrik Qvigstad</p>
+    <p>Medlem: Administrerande direktør Liselott Kilaas, Oslo Medlem: Dagleg leiar Brit K. Rugland, Stavanger Medlem: Siviløkonom Ida Helliesen, Oslo Medlem: Direktør Eirik Wærness, Stavanger Medlem: Professor Egil Matsen, Trondheim</p>
+    <p>Første varamedlem: Universitetsstipendiat Gøril Bjerkan, Bærum Andre varamedlem: Professor Espen R. Moen, Oslo</p>
+  </body>
+</document>

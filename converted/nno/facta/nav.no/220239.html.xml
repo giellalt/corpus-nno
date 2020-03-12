@@ -1,0 +1,88 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>NAV - Medlemskap i folketrygden - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>476</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <origFileName>http://www.nav.no/Internasjonalt/Medlemskap+i+folketrygden/Medlemskap+i+folketrygden/220239.cms</origFileName>
+    <parallel_text xml:lang="eng" location="membership_in_the_national_insurance_scheme.html"/>
+    <parallel_text xml:lang="nob" location="medlemskap_i_folketrygden.html"/>
+    <parallel_text xml:lang="sme" location="medlemskap_i_folketrygden.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Medlemskap i folketrygda</p>
+    <p>Medlemskap i folketrygda er nøkkelen til rettar frå NAV. Det er ikkje avgjerande at du er norsk statsborgar, registrert i folkeregisteret eller betaler skatt til Noreg. Det som er avgjerande, er at opphaldet i Noreg er lovleg.</p>
+    <p>Noverande eller tidlegare medlemskap i folketrygda er ein føresetnad for at ein skal få trygderettar. Enkelte rettar kan likevel bli gitt til ein familiemedlem av ein medlem av folketrygda.</p>
+    <p>Kva ytingar du har krav på, kjem mellom anna an på kva dekning medlemskapen gir.</p>
+    <p>Enkelte trygdeytingar krev at du har vore medlem i folketrygda ei viss tid. Du kan lese meir om det under kvar enkelt yting.</p>
+    <p>
+      <em type="italic">Når er du medlem i folketrygda? </em>
+    </p>
+    <p>
+      <em type="italic">Busett i Noreg – pliktig medlem i folketrygda </em>
+    </p>
+    <p>Er du busett i Noreg, er du som hovudregel medlem i folketrygda.</p>
+    <p>For å bli rekna som busett, må du opphalde deg i Noreg i minst tolv månader. Når du flytter til Noreg for å vere her i minst tolv månader, blir du medlem frå innreisedatoen.</p>
+    <p>
+      <em type="italic">Dersom du ikkje bur i Noreg </em>
+    </p>
+    <p>Sjølv om du ikkje bur i Noreg, er du medlem i folketrygda dersom du</p>
+    <list>
+      <p type="listitem">er arbeidstakar i Noreg</p>
+      <p type="listitem">er norsk statsborgar / EØS-statsborgar og tilsett på norsk skip med unntak for cateringtilsette på turistskip registrert i Norsk Internasjonalt Skipsregister NIS</p>
+      <p type="listitem">er norsk statsborgar / EØS-statsborgar og tilsett i norsk statsteneste i utlandet</p>
+      <p type="listitem">er norsk statsborgar / EØS-statsborgar og studerer i utlandet med lån eller stipend frå Lånekassen</p>
+      <p type="listitem">arbeider mellombels i utlandet for arbeidsgivar med plikt til å betale arbeidsgivaravgift i Noreg</p>
+    </list>
+    <p>
+      <em type="italic">Frivillig medlemskap i folketrygda under opphald i Noreg </em>
+    </p>
+    <p>Dersom du skal opphalde deg i Noreg i tre til tolv månader utan å arbeide her og har sterk tilknyting til Noreg, kan du etter søknad bli medlem i folketrygda.</p>
+    <p>
+      <em type="italic">Frivillig medlemskap i folketrygda under opphald utanfor Noreg </em>
+    </p>
+    <p>Dersom du er medlem i folketrygda og skal opphalde deg i utlandet, kan opphaldet i utlandet medføre at medlemskapen i folketrygda tek slutt. Du kan då søkje om frivillig medlemskap i folketrygda.</p>
+    <p>
+      <em type="italic">Trygdeavtale </em>
+    </p>
+    <p>Noreg har trygdeavtalar med fleire land. Den viktigaste avtalen er med EØS-landa . Dersom du er omfatta av ein trygdeavtale, kan denne avtalen bestemme i kva land du skal vere medlem i trygda. Det som er nemnt ovanfor, kan då bli urett. Du bør undersøkje om ein trygdeavtale gjeld i ditt tilfelle.</p>
+    <p>
+      <em type="italic">Trygdeavgift </em>
+    </p>
+    <p>Å vere medlem i folketrygda inneber at du må betale trygdeavgift .</p>
+    <p>Kor mykje du skal betale i trygdeavgift, er avhengig av</p>
+    <list>
+      <p type="listitem">om du er skattepliktig til Noreg og trygdeavgifta blir betalt saman med skatten</p>
+      <p type="listitem">om arbeidsgivaren pliktar å betale arbeidsgivaravgift</p>
+    </list>
+    <p>
+      <em type="italic">Når tek medlemskapen slutt? </em>
+    </p>
+    <p>Arbeid eller opphald i utlandet kan føre til at medlemskapen i folketrygda tek slutt.</p>
+    <p>
+      <em type="italic">Konsekvensar av ikkje å vere medlem i folketrygda </em>
+    </p>
+    <p>Når du ikkje er medlem i folketrygda, har du ingen rettar etter folketrygdlova.</p>
+    <p>Det vil seie at du heller ikkje skal betale trygdeavgift.</p>
+  </body>
+</document>

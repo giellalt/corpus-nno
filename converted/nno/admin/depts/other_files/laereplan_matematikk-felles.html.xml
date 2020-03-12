@@ -1,0 +1,430 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>4347</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName>
+    <parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Læreplan i matematikk fellesfag</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p type="title" xml:lang="nob">Læreplan i matematikk fellesfag</p>
+    <p>Fastsett som forskrift av Kunnskapsdepartementet 21.06.2013</p>
+    <p>Gjeld frå: 01.08.2013</p>
+    <p type="title" xml:lang="nob">Føremål</p>
+    <p>Matematikk er ein del av den globale kulturarven vår. Mennesket har til alle tider brukt og utvikla matematikk for å systematisere erfaringar, for å beskrive og forstå samanhengar i naturen og i samfunnet og for å utforske universet. Ei anna inspirasjonskjelde til utviklinga av faget har vore glede hos menneske over arbeid med matematikk i seg sjølv. Faget grip inn i mange vitale samfunnsområde, som medisin, økonomi, teknologi, kommunikasjon, energiforvalting og byggjeverksemd. Solid kompetanse i matematikk er dermed ein føresetnad for utvikling av samfunnet. Eit aktivt demokrati treng borgarar som kan setje seg inn i, forstå og kritisk vurdere kvantitativ informasjon, statistiske analysar og økonomiske prognosar. På den måten er matematisk kompetanse nødvendig for å forstå og kunne påverke prosessar i samfunnet.</p>
+    <p>Matematisk kompetanse inneber å bruke problemløysing og modellering til å analysere og omforme eit problem til matematisk form, løyse det og vurdere kor gyldig løysinga er. Dette har òg språklege aspekt, som det å formidle, samtale om og resonnere omkring idear. I det meste av matematisk aktivitet nyttar ein hjelpemiddel og teknologi. Både det å kunne bruke og vurdere ulike hjelpemiddel og det å kjenne til avgrensinga deira er viktige delar av faget. Kompetanse i matematikk er ein viktig reiskap for den einskilde, og faget kan leggje grunnlag for å ta vidare utdanning og for deltaking i yrkesliv og fritidsaktivitetar. Matematikk ligg til grunn for store delar av kulturhistoria vår og utviklinga av logisk tenking. På den måten spelar faget ei sentral rolle i den allmenne danninga ved å påverke identitet, tenkjemåte og sjølvforståing.</p>
+    <p>Matematikkfaget i skolen medverkar til å utvikle den matematiske kompetansen som samfunnet og den einskilde treng. For å oppnå dette må elevane få høve til å arbeide både praktisk og teoretisk. Opplæringa vekslar mellom utforskande, leikande, kreative og problemløysande aktivitetar og ferdigheitstrening. I praktisk bruk viser matematikk sin nytte som reiskapsfag. I skolearbeidet utnyttar ein sentrale idear, former, strukturar og samanhengar i faget. Elevane må utfordrast til å kommunisere matematikk skriftleg, munnleg og digitalt. Det må leggjast til rette for at både jenter og gutar får rike erfaringar med matematikkfaget, som skaper positive haldningar og ein solid fagkompetanse. Slik blir det lagt eit grunnlag for livslang læring.</p>
+    <p type="title" xml:lang="dan">Hovudområder</p>
+    <p>Faget er strukturert i hovudområde som det er formulert kompetansemål for. Hovudområda utfyller kvarandre og må sjåast i samanheng.</p>
+    <p>Faget er eit fellesfag for alle utdanningsprogramma i vidaregåande opplæring. Opplæringa skal difor gjerast mest mogleg relevant for elevane ved å tilpassast til dei ulike utdanningsprogramma.</p>
+    <p>Matematikk har kompetansemål etter 2., 4., 7. og 10. årssteget i grunnskolen og etter Vg1 i studieførebuande og yrkesfaglege utdanningsprogram i vidaregåande opplæring.</p>
+    <p>Det er to variantar av læreplanen på Vg1. T-varianten er meir teoretisk orientert, medan P-varianten er meir praktisk orientert. Begge variantane gjev i dei studieførebuande utdanningsprogramma generell studiekompetanse saman med matematikk på Vg2, anten 2T/2P eller programfag i matematikk (R1/S1).</p>
+    <p>Elevar i yrkesfaglege utdanningsprogram skal i Vg1 ha tre femdelar av læreplanen matematikk 1P eller 1T. Læreplanen viser kompetansemåla i matematikk i dei yrkesfaglege utdanningsprogramma i 1T-Y og 1P-Y.</p>
+    <p xml:lang="nob">
+      <em type="bold">Oversikt over hovudområda: </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p>
+      <em type="bold">Hovudområde </em>
+    </p>
+    <p xml:lang="koi">1.–4.</p>
+    <p xml:lang="est">Tal</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="nob">Måling</p>
+    <p xml:lang="nob">Statistikk</p>
+    <p xml:lang="koi">5.–7.</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="nob">Måling</p>
+    <p xml:lang="nob">Statistikk og sannsyn (bm.: sannsynlighet)</p>
+    <p xml:lang="koi">8.–10.</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="nob">Måling</p>
+    <p xml:lang="nob">Statistikk, sannsyn og kombinatorikk</p>
+    <p xml:lang="nob">Funksjonar</p>
+    <p xml:lang="smn">1T</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="isl">Sannsyn</p>
+    <p xml:lang="nob">Funksjonar</p>
+    <p xml:lang="vep">1P</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="isl">Sannsyn</p>
+    <p xml:lang="nob">Funksjonar</p>
+    <p xml:lang="dan">Økonomi</p>
+    <p xml:lang="est">1T-Y</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="nob">Funksjonar</p>
+    <p xml:lang="vep">1P-Y</p>
+    <p xml:lang="isl">Tal og algebra</p>
+    <p xml:lang="nob">Geometri</p>
+    <p xml:lang="dan">Økonomi</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Hovudområdet tal og algebra handlar om å utvikle talforståing og innsikt i korleis tal og talbehandling inngår i system og mønster. Med tal kan ein kvantifisere mengder og storleikar. Området tal omfattar både heile tal, brøk, desimaltal og prosent. Algebra i skolen generaliserer talrekning ved at bokstavar eller andre symbol representerer tal. Det gjev høve til å beskrive og analysere mønster og samanhengar. Algebra blir òg nytta i samband med hovudområda geometri og funksjonar.</p>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Geometri i skolen handlar mellom anna om å analysere eigenskapar ved to- og tredimensjonale figurar og gjere konstruksjonar og berekningar. Ein studerer dynamiske prosessar som spegling, rotasjon og forskyving. Hovudområdet omfattar òg å beskrive plassering og forflytting i rutenett, kart og koordinatsystem.</p>
+    <p type="title" xml:lang="nob">Måling</p>
+    <p>Måling vil seie å samanlikne og oftast knyte ein talstorleik til eit objekt eller ei mengd. Denne prosessen krev at ein brukar måleiningar og høvelege teknikkar, målereiskapar og formlar. Viktige delar av måleprosessen er å vurdere resultatet og drøfte kor usikre målingane er.</p>
+    <p type="title" xml:lang="nob">Statistikk, sannsyn og kombinatorikk</p>
+    <p>Statistikk omfattar å planleggje, samle inn, organisere, analysere og presentere data. I analysen av data høyrer det med å beskrive generelle trekk ved datamaterialet. Å vurdere og sjå kritisk på konklusjonar og framstilling av data er ein sentral del av denne prosessen. I sannsynsrekning talfester ein kor stor sjanse det er for at ei hending skal skje. I kombinatorikk arbeider ein med systematiske måtar for å telje opp moglege utfall for å kunne berekne sannsyn.</p>
+    <p type="title" xml:lang="nob">Funksjonar</p>
+    <p>Ein funksjon beskriv endring eller utvikling av ein storleik som er avhengig av ein annan, på ein eintydig måte. Funksjonar kan uttrykkjast på fleire måtar, til dømes med formlar, tabellar og grafar. Analyse av funksjonar går ut på å leite etter spesielle eigenskapar, som kor raskt ei utvikling går, og når utviklinga får spesielle verdiar.</p>
+    <p type="title" xml:lang="dan">Økonomi</p>
+    <p>Hovudområdet økonomi handlar om berekningar og vurderingar som gjeld økonomiske forhold.</p>
+    <p type="title" xml:lang="est">Timetal</p>
+    <p>Timetala er oppgjevne i einingar på 60 minutt.</p>
+    <p xml:lang="deu">BARNESTEGET</p>
+    <p>1.–4. årssteget: 560 timar</p>
+    <p>5. –7. årssteget: 328 timar</p>
+    <p xml:lang="deu">UNGDOMSSTEGET</p>
+    <p>8.–10. årssteget: 313 timar</p>
+    <p xml:lang="deu">STUDIEFØREBUANDE UTDANNINGSPROGRAM</p>
+    <p>Vg1: 140 timar</p>
+    <p xml:lang="deu">YRKESFAGLEGE UTDANNINGSPROGRAM</p>
+    <p>Vg1: 84 timar</p>
+    <p type="title">Grunnleggjande ferdigheiter</p>
+    <p>Grunnleggjande ferdigheiter er integrerte i kompetansemåla, der dei medverkar til utvikling av og er ein del av fagkompetansen. I matematikk forstår ein grunnleggjande ferdigheiter slik:</p>
+    <p><em type="italic">Munnlege ferdigheiter </em>i matematikk inneber å skape meining gjennom å lytte, tale og samtale om matematikk. Det inneber å gjere seg opp ei meining, stille spørsmål og argumentere ved hjelp av både eit uformelt språk, presis fagterminologi og omgrepsbruk. Det vil seie å vere med i samtalar, kommunisere idear og drøfte matematiske problem, løysingar og strategiar med andre. Utvikling i munnlege ferdigheiter i matematikk går frå å delta i samtalar om matematikk til å presentere og drøfte komplekse faglege emne. Vidare går utviklinga frå å bruke eit enkelt matematisk språk til å bruke presis fagterminologi og uttrykksmåte og presise omgrep. </p>
+    <p><em type="italic">Å kunne skrive </em>i matematikk inneber å beskrive og forklare ein tankegang og setje ord på oppdagingar og idear. Det inneber å bruke matematiske symbol og det formelle matematiske språket til å løyse problem og presentere løysingar. Vidare vil det seie å lage teikningar, skisser, figurar, grafar, tabellar og diagram som er tilpassa mottakaren og situasjonen. Skriving i matematikk er ein reiskap for å utvikle eigne tankar og eiga læring. Utvikling i å skrive i matematikk går frå å bruke enkle uttrykksformer til gradvis å ta i bruk eit formelt symbolspråk og ein presis fagterminologi. Vidare går utviklinga frå å beskrive og systematisere enkle situasjonar med matematikkfagleg innhald til å byggje opp ein heilskapleg argumentasjon omkring komplekse samanhengar. </p>
+    <p><em type="italic">Å kunne lese </em>i matematikk inneber å forstå og bruke symbolspråk og uttrykksformer for å skape meining i tekstar frå daglegliv og yrkesliv så vel som matematikkfaglege tekstar. Matematikkfaget er prega av samansette tekstar som inneheld matematiske uttrykk, grafar, diagram, tabellar, symbol, formlar og logiske resonnement. Lesing i matematikk inneber å sortere informasjon, analysere og vurdere form og innhald og samanfatte informasjon frå ulike element i tekstar. Utvikling i å lese i matematikk går frå å finne og bruke informasjon i tekstar med enkelt symbolspråk til å finne meining og reflektere over komplekse fagtekstar med avansert symbolspråk og omgrepsbruk. </p>
+    <p><em type="italic">Å kunne rekne </em>i matematikk inneber å bruke symbolspråk, matematiske omgrep, framgangsmåtar og varierte strategiar til problemløysing og utforsking som tek utgangspunkt både i praktiske, daglegdagse situasjonar og i matematiske problem. Dette inneber å kjenne att og beskrive situasjonar der matematikk inngår, og bruke matematiske metodar til å behandle problemstillingar. Eleven må òg kommunisere og vurdere kor gyldige løysingane er. Utvikling av å rekne i matematikk går frå grunnleggjande talforståing og å kjenne att og løyse problem ut frå enkle situasjonar til å analysere og løyse eit spekter av komplekse problem med eit variert utval av strategiar og metodar. Vidare inneber dette i aukande grad å bruke ulike hjelpemiddel i berekningar, modellering og kommunikasjon. </p>
+    <p><em type="italic">Digitale ferdigheiter </em>i matematikk inneber å bruke digitale verktøy til læring gjennom spel, utforsking, visualisering og presentasjon. Det handlar òg om å kjenne til, bruke og vurdere digitale verktøy til berekningar, problemløysing, simulering og modellering. Vidare vil det seie å finne informasjon, analysere, behandle og presentere data med formålstenlege verktøy, og vere kritisk til kjelder, analysar og resultat. Utvikling i digitale ferdigheiter inneber å arbeide med samansette digitale tekstar med aukande grad av kompleksitet. Vidare inneber det å bli stadig meir merksam på den nytten digitale verktøy har for læring i matematikkfaget. </p>
+    <p type="title" xml:lang="nob">Kompetansemål etter 2. årssteget</p>
+    <p type="title" xml:lang="est">Tal</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">telje til 100, dele opp og byggje mengder opp til 10, setje saman og dele opp tiargrupper opp til 100 og dele tosifra tal i tiarar og einarar</p>
+      <p type="listitem" xml:lang="nob">bruke tallinja til berekningar og til å vise talstorleikar</p>
+      <p type="listitem">gjere overslag over mengder, telje opp, samanlikne tal og uttrykkje talstorleikar på varierte måtar</p>
+      <p type="listitem">utvikle, bruke og samtale om varierte reknestrategiar for addisjon og subtraksjon av tosifra tal og vurdere kor rimelege svara er</p>
+      <p type="listitem" xml:lang="nob">doble og halvere</p>
+      <p type="listitem">kjenne att, samtale om og vidareføre strukturar i enkle talmønster</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">kjenne att og beskrive trekk ved enkle to- og tredimensjonale figurar i samband med hjørne, kantar og flater og sortere og setje namn på figurane etter desse trekka</p>
+      <p type="listitem">kjenne att, bruke og samtale om spegelsymmetri i praktiske situasjonar</p>
+      <p type="listitem">lage og utforske geometriske mønster, både med og utan digitale verktøy, og beskrive dei munnleg</p>
+    </list>
+    <p type="title" xml:lang="nob">Måling</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">måle og samanlikne storleikar som gjeld lengd og areal, ved hjelp av ikkje-standardiserte og standardiserte måleiningar, beskrive korleis og samtale om resultata</p>
+      <p type="listitem">nemne dagar, månader og enkle klokkeslett</p>
+      <p type="listitem">kjenne att norske myntar og setlar opp til 100 og bruke dei i kjøp og sal</p>
+    </list>
+    <p type="title" xml:lang="nob">Statistikk</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">samle, sortere, notere og illustrere data med teljestrekar, tabellar og søylediagram og samtale om prosessen og kva illustrasjonane fortel om datamaterialet</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 4. årssteget</p>
+    <p type="title" xml:lang="est">Tal</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">beskrive og bruke plassverdisystemet for dei heile tala, bruke positive og negative heile tal, enkle brøkar og desimaltal i praktiske samanhengar og uttrykkje talstorleikar på varierte måtar</p>
+      <p type="listitem">gjere overslag over og finne tal ved hjelp av hovudrekning, teljemateriell og skriftlege notat, gjennomføre overslagsrekning og vurdere svar</p>
+      <p type="listitem">utvikle, bruke og samtale om ulike reknemetodar for addisjon og subtraksjon av fleirsifra tal både i hovudet og på papiret</p>
+      <p type="listitem">utvikle og bruke varierte metodar for multiplikasjon og divisjon, bruke dei i praktiske situasjonar og bruke den vesle multiplikasjonstabellen i hovudrekning og i oppgåveløysing</p>
+      <p type="listitem">finne informasjon i tekstar eller praktiske samanhengar, velje rekneart og grunngje valet, bruke tabellkunnskap og utnytte samanhengar mellom rekneartane, vurdere resultatet og presentere løysinga</p>
+      <p type="listitem">kjenne att, eksperimentere med, beskrive og vidareføre strukturar i talmønster</p>
+      <p type="listitem">bruke matematiske symbol og uttrykksmåtar for å uttrykkje matematiske samanhengar i oppgåveløysing</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">kjenne att, beskrive trekk ved og sortere sirklar, mangekantar, kuler, sylindrar og polyeder</p>
+      <p type="listitem">teikne, byggje, utforske og beskrive geometriske figurar og modellar i praktiske samanhengar, medrekna teknologi og design</p>
+      <p type="listitem">kjenne att, bruke og beskrive spegelsymmetri og parallellforskyving i konkrete situasjonar</p>
+      <p type="listitem">lage og utforske geometriske mønster og beskrive dei munnleg</p>
+      <p type="listitem">lese av, plassere og beskrive posisjonar i rutenett, på kart og i koordinatsystem, både med og utan digitale verktøy</p>
+    </list>
+    <p type="title" xml:lang="nob">Måling</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere overslag over og måle lengd, areal, volum, masse, temperatur, tid og vinklar, samtale om resultata og vurdere om dei er rimelege</p>
+      <p type="listitem">bruke ikkje-standardiserte måleiningar og forklare formålet med å standardisere måleiningar og bruke og gjere om mellom vanlege måleiningar</p>
+      <p type="listitem">samanlikne storleikar ved hjelp av høvelege målereiskapar og enkel berekning, presentere resultata og vurdere om dei er rimelege</p>
+      <p type="listitem">løyse praktiske oppgåver som gjeld kjøp og sal</p>
+    </list>
+    <p type="title" xml:lang="nob">Statistikk</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">samle, sortere, notere og illustrere data på formålstenlege måtar med teljestrekar, tabellar og søylediagram, med og utan digitale verktøy, og samtale om prosess og framstilling</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 7. årssteget</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">beskrive og bruke plassverdisystemet for desimaltal, rekne med positive og negative heile tal, desimaltal, brøkar og prosent og plassere dei ulike storleikane på tallina</p>
+      <p type="listitem" xml:lang="nob">finne samnemnar (bm.: fellesnevner) og utføre addisjon, subtraksjon og multiplikasjon av brøkar</p>
+      <p type="listitem">utvikle, bruke og diskutere metodar for hovudrekning, overslagsrekning og skriftleg rekning og bruke digitale verktøy i berekningar</p>
+      <p type="listitem">beskrive referansesystemet og notasjonen som blir nytta for formlar i eit rekneark, og bruke rekneark til å utføre og presentere berekningar</p>
+      <p type="listitem">finne informasjon i tekstar eller praktiske samanhengar, stille opp og forklare berekningar og framgangsmåtar, vurdere resultatet og presentere og diskutere løysinga</p>
+      <p type="listitem">utforske og beskrive strukturar og forandringar i geometriske mønster og talmønster med figurar, ord og formlar</p>
+      <p type="listitem">stille opp og løyse enkle likningar og løyse opp og rekne med parentesar i addisjon, subtraksjon og multiplikasjon av tal</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">analysere eigenskapar ved to- og tredimensjonale figurar og beskrive fysiske gjenstandar innanfor daglegliv og teknologi ved hjelp av geometriske omgrep</p>
+      <p type="listitem">byggje tredimensjonale modellar, teikne perspektiv med eitt forsvinningspunkt og diskutere prosessane og produkta</p>
+      <p type="listitem" xml:lang="nob">beskrive og gjennomføre spegling, rotasjon og parallellforskyving</p>
+      <p type="listitem">beskrive plassering og flytting i rutenett, på kart og i koordinatsystem, med og utan digitale hjelpemiddel, og bruke koordinatar til å berekne avstandar parallelt med aksane i eit koordinatsystem</p>
+    </list>
+    <p type="title" xml:lang="nob">Måling</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">velje høvelege målereiskapar og gjere praktiske målingar i samband med daglegliv og teknologi og vurdere resultata ut frå presisjon og måleusikkerheit</p>
+      <p type="listitem">gjere overslag over og måle storleikar for lengd, areal, masse, volum, vinkel og tid og bruke tidspunkt og tidsintervall i enkle berekningar, diskutere resultata og vurdere kor rimelege dei er</p>
+      <p type="listitem">velje høvelege måleiningar og rekne om mellom ulike måleiningar</p>
+      <p type="listitem">forklare oppbygginga av mål for lengd, areal og volum og berekne omkrins, areal, overflate og volum av to- og tredimensjonale figurar</p>
+      <p type="listitem">bruke målestokk til å berekne avstandar og lage og samtale om kart og arbeidsteikningar, med og utan digitale verktøy</p>
+      <p type="listitem">bruke forhold i praktiske samanhengar, rekne med fart og rekne om mellom valutaer</p>
+    </list>
+    <p type="title" xml:lang="nob">Statistikk og sannsyn</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">planleggje og samle inn data i samband med observasjonar, spørjeundersøkingar og eksperiment</p>
+      <p type="listitem">representere data i tabellar og diagram som er framstilte med og utan digitale verktøy, lese og tolke framstillingane og vurdere kor nyttige dei er</p>
+      <p type="listitem">finne median, typetal og gjennomsnitt i enkle datasett og vurdere dei ulike sentralmåla i forhold til kvarandre</p>
+      <p type="listitem">vurdere og samtale om sjansar i daglegdagse samanhengar, spel og eksperiment og berekne sannsyn i enkle situasjonar</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 10. årssteget</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">samanlikne og rekne om mellom heile tal, desimaltal, brøkar, prosent, promille og tal på standardform, uttrykkje slike tal på varierte måtar og vurdere i kva for situasjonar ulike representasjonar er formålstenlege</p>
+      <p type="listitem">rekne med brøk, utføre divisjon av brøkar og forenkle brøkuttrykk</p>
+      <p type="listitem">bruke faktorar, potensar, kvadratrøter og primtal i berekningar</p>
+      <p type="listitem">utvikle, bruke og gjere greie for ulike metodar i hovudrekning, overslagsrekning og skriftleg rekning med dei fire rekneartane</p>
+      <p type="listitem">behandle, faktorisere og forenkle algebrauttrykk, knyte uttrykka til praktiske situasjonar, rekne med formlar, parentesar og brøkuttrykk og bruke kvadratsetningane</p>
+      <p type="listitem">løyse likningar og ulikskapar av første grad og likningssystem med to ukjende og bruke dette til å løyse praktiske og teoretiske problem</p>
+      <p type="listitem">gjere berekningar om forbruk, bruk av kredittkort, inntekt, lån og sparing, setje opp budsjett og rekneskap ved å bruke rekneark og gjere greie for berekningar og presentere resultata</p>
+      <p type="listitem">analysere samansette problemstillingar, identifisere faste og variable storleikar, kople samansette problemstillingar til kjende løysingsmetodar, gjennomføre berekningar og presentere resultata på ein formålstenleg måte</p>
+      <p type="listitem">bruke tal og variablar i utforsking, eksperimentering og praktisk og teoretisk problemløysing og i prosjekt med teknologi og design</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">undersøkje og beskrive eigenskapar ved to- og tredimensjonale figurar og bruke eigenskapane i samband med konstruksjonar og berekningar</p>
+      <p type="listitem">utføre, beskrive og grunngje geometriske konstruksjonar med passar og linjal og dynamisk geometriprogram</p>
+      <p type="listitem">bruke og grunngje bruken av formlikskap og Pytagoras’ setning i berekning av ukjende storleikar</p>
+      <p type="listitem">tolke og lage arbeidsteikningar og perspektivteikningar med fleire forsvinningspunkt, med og utan digitale verktøy</p>
+      <p type="listitem">bruke koordinatar til å avbilde figurar og utforske eigenskapar ved geometriske former, med og utan digitale verktøy</p>
+      <p type="listitem">utforske, eksperimentere med og formulere logiske resonnement ved hjelp av geometriske idear og gjere greie for geometriske forhold som har særleg mykje å seie i teknologi, kunst og arkitektur</p>
+    </list>
+    <p type="title" xml:lang="nob">Måling</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere overslag over og berekne lengd, omkrins, vinkel, areal, overflate, volum, tid, fart og massetettleik og bruke og endre målestokk</p>
+      <p type="listitem">velje høvelege måleiningar, forklare samanhengar og rekne om mellom ulike måleiningar, bruke og vurdere måleinstrument og målemetodar i praktisk måling og drøfte presisjon og måleusikkerheit</p>
+      <p type="listitem">gjere greie for talet π og bruke det i berekningar av omkrins, areal og volum</p>
+    </list>
+    <p type="title" xml:lang="nob">Statistikk, sannsyn og kombinatorikk</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjennomføre undersøkingar og bruke databasar til å søkje etter og analysere statistiske data og vise kjeldekritikk</p>
+      <p type="listitem">ordne og gruppere data, finne og drøfte median, typetal, gjennomsnitt og variasjonsbreidd, presentere data, med og utan digitale verktøy, og drøfte ulike dataframstillingar og kva inntrykk dei kan gje</p>
+      <p type="listitem">finne og diskutere sannsyn gjennom eksperimentering, simulering og berekning i daglegdagse samanhengar og spel</p>
+      <p type="listitem" xml:lang="nob">beskrive utfallsrom og uttrykkje sannsyn som brøk, prosent og desimaltal</p>
+      <p type="listitem">drøfte og løyse enkle kombinatoriske problem</p>
+    </list>
+    <p type="title" xml:lang="nob">Funksjonar</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">lage funksjonar som beskriv numeriske samanhengar og praktiske situasjonar, med og utan digitale verktøy, beskrive og tolke dei og omsetje mellom ulike representasjonar av funksjonar, som grafar, tabellar, formlar og tekstar</p>
+      <p type="listitem">identifisere og utnytte eigenskapane til proporsjonale, omvendt proporsjonale, lineære og kvadratiske funksjonar og gje døme på praktiske situasjonar som kan beskrivast med desse funksjonane</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 1T – Vg1 studieførebuande utdanningsprogram</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">tolke, bearbeide, vurdere og drøfte det matematiske innhaldet i ulike tekstar</p>
+      <p type="listitem">vurdere, velje og bruke matematiske metodar og verktøy til å løyse problem frå ulike fag og samfunnsområde og reflektere over, vurdere og presentere løysingane på ein formålstenleg måte</p>
+      <p type="listitem">rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat</p>
+      <p type="listitem">omforme uttrykk og løyse likningar, ulikskapar og likningssystem av første og andre grad og enkle likningar med eksponential- og logaritmefunksjonar, både ved rekning og med digitale verktøy</p>
+      <p type="listitem">omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar</p>
+      <p type="listitem">bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal</p>
+      <p type="listitem">lage og bruke skisser og teikningar til å formulere problemstillingar, i oppgåveløysing og til å presentere og grunngje løysingane, med og utan bruk av digitale verktøy</p>
+    </list>
+    <p type="title" xml:lang="isl">Sannsyn</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="dan">formulere, eksperimentere med og drøfte uniforme og ikkje-uniforme sannsynsmodellar</p>
+      <p type="listitem">berekne sannsyn ved å telje opp gunstige og moglege utfall, systematisere oppteljingar ved hjelp av krysstabellar, venndiagram og val-tre og bruke addisjonssetninga og produktsetninga</p>
+    </list>
+    <p type="title" xml:lang="nob">Funksjonar</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for funksjonsomgrepet og kunne omsetje mellom ulike representasjonar av funksjonar</p>
+      <p type="listitem">berekne nullpunkt, ekstremalpunkt, skjeringspunkt og gjennomsnittleg vekstfart, finne tilnærma verdiar for momentan vekstfart og gje nokre praktiske tolkingar av desse aspekta</p>
+      <p type="listitem">gjere greie for definisjonen av den deriverte, bruke definisjonen til å utleie ein derivasjonsregel for polynomfunksjonar og bruke denne regelen til å drøfte funksjonar</p>
+      <p type="listitem">lage, tolke og gjere greie for funksjonar som beskriv praktiske problemstillingar, analysere empiriske funksjonar og finne uttrykk for tilnærma lineære samanhengar, med og utan bruk av digitale verktøy</p>
+      <p type="listitem">bruke digitale verktøy til å framstille og analysere kombinasjonar av polynomfunksjonar, rotfunksjonar, rasjonale funksjonar, eksponentialfunksjonar og potensfunksjonar</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 1P – Vg1 studieførebuande utdanningsprogram</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere overslag over svar, rekne praktiske oppgåver, med og utan digitale verktøy, presentere resultata og vurdere kor rimelege dei er</p>
+      <p type="listitem">tolke, bearbeide, vurdere og diskutere det matematiske innhaldet i skriftlege, munnlege og grafiske framstillingar</p>
+      <p type="listitem">forenkle fleirledda uttrykk og løyse likningar av første grad og enkle potenslikningar</p>
+      <p type="listitem">tolke og bruke formlar som gjeld daglegliv og yrkesliv</p>
+      <p type="listitem">rekne med forhold, prosent, prosentpoeng og vekstfaktor</p>
+      <p type="listitem">behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="nob">bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid</p>
+      <p type="listitem">løyse problem som gjeld lengd, vinkel, areal og volum</p>
+      <p type="listitem">rekne med ulike måleiningar, bruke ulike målereiskapar, vurdere kva for målereiskapar som er formålstenlege, og vurdere kor usikre målingane er</p>
+      <p type="listitem">tolke, lage og bruke skisser og arbeidsteikningar på problemstillingar frå kultur- og yrkesliv og presentere og grunngje løysingar</p>
+    </list>
+    <p type="title" xml:lang="isl">Sannsyn</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">lage døme og simuleringar av tilfeldige hendingar og gjere greie for omgrepet sannsyn</p>
+      <p type="listitem">berekne sannsyn ved å telje opp gunstige og moglege utfall, systematisere oppteljingar ved hjelp av krysstabellar, venndiagram og val-tre og bruke addisjonssetninga og produktsetninga i praktiske samanhengar</p>
+    </list>
+    <p type="title" xml:lang="nob">Funksjonar</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for omgrepet lineær vekst, vise gangen i slik vekst og bruke dette i praktiske døme, også digitalt</p>
+      <p type="listitem">omsetje mellom ulike representasjonar av funksjonar</p>
+      <p type="listitem">undersøkje funksjonar som beskriv praktiske situasjonar, ved å fastsetje nullpunkt, ekstremalpunkt og skjeringspunkt og tolke den praktiske verdien av resultata</p>
+    </list>
+    <p type="title" xml:lang="dan">Økonomi</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for og rekne med prisindeks, kroneverdi, reallønn og nominell lønn og berekne inntekt, skatt og avgifter</p>
+      <p type="listitem">vurdere forbruk og bruk av kredittkort og setje opp budsjett og rekneskap ved hjelp av rekneark</p>
+      <p type="listitem">undersøkje og vurdere ulike former for lån og sparing</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 1T-Y – Vg1 yrkesfaglege utdanningsprogram</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">tolke, bearbeide, vurdere og drøfte det matematiske innhaldet i ulike tekstar</p>
+      <p type="listitem">vurdere, velje og bruke matematiske metodar og verktøy til å løyse problem frå ulike fag og samfunnsområde og reflektere over, vurdere og presentere løysingane på ein formålstenleg måte</p>
+      <p type="listitem">rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat</p>
+      <p type="listitem">omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar</p>
+      <p type="listitem">bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal</p>
+      <p type="listitem">lage og bruke skisser og teikningar til å formulere problemstillingar, i oppgåveløysing og til å presentere og grunngje løysingane, med og utan bruk av digitale verktøy</p>
+    </list>
+    <p type="title" xml:lang="nob">Funksjonar</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">lage, tolke og gjere greie for funksjonar som beskriv praktiske problemstillingar, analysere empiriske funksjonar og finne uttrykk for tilnærma lineære samanhengar, med og utan bruk av digitale verktøy</p>
+      <p type="listitem">gjere greie for funksjonsomgrepet og kunne omsetje mellom ulike representasjonar av funksjonar</p>
+      <p type="listitem">berekne nullpunkt, ekstremalpunkt, skjeringspunkt og gjennomsnittleg vekstfart, finne tilnærma verdiar for momentan vekstfart og gje nokre praktiske tolkingar av desse aspekta</p>
+    </list>
+    <p type="title" xml:lang="nob">Kompetansemål etter 1P-Y – Vg1 yrkesfaglege utdanningsprogram</p>
+    <p type="title" xml:lang="isl">Tal og algebra</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere overslag over svar, rekne praktiske oppgåver, med og utan digitale verktøy, presentere resultata og vurdere kor rimelege dei er</p>
+      <p type="listitem">tolke, bearbeide, vurdere og diskutere det matematiske innhaldet i skriftlege, munnlege og grafiske framstillingar</p>
+      <p type="listitem">forenkle fleirledda uttrykk og løyse likningar av første grad og enkle potenslikningar</p>
+      <p type="listitem">tolke og bruke formlar som gjeld daglegliv og yrkesliv</p>
+      <p type="listitem">rekne med forhold, prosent, prosentpoeng og vekstfaktor</p>
+      <p type="listitem">behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar</p>
+    </list>
+    <p type="title" xml:lang="nob">Geometri</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="nob">bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid</p>
+      <p type="listitem">løyse problem som gjeld lengd, vinkel, areal og volum</p>
+      <p type="listitem">rekne med ulike måleiningar, bruke ulike målereiskapar, vurdere kva for målereiskapar som er formålstenlege, og vurdere kor usikre målingane er</p>
+      <p type="listitem">tolke, lage og bruke skisser og arbeidsteikningar på problemstillingar frå kultur- og yrkesliv og presentere og grunngje løysingar</p>
+    </list>
+    <p type="title" xml:lang="dan">Økonomi</p>
+    <p>Mål for opplæringa er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gjere greie for og rekne med prisindeks, kroneverdi, reallønn og nominell lønn og berekne inntekt, skatt og avgifter</p>
+      <p type="listitem">vurdere forbruk og bruk av kredittkort og setje opp budsjett og rekneskap ved hjelp av rekneark</p>
+      <p type="listitem">undersøkje og vurdere ulike former for lån og sparing</p>
+    </list>
+    <p type="title" xml:lang="nob">Vurdering</p>
+    <p xml:lang="dan">Retningsliner for sluttvurdering:</p>
+    <p xml:lang="nob">
+      <em type="bold">Standpunktvurdering </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årssteget</p>
+    <p>Elevane skal ha éin standpunktkarakter.</p>
+    <p xml:lang="nob">Vg1 yrkesfaglege utdanningsprogram Vg1 studieførebuande utdanningsprogram</p>
+    <p>Elevane skal ha éin standpunktkarakter.</p>
+    <p>
+      <em type="bold">Eksamen for elevar </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årssteget</p>
+    <p>Elevane kan trekkjast ut til skriftleg eksamen. Skriftleg eksamen blir utarbeidd og sensurert sentralt. Elevane kan òg trekkjast ut til munnleg eksamen. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>
+    <p xml:lang="nob">Vg1 yrkesfaglege utdanningsprogram</p>
+    <p>Elevane kan trekkjast ut til skriftleg eller munnleg eksamen. Skriftleg eksamen blir utarbeidd og sensurert lokalt. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>
+    <p xml:lang="nob">Vg1 studieførebuande utdanningsprogram</p>
+    <p>Elevane kan trekkjast ut til skriftleg eller munnleg eksamen. Skriftleg eksamen blir utarbeidd og sensurert sentralt. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>
+    <p xml:lang="dan">
+      <em type="bold">Eksamen for privatistar </em>
+    </p>
+    <p>
+      <em type="bold">Årssteg </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årssteget</p>
+    <p>Sjå ordninga som gjeld for grunnskoleopplæring for vaksne.</p>
+    <p xml:lang="nob">Vg1 yrkesfaglege utdanningsprogram</p>
+    <p>Privatistane skal opp til skriftleg eksamen. Eksamen blir utarbeidd og sensurert lokalt.</p>
+    <p xml:lang="nob">Vg1 studieførebuande utdanningsprogram</p>
+    <p>Privatistane skal opp til skriftleg eksamen. Eksamen blir utarbeidd og sensurert sentralt.</p>
+    <p>Dei generelle retningslinene om vurdering er fastsette i forskrifta til opplæringslova.</p>
+  </body>
+</document>

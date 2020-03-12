@@ -1,0 +1,38 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ođđa stáhtastipeanddat - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>130</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/nye-statsstipendiat.html?id=704125</origFileName>
+    <parallel_text xml:lang="sme" location="oa-stahtastipeanddat_id_704125.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Nye statsstipendiat - regjeringen.no</p>
+    <p>
+      <em type="italic">Kulturdepartementet gjer framlegg om at Mari Boine, Peter Normann Waage og Morten Jostad får statsstipend frå 2013. </em>
+    </p>
+    <p>Mari Boine er rekna som den fremste formidlaren av urfolks- og verdsmusikk her i landet. Gjennom ei lang karriere har ho skapt eit personleg uttrykk i grensefeltet mellom samisk musikk, rock, jazz og folkemusikktradisjonar frå andre kulturar.</p>
+    <p>Peter Normann Waage er skribent, forfattar og omsetjar. Han har særs markert seg som formidlar av russisk kultur- og mentalitetshistorie, i dei seinare åra også islam og arabisk kultur.</p>
+    <p>Morten Jostad er kulturformidlar, forfattar, skodespelar og dramatikar. Hans breie innsats på scenekunstfeltet omfattar også amatørteateropplæring og formidling av nordisk kultur.</p>
+    <p>Statsstipendet er på 416 600 kroner årleg. I dag er det 30 statsstipendiatar i ordninga, av dei sju kvinner og 23 menn.</p>
+  </body>
+</document>

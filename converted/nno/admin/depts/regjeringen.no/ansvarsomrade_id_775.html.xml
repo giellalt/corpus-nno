@@ -1,0 +1,39 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ovddasvástádussuorggit - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Olje- og energidepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>107</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/oed/Om-departementet/Ansvarsomrade.html?id=775</origFileName>
+    <parallel_text xml:lang="nob" location="ansvarsomraader_id_775.html"/>
+    <parallel_text xml:lang="sme" location="ovddasvastadussuorggit_id_775.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ansvarsområde - regjeringen.no</p>
+    <p>Olje- og energidepartementets hovedoppgåve er å tilretteleggje ein samordna og heilheitleg energipolitikk.</p>
+    <p>Eit overordna mål er å sikre høg verdiskaping gjennom effektiv og miljøvenleg forvalting av energiressursane.</p>
+    <p>Utan god konkurranseevne, effektiv ressursbruk og lønsemd i energisektoren vert det ikkje skapt arbeidsplassar og inntekter som er naudsynte for å sikre velferd og sysselsettjing. Energipolitikken må verte lagt opp slik at ein innanfor miljømessig forsvarlege rammer, best mogleg kan utnytte den samla tilgangen på arbeidskraft, kunnskap, kapital og naturressursar.</p>
+    <p>Som sekretariat for den politiske leiinga vil departementet sitt mål utvikla seg med regjeringa sine energipolitiske målsetjingar som du finn i aktuelle meldingar og proposisjonar til Stortinget.</p>
+  </body>
+</document>

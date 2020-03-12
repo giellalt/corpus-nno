@@ -1,0 +1,50 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Stáhtaráđđi - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>424</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/Om-regjeringa/Slik-arbeider-regjeringa/statsrad.html?id=270325</origFileName>
+    <parallel_text xml:lang="eng" location="the-council-of-state_id_270325.html"/>
+    <parallel_text xml:lang="nob" location="statsrad_id_270325.html"/>
+    <parallel_text xml:lang="sme" location="stahtarai_id_270325.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Statsråd - regjeringen.no</p>
+    <p>
+      <em type="italic">Statsrådsmøte vert normalt halde fredag kl. 11.00, i Statsrådsalen på Det kongelege slott i Oslo. </em>
+    </p>
+    <p>På førehand er sakene politisk gjennomdrøfta i regjeringa, seinast i førebuande statsråd under regjeringskonferansen dagen før. Det er difor ikkje drøftingar i statsrådsmøta, men Kongen kan stille spørsmål ved sakene.</p>
+    <p>Kvar sak er utforma i to hovuddelar. Først kjem eit såkalla føredrag der statsråden gjer skriftleg greie for saka og sine vurderingar. Deretter følgjer tilrådingsposten der statsråden på vegner av departementet gjev si tilråding i saka.</p>
+    <p>Gangen i statsrådsmøtet er at Kongen etter tur spør om det er saker frå departementa. Statsrådar som har saker, nemner desse. Når Kongen har kvittert med ein aksept, er vedtaket fatta. Protokollen for kvart statsrådsmøte vert signert av Kongen og alle regjeringsmedlemer som har delteke. Kongen kjenner i utgangspunktet ikkje sakene før han får dei framlagt, men statsministeren har samtalar med Kongen kvar månad om spørsmål av meir prinsipiell karakter.</p>
+    <p><em type="italic">Kva saker vert handsama i statsråd? </em>Grunnlova § 28 seier at det er viktige saker som vert avgjort av Statsrådet, det vil seie som vert vedtekne ved kongeleg resolusjon. Denne handsamingsmåten er først og fremst viktig av di desse sakene formelt vert handsama av heile regjering, og ikkje berre av den statsråden som vedtaket høyrer under. At saka er handsama i statsråd, tyder òg at ho automatisk kjem under parlamentarisk kontroll ved Stortinget sin gjennomgang av statsrådsprotokollane. </p>
+    <p>Som eksempel på viktige saker nemner Grunnlova utnemningar til statlege embete og nådesaker. Andre saker som vert handsama i statsråd er lovframlegg, løyvingsframlegg, stortingsmeldingar, sanksjonar av lovvedtak i Stortinget, provisoriske anordningar og saker der Kongen ved lov er tillagt avgjerda.</p>
+    <p>Utover dette må det kvile på skjøn kva saker som skal reknast som så viktige at dei må handsamast av Statsrådet. Inngåing av avtalar med andre land eller internasjonale organisasjonar, kan være ei slik sak. Delegasjon av myndigheit frå Kongen må vedtakast i statsråd. Nye faste styre og råd vil ofte verte oppretta ved kongeleg resolusjon. Det same gjeld handsaming av klager på einskildvedtak som i fyrste omgang er gjort av ein statsråd i eige departement, om ikkje klageretten er oppheva ved lov eller forskrift.</p>
+    <p>Generelt har talet på statsrådssaker vorte redusert i dei seinare åra, mellom anna av di færre stillingar i staten nå vert rekna som embete, og av di avgjerda på mange saksfelt har vorte delegert til lågare nivå.</p>
+    <p>Sekretær for Statsrådet er regjeringsråden, den administrative sjefen for Statsministerens kontor.</p>
+    <p>
+      <em type="italic">Regjeringen Stoltenberg II i statsråd med Kong Harald V og Kronprins Haakon på Slottet 17. oktober 2005. Foto: Bjørn Sigurdsøn/Scanpix. </em>
+    </p>
+  </body>
+</document>

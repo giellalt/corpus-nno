@@ -1,0 +1,42 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Sávvet eanebuid fállat elektrovnnalaš ID - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>231</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/vil-ha-fleire-som-tilbyr-elektronisk-id.html?id=677965</origFileName>
+    <parallel_text xml:lang="nob" location="onsker-flere-tilbydere-av-elektronisk-id_id_677965.html"/>
+    <parallel_text xml:lang="sme" location="savvet-eanebuid-fallat-elektrovnnala-id_id_677965.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vil ha fleire som tilbyr elektronisk ID - regjeringen.no</p>
+    <p>
+      <em type="italic">Elektronisk ID (eID) gir innbyggjarane sikker innlogging til alle offentlege nettenester. Regjeringa vil opne for at eID frå fleire enn dagens leverandørar kan nyttast på offentlege nettenester. </em>
+    </p>
+    <p>- For å bruke offentlege nett-tenester treng innbyggjarane å identifisere seg. Fleire innbyggjarar må ta i bruk eID på høgt tryggleiksnivå slik at vi kan få fart på digitaliseringa av offentlege tenester. Regjeringa vil derfor opne for fleire private leverandørar av eID. Vi tek òg sikte på å etablere eit nasjonalt ID-kort med elektronisk ID på høgt tryggleiksnivå, seier fornyingsminister Rigmor Aasrud.</p>
+    <p>I dag nyttar nærmare 2,7 millionar innbyggjarar den offentlege løysinga MinID til å logge seg inn på offentlege tenester. MinID kan brukast til dei fleste tenestene som det er tilbod om i dag, men er ikkje sikker nok til å brukast til tenester med blant anna personsensitivt innhald. Til slike tenester kan innbyggjarane bruke privat eID frå Commfides og Buypass. Direktoratet for forvaltning og IKT har no utlyst ein ny konkurranse om å levere eID på høgt tryggleiksnivå til bruk mot offentlege nettenester.</p>
+    <p>Ein samfunnsøkonomisk analyse gjennomført av Metier i 2010 bereknar ein samfunnsøkonomisk gevinst av eID-programmet på omlag fire milliardar kroner over ti år. De forventa gevinstane kjem hovudsakleg ved at gode eID-løysingar kan gjere det mogleg for statlege verksemder å etablere gode elektroniske tenester.</p>
+    <p>Les regjeringas digitaliseringsprogram <span type="quote">"På nett med innbyggerne"</span></p>
+  </body>
+</document>

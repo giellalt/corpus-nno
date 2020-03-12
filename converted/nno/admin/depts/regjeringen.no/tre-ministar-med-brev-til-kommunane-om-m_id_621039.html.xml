@@ -1,0 +1,38 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Golbma ministariid reive suohkaniidda giehtatelefon- ja govdafierpmádathuksema birra - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2010</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>90</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/fad/aktuelt/nyheiter/2010/tre-ministar-med-brev-til-kommunane-om-m.html?id=621039</origFileName>
+    <parallel_text xml:lang="nob" location="tre-ministre-med-brev-til-kommunene-om-m_id_621039.html"/>
+    <parallel_text xml:lang="sme" location="golbma-ministariid-reive-suohkaniidda-giehtatelefon--ja-govdafierpmadathuksema-birra_id_621039.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tre ministar med brev til kommunane om mobil- og breibandsutbygging - regjeringen.no</p>
+    <p>
+      <em type="italic">Tilgang til breiband og elektronisk kommunikasjon med høg kapasitet er eit av dei sentrale måla til regjeringa i regjeringserklæringa. Derfor har fornyingsministeren, kommunalministeren og samferdselsministeren sendt eit felles brev til alle kommunane i landet, der dei ber kommunane vere gode tilretteleggjarar. Ministrane kjem med klare tilrådingar. </em>
+    </p>
+    <p>Brevet blei sendt til ordførarar og rådmenn i kommunar og fylkeskommunar 27.09.2010: Tilrettelegging for breiband, mobil og annan elektronisk kommunikasjon</p>
+    <list>
+      <p type="listitem">Sjå også tidlegare pressemelding: Kan spare milliardar på smartare grøftegraving for breiband</p>
+    </list>
+  </body>
+</document>

@@ -1,0 +1,68 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>NAV - Om NAV - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>558</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <origFileName>http://www.nav.no/Om+NAV/Om+NAV+-+relatert+innhold/805382789.cms</origFileName>
+    <parallel_text xml:lang="eng" location="appeals.html"/>
+    <parallel_text xml:lang="nob" location="klagerettigheter.html"/>
+    <parallel_text xml:lang="sme" location="klagerettigheter.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Klagerettar</p>
+    <p>Dersom du får heilt eller delvis avslag på søknaden din, kan du klage til NAV.</p>
+    <p>I vedtaket går det fram kva formkrav som gjeld for klagen. NAV-kontoret ditt pliktar å hjelpe deg med å utforme klagen. Du kan òg nytte NAVs hjelpeskjema for klage.</p>
+    <p>Når du oppsøkjer NAV-kontoret, har du rett til å ha med deg ein person du har tillit til. Du kan òg gi fullmakt til ein advokat eller ein venn som handterer klagen på dine vegner.</p>
+    <p>Du sender klagen til NAV-kontoret ditt. Dersom det er NAV Hjelpemiddelsentral som har fatta vedtaket, skal du sende klagen dit.</p>
+    <p>Når du klagar, vil kontoret som har fatta vedtaket, vurdere saka di på nytt. Dersom vedtaket ikkje blir endra her, blir klagen send vidare til behandling hos NAV Klageinstans, som overprøver saka.</p>
+    <p type="title">Klagefristar</p>
+    <p>Klagefristane varierer etter kva type sak du ønskjer å klage på. Klagefristen skal gå fram av vedtaket.</p>
+    <p type="title">Klagefrist på vedtak etter folketrygdlova</p>
+    <p>Klagefristen er seks veker frå du får melding om vedtaket. Døme på saker som blir behandla etter folketrygdlova, er sjukepengar, dagpengar og uførepensjon.</p>
+    <p type="title">Klagefrist på vedtak etter andre lover enn folketrygda</p>
+    <p>Som hovudregel følgjer ein klagefristen etter forvaltingslova, som er tre veker frå den datoen du får melding om vedtaket. Døme er vedtak om sakskostnader. Fristen i forvaltingslova gjeld så lenge ikkje anna er bestemt i den aktuelle lova vedtaket er fatta etter. Døme på lengre klagefrist etter lova er saker om bidragsforskot og saker om individstønad, der klagefristen er seks veker.</p>
+    <p type="title">Anke til Trygderetten</p>
+    <p>Dersom du får avslag på klagen din i NAV, kan du anke saka inn for Trygderetten. Vedtak som blir fatta etter folketrygdlova, kan med få unntak ankast inn for Trygderetten. Fristen for å anke er seks veker frå den datoen du får melding om vedtaket frå NAV Klageinstans.</p>
+    <p>Anken sender du til NAV-kontoret ditt. NAV Klageinstans behandlar då saka på nytt. Dersom vedtaket ikkje blir endra, blir anken send til behandling i Trygderetten.</p>
+    <p>I tillegg til saker etter folketrygdlova kan saker etter desse lovene/ordningane ankast inn for Trygderetten:</p>
+    <list>
+      <p type="listitem">Lov om barnetrygd</p>
+      <p type="listitem">Lov om samordning av pensjons- og trygdeytingar</p>
+      <p type="listitem">Føresegner om supplerande pensjonsordningar i medhald av lov eller vedtak frå Stortinget</p>
+      <p type="listitem">Yrkesskadelova</p>
+      <p type="listitem">Kommunale pensjonsordningar</p>
+      <p type="listitem">Avtalefesta pensjon for arbeidstakarar mellom 64 og 67 år</p>
+    </list>
+    <p>I saker om barnebidrag og individstønad er vedtaket i NAV Klageinstans endeleg og kan ikkje ankast inn for Trygderetten.</p>
+    <p type="title">Dekning av sakskostnader</p>
+    <p>Dersom du får medhald i klagen, kan du ha rett til å få dekt vesentlege utgifter som har vore nødvendige for å få endra vedtaket, til dømes utgifter til advokat. Krav om sakskostnader sender du til NAV-kontoret ditt.</p>
+    <p type="title">Sivilombodsmannen</p>
+    <p>Er du ikkje nøgd med utfallet av saka di eller sjølve saksbehandlinga i NAV, kan du klage til Sivilombodsmannen.</p>
+    <p type="title">Domstolane</p>
+    <p>Dersom du ikkje er nøgd med avgjerda i Trygderetten, kan du bringe saka inn for lagmannsretten. Fristen for å saksøkje er seks månader etter at du har fått melding om avgjerda i Trygderetten.</p>
+    <p>I saker der NAV Klageinstans har fatta endeleg vedtak, må du sjekke kva fristar som gjeld for å reise søksmål for tingretten eller namsretten.</p>
+    <p type="title">Fri rettshjelp</p>
+    <p>Du kan òg ha krav på fri rettshjelp frå advokat. Advokatar har plikt til å gi deg gratis orientering om denne ordninga. Du kan sjølv søkje Fylkesmannen om fri rettshjelp eller be advokaten din om å søkje for deg. Her gjeld det visse inntekts- og formuesgrenser</p>
+  </body>
+</document>

@@ -1,0 +1,82 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>NAV - Stønad til barnetilsyn - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>656</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Stønad+til+barnetilsyn/Stønad+til+barnetilsyn/1073749106.cms</origFileName>
+    <parallel_text xml:lang="eng" location="805368074.html"/>
+    <parallel_text xml:lang="nob" location="stonad_til_barnetilsyn.html"/>
+    <parallel_text xml:lang="sme" location="229491.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Barnetilsyn</p>
+    <p>Stønad til barnetilsyn skal hjelpe deg som er einsleg mor eller far, med å betale for tilsyn med barnet, slik at du kan jobbe, vere reell arbeidssøkjar eller vere under utdanning.</p>
+    <p type="title">Kven kan få stønad til barnetilsyn?</p>
+    <p>Du må fylle visse vilkår for å ha rett til stønad som einsleg mor eller far.</p>
+    <p>Vilkåra er i hovudtrekk:</p>
+    <list>
+      <p type="listitem">Du og barnet må ha budd i Noreg dei tre siste åra.</p>
+      <p type="listitem">Du og barnet må opphalde dykk i Noreg.</p>
+      <p type="listitem">Du må vere ugift, skild eller separert.</p>
+      <p type="listitem">Du må ha åleineomsorg for barnet.</p>
+      <p type="listitem">Du må ikkje ha noko forhold til den andre av foreldra til barnet som kan innebere at du ikkje er einsleg mor eller far.</p>
+    </list>
+    <p>Du kan lese meir om vilkåra i folketrygdlova under Regelverk i menyen til høgre.</p>
+    <p>Dersom du fyller vilkåra, kan du få stønad til barnetilsyn når du må overlate tilsynet med barnet til andre fordi du jobbar, er reell arbeidssøkjar, går på skule eller studerer. Du kan òg få stønad til barnetilsyn når du etablerer eiga verksemd.</p>
+    <p>Det er eit vilkår at du overlèt tilsynet til andre, til dømes barnehage, skulefritidsordning (SFO) eller dagmamma. Det er òg eit vilkår at du betaler for tilsynet.</p>
+    <p type="title">Kor lenge kan du få stønad til barnetilsyn?</p>
+    <p>Som hovudregel kan du få stønad til barnet har fullført det fjerde skuleåret. Dersom du har barn som treng vesentleg meir tilsyn enn jamaldra, kan du få stønad etter fjerde skuleåret. Du må dokumentere eit slikt krav med legeattest eller liknande. Stønaden kan òg forlengjast dersom arbeidet eller utdanninga fører til at du må vere borte frå heimen i lengre periodar, eller du har uregelmessig arbeidstid (til dømes turnus eller skiftarbeid). Arbeidsforholdet, tilsynsforholdet og kva du betaler, må alltid dokumenterast.</p>
+    <p>Dersom du blir forbigåande sjuk, kan du behalde stønaden i inntil eitt år, slik at du ikkje mister tilsynsordninga. Det føreset at barnet ditt framleis får tilsyn av andre mens du er sjuk, og at du held fram med å betale for tilsynet.</p>
+    <p>Stønad til barnetilsyn blir normalt gitt for eitt år om gongen. Stønaden blir vanlegvis stoppa i feriemånaden når barnehagar og SFO er stengde. Du må derfor hugse på å søkje om stønad i god tid før neste barnehage-/skuleår.</p>
+    <p type="title">Kva kan du få?</p>
+    <p>Stønad til barnetilsyn blir dekt med 64 prosent av dei dokumenterte utgiftene, opp til dei satsane som Stortinget har bestemt. Det vil seie at du må betale minst 36 prosent av utgiftene sjølv.</p>
+    <p>Dersom den årlege arbeidsinntekta di er større enn seks gonger grunnbeløpet i folketrygda (437 286 kroner), har du ikkje rett til stønad til barnetilsyn. Stønad til barnetilsyn er ei skattefri yting, og stønaden blir utbetalt frå og med den månaden du fyller vilkåra.</p>
+    <p type="title">Korleis søkjer du om stønad til barnetilsyn?</p>
+    <p>Du søkjer om barnetilsyn på blanketten <span type="quote">”Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til einsleg mor/far”</span>, som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden.</p>
+    <p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
+    <p type="title">Vedtak</p>
+    <p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
+    <p type="title">Når du flytter til utlandet</p>
+    <p>Dersom du skal arbeide i utlandet for ein norsk arbeidsgivar og framleis er medlem av folketrygda, kan du ha rett til stønad til barnetilsyn. Det same gjeld dersom du skal studere eller arbeide i utlandet i mindre enn seks månader. I slike tilfelle må du sende ein søknad til NAV-kontoret ditt før utreisa.</p>
+    <p>Du skal alltid melde frå til NAV-kontoret ditt dersom du flytter til eller skal opphalde deg mellombels i utlandet. Meir om opphald i utlandet under Internasjonalt i menyen til høgre.</p>
+    <p type="title">Satsar</p>
+    <p type="title">Barnetilsyn</p>
+    <p>Tal barn</p>
+    <p>Kr per år</p>
+    <p>Kr per månad</p>
+    <p>Maksimalt beløp for eitt barn</p>
+    <p>39 888 kr.</p>
+    <p>3 324 kr.</p>
+    <p>Maksimalt beløp for to barn</p>
+    <p>52 056 kr.</p>
+    <p>4 338 kr.</p>
+    <p>Maksimalt beløp for tre eller fleire barn</p>
+    <p>58 980 kr.</p>
+    <p>4 915 kr.</p>
+  </body>
+</document>

@@ -1,0 +1,55 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ráđđehusa molsun - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>427</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/Om-regjeringa/Slik-arbeider-regjeringa/Kva-skjer-ved-regjeringsskifte.html?id=270340</origFileName>
+    <parallel_text xml:lang="eng" location="change-of-government_id_270340.html"/>
+    <parallel_text xml:lang="nob" location="hva-skjer-ved-regjeringesskifte_id_270340.html"/>
+    <parallel_text xml:lang="sme" location="raehusa-molsun_id_270340.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kva skjer ved regjeringsskifte? - regjeringen.no</p>
+    <p>
+      <em type="italic">Arbeidet med å setje saman ei ny regjering startar når den sitjande statsministeren har søkt avskil og Kongen har gjeve ein annan i oppdrag å danne ny regjering. </em>
+    </p>
+    <p>Følgjande hovudreglar gjeld ved regjeringsskifte i dagens norske politiske system:</p>
+    <list>
+      <p type="listitem">Landet er aldri utan regjering. Sagt på ein annen måte: Kongen er aldri utan sitt råd – Statsrådet.</p>
+      <p type="listitem">Kongen innvilgar ikkje ei regjerings avskilssøknad før ei ny regjering samtidig kan utnemnast.</p>
+      <p type="listitem">Det er ikkje Kongen åleine men <span type="quote">”Kongen i statsråd”</span>, det vil seie Kongen saman med den sitjande regjeringa, som utnemner ei ny regjering.</p>
+    </list>
+    <p>Disse hovudreglane gjev denne gangen i eit regjeringsskifte:</p>
+    <list>
+      <p type="listitem">Etter at Stortinget er orientert, vert regjeringas avskilssøknad innlevert i ordinært eller ekstraordinært møte i Statsrådet. Når avskilssøknaden er motteken, vil Kongen be den sitjande regjeringa halde fram som forretningsministerium inntil ei ny regjering kan dannast. Deretter vil Kongen normalt be den avtroppande statsministeren om råd når det gjelder kven han bør vende seg til med tanke på å danne ny regjering.</p>
+      <p type="listitem">Avtroppande statsminister vil normalt råde Kongen til å vende seg til ein av leiarane i Stortinget – anten til den parlamentariske leiaren for det største partiet eller det største opposisjonspartiet, til samtlege parlamentariske leiarar eller til Stortingets president. Kongen vil normalt følgje statsministeren sitt råd og kalle den det gjeld til Slottet.</p>
+      <p type="listitem">Når den som har fått i oppdrag av Kongen å søkje å danne regjering, melder tilbake til Kongen at ny regjering er klar til å dannast, vil båe dei to avgjerande vedtaka om regjeringsskiftet verte tekne i eit statsrådsmøte – ordinært eller ekstraordinært etter kva som passar. Dette er det siste statsrådsmøtet for den avtroppande regjeringa. I dette statsrådsmøtet vil Kongen og den avtroppande regjeringa utnemne den nye regjeringa, med verknad frå et fastsett tidspunkt. Samstundes vil Kongen innvilge den avtroppande regjeringa sin avskilssøknad, med verknad frå det same tidspunktet. Dette er tidspunktet for sjølve regjeringsskiftet. Den avtroppande regjeringa reiser etter sitt siste statsrådsmøte til regjeringskontora for siste gong, etter å ha møtt publikum og presse på Slottsplassen.</p>
+      <p type="listitem">Den nye regjeringa vil koma til Slottet for – som Kongen sitt alt utnemnde råd – å gjere dei fyrste vedtaka sine, fyrst og fremst om kva statsrådar som skal styre kva departement. Etter dette fyrste statsrådsmøtet, og etter å ha møtt presse og publikum på Slottsplassen, reiser den nye regjeringa til kontora sine for fyrste gong. Der møter dei sine nå avgåtte forgjengarar for ein enkel overtakingsseremoni. Deretter forlèt dei tidligare regjeringsmedlemene kontora for siste gong.</p>
+    </list>
+    <p>
+      <em type="italic">Stoltenbergs andre regjering på Slottsplassen ved regjeringsskifte 17. oktober 2005. Foto: Scanpix </em>
+    </p>
+  </body>
+</document>

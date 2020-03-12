@@ -1,0 +1,46 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Prentosiid diŋgon - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>115</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dok/bestilling-av-publikasjonar.html?id=439327</origFileName>
+    <parallel_text xml:lang="nob" location="bestilling-av-publikasjoner_id_439327.html"/>
+    <parallel_text xml:lang="sme" location="prentosiid-digon_id_439327.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bestilling av publikasjonar - regjeringen.no</p>
+    <p>Offentlege verksemder kan bestille publikasjonar utgitt av Storting, regjering og departementa frå Servicesenteret for departementa (DSS) i samsvar med regelverket for distribusjon.</p>
+    <p>I enkelte tilfeller prisar departementa sine publikasjonar også for brukarar innan offentleg forvaltning. Då må publikasjonane kjøpast frå Fagbokforlaget.</p>
+    <p>Andre, dvs. privatpersonar, bedrifter ol., kan skaffe seg publikasjonar frå Fagbokforlaget , ein lokal bokhandel, eller det lokale folkebiblioteket.</p>
+    <p type="listitem">Bestilling av publikasjonar frå Servicesenteret for departementa</p>
+    <p type="listitem">Statlege elektroniske blankettar: Ein del statlege elektroniske blankettar, m.a. Reiserekninga, kan lastast ned til eigen PC</p>
+    <p type="listitem">Andre viktige adresser for informasjon om og innkjøp av offentlege publikasjonar</p>
+    <p>Offentlege publikasjonar er m.a. følgjande:</p>
+    <p type="listitem">Stortingsmeldingar, Stortingsproposisjonar, Innstillingar frå Stortinget</p>
+    <p type="listitem">Noregs offentlege utgreiingar (NOU)</p>
+    <p type="listitem">Brosjyrar</p>
+    <p type="listitem">Blankettar</p>
+  </body>
+</document>

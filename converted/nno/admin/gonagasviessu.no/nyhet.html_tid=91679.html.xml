@@ -1,0 +1,52 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Abelprisen 2011  - kongehuset.no</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>428</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.kongehuset.no/nyhet.html?tid=91679</origFileName>
+    <parallel_text xml:lang="eng" location="nyhet.html_tid=91701.html"/>
+    <parallel_text xml:lang="sme" location="nyhet.html_tid=91704_sek=74887.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Hopp til hovedinnhold</p>
+    <p xml:lang="nob">kongehuset.no</p>
+    <p type="title" xml:lang="deu">Abelprisen 2011</p>
+    <p xml:lang="nob">I dag overrekkjer Hans Majestet Kongen den prestisjetunge Abelprisen til John Willard Milnor. Professor Milnor får prisen for banebrytende oppdagelser innenfor topologi, geometri og algebra. Tidlegare i dag var prisvinnaren i audiens hos Kongen.</p>
+    <p xml:lang="koi">24.05.2011</p>
+    <p>Abelprisen er oppkalla etter den norske matematikaren Niels Henrik Abel og blir tildelt for framståande vitskapleg arbeid innan matematikk. Prisen blir delt ut av Det Norske Videnskaps-Akademi. Årets mottakar, John Milnor, er knytt til Institute for Mathematical Sciences, Stony Brook University, New York.</p>
+    <p type="title">Grunngjevinga for tildelinga</p>
+    <p>I grunngjevinga peikar Akademiet på det store bidraget professor Milnor har gjeve innanfor topologi, differensialgeometri, algebra og dynamiske system. I tillegg framhevar dei den store store evna hans som formidlar av faget:</p>
+    <p xml:lang="nob">"Milnor er en fantastisk begavet formidler av avansert matematikk. Han har ofte taklet vanskelige, banebrytende emner som ikke tidligere har vært omhandlet i bokform. Med ny kunnskap har han frembrakt en rekke tidsmessige, og ikke minst varige arbeider som representerer overlegen innsikt. På samme måte som en musiker kan være en inspirert komponist og en karismatisk utøver, er matematikeren John Milnor både en oppdager og en formidler."</p>
+    <p>John Milnors arbeid har sett tydelege spor i moderne matematikk, og ei rekkje matematiske omgrep er i dag oppkalla etter han.</p>
+    <p type="title" xml:lang="nob">Prisutdeling i Gamle Logen</p>
+    <p>Den høgtidelege utdelinga av Abelprisen skjer i Gamle Logen i Oslo og startar klokka 14:00 i dag. Preses Øyvind Østerud held opningstalen, og leiaren i Abelkomiteen, Ragni Piene, vil utdjupe grunngjevinga frå komiteen.</p>
+    <p xml:lang="nob">Prisen blir overrekt av Hans Majestet Kong Harald.</p>
+    <p type="title" xml:lang="nob">Audiens og kransnedlegging</p>
+    <p>Tradisjonen tru tok Kong Harald imot prisvinnaren i audiens på Det kongelege slottet i tidlegare i dag. Det er òg ein fast tradisjon at mottakaren av Abelprisen legg ned ein krans på statuen av Niels Henrik Abel, og det gjorde professor Milnor i går ettermiddag. Statuen er laga av Gustav Vigeland og står på den såkalla Abelhaugen i Slottsparken.</p>
+    <p>I kveld vil Kongen vere til stades ved Regjeringas bankett på Akershus slott til ære for prisvinnaren.</p>
+    <p type="title" xml:lang="nob">Om Abelprisen</p>
+    <p>Abelprisen skal bidra til å heve statusen til matematikkfaget i samfunnet og stimulere barn og unge si interesse for faget. Han vart delt ut for første gong i 2003, og prisen er på 6 millionar kroner.</p>
+    <p>Prisen er oppkalla etter den norske matematikaren Niels Henrik Abel, som i løpet av sitt korte liv utvikla flere teoriar som skulle bli heilt avgjerande for utviklinga av faget. Abel døydde av tuberkulose i 1829, før han hadde fylt 27 år.</p>
+    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+    <p xml:lang="nob">Relaterte lenker</p>
+    <list>
+      <p type="listitem" xml:lang="est">Statuer i Slottsparken (Artikkel)</p>
+    </list>
+    <list>
+      <p type="listitem">Abelprisen.no</p>
+      <p type="listitem">Abelprisen.no om årets prisvinner</p>
+    </list>
+  </body>
+</document>

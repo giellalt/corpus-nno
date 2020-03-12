@@ -1,0 +1,57 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Oktavuohta - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Utanriksdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>358</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nn/dep/ud/Om-departementet/kontakt.html?id=841</origFileName>
+    <parallel_text xml:lang="eng" location="contact_id_841.html"/>
+    <parallel_text xml:lang="nob" location="kontakt_id_841.html"/>
+    <parallel_text xml:lang="sme" location="oktavuohtadiehtojuohkin_id_841.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kontakt - regjeringen.no</p>
+    <p>Skriv inn navn eller tlf.nr:</p>
+    <p>Skriv inn navn eller tlf.nr:</p>
+    <p>Vis tilsette i</p>
+    <p>Vis tilsette i</p>
+    <p>Tips: For å liste ut alle tilsette i ei eining kan du la feltet for navn eller tlf.nr stå tomt.</p>
+    <p type="title">Adresse</p>
+    <p>Utanriksdepartementet Telefon: +47 22 24 36 00 Faks: +47 22 24 95 80/81 Postboks 8114 Dep. N-0032 Oslo</p>
+    <p><em type="italic">Besøksadresse: </em>7. juni-plassen/ Victoria Terrasse ( E-post til Utanriksdepartementet (skjema) </p>
+    <p><em type="italic">E-post til tilsette </em>For å hindre såkalla spam-robotar i å lese e-postadressene til tilsette i departementet, legg vi ikkje ut desse listene på nettsidene våre. </p>
+    <p>Format for e-postadresser:</p>
+    <p>
+      <em type="italic">Om brev og e-post som vert sendt til Utanriksdepartementet </em>
+    </p>
+    <p>Departementet er etter arkivlova (lov av 4. desember 1992 nr. 126), med tilhøyrande forskrift av 11. desember 1998 nr. 1193, forplikta til å føre offentleg journal. I journalen skal alle inn- og utgåande dokument førast opp, dersom dokumentet vert sakshandsama og har verdi som dokumentasjon. Følgjande opplysningar går som hovudregel fram av offentleg journal: Avsendar sitt namn, mottakar sitt namn, dokumentet sin dato og ein kort omtale av dokumentet sitt innhald. Journalen blir likevel alltid ført på ein slik måte at den ikkje røper opplysningar som er omfatta av teieplikta.</p>
+    <p>Vil du ha eit skriftleg svar, må du leggje med namn og postadresse.</p>
+    <p>E-post som etter form og innhald må reknast som eit saksdokument, blir journalført som vanlege dokument. Massegenerert e-post vil etter ei nærmare vurdering kunne bli sortert med elektronisk filtrering og dermed ikkje bli journalført og saksbehandla.</p>
+    <p>Departementet pliktar å handsame alle dokument, inkludert e-post, i samsvar med instruksane i offentleglova (lov av 19. mai 2006 nr. 16). Departementet sin journal, saksdokument, inkluderte all korrespondanse til og frå departementet, er som hovudregel offentlege. Den som ønskjer det, kan be om innsyn i departementet sin journal og saksdokument etter offentleglova. Send derfor ikkje brev eller e-postar til departementet med informasjon som du ikkje ønskjer skal bli allment kjend.</p>
+    <p>Dersom dokumentet inneheld opplysningar omfatta av teieplikta, vil desse bli stroke før det blir gitt innsyn i dokumentet. Opplysningar om nokre sin helsetilstand, og opplysningar om at nokon er eller har vore pasient, er alltid underlagt teieplikta.</p>
+    <p>Pressesenter</p>
+    <p>Norske utanriksstasjonar</p>
+    <p>Norske utanriksstasjonar sine heimesider</p>
+  </body>
+</document>

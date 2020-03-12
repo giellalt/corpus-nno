@@ -1,0 +1,111 @@
+<document xml:lang="nno" id="no_id">
+  <header>
+    <title>Ordklasser</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>367</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/satneluohkat.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="satneluohkat.eng.html"/>
+    <parallel_text xml:lang="sme" location="satneluohkat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="deu">Ordklasser</p>
+    <list>
+      <p type="listitem" xml:lang="dan">Forkortelser</p>
+      <p type="listitem" xml:lang="nob">Vurdering av ordklasser <list><p type="listitem" xml:lang="nob">Kilder</p></list></p>
+    </list>
+    <p type="title" xml:lang="dan">Forkortelser</p>
+    <p xml:lang="nob">Vi bruker disse ordklassene:</p>
+    <p xml:lang="fin">n</p>
+    <p>substantiv (</p>
+    <p xml:lang="sme">
+      <em type="italic">girji, lohkamat, golmmas </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="eng">prop</p>
+    <p xml:lang="nob">propra (egennavn) (</p>
+    <p xml:lang="sme">
+      <em type="italic">William, Kárášjohka </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="eng">pron</p>
+    <p xml:lang="eng">pronomen (</p>
+    <p xml:lang="sme">
+      <em type="italic">mun, sidjiide, soapmásat, ollu </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="isl">num</p>
+    <p xml:lang="est">tallord (</p>
+    <p xml:lang="sme">
+      <em type="italic">okta, 1923 </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adj</p>
+    <p>adjektiv (</p>
+    <p xml:lang="sme">
+      <em type="italic">alit, ollu, njealját </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">prp</p>
+    <p xml:lang="eng">pre-/postposisjon (</p>
+    <p xml:lang="sme">
+      <em type="italic">alde, miehtá </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">conj</p>
+    <p xml:lang="fin">konjunksjon (</p>
+    <p xml:lang="sme">
+      <em type="italic">ja, ahte, vaikko </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="swe">intj</p>
+    <p xml:lang="nob">interjeksjon (</p>
+    <p xml:lang="smn">
+      <em type="italic">vuoi, jippi </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adv</p>
+    <p>adverb (</p>
+    <p xml:lang="sme">
+      <em type="italic">hui, johtilit, olgun </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">v</p>
+    <p>verb (</p>
+    <p xml:lang="sme">
+      <em type="italic">lean, borran, juhkamis </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p>part</p>
+    <p>partikkel (</p>
+    <p xml:lang="sme">
+      <em type="italic">go, amma, han </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="nob">Propra (egennavn) er merka spesielt bare i setningstreet. Ellers hører de inn under substantivene.</p>
+    <p>I noen spill er det merka ordklasser som ikke finst i samisk, så som "infm" (infinitivsmerke) og "art" (artikkel).</p>
+    <p type="title" xml:lang="nob">Vurdering av ordklasser</p>
+    <p xml:lang="nob">Det er ikke alltid så klart hvilken ordklasse et ord hører til. Vi kan argumentere både semantisk, morfologisk og syntaktisk. Mellom substantiv og adjektiv er det ikkje så klar grense. Og ordet kan tilhøre ulike ordklassar etter hvordan det brukes i setninga. <em type="italic">ollu </em>kan være både pronomen, adjektiv og adverb. <em type="italic">go </em>kan vere subjunksjon og partikkel. Dessutan er noen ord definert å tilhøre en annen ordklasse i "Samisk-norsk ordbok" enn i f.eks. Nickels grammatikk. VISL-spillene følger "Samisk-norsk ordbok". </p>
+    <p xml:lang="nob"><em type="italic">Tallord eller ikke? </em>Tallordene refererer ikke sjøl til konkrete eller abstrakte referanser, men tallord kan sammen med innholdsord lage fraser som referer, som f.eks. i <em type="italic">golbma gusa </em>. Men tallord kan avledes til adjektiv (t.d. <em type="italic">njealját </em>- som er ordenstall) eller til substantiv (t.d. <em type="italic">nealjis </em>- som er samlingstall), til verb (t.d. <em type="italic">njealjádastit </em>) eller adverb (t.d. <em type="italic">njealjádis, njelljii </em>) (Sammallahti). Nickel på si side definerer samlingstall og ordenstall som tallord, men disse ordene oppfører seg verken morfologisk eller syntaktisk som tallord. </p>
+    <p xml:lang="nob"><em type="italic">Partikkel eller adverb? </em>Et par ord som hører til partiklene hos Nickel, er i "Samisk-norsk ordbok" merka som adverb, t.d. <em type="italic">gal, fal </em>. VISL-spela følger "Samisk-norsk ordbok", og partiklene er ord som <em type="italic">go, amma, han, ba </em>. (Sammalahti legger også sideordnende konjunksjonar inn under partiklane, i og med at de ikke tar dependenser.) </p>
+    <p type="title" xml:lang="nob">Kilder</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Kåven j.ea. 1995: Samisk-norsk ordbok. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Nickel 1994: Samisk grammatikk. Rievdaduvvon 2. deaddileapmi. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Sammallahti 2005: Láidehus sámegiela cealkkaoahpa dutkamii. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Sammallahti 2007: Gielladutkama terminologiija. Davvi Girji.</p>
+    </list>
+  </body>
+</document>
