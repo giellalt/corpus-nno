@@ -1,71 +1,38 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Šuđggabáddi - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>553</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/Tema/ikt-politikk/Breiband.html?id=1372</origFileName>
-    <parallel_text xml:lang="nob" location="bredband_id_1372.html"/>
-    <parallel_text xml:lang="sme" location="uggabaddi_id_1372.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Breiband - regjeringen.no</p>
-    <p type="title">Breiband</p>
-    <p>Soria Moria-erklæringa slår fast at Noreg skal vere mellom dei fremste landa i verda til å ta i bruk og utvikle elektronisk kommunikasjon. Erklæringa har også som mål at heile landet skal ha tilbod om tilknyting til breibandsnett innan utgangen av 2007.</p>
-    <p>Utbygging av breiband til heile landet gjer det mogleg å få til ny næringsverksemd og utvikling, og fjernar i stor grad dei avstandsulemper som måtte finnast. Å sikre alle tilbod om tilknyting til breiband, vil difor vere eit tiltak både for å betre kåra for næringslivet i Noreg, og å gjere det mogleg for alle innbyggjarar å nytte offentlege elektroniske tenester.</p>
-    <p type="title">Store geografiske hastighetsforskjeller i bredbåndstilbudet</p>
-    <p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 01.10.2010]</p>
-    <p>I dag har nesten alle bedrifter og husholdninger et grunnleggende bredbåndstilbud, men for de høyere hastighetene er det store geografiske forskjeller. Det viser en ny rapport.</p>
-    <p type="title">Kan spare milliardar på smartare grøftegraving for breiband</p>
-    <p>[Pressemelding, Fornyings-, administrasjons- og kyrkjedepartementet, 07.06.2010]</p>
-    <p>- Legg røyr for framtidige fiberkablar, koordiner grøftegravinga og ikkje still for strenge krav til kor djupe grøftene skal vere. På den måten kan samfunnet spare milliardar samtidig som flest mogleg får breiband. Det er hovudkonklusjonen i ein ny rapport om <span type="quote">”god breibandsskikk”</span>.</p>
-    <p type="title">108,6 millionar kroner til betre breibandstilbod over heile landet</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 29.04.2010]</p>
-    <p>Regjeringa gir 108,6 millionar kroner til fylkeskommunane for å sikre utbygging av breiband med god kapasitet.</p>
-    <p type="title">Stadig bredere bredbånd</p>
-    <p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 22.03.2010]</p>
-    <p>Antall bredbåndsabonnementer har økt med 83 000 siden i fjor, og det blir stadig høyere hastigheter på linjene. Det viser kvartalsvise tall fra SSB sin internettmåling.</p>
-    <p type="title">Raskt breiband gir gevinstar for distrikta</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 12.03.2010]</p>
-    <p>Ein ny rapport stadfestar at utbygging av breiband med høg kapasitet i seks distriktsområde har ført med seg etablering av nye føretak, utvikling av eksisterande verksemder og betre tenesteproduksjon i offentleg sektor som elles ikkje ville vore muleg.</p>
-    <p type="title">Høykapasitetsnett - Utbygging og økt valgfrihet for brukerne</p>
-    <p type="title">Mulige tiltak, forretningsmodeller og framtidig regulering</p>
-    <p>[Rapport, Samferdselsdepartementet, 10.02.2010]</p>
-    <p>Post- og teletilsynet har på oppdrag fra Samferdselsdepartementet utredet ulike forhold ved moderne høykapasitetsnett og følgene for brukerne og framtidig regulering. Bakgrunnen er den omfattende investeringen i høykapasitetsnett i Norge.</p>
-    <p type="title">Stadig fleire bruker breiband</p>
-    <p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 07.01.2010]</p>
-    <p>Nordmenn er ivrige brukarar av breiband. Talet på abonnement i Noreg er i dag nærmare 1 650 000. Dette er ein auke på 90 000 på eitt år, i følgje OECD. Berre Danmark og Nederland har fleire breibandsabonnement i forhold til folketalet enn Noreg.</p>
-    <p type="title">Regjeringa legg til rette for betre mobilt breiband</p>
-    <p>[Pressemelding, Samferdselsdepartementet, 12.09.2009]</p>
-    <p>Regjeringa vil sikre eit godt breibandstilbod over heile landet. No har regjeringa avgjort at frigjorte frekvensressursar frå den digitale dividenden skal brukast til moderne mobile kommunikasjonstenester og mobilt breiband over heile landet.</p>
-    <p type="title">Breitt breiband til alle</p>
-    <p>[Tale/artikkel, Fornyings-, administrasjons- og kyrkjedepartementet, 09.09.2009]</p>
-    <p>Vi meiner breitt breiband må reknast som ein grunnleggjande infrastruktur i samfunnet, på lik linje med veg, vatn og elektrisitet, skriv fornyings- og administrasjonsminister Heidi Grande Røys og kommunal- og regionalminister Magnhild Meltveit Kleppa.</p>
-    <p type="title">Mål og virkemidler for bredere bredbånd</p>
-    <p type="title">Rapport fra interdepartemental arbeidsgruppe</p>
-    <p>[Rapport, Fornyings-, administrasjons- og kyrkjedepartementet, 04.09.2009]</p>
-    <p>Arbeidsgruppen mener at det kan være hensiktsmessig å fastsette et mål om både mobilt bredbånd med minimum 8/1 Mbit/s kapasitet og fast bredbånd med minimum 50/10 Mbit/s kapasitet til alle.</p>
-    <p>Fleire dokument om temaet</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Šuđggabáddi - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>553</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/Tema/ikt-politikk/Breiband.html?id=1372</origFileName><parallel_text xml:lang="nob" location="bredband_id_1372.html"/><parallel_text xml:lang="sme" location="uggabaddi_id_1372.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Breiband - regjeringen.no</p>
+<p type="title">Breiband</p>
+<p>Soria Moria-erklæringa slår fast at Noreg skal vere mellom dei fremste landa i verda til å ta i bruk og utvikle elektronisk kommunikasjon. Erklæringa har også som mål at heile landet skal ha tilbod om tilknyting til breibandsnett innan utgangen av 2007.</p>
+<p>Utbygging av breiband til heile landet gjer det mogleg å få til ny næringsverksemd og utvikling, og fjernar i stor grad dei avstandsulemper som måtte finnast. Å sikre alle tilbod om tilknyting til breiband, vil difor vere eit tiltak både for å betre kåra for næringslivet i Noreg, og å gjere det mogleg for alle innbyggjarar å nytte offentlege elektroniske tenester.</p>
+<p type="title">Store geografiske hastighetsforskjeller i bredbåndstilbudet</p>
+<p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 01.10.2010]</p>
+<p>I dag har nesten alle bedrifter og husholdninger et grunnleggende bredbåndstilbud, men for de høyere hastighetene er det store geografiske forskjeller. Det viser en ny rapport.</p>
+<p type="title">Kan spare milliardar på smartare grøftegraving for breiband</p>
+<p>[Pressemelding, Fornyings-, administrasjons- og kyrkjedepartementet, 07.06.2010]</p>
+<p>- Legg røyr for framtidige fiberkablar, koordiner grøftegravinga og ikkje still for strenge krav til kor djupe grøftene skal vere. På den måten kan samfunnet spare milliardar samtidig som flest mogleg får breiband. Det er hovudkonklusjonen i ein ny rapport om <span type="quote">”god breibandsskikk”</span>.</p>
+<p type="title">108,6 millionar kroner til betre breibandstilbod over heile landet</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 29.04.2010]</p>
+<p>Regjeringa gir 108,6 millionar kroner til fylkeskommunane for å sikre utbygging av breiband med god kapasitet.</p>
+<p type="title">Stadig bredere bredbånd</p>
+<p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 22.03.2010]</p>
+<p>Antall bredbåndsabonnementer har økt med 83 000 siden i fjor, og det blir stadig høyere hastigheter på linjene. Det viser kvartalsvise tall fra SSB sin internettmåling.</p>
+<p type="title">Raskt breiband gir gevinstar for distrikta</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 12.03.2010]</p>
+<p>Ein ny rapport stadfestar at utbygging av breiband med høg kapasitet i seks distriktsområde har ført med seg etablering av nye føretak, utvikling av eksisterande verksemder og betre tenesteproduksjon i offentleg sektor som elles ikkje ville vore muleg.</p>
+<p type="title">Høykapasitetsnett - Utbygging og økt valgfrihet for brukerne</p>
+<p type="title">Mulige tiltak, forretningsmodeller og framtidig regulering</p>
+<p>[Rapport, Samferdselsdepartementet, 10.02.2010]</p>
+<p>Post- og teletilsynet har på oppdrag fra Samferdselsdepartementet utredet ulike forhold ved moderne høykapasitetsnett og følgene for brukerne og framtidig regulering. Bakgrunnen er den omfattende investeringen i høykapasitetsnett i Norge.</p>
+<p type="title">Stadig fleire bruker breiband</p>
+<p>[Nyheit, Fornyings-, administrasjons- og kyrkjedepartementet, 07.01.2010]</p>
+<p>Nordmenn er ivrige brukarar av breiband. Talet på abonnement i Noreg er i dag nærmare 1 650 000. Dette er ein auke på 90 000 på eitt år, i følgje OECD. Berre Danmark og Nederland har fleire breibandsabonnement i forhold til folketalet enn Noreg.</p>
+<p type="title">Regjeringa legg til rette for betre mobilt breiband</p>
+<p>[Pressemelding, Samferdselsdepartementet, 12.09.2009]</p>
+<p>Regjeringa vil sikre eit godt breibandstilbod over heile landet. No har regjeringa avgjort at frigjorte frekvensressursar frå den digitale dividenden skal brukast til moderne mobile kommunikasjonstenester og mobilt breiband over heile landet.</p>
+<p type="title">Breitt breiband til alle</p>
+<p>[Tale/artikkel, Fornyings-, administrasjons- og kyrkjedepartementet, 09.09.2009]</p>
+<p>Vi meiner breitt breiband må reknast som ein grunnleggjande infrastruktur i samfunnet, på lik linje med veg, vatn og elektrisitet, skriv fornyings- og administrasjonsminister Heidi Grande Røys og kommunal- og regionalminister Magnhild Meltveit Kleppa.</p>
+<p type="title">Mål og virkemidler for bredere bredbånd</p>
+<p type="title">Rapport fra interdepartemental arbeidsgruppe</p>
+<p>[Rapport, Fornyings-, administrasjons- og kyrkjedepartementet, 04.09.2009]</p>
+<p>Arbeidsgruppen mener at det kan være hensiktsmessig å fastsette et mål om både mobilt bredbånd med minimum 8/1 Mbit/s kapasitet og fast bredbånd med minimum 50/10 Mbit/s kapasitet til alle.</p>
+<p>Fleire dokument om temaet</p>
+</body></document>

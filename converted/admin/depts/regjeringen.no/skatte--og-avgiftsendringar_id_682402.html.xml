@@ -1,63 +1,28 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Vearro- ja divatrievdadusat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>918</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/skatte--og-avgiftsendringar.html?id=682402</origFileName>
-    <parallel_text xml:lang="sme" location="vearro--ja-divatrievdadusat_id_682402.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skatte- og avgiftsendringar - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa foreslår to endringar for å styrkje rettstryggleiken for skattytar. Vidare foreslår Regjeringa endringar som fører til eit sterkare vern av det norske skattefundamentet. Revidert nasjonalbudsjett inneheld fleire mindre endringar i skatte- og avgiftsopplegget for 2012. </em>
-    </p>
-    <p><em type="italic">Endring i regel om tilleggskatt og klagerett på likninga </em>Regjeringa foreslår ein regel om tilleggsskatt med redusert sats på 10 prosent og å oppheve regelen om at skattytar som ikkje oppfyller plikta til å gi opplysningar til likningsstyremaktene, kan miste retten til å klage på likninga. Forslaga er ein oppfølging av tiltaka for å styrke rettstryggleiken for skattytar, som Regjeringa varsla i statsbudsjettet for 2012. </p>
-    <p>Etter ei lovendring i 2010 er det ikkje lenger høve til å gi tilleggsskatt med redusert sats på 15 prosent når skattytar gir feil eller ufullstendige opplysningar, som seinare blir gitt ukravd av arbeidsgivar eller andre tredjepartar. Den ordinære satsen på 30 prosent skal bli nytta i disse tilfella, om ikkje saken fell innafor reglane om unntak frå tilleggsskatt.</p>
-    <p>Sjølv om reglane om unntak nå omfattar fleire tilfeller enn tidligare, viser praksis at tilleggsskatt med 30 prosent er ein for streng reaksjon når arbeidsgivar eller andre tredjepartar gir kontrollopplysningar om forholdet. I høyringa foreslo departementet derfor på nytt å innføre ein regel om redusert tilleggsskatt på 15 prosent. Høyringsinstansane er positive til forslaget, men enkelte meiner at satsen bør være lågare. Mogligheita for skatteunndraging er mindre her enn ved andre former for opplysningssvikt, og Regjeringa har etter ei ny vurdering kome til at tilleggsskatt med redusert sats på 10 prosent vil være ein tilstrekkeleg sanksjon.</p>
-    <p>Høyringsinstansane er i det alt vesentlege positive til forslaget om å oppheve regelen om at ein skattytar som ikkje oppfyller plikten til å gi opplysningar til likningsstyremaktene kan miste retten til å klage på likninga. Sjølv om skattytar sin opplysningsplikt overfor likningsstyresmaktene er grunnleggjande og viktig, er inngrep i skattytar sin rett til å få handsama ei klage over likninga etter Regjeringa si oppfatning ikkje eit egna virkemiddel ved brot på denne plikten. Klagerett på likninga er ein sentral garanti for skattyter sin rettstrygging, og Regjeringa ser det som lite heldig at bortfall av ein prosessuell rett blir brukt som sanksjon.</p>
-    <p><em type="italic">Nye reglar for sakshandsaming – eigedomsskatt </em>Regjeringa foreslår nye reglar for sakshandsaming i saker om eigedomsskatt. Forvaltningslova skal i utgangspunktet gjelde for handsaming av eigedomsskattesaker. Dette gjeld mellom anna reglane om habilitet, rettleiing, utgreiing, rett til å bruke advokat mv., varsel og innsyn. </p>
-    <p>Unntak blir mellom anna foreslått for grunngjeving av nokre typar vedtak, omgjering mv. Regjeringa foreslår at teieplikta og retten til å få dekt sakskostnader skal følgje reglane i likningslova istadenfor reglane i forvaltningslova. Regjeringa foreslår òg fleire særskilde klagereglar for eigedomsskattesaker. Mellom anna skal klager bli avgjort av ei kommunal klagenemnd.</p>
-    <p>Regjeringa foreslår å innføre ei plikt for eigar av fast eigedom til å gi opplysningar og medverke ved taksering i samband med utskriving av eigedomsskatt. Regjeringa foreslår til slutt ei lovteknisk opprydding i lovføresegner om fastsetjing av skattetakstane, utan at det skal skje ei realitetsendring av gjeldande rett.</p>
-    <p><em type="italic">Endring i reglar – gevinstskatt </em>Regjeringa foreslår fleire endringar i reglane om rett til å velje utsett betaling av gevinstskatt ved uttak av fysiske driftsmiddel, finansielle eigedelar og skyldnader frå norsk skattleggingsområde. Skattytarane må utan unntak stille sikkerheit for skattebeløpet og det skal svarast renter av skattebeløpet for tida fram til betaling. Tidsgrensa for bortfall av skatten dersom det ikkje skjer ein faktisk realisasjon (femårsfristen), skal etter forslaget avviklast. Det same gjeld høvet til reduksjon av skatten på grunn av verdifall etter uttaket. Skattytarar som høyrer heime utanfor EØS skal ikkje lenger ha rett til utsett skattebetaling i noko tilfelle. Regjeringa foreslår òg enkelte tilpassingar i reglane knytt til frådrag for tap, kredit (frådrag) for gevinstskatt til utlandet, fritaksmetoden for skattlegging av aksjeinntekter o.a. og handsaminga av objekt som på nytt blir tatt inn i norsk skattleggingsområde. </p>
-    <p>For å unngå uønska tilpassingar foreslår Regjeringa at dei nye reglane skal få verknad for uttak som blir gjennomført frå og med datoen for framlegget av proposisjonen, det vil seie frå og med 15. mai 2012.</p>
-    <p>Forslaga til endringar har dels samanheng med utviklinga i EU- og EØS-retten, mellom anna EU-domstolen si avgjerd av 29. november 2011 i sak C-371/10 <em type="italic">National Grid Indus </em>. Etter Regjeringa sitt syn viser avgjerda at det ikkje er i strid med EØS-retten å innføre strammare reglar i Noreg for skattlegging ved uttak av fysiske driftsmiddel, finansielle eigedelar og skyldnader. Endringane fører til eit sterkare vern av det norske skattefundamentet. </p>
-    <p><em type="italic">Endring trygdeavgift </em>Regjeringa foreslår attrygdeavgift for godtgjersle til deltakar for arbeidsinnsats i deltakarlikna selskap innan jord- og skogbruk, frå 2012 aukast frå 7,8 prosent til 11 prosent, som er den ordinære trygdeavgifta på næringsinntekt. Denne auken blei lagt inn i dei økonomiske berekningane som blei gjort da trygdeavgifta innan jord- og skogbruk ble foreslått auka til 11 prosent i budsjettet for 2012. Kompensasjon blei gitt ved auka jordbruksfrådrag og omdisponering av midlar frå jordbruksavtalen. </p>
-    <p><em type="italic">Andre endringar </em>Det blir gjort nokre presiseringar og opprettingar i lovteksta. Følgjande endringar har særskilt pressemelding: </p>
-    <list/>
-    <p>__________________</p>
-    <p type="title">Revidert nasjonalbudsjett 2012</p>
-    <list>
-      <p type="listitem">Meld. St. 2 (2011–2012) Revidert nasjonalbudsjett 2012</p>
-      <p type="listitem">Prop. 111 S (2011-2012) Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2012</p>
-      <p type="listitem">Prop. 112 L (2011–2012) Endringar i skatte-, avgifts- og tollovgivninga</p>
-      <p type="listitem">Prop. 114 S (2011–2012) Samtykke til at Norges Bank inngår en avtale med Det internasjonale valutafondet (IMF) om å stille nye lånemidler til disposisjon for IMFs generelle låneordninger</p>
-      <p type="listitem">Prop. 110 S (2011-2012) Kommuneproposisjonen 2013</p>
-      <p type="listitem">Nett-TV: Finansministerens pressekonferanse</p>
-      <p type="listitem">Lysark</p>
-    </list>
-    <p>Tallene bak figurene i Revidert nasjonalbudsjett 2012</p>
-    <list>
-      <p type="listitem">Kap 2</p>
-      <p type="listitem">Kap 3</p>
-      <p type="listitem">Kap 4</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Vearro- ja divatrievdadusat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>918</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/skatte--og-avgiftsendringar.html?id=682402</origFileName><parallel_text xml:lang="sme" location="vearro--ja-divatrievdadusat_id_682402.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skatte- og avgiftsendringar - regjeringen.no</p>
+<p><em type="italic">Regjeringa foreslår to endringar for å styrkje rettstryggleiken for skattytar. Vidare foreslår Regjeringa endringar som fører til eit sterkare vern av det norske skattefundamentet. Revidert nasjonalbudsjett inneheld fleire mindre endringar i skatte- og avgiftsopplegget for 2012. </em></p>
+<p><em type="italic">Endring i regel om tilleggskatt og klagerett på likninga </em>Regjeringa foreslår ein regel om tilleggsskatt med redusert sats på 10 prosent og å oppheve regelen om at skattytar som ikkje oppfyller plikta til å gi opplysningar til likningsstyremaktene, kan miste retten til å klage på likninga. Forslaga er ein oppfølging av tiltaka for å styrke rettstryggleiken for skattytar, som Regjeringa varsla i statsbudsjettet for 2012. </p>
+<p>Etter ei lovendring i 2010 er det ikkje lenger høve til å gi tilleggsskatt med redusert sats på 15 prosent når skattytar gir feil eller ufullstendige opplysningar, som seinare blir gitt ukravd av arbeidsgivar eller andre tredjepartar. Den ordinære satsen på 30 prosent skal bli nytta i disse tilfella, om ikkje saken fell innafor reglane om unntak frå tilleggsskatt.</p>
+<p>Sjølv om reglane om unntak nå omfattar fleire tilfeller enn tidligare, viser praksis at tilleggsskatt med 30 prosent er ein for streng reaksjon når arbeidsgivar eller andre tredjepartar gir kontrollopplysningar om forholdet. I høyringa foreslo departementet derfor på nytt å innføre ein regel om redusert tilleggsskatt på 15 prosent. Høyringsinstansane er positive til forslaget, men enkelte meiner at satsen bør være lågare. Mogligheita for skatteunndraging er mindre her enn ved andre former for opplysningssvikt, og Regjeringa har etter ei ny vurdering kome til at tilleggsskatt med redusert sats på 10 prosent vil være ein tilstrekkeleg sanksjon.</p>
+<p>Høyringsinstansane er i det alt vesentlege positive til forslaget om å oppheve regelen om at ein skattytar som ikkje oppfyller plikten til å gi opplysningar til likningsstyremaktene kan miste retten til å klage på likninga. Sjølv om skattytar sin opplysningsplikt overfor likningsstyresmaktene er grunnleggjande og viktig, er inngrep i skattytar sin rett til å få handsama ei klage over likninga etter Regjeringa si oppfatning ikkje eit egna virkemiddel ved brot på denne plikten. Klagerett på likninga er ein sentral garanti for skattyter sin rettstrygging, og Regjeringa ser det som lite heldig at bortfall av ein prosessuell rett blir brukt som sanksjon.</p>
+<p><em type="italic">Nye reglar for sakshandsaming – eigedomsskatt </em>Regjeringa foreslår nye reglar for sakshandsaming i saker om eigedomsskatt. Forvaltningslova skal i utgangspunktet gjelde for handsaming av eigedomsskattesaker. Dette gjeld mellom anna reglane om habilitet, rettleiing, utgreiing, rett til å bruke advokat mv., varsel og innsyn. </p>
+<p>Unntak blir mellom anna foreslått for grunngjeving av nokre typar vedtak, omgjering mv. Regjeringa foreslår at teieplikta og retten til å få dekt sakskostnader skal følgje reglane i likningslova istadenfor reglane i forvaltningslova. Regjeringa foreslår òg fleire særskilde klagereglar for eigedomsskattesaker. Mellom anna skal klager bli avgjort av ei kommunal klagenemnd.</p>
+<p>Regjeringa foreslår å innføre ei plikt for eigar av fast eigedom til å gi opplysningar og medverke ved taksering i samband med utskriving av eigedomsskatt. Regjeringa foreslår til slutt ei lovteknisk opprydding i lovføresegner om fastsetjing av skattetakstane, utan at det skal skje ei realitetsendring av gjeldande rett.</p>
+<p><em type="italic">Endring i reglar – gevinstskatt </em>Regjeringa foreslår fleire endringar i reglane om rett til å velje utsett betaling av gevinstskatt ved uttak av fysiske driftsmiddel, finansielle eigedelar og skyldnader frå norsk skattleggingsområde. Skattytarane må utan unntak stille sikkerheit for skattebeløpet og det skal svarast renter av skattebeløpet for tida fram til betaling. Tidsgrensa for bortfall av skatten dersom det ikkje skjer ein faktisk realisasjon (femårsfristen), skal etter forslaget avviklast. Det same gjeld høvet til reduksjon av skatten på grunn av verdifall etter uttaket. Skattytarar som høyrer heime utanfor EØS skal ikkje lenger ha rett til utsett skattebetaling i noko tilfelle. Regjeringa foreslår òg enkelte tilpassingar i reglane knytt til frådrag for tap, kredit (frådrag) for gevinstskatt til utlandet, fritaksmetoden for skattlegging av aksjeinntekter o.a. og handsaminga av objekt som på nytt blir tatt inn i norsk skattleggingsområde. </p>
+<p>For å unngå uønska tilpassingar foreslår Regjeringa at dei nye reglane skal få verknad for uttak som blir gjennomført frå og med datoen for framlegget av proposisjonen, det vil seie frå og med 15. mai 2012.</p>
+<p>Forslaga til endringar har dels samanheng med utviklinga i EU- og EØS-retten, mellom anna EU-domstolen si avgjerd av 29. november 2011 i sak C-371/10 <em type="italic">National Grid Indus </em>. Etter Regjeringa sitt syn viser avgjerda at det ikkje er i strid med EØS-retten å innføre strammare reglar i Noreg for skattlegging ved uttak av fysiske driftsmiddel, finansielle eigedelar og skyldnader. Endringane fører til eit sterkare vern av det norske skattefundamentet. </p>
+<p><em type="italic">Endring trygdeavgift </em>Regjeringa foreslår attrygdeavgift for godtgjersle til deltakar for arbeidsinnsats i deltakarlikna selskap innan jord- og skogbruk, frå 2012 aukast frå 7,8 prosent til 11 prosent, som er den ordinære trygdeavgifta på næringsinntekt. Denne auken blei lagt inn i dei økonomiske berekningane som blei gjort da trygdeavgifta innan jord- og skogbruk ble foreslått auka til 11 prosent i budsjettet for 2012. Kompensasjon blei gitt ved auka jordbruksfrådrag og omdisponering av midlar frå jordbruksavtalen. </p>
+<p><em type="italic">Andre endringar </em>Det blir gjort nokre presiseringar og opprettingar i lovteksta. Følgjande endringar har særskilt pressemelding: </p>
+<list/><p>__________________</p>
+<p type="title">Revidert nasjonalbudsjett 2012</p>
+<list><p type="listitem">Meld. St. 2 (2011–2012) Revidert nasjonalbudsjett 2012</p>
+<p type="listitem">Prop. 111 S (2011-2012) Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2012</p>
+<p type="listitem">Prop. 112 L (2011–2012) Endringar i skatte-, avgifts- og tollovgivninga</p>
+<p type="listitem">Prop. 114 S (2011–2012) Samtykke til at Norges Bank inngår en avtale med Det internasjonale valutafondet (IMF) om å stille nye lånemidler til disposisjon for IMFs generelle låneordninger</p>
+<p type="listitem">Prop. 110 S (2011-2012) Kommuneproposisjonen 2013</p>
+<p type="listitem">Nett-TV: Finansministerens pressekonferanse</p>
+<p type="listitem">Lysark</p>
+</list><p>Tallene bak figurene i Revidert nasjonalbudsjett 2012</p>
+<list><p type="listitem">Kap 2</p>
+<p type="listitem">Kap 3</p>
+<p type="listitem">Kap 4</p>
+</list></body></document>

@@ -1,104 +1,68 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Láhka ja riekti - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>562</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/tema/Lov-og-rett.html?id=923</origFileName>
-    <parallel_text xml:lang="eng" location="law-and-order_id_923.html"/>
-    <parallel_text xml:lang="nob" location="lov_og_rett_id_923.html"/>
-    <parallel_text xml:lang="sme" location="lahka-ja-riekti_id_923.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lov og rett - regjeringen.no</p>
-    <p/>
-    <p/>
-    <p/>
-    <p type="title">Lov og rett</p>
-    <p>Regjeringa vil ha ein aktiv heilskapleg kamp mot kriminalitet. Å sørge for tryggleik i samfunnet er eit velferdspørsmål og eit stort offentleg ansvar. Målet er å forebygge betre, oppklare meir, reagere raskare og rehabilitere bedre, derfor må vi ha ei målretta satsing på politiet, på domstolane og på kriminalomsorga.</p>
-    <p>Justis- og politidepartementet skal:</p>
-    <list>
-      <p type="listitem">redusere og forebyggje kriminalitet</p>
-      <p type="listitem">auke tryggleik og beredskap i samfunnet</p>
-      <p type="listitem">bidra til eit formålstenleg lovverk i takt med samfunnsutviklinga</p>
-      <p type="listitem">bidra til rettstryggleik og ein rettferdig rettargang</p>
-      <p type="listitem">gjennomføre straff der tilbakeføring til eit normalt samfunnsliv er målet</p>
-      <p type="listitem">forebyggje og løyse konflikter</p>
-    </list>
-    <p>På denne sida finn du informasjon og dokument som handlar om lov og rett på eit overordna nivå. Du kan utforske temaet meir i menyen til høgre.</p>
-    <p/>
-    <p>Abonner på e-postvarsling</p>
-    <p/>
-    <p type="title">Nyheiter frå departementa om lov og rett:</p>
-    <p/>
-    <p type="title">124 millioner mer til Kriminalomsorgen</p>
-    <p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
-    <p>Økt kapasitet i kriminalomsorgen, utvidet bruk av elektronisk hjemmesoning, flere fengselsbetjenter i utdanning, forsterket innsats for å øke antall soningsoverføringer, bedre tilbakeføring og rusmestring. Dette er hovedinnholdet i regjeringens budsjettforslag for kriminalomsorgen.</p>
-    <p/>
-    <p/>
-    <p type="title">Rusmestringsenhet til Tromsø fengsel</p>
-    <p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
-    <p>Regjeringen foreslår å bevilge fem millioner kroner til to nye rusmestringsenheter i 2011. Den ene skal etableres ved Tromsø fengsel.</p>
-    <p/>
-    <p/>
-    <p type="title">Nye Gulating lagmannsrett</p>
-    <p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
-    <p>Nye Gulating lagmannsrett skal stå ferdig sommeren 2011. No foreslår Regjeringa å løyva 36,2 millionar kronar til dekking av meirutgiftar til eingongsinvesteringar, husleige og drift ved Gulating.</p>
-    <p/>
-    <p/>
-    <p type="title">Nytt aktivitetsbygg ved Oslo fengsel</p>
-    <p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
-    <p>Oslo fengsel er landets største og trenger et godt aktiveringstilbud for de innsatte. Derfor foreslår Regjeringen å bevilge 15 millioner kroner til nytt aktivitetsbygg ved fengselet.</p>
-    <p/>
-    <p/>
-    <p type="title">Åpenhet og tillit</p>
-    <p>[Tale/artikkel, Justis- og politidepartementet, 01.10.2010]</p>
-    <p>Den eneste måten vi kan sikre at Politiets sikkerhetstjeneste har tillit i befolkningen, er ved å være så åpne som mulig om det arbeidet tjenesten gjør, skriver justisministeren i en kronikk i VG.</p>
-    <p/>
-    <p type="title">Vi skal forske på partnerdrap</p>
-    <p>[Tale/artikkel, Justis- og politidepartementet, 29.09.2010]</p>
-    <p>VG skriver på lederplass søndag 26. september at det ”er på tide at forskningen på partnerdrap kommer i gang”. Det er jeg naturligvis enig i, skriver statssekretær Astri Aas-Hansen i en replikk i VG.</p>
-    <p/>
-    <p/>
-    <p type="title">Tilbakeføringsgarantien: Åpning av servicetorg i Indre Østfold fengsel</p>
-    <p>[Pressemelding, Justis- og politidepartementet, 24.09.2010]</p>
-    <p>Arbeidsminister Hanne Bjurstrøm og justisminister Knut Storberget åpnet i dag servicetorget i Indre Østfold fengsel, avdeling Trøgstad. Et 3-årig prosjekt i regi av NAV Østfold og Kriminalomsorgen skal koordinere hjelpetiltak for innsatte, som et ledd i regjeringens satsing på å gi domfelte et bedre liv etter endt soning.</p>
-    <p/>
-    <p/>
-    <p type="title">Voldsofrenes rettssikkerhet blir ikke svekket</p>
-    <p>[Tale/artikkel, Justis- og politidepartementet, 24.09.2010]</p>
-    <p>Dagbladet fremmer på lederplass tirsdag 14. september kritikk mot regjeringens forslag om å flytte klagebehandlingen i voldsoffererstatningssaker. Forslaget er fremdeles ute på høring, skriver statssekretær Astri Aas-Hansen i et innlegg i Dagbladet.</p>
-    <p/>
-    <p/>
-    <p type="title">Langt mellom ord og handling i Høyre</p>
-    <p>[Tale/artikkel, Justis- og politidepartementet, 16.09.2010]</p>
-    <p>Høyres ordførerkandidat i Lillehammer, Eivind Falk, skriver i Gudbrandsdølen Dagningen 10. september at politiet må styrkes, og at ”Høyre har foreslått høyere bevilgninger til politiet hvert eneste år”. Dette illustrerer at Høyre i opposisjon er opptatt av symbolpolitikk, skriver statssekretær Terje Moland Pedersen.</p>
-    <p/>
-    <p type="title">Spørsmål og svar om EØS og Efta</p>
-    <p>[Redaksjonell artikkel, Europaportalen, 09.09.2010]</p>
-    <p>Her finner du spørsmål - og svar på mye av det du måtte lure på - om Norges forhold til EØS, EU og Schengen.</p>
-    <p/>
-    <p>Fleire dokument om temaet</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Láhka ja riekti - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>562</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/tema/Lov-og-rett.html?id=923</origFileName><parallel_text xml:lang="eng" location="law-and-order_id_923.html"/><parallel_text xml:lang="nob" location="lov_og_rett_id_923.html"/><parallel_text xml:lang="sme" location="lahka-ja-riekti_id_923.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lov og rett - regjeringen.no</p>
+<p/>
+<p/>
+<p/>
+<p type="title">Lov og rett</p>
+<p>Regjeringa vil ha ein aktiv heilskapleg kamp mot kriminalitet. Å sørge for tryggleik i samfunnet er eit velferdspørsmål og eit stort offentleg ansvar. Målet er å forebygge betre, oppklare meir, reagere raskare og rehabilitere bedre, derfor må vi ha ei målretta satsing på politiet, på domstolane og på kriminalomsorga.</p>
+<p>Justis- og politidepartementet skal:</p>
+<list><p type="listitem">redusere og forebyggje kriminalitet</p>
+<p type="listitem">auke tryggleik og beredskap i samfunnet</p>
+<p type="listitem">bidra til eit formålstenleg lovverk i takt med samfunnsutviklinga</p>
+<p type="listitem">bidra til rettstryggleik og ein rettferdig rettargang</p>
+<p type="listitem">gjennomføre straff der tilbakeføring til eit normalt samfunnsliv er målet</p>
+<p type="listitem">forebyggje og løyse konflikter</p>
+</list><p>På denne sida finn du informasjon og dokument som handlar om lov og rett på eit overordna nivå. Du kan utforske temaet meir i menyen til høgre.</p>
+<p/>
+<p>Abonner på e-postvarsling</p>
+<p/>
+<p type="title">Nyheiter frå departementa om lov og rett:</p>
+<p/>
+<p type="title">124 millioner mer til Kriminalomsorgen</p>
+<p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
+<p>Økt kapasitet i kriminalomsorgen, utvidet bruk av elektronisk hjemmesoning, flere fengselsbetjenter i utdanning, forsterket innsats for å øke antall soningsoverføringer, bedre tilbakeføring og rusmestring. Dette er hovedinnholdet i regjeringens budsjettforslag for kriminalomsorgen.</p>
+<p/>
+<p/>
+<p type="title">Rusmestringsenhet til Tromsø fengsel</p>
+<p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
+<p>Regjeringen foreslår å bevilge fem millioner kroner til to nye rusmestringsenheter i 2011. Den ene skal etableres ved Tromsø fengsel.</p>
+<p/>
+<p/>
+<p type="title">Nye Gulating lagmannsrett</p>
+<p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
+<p>Nye Gulating lagmannsrett skal stå ferdig sommeren 2011. No foreslår Regjeringa å løyva 36,2 millionar kronar til dekking av meirutgiftar til eingongsinvesteringar, husleige og drift ved Gulating.</p>
+<p/>
+<p/>
+<p type="title">Nytt aktivitetsbygg ved Oslo fengsel</p>
+<p>[Pressemelding, Justis- og politidepartementet, 05.10.2010]</p>
+<p>Oslo fengsel er landets største og trenger et godt aktiveringstilbud for de innsatte. Derfor foreslår Regjeringen å bevilge 15 millioner kroner til nytt aktivitetsbygg ved fengselet.</p>
+<p/>
+<p/>
+<p type="title">Åpenhet og tillit</p>
+<p>[Tale/artikkel, Justis- og politidepartementet, 01.10.2010]</p>
+<p>Den eneste måten vi kan sikre at Politiets sikkerhetstjeneste har tillit i befolkningen, er ved å være så åpne som mulig om det arbeidet tjenesten gjør, skriver justisministeren i en kronikk i VG.</p>
+<p/>
+<p type="title">Vi skal forske på partnerdrap</p>
+<p>[Tale/artikkel, Justis- og politidepartementet, 29.09.2010]</p>
+<p>VG skriver på lederplass søndag 26. september at det ”er på tide at forskningen på partnerdrap kommer i gang”. Det er jeg naturligvis enig i, skriver statssekretær Astri Aas-Hansen i en replikk i VG.</p>
+<p/>
+<p/>
+<p type="title">Tilbakeføringsgarantien: Åpning av servicetorg i Indre Østfold fengsel</p>
+<p>[Pressemelding, Justis- og politidepartementet, 24.09.2010]</p>
+<p>Arbeidsminister Hanne Bjurstrøm og justisminister Knut Storberget åpnet i dag servicetorget i Indre Østfold fengsel, avdeling Trøgstad. Et 3-årig prosjekt i regi av NAV Østfold og Kriminalomsorgen skal koordinere hjelpetiltak for innsatte, som et ledd i regjeringens satsing på å gi domfelte et bedre liv etter endt soning.</p>
+<p/>
+<p/>
+<p type="title">Voldsofrenes rettssikkerhet blir ikke svekket</p>
+<p>[Tale/artikkel, Justis- og politidepartementet, 24.09.2010]</p>
+<p>Dagbladet fremmer på lederplass tirsdag 14. september kritikk mot regjeringens forslag om å flytte klagebehandlingen i voldsoffererstatningssaker. Forslaget er fremdeles ute på høring, skriver statssekretær Astri Aas-Hansen i et innlegg i Dagbladet.</p>
+<p/>
+<p/>
+<p type="title">Langt mellom ord og handling i Høyre</p>
+<p>[Tale/artikkel, Justis- og politidepartementet, 16.09.2010]</p>
+<p>Høyres ordførerkandidat i Lillehammer, Eivind Falk, skriver i Gudbrandsdølen Dagningen 10. september at politiet må styrkes, og at ”Høyre har foreslått høyere bevilgninger til politiet hvert eneste år”. Dette illustrerer at Høyre i opposisjon er opptatt av symbolpolitikk, skriver statssekretær Terje Moland Pedersen.</p>
+<p/>
+<p type="title">Spørsmål og svar om EØS og Efta</p>
+<p>[Redaksjonell artikkel, Europaportalen, 09.09.2010]</p>
+<p>Her finner du spørsmål - og svar på mye av det du måtte lure på - om Norges forhold til EØS, EU og Schengen.</p>
+<p/>
+<p>Fleire dokument om temaet</p>
+</body></document>

@@ -1,33 +1,5 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>12 miljovnna ruvnno speallansorjavašvuođa vuostá - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>91</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/12-millionar-kroner-til-tiltak-mot-speleproblem.html?id=625285</origFileName>
-    <parallel_text xml:lang="sme" location="12-miljovnna-ruvnno-speallansorjavavuoa-_id_625285.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>12 millionar kroner til tiltak mot speleproblem - regjeringen.no</p>
-    <p>Regjeringa har sett av 12 millionar kroner frå overskotet til Norsk Tipping til tiltak mot speleproblem. Midlane er fordelte slik:</p>
-    <p>Målretta informasjon til barn og unge 1 million kroner Kartlegging av problematisk speleåtferd 1,810 millionar kroner Betre informasjon og avklaring av behov i helsesektoren 3,850 millionar kroner Hjelpetelefonen for speleavhengige 0,5 millionar kroner Til frivillige støttegrupper for speleavhengige 0,8 millionar kroner</p>
-    <p>4 millionar kroner går til forsking og skal delast ut i 2011. Mesteparten av midlane skal fordelast gjennom Lotteritilsynet og Helsedirektoratet.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>12 miljovnna ruvnno speallansorjavašvuođa vuostá - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>91</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/12-millionar-kroner-til-tiltak-mot-speleproblem.html?id=625285</origFileName><parallel_text xml:lang="sme" location="12-miljovnna-ruvnno-speallansorjavavuoa-_id_625285.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>12 millionar kroner til tiltak mot speleproblem - regjeringen.no</p>
+<p>Regjeringa har sett av 12 millionar kroner frå overskotet til Norsk Tipping til tiltak mot speleproblem. Midlane er fordelte slik:</p>
+<p>Målretta informasjon til barn og unge 1 million kroner Kartlegging av problematisk speleåtferd 1,810 millionar kroner Betre informasjon og avklaring av behov i helsesektoren 3,850 millionar kroner Hjelpetelefonen for speleavhengige 0,5 millionar kroner Til frivillige støttegrupper for speleavhengige 0,8 millionar kroner</p>
+<p>4 millionar kroner går til forsking og skal delast ut i 2011. Mesteparten av midlane skal fordelast gjennom Lotteritilsynet og Helsedirektoratet.</p>
+</body></document>

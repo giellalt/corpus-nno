@@ -1,86 +1,52 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Guolástus- ja riddoministar Lisbeth Berg-Hansen - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fiskeri- og kystdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>365</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fkd/Om-departementet/fiskeri--og-kystminister-lisbeth-berg-ha.html?id=582211</origFileName>
-    <parallel_text xml:lang="eng" location="minister-of-fisheries-and-coastal-affair_id_582211.html"/>
-    <parallel_text xml:lang="nob" location="lisbeth-berg-hansen_id_582211.html"/>
-    <parallel_text xml:lang="sme" location="guolastus--ja-riddoministar-lisbeth-berg_id_582211.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen - regjeringen.no</p>
-    <p>Lisbeth Berg-Hansen (Ap) er statsråd og sjef for Fiskeri- og kystdepartementet med ansvar for fiskeri- og havbruksnæringa, fiskehelse og fiskevelferd, sjømattryggleik og -kvalitet, hamnar, infrastruktur for sjøtransport og beredskap mot akutt forureining.</p>
-    <p>Berg-Hansen har vore politisk rådgivar i Fiskeridepartementet frå 1992 til 1996, samt statssekretær ved Statsministerens kontor i perioden 2000 til 2001.</p>
-    <p>Ho har også sete 16 år i Bindal kommunestyre og formannskap, medrekna åtte år som varaordførar. Lisbeth Berg-Hansen kjem frå jobben som fiskeoppdrettar i familieselskapet SinkaBerg-Hansen AS og ho har også hatt ei rekkje styreverv både i og utanfor næringa.</p>
-    <p type="title">Politiske verv</p>
-    <p>2000 – 2001 Statssekretær på Statsministerens kontor Stoltenberg I.</p>
-    <p>1992 – 1996 Politisk rådgivar i Fiskeridepartementet.</p>
-    <p>Styremedlem i Nordland Arbeiderparti</p>
-    <p>Bindal kommunestyre og formannskap (16 år)</p>
-    <p>Varaordførar (AP) (8 år)</p>
-    <p type="title">Yrkeserfaring</p>
-    <p>2008 Fiskeoppdrettar, SinkaBerg-Hansen AS, Rørvik</p>
-    <p>1996 – 2000 Heimeverande med barn.</p>
-    <p>1988 – 1992 Kundekonsulent i EWOS A.S, Lørenskog.</p>
-    <p>1986 – 1988 Dagleg leiar i Bindalssmolt A.S, Bindal</p>
-    <p>1985 Lærar i akvakultur, Ytre Namdal vg. skule, Rørvik</p>
-    <p>1981 – 1985 Tannlegeassistent hos fleire tannlegar</p>
-    <p>I perioden 2001 – 2008 har Lisbeth Berg-Hansen vore fulltidsengasjert med styreverv.</p>
-    <p type="title">Tidlegare styreverv</p>
-    <p>2002 – 2008 Medlem av Arbeidsutvalget og Hovedstyret i NHO</p>
-    <p>2004 – 2008 Visepresident NHO</p>
-    <p>Styremedlem og nestleiar i Fiskeriforskning, Tromsø</p>
-    <p>Styremedlem i Nordlandsforskning, Bodø</p>
-    <p>Styreleiar i Fiskeri- og Havbruksnæringas Landsforening (FHL)</p>
-    <p>Styreleiar i FHL havbruk</p>
-    <p>Leiar av Rådet for Kysten inn i EU</p>
-    <p>Medlem i Europautvalget (NHO)</p>
-    <p>Medlem i Arbeiderpartiets Europautvalg</p>
-    <p>Leiar for Kjella Helselag (Nasjonalforeningen for Folkehelsen)</p>
-    <p>Styreleiar i Forum for aktivt eigarskap og familiebedrifter (NHO)</p>
-    <p>Styremedlem Aker Seafoods ASA</p>
-    <p>Styremedlem i Fosen ASA</p>
-    <p>Nestleiar i styret for Havforskningsinstituttet.</p>
-    <p>Nestleiar i styret for Høyskolen i Bodø</p>
-    <p>Styremedlem i Nasjonalt Kunnskapssenter for laks og vassmiljø</p>
-    <p>Styremedlem i familiebedrifta SinkaBerg-Hansen AS</p>
-    <p>Styremedlem SOS-barnebyar Noreg</p>
-    <p>Styremedlem i Investinor AS</p>
-    <p>Medlem i Regjeringens ekspertutval for nordområda</p>
-    <p>Styremedlem Fiskeribladet Fiskaren AS</p>
-    <p>Styreleiar Bindal kraftlag SA</p>
-    <p>Medlem Kontrollkomiteen NHO</p>
-    <p>Varamedlem Representantskapet DNB Nor</p>
-    <p type="title">Utdanning</p>
-    <p>1969 – 1978 Kjella skule, Bindal (Grunnskule)</p>
-    <p>1979 – 1980 Asphaugen vg. skule, Bodø - Tannlegeassistent</p>
-    <p>1983 – 1984 Ytre Namdal vg. skule, Rørvik - VK1 Akvakultur</p>
-    <p>Div. kurs akvakultur</p>
-    <p type="title">Anna</p>
-    <p>2004 Medlem av Grønnevetutvalget</p>
-    <p>2008 Medlem i arbeid med NOU: <span type="quote">"Fagopplæring for framtida"</span></p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Guolástus- ja riddoministar Lisbeth Berg-Hansen - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fiskeri- og kystdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>365</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fkd/Om-departementet/fiskeri--og-kystminister-lisbeth-berg-ha.html?id=582211</origFileName><parallel_text xml:lang="eng" location="minister-of-fisheries-and-coastal-affair_id_582211.html"/><parallel_text xml:lang="nob" location="lisbeth-berg-hansen_id_582211.html"/><parallel_text xml:lang="sme" location="guolastus--ja-riddoministar-lisbeth-berg_id_582211.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Fiskeri- og kystminister Lisbeth Berg-Hansen - regjeringen.no</p>
+<p>Lisbeth Berg-Hansen (Ap) er statsråd og sjef for Fiskeri- og kystdepartementet med ansvar for fiskeri- og havbruksnæringa, fiskehelse og fiskevelferd, sjømattryggleik og -kvalitet, hamnar, infrastruktur for sjøtransport og beredskap mot akutt forureining.</p>
+<p>Berg-Hansen har vore politisk rådgivar i Fiskeridepartementet frå 1992 til 1996, samt statssekretær ved Statsministerens kontor i perioden 2000 til 2001.</p>
+<p>Ho har også sete 16 år i Bindal kommunestyre og formannskap, medrekna åtte år som varaordførar. Lisbeth Berg-Hansen kjem frå jobben som fiskeoppdrettar i familieselskapet SinkaBerg-Hansen AS og ho har også hatt ei rekkje styreverv både i og utanfor næringa.</p>
+<p type="title">Politiske verv</p>
+<p>2000 – 2001 Statssekretær på Statsministerens kontor Stoltenberg I.</p>
+<p>1992 – 1996 Politisk rådgivar i Fiskeridepartementet.</p>
+<p>Styremedlem i Nordland Arbeiderparti</p>
+<p>Bindal kommunestyre og formannskap (16 år)</p>
+<p>Varaordførar (AP) (8 år)</p>
+<p type="title">Yrkeserfaring</p>
+<p>2008 Fiskeoppdrettar, SinkaBerg-Hansen AS, Rørvik</p>
+<p>1996 – 2000 Heimeverande med barn.</p>
+<p>1988 – 1992 Kundekonsulent i EWOS A.S, Lørenskog.</p>
+<p>1986 – 1988 Dagleg leiar i Bindalssmolt A.S, Bindal</p>
+<p>1985 Lærar i akvakultur, Ytre Namdal vg. skule, Rørvik</p>
+<p>1981 – 1985 Tannlegeassistent hos fleire tannlegar</p>
+<p>I perioden 2001 – 2008 har Lisbeth Berg-Hansen vore fulltidsengasjert med styreverv.</p>
+<p type="title">Tidlegare styreverv</p>
+<p>2002 – 2008 Medlem av Arbeidsutvalget og Hovedstyret i NHO</p>
+<p>2004 – 2008 Visepresident NHO</p>
+<p>Styremedlem og nestleiar i Fiskeriforskning, Tromsø</p>
+<p>Styremedlem i Nordlandsforskning, Bodø</p>
+<p>Styreleiar i Fiskeri- og Havbruksnæringas Landsforening (FHL)</p>
+<p>Styreleiar i FHL havbruk</p>
+<p>Leiar av Rådet for Kysten inn i EU</p>
+<p>Medlem i Europautvalget (NHO)</p>
+<p>Medlem i Arbeiderpartiets Europautvalg</p>
+<p>Leiar for Kjella Helselag (Nasjonalforeningen for Folkehelsen)</p>
+<p>Styreleiar i Forum for aktivt eigarskap og familiebedrifter (NHO)</p>
+<p>Styremedlem Aker Seafoods ASA</p>
+<p>Styremedlem i Fosen ASA</p>
+<p>Nestleiar i styret for Havforskningsinstituttet.</p>
+<p>Nestleiar i styret for Høyskolen i Bodø</p>
+<p>Styremedlem i Nasjonalt Kunnskapssenter for laks og vassmiljø</p>
+<p>Styremedlem i familiebedrifta SinkaBerg-Hansen AS</p>
+<p>Styremedlem SOS-barnebyar Noreg</p>
+<p>Styremedlem i Investinor AS</p>
+<p>Medlem i Regjeringens ekspertutval for nordområda</p>
+<p>Styremedlem Fiskeribladet Fiskaren AS</p>
+<p>Styreleiar Bindal kraftlag SA</p>
+<p>Medlem Kontrollkomiteen NHO</p>
+<p>Varamedlem Representantskapet DNB Nor</p>
+<p type="title">Utdanning</p>
+<p>1969 – 1978 Kjella skule, Bindal (Grunnskule)</p>
+<p>1979 – 1980 Asphaugen vg. skule, Bodø - Tannlegeassistent</p>
+<p>1983 – 1984 Ytre Namdal vg. skule, Rørvik - VK1 Akvakultur</p>
+<p>Div. kurs akvakultur</p>
+<p type="title">Anna</p>
+<p>2004 Medlem av Grønnevetutvalget</p>
+<p>2008 Medlem i arbeid med NOU: <span type="quote">"Fagopplæring for framtida"</span></p>
+</body></document>

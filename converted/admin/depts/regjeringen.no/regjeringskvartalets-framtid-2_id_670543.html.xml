@@ -1,43 +1,9 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ráđđehuskvartála boahtteáigi - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/regjeringskvartalets-framtid-2.html?id=670543</origFileName>
-    <parallel_text xml:lang="eng" location="the-future-of-the-norwegian-government-q_id_670543.html"/>
-    <parallel_text xml:lang="nob" location="rkv_id_670543.html"/>
-    <parallel_text xml:lang="sma" location="raehuskvartala-boahtteaigi_id_670543.html"/>
-    <parallel_text xml:lang="sme" location="raehuskvartala-boahtteaigi_id_670543.html"/>
-    <parallel_text xml:lang="smj" location="raehuskvartala-boahtteaigi_id_670543.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Regjeringskvartalets framtid - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa har bestemt at departementa skal liggje samla i og omkring dagens regjeringskvartal. Korleis ein skal gå vidare, vil først bli avgjort etter at regjeringa har gjennomført ein brei, open prosess der ulike partar skal få komme med innspel. </em>
-    </p>
-    <p>- Vi ønskjer å høyre kva folk meiner før regjeringa tek ei endeleg avgjerd om å halde på eksisterande bygningar eller byggje på nytt, seier administrasjonsminister Rigmor Aasrud. Det blir oppretta ein eigen blogg der alle fram til 1. april kan komme med innspel: Blogg.regjeringa.no/regjeringskvartalet</p>
-    <p>Avgjerda om å oppretthalde eit samla regjeringskvartal er tilrådd ut frå ein tryggingsmessig ståstad. Samtidig medverkar det til effektiv samhandling og kort veg både departementa imellom og til Stortinget. Ingen av skadane på nokon av bygga gjer det naudsynt å rive. Konstruksjonane står trygt, men må reparerast. Høgblokka har størst utbetringsbehov utover dei skadane bomba førte til.</p>
-    <p>Det skal no gjennomførast ei utgreiing om konseptval. Eit alternativ vil vere å byggje opp regjeringskvartalet slik det var før 22. juli. Det er òg mogleg å rive alle bygningane, men det er også fleire mellomalternativ. I tillegg vil regjeringa at det blir lagt fram alternativ som også rommar moglegheita for å flytte Utanriksdepartementet og Miljøverndepartementet til regjeringskvartalet. Derfor vil det bli utarbeidd fleire alternativ i den vidare prosessen.</p>
-    <p>- I dei nærmaste månadene må vi vege dei ulike argumenta mot kvarandre, dette er inga enkel avgjerd og heller ikkje ein prosess det må takast lett på, seier Aasrud.</p>
-    <p>Aasrud seier òg at regjeringa har bestemt at utvikling av regjeringskvartalet skal skje med statleg, ikkje kommunal plan. Dette skal gjerast av omsyn til tryggleik og framdrift. Det inneber at staten tek ansvar for å drive fram planarbeidet, men alle instansar dette vedkjem skal sjølvsagt bli høyrde i samsvar med krava i plan- og bygningsloven.</p>
-    <p>Det er førebels ikkje gjennomført økonomiske kalkylar i tilknyting til dei ulike alternativa. Dette skal gjerast gjennom ekstern kvalitetssikring av konseptval (KS 1).</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ráđđehuskvartála boahtteáigi - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>322</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/regjeringskvartalets-framtid-2.html?id=670543</origFileName><parallel_text xml:lang="eng" location="the-future-of-the-norwegian-government-q_id_670543.html"/><parallel_text xml:lang="nob" location="rkv_id_670543.html"/><parallel_text xml:lang="sma" location="raehuskvartala-boahtteaigi_id_670543.html"/><parallel_text xml:lang="sme" location="raehuskvartala-boahtteaigi_id_670543.html"/><parallel_text xml:lang="smj" location="raehuskvartala-boahtteaigi_id_670543.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Regjeringskvartalets framtid - regjeringen.no</p>
+<p><em type="italic">Regjeringa har bestemt at departementa skal liggje samla i og omkring dagens regjeringskvartal. Korleis ein skal gå vidare, vil først bli avgjort etter at regjeringa har gjennomført ein brei, open prosess der ulike partar skal få komme med innspel. </em></p>
+<p>- Vi ønskjer å høyre kva folk meiner før regjeringa tek ei endeleg avgjerd om å halde på eksisterande bygningar eller byggje på nytt, seier administrasjonsminister Rigmor Aasrud. Det blir oppretta ein eigen blogg der alle fram til 1. april kan komme med innspel: Blogg.regjeringa.no/regjeringskvartalet</p>
+<p>Avgjerda om å oppretthalde eit samla regjeringskvartal er tilrådd ut frå ein tryggingsmessig ståstad. Samtidig medverkar det til effektiv samhandling og kort veg både departementa imellom og til Stortinget. Ingen av skadane på nokon av bygga gjer det naudsynt å rive. Konstruksjonane står trygt, men må reparerast. Høgblokka har størst utbetringsbehov utover dei skadane bomba førte til.</p>
+<p>Det skal no gjennomførast ei utgreiing om konseptval. Eit alternativ vil vere å byggje opp regjeringskvartalet slik det var før 22. juli. Det er òg mogleg å rive alle bygningane, men det er også fleire mellomalternativ. I tillegg vil regjeringa at det blir lagt fram alternativ som også rommar moglegheita for å flytte Utanriksdepartementet og Miljøverndepartementet til regjeringskvartalet. Derfor vil det bli utarbeidd fleire alternativ i den vidare prosessen.</p>
+<p>- I dei nærmaste månadene må vi vege dei ulike argumenta mot kvarandre, dette er inga enkel avgjerd og heller ikkje ein prosess det må takast lett på, seier Aasrud.</p>
+<p>Aasrud seier òg at regjeringa har bestemt at utvikling av regjeringskvartalet skal skje med statleg, ikkje kommunal plan. Dette skal gjerast av omsyn til tryggleik og framdrift. Det inneber at staten tek ansvar for å drive fram planarbeidet, men alle instansar dette vedkjem skal sjølvsagt bli høyrde i samsvar med krava i plan- og bygningsloven.</p>
+<p>Det er førebels ikkje gjennomført økonomiske kalkylar i tilknyting til dei ulike alternativa. Dette skal gjerast gjennom ekstern kvalitetssikring av konseptval (KS 1).</p>
+</body></document>

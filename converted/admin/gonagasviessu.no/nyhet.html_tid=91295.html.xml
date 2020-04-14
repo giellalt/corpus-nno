@@ -1,87 +1,41 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Statsbesøk til Kroatia  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>615</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=91295</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=91487.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=91517_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title">Statsbesøk til Kroatia</p>
-    <p>DD.MM. Kong Harald og Dronning Sonja er på eit statsbesøk til Kroatia 12. og 13. mai. Velkomstseremonien vart gjennomført utanfor presidentpalasset i dag tidleg.</p>
-    <p xml:lang="koi">12.05.2011</p>
-    <p>H.E. President Ivo Josipović og professor doktor Tatjana Josipović ønskte Kongeparet velkommen til Kroatia utanfor presidentpalasset, Vila Zagorje i Zagreb. Zagreb har ei tusenårig historie og har vore hovudstad sidan Kroatia vart uavhengig i 1991.</p>
-    <p>Etter den høgtidelege mottakinga fortsette Kongeparet og Presidentparet inn i Vila Zagorje for offisiell gåveutveksling og samtalar.</p>
-    <p type="title">Bilaterale samtalar</p>
-    <p>Statsbesøket heldt fram med eit bilateralt møte, der Kong Harald og President Josipović leidde samtalen mellom delegasjonane. Seinare på dagen hadde Kong Harald òg møte med presidenten for det kroatiske parlamentet, herr Luka Bebić, og statsminister Jadranka Kosor.</p>
-    <p type="title" xml:lang="nob">Opna utstilling på Mimara Museum</p>
-    <p>Dronning Sonja og fru Josipović hadde eit parallelt program, der kulturutveksling mellom Noreg og Kroatia stod sentralt. Etter eit besøk med omvising i Villa Prekrijem reiste Dronninga til Mimara Museum, der ho opna utstillinga Konstruksjonar og paradigme. Utstillinga viser norsk kunsthandverk, og i opningstalen sin peika Dronninga på korleis dette for mange kan vere eit lettare tilgjengeleg kunstuttrykk:</p>
-    <p xml:lang="eng">
-      <em type="italic">This exhibition presents garments, vases, dishes, knives and handbags – the very things we, the public, have in our own homes and see, touch and use every day. The artists versions – well, rather interpretations – of these familiar objects may surprise us, even provoke us a little. But still, there is a feeling of recognition on our part; we are on common ground. These works of art and their creators can - and do speak to us directly. And that is what international cultural cooperation is all about: To create privileged meeting-places, where there is room for dialogue and sharing. </em>
-    </p>
-    <p type="title">Besøkte Metrović-galleriet</p>
-    <p>Den kroatiske kunstnaren Ivan Metrović (1883-1962) blir rekna blant dei viktigaste bilethoggarane på 1900-talet, spesielt innanfor religiøs kunst. I Paris møtte han Auguste Rodin, som skulle få stor påverknadskraft.</p>
-    <p>Galleriet held til i ein bygning frå 1600-talet, og Metrović budde her mellom 1922 og 1942. Om lag 300 av arbeida hans finst i galleriet, og Dronning Sonja fekk ei omvising av museumsdirektøren, Andro Krtulović.</p>
-    <p type="title" xml:lang="dan">Talte til Næringslivsseminar</p>
-    <p>I løpet av dagen møttest representantar for norsk og kroatisk næringsliv til kompetanseutveksling innanfor ei rekkje område. Om ettermiddagen slutta Kong Harald og President Josipović seg til forsamlinga og heldt kvar sin tale til deltakarane. Kong Harald understreka dei mange områda der Kroatia og Norege har felles interesser, og uttrykte ønske om styrkt samarbeid:</p>
-    <p xml:lang="eng">
-      <em type="italic">Todays events have focused on some special areas of interests: </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="eng">
-        <em type="italic">Renewable energy </em>
-      </p>
-      <p type="listitem" xml:lang="eng">
-        <em type="italic">Tunnelling technology </em>
-      </p>
-      <p type="listitem" xml:lang="eng">
-        <em type="italic">Defence industry </em>
-      </p>
-      <p type="listitem" xml:lang="eng">
-        <em type="italic">Geographic information for development </em>
-      </p>
-    </list>
-    <p xml:lang="eng">
-      <em type="italic">These are areas of common interest to our two countries and should be developed further through academic cooperation, scientific and technological research, and business projects. </em>
-    </p>
-    <p type="title">Offisiell middag</p>
-    <p>I kveld er Kongen og Dronninga statsminister Jadranka Kosors gjester ved ein offisiell middag i Pontgratz-paléet.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p>Fakta</p>
-    <p>
-      <em type="italic">Fakta om Den kroatiske republikk </em>
-    </p>
-    <p xml:lang="nob">Hovedstad: Zagreb Største byer: Zagreb, Split og Rijeka.</p>
-    <p xml:lang="nob">Størrelse: 56 542 km² Befolkning 2011: 4,4 millioner Offisielt språk: Kroatisk.</p>
-    <p xml:lang="est">Styresett: Republikk Statsoverhode 2011: President Ivo Josipović</p>
-    <p xml:lang="nob">Det ble opprettet diplomatiske forbindelser mellom Norge og Kroatia i 1992. Kongeparets besøk mai 2011 er det første norske statsbesøk til landet. Tidligere President Stjepan Mesić besøkte Norge i 2005.</p>
-    <p xml:lang="nob">Norsk prosjektsamarbeid med Kroatia har i hovedsak fokusert på maritimt samarbeid og minerydding.</p>
-    <p xml:lang="nob">Nærmere 135 000 norske turister besøkte Kroatia i 2010, og tallet har vært sterkt økende de siste årene. Kilde: UD</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem">Statsbesøk til Kroatia: Tale under offisiell lunsj (Tale)</p>
-      <p type="listitem" xml:lang="eng">State visit to Croatia: Exhibitions at the Mimara Museum (Tale)</p>
-      <p type="listitem" xml:lang="eng">State visit to Croatia: Conclusion of business seminars (Tale)</p>
-      <p type="listitem" xml:lang="nob">Maritimt fokus i ibenik (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Statsbesøk (Seksjonstekst)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="vep">Om Ivan Metrović</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Statsbesøk til Kroatia  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>614</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=91295</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=91487.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=91517_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Statsbesøk til Kroatia</p>
+<p>DD.MM. Kong Harald og Dronning Sonja er på eit statsbesøk til Kroatia 12. og 13. mai. Velkomstseremonien vart gjennomført utanfor presidentpalasset i dag tidleg.</p>
+<p xml:lang="vep">12.05.2011</p>
+<p>H.E. President Ivo Josipović og professor doktor Tatjana Josipović ønskte Kongeparet velkommen til Kroatia utanfor presidentpalasset, Vila Zagorje i Zagreb. Zagreb har ei tusenårig historie og har vore hovudstad sidan Kroatia vart uavhengig i 1991.</p>
+<p>Etter den høgtidelege mottakinga fortsette Kongeparet og Presidentparet inn i Vila Zagorje for offisiell gåveutveksling og samtalar.</p>
+<p type="title">Bilaterale samtalar</p>
+<p>Statsbesøket heldt fram med eit bilateralt møte, der Kong Harald og President Josipović leidde samtalen mellom delegasjonane. Seinare på dagen hadde Kong Harald òg møte med presidenten for det kroatiske parlamentet, herr Luka Bebić, og statsminister Jadranka Kosor.</p>
+<p type="title" xml:lang="nob">Opna utstilling på Mimara Museum</p>
+<p>Dronning Sonja og fru Josipović hadde eit parallelt program, der kulturutveksling mellom Noreg og Kroatia stod sentralt. Etter eit besøk med omvising i Villa Prekrijem reiste Dronninga til Mimara Museum, der ho opna utstillinga Konstruksjonar og paradigme. Utstillinga viser norsk kunsthandverk, og i opningstalen sin peika Dronninga på korleis dette for mange kan vere eit lettare tilgjengeleg kunstuttrykk:</p>
+<p xml:lang="eng"><em type="italic">This exhibition presents garments, vases, dishes, knives and handbags – the very things we, the public, have in our own homes and see, touch and use every day. The artists versions – well, rather interpretations – of these familiar objects may surprise us, even provoke us a little. But still, there is a feeling of recognition on our part; we are on common ground. These works of art and their creators can - and do speak to us directly. And that is what international cultural cooperation is all about: To create privileged meeting-places, where there is room for dialogue and sharing. </em></p>
+<p type="title">Besøkte Metrović-galleriet</p>
+<p>Den kroatiske kunstnaren Ivan Metrović (1883-1962) blir rekna blant dei viktigaste bilethoggarane på 1900-talet, spesielt innanfor religiøs kunst. I Paris møtte han Auguste Rodin, som skulle få stor påverknadskraft.</p>
+<p>Galleriet held til i ein bygning frå 1600-talet, og Metrović budde her mellom 1922 og 1942. Om lag 300 av arbeida hans finst i galleriet, og Dronning Sonja fekk ei omvising av museumsdirektøren, Andro Krtulović.</p>
+<p type="title" xml:lang="dan">Talte til Næringslivsseminar</p>
+<p>I løpet av dagen møttest representantar for norsk og kroatisk næringsliv til kompetanseutveksling innanfor ei rekkje område. Om ettermiddagen slutta Kong Harald og President Josipović seg til forsamlinga og heldt kvar sin tale til deltakarane. Kong Harald understreka dei mange områda der Kroatia og Norege har felles interesser, og uttrykte ønske om styrkt samarbeid:</p>
+<p xml:lang="eng"><em type="italic">Todays events have focused on some special areas of interests: </em></p>
+<list><p type="listitem" xml:lang="eng"><em type="italic">Renewable energy </em></p>
+<p type="listitem" xml:lang="eng"><em type="italic">Tunnelling technology </em></p>
+<p type="listitem" xml:lang="eng"><em type="italic">Defence industry </em></p>
+<p type="listitem" xml:lang="eng"><em type="italic">Geographic information for development </em></p>
+</list><p xml:lang="eng"><em type="italic">These are areas of common interest to our two countries and should be developed further through academic cooperation, scientific and technological research, and business projects. </em></p>
+<p type="title">Offisiell middag</p>
+<p>I kveld er Kongen og Dronninga statsminister Jadranka Kosors gjester ved ein offisiell middag i Pontgratz-paléet.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p>Fakta</p>
+<p><em type="italic">Fakta om Den kroatiske republikk </em></p>
+<p xml:lang="nob">Hovedstad: Zagreb Største byer: Zagreb, Split og Rijeka.</p>
+<p xml:lang="nob">Størrelse: 56 542 km² Befolkning 2011: 4,4 millioner Offisielt språk: Kroatisk.</p>
+<p xml:lang="est">Styresett: Republikk Statsoverhode 2011: President Ivo Josipović</p>
+<p xml:lang="nob">Det ble opprettet diplomatiske forbindelser mellom Norge og Kroatia i 1992. Kongeparets besøk mai 2011 er det første norske statsbesøk til landet. Tidligere President Stjepan Mesić besøkte Norge i 2005.</p>
+<p xml:lang="nob">Norsk prosjektsamarbeid med Kroatia har i hovedsak fokusert på maritimt samarbeid og minerydding.</p>
+<p xml:lang="nob">Nærmere 135 000 norske turister besøkte Kroatia i 2010, og tallet har vært sterkt økende de siste årene. Kilde: UD</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem">Statsbesøk til Kroatia: Tale under offisiell lunsj (Tale)</p>
+<p type="listitem" xml:lang="eng">State visit to Croatia: Exhibitions at the Mimara Museum (Tale)</p>
+<p type="listitem" xml:lang="eng">State visit to Croatia: Conclusion of business seminars (Tale)</p>
+<p type="listitem" xml:lang="nob">Maritimt fokus i ibenik (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Statsbesøk (Seksjonstekst)</p>
+</list><list><p type="listitem" xml:lang="vep">Om Ivan Metrović</p>
+</list></body></document>

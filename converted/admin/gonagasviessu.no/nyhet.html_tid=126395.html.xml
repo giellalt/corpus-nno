@@ -1,50 +1,22 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Statsbesøk frå Latvia  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>354</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=126395</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=126395.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=126395_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title">Statsbesøk frå Latvia</p>
-    <p>I dag kunne Hans Majestet Kongen og Hennar Majestet Dronninga ønskje Latvias president, H.E. herr Andris Bērziņš, velkommen til Noreg med ein høgtideleg seremoni på Slottsplassen.</p>
-    <p xml:lang="koi">18.03.2015</p>
-    <p>Den latviske presidenten er på statsbesøk til Noreg 18. og 19. mars. Det er eit nært samarbeid mellom Latvia og Noreg på ei rekkje område, og Presidentens besøk er med på å styrkje og utvikle vidare dette gode forholdet.</p>
-    <p type="title" xml:lang="est">Velkomstseremoni</p>
-    <p>Den Høgvørde Kronprins Haakon følgde President Bērziņš til Slottsplassen, der han vart ønskt velkommen av Kongeparet og Kronprinsessa. Frå ærespaviljongen lytta statsoverhovuda til nasjonalsongane til dei to landa, før President Bērziņš inspiserte æresgarden følgd av Hans Majestet.</p>
-    <p>Etter seremonien fortsette selskapet inn på Slottet, med gåveutveksling og offisiell fotografering i Fugleværelset. Men før dei forlét Slottsplassen, tok dei seg tid til å helse på representantar for latviarar i Noreg og skolebarn som hadde møtt fram for å sjå seremonien og helse Presidenten velkommen.</p>
-    <p type="title">Kransnedlegging</p>
-    <p xml:lang="nob">I tråd med tradisjonane ved statsbesøk besøkte President Bērziņš Akershus festning, der han la ned krans på Nasjonalmonumentet. Kong Harald og Dronning Sonja følgde Presidenten til Akershus og seremonien framfor minnesmerket over offera for krigen 1940–45.</p>
-    <p type="title" xml:lang="isl">Næringslivsseminar</p>
-    <p>Frå Akershus reiste Kongeparet og President Bērziņš til DNBs hovudkvarter, der dei var til stades ved opninga av eit seminar for norske og latviske næringsinteresser. Både Latvias finansminister Dana Reizniece-Ozola og statsråd Vidar Helgesen, med ansvar for samordning av arbeidet med EØS-saker og forholdet til EU, heldt innlegg før visinga av ein kort film om skandinavisk næringsliv i Latvia.</p>
-    <p>Introduksjonen vart følgd av ein paneldebatt om korleis ein kan lykkast med næringssamarbeid mellom Latvia og Noreg, der representantar for bank- og finans-, bygg- og anlegg- og informasjonstekonologisektoren deltok.</p>
-    <p>I ettermiddag har President Bērziņš møte med Stortingspresidenten og med statsminister Erna Solberg.</p>
-    <p type="title" xml:lang="smj">Gallamiddag</p>
-    <p>I kveld held Kong Harald og Dronning Sonja gallamiddag på Det kongelege slottet til ære for statsbesøket og President Andris Bērziņš. Kronprins Haakon, Kronprinsesse Mette-Marit og Prinsesse Astrid, fru Ferner, vil òg vere til stades.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem">Statsbesøk fra Latvia: Tale under gallamiddagen (Tale)</p>
-      <p type="listitem" xml:lang="nob">Forsvarssamarbeid Norge - Latvia (Nyhet)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="ron">Latvia.eu</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Statsbesøk frå Latvia  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>353</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=126395</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=126395.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=126395_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Statsbesøk frå Latvia</p>
+<p>I dag kunne Hans Majestet Kongen og Hennar Majestet Dronninga ønskje Latvias president, H.E. herr Andris Bērziņš, velkommen til Noreg med ein høgtideleg seremoni på Slottsplassen.</p>
+<p xml:lang="vep">18.03.2015</p>
+<p>Den latviske presidenten er på statsbesøk til Noreg 18. og 19. mars. Det er eit nært samarbeid mellom Latvia og Noreg på ei rekkje område, og Presidentens besøk er med på å styrkje og utvikle vidare dette gode forholdet.</p>
+<p type="title" xml:lang="est">Velkomstseremoni</p>
+<p>Den Høgvørde Kronprins Haakon følgde President Bērziņš til Slottsplassen, der han vart ønskt velkommen av Kongeparet og Kronprinsessa. Frå ærespaviljongen lytta statsoverhovuda til nasjonalsongane til dei to landa, før President Bērziņš inspiserte æresgarden følgd av Hans Majestet.</p>
+<p>Etter seremonien fortsette selskapet inn på Slottet, med gåveutveksling og offisiell fotografering i Fugleværelset. Men før dei forlét Slottsplassen, tok dei seg tid til å helse på representantar for latviarar i Noreg og skolebarn som hadde møtt fram for å sjå seremonien og helse Presidenten velkommen.</p>
+<p type="title" xml:lang="nob">Kransnedlegging</p>
+<p xml:lang="nob">I tråd med tradisjonane ved statsbesøk besøkte President Bērziņš Akershus festning, der han la ned krans på Nasjonalmonumentet. Kong Harald og Dronning Sonja følgde Presidenten til Akershus og seremonien framfor minnesmerket over offera for krigen 1940–45.</p>
+<p type="title" xml:lang="isl">Næringslivsseminar</p>
+<p>Frå Akershus reiste Kongeparet og President Bērziņš til DNBs hovudkvarter, der dei var til stades ved opninga av eit seminar for norske og latviske næringsinteresser. Både Latvias finansminister Dana Reizniece-Ozola og statsråd Vidar Helgesen, med ansvar for samordning av arbeidet med EØS-saker og forholdet til EU, heldt innlegg før visinga av ein kort film om skandinavisk næringsliv i Latvia.</p>
+<p>Introduksjonen vart følgd av ein paneldebatt om korleis ein kan lykkast med næringssamarbeid mellom Latvia og Noreg, der representantar for bank- og finans-, bygg- og anlegg- og informasjonstekonologisektoren deltok.</p>
+<p>I ettermiddag har President Bērziņš møte med Stortingspresidenten og med statsminister Erna Solberg.</p>
+<p type="title" xml:lang="smj">Gallamiddag</p>
+<p>I kveld held Kong Harald og Dronning Sonja gallamiddag på Det kongelege slottet til ære for statsbesøket og President Andris Bērziņš. Kronprins Haakon, Kronprinsesse Mette-Marit og Prinsesse Astrid, fru Ferner, vil òg vere til stades.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem">Statsbesøk fra Latvia: Tale under gallamiddagen (Tale)</p>
+<p type="listitem" xml:lang="nob">Forsvarssamarbeid Norge - Latvia (Nyhet)</p>
+</list><list><p type="listitem" xml:lang="ron">Latvia.eu</p>
+</list></body></document>

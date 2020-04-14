@@ -1,80 +1,57 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Mina og løva</title>
-    <genre code="ficti"/>
-    <author>
-      <person firstname="Elin B. R." lastname="Tømte" sex="f" born="" nationality=""/>
-    </author>
-    <year>2014</year>
-    <wordcount>981</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.stortinget.no/globalassets/pdf/diverse/mina-og-loven-nynorsk.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="mina-og-loven.pdf"/>
-    <parallel_text xml:lang="sme" location="mina-og-loven-samisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mina kjenner eit lite sug i magen nesten før ho opnar augo. Ho har gledd seg så lenge til denne dagen! 17. mai er annleis enn alle andre dagar. Ein stor bursdag der alle er inviterte, tenkjer Mina, medan ho dreg opp strømpebuksa. Kleda la dei fram i går. Mina tek den nystrokne kjolen på. Han er raud med kvite prikkar. Ho svingar seg rundt på golvet, så kjolen faldar seg ut som ein paraply.</p>
-    <p>På fortauet trengjer folk på frå alle kantar. Alle vil stå fremst så dei kan sjå. Nokon ropar hurra og vinkar til Mina og mamma. Mina løftar fl agget sitt og vinkar tilbake. Neste år skal ho også gå i toget!</p>
-    <p>Når Mina har lagt seg den kvelden, fortel ho mamma om løva. Ho vil så frykteleg gjerne tilbake.</p>
-    <p type="listitem">– Jenta mi, steinløver kan vel ikkje blunke! seier mamma og</p>
-    <p>pakkar dyna godt rundt Mina. Men før mamma sløkkjer lampa, lover ho at Mina skal få vere med til Stortinget neste dag.</p>
-    <p>Om natta begynner det å regne. Mina tenkjer på løva    som ligg våt og kald i regnet.</p>
-    <p>Mina synest ikkje det liknar på noko skattekart.</p>
-    <p type="listitem">– Kva er eit skattekort då? spør Mina litt skuffa.</p>
-    <p type="listitem">– Dei som har eit arbeid, får lønn for det dei gjer, seier mamma.</p>
-    <p type="listitem">– Alle må betale noko av lønna i skatt. Og skattekortet fortel</p>
-    <p>kor mykje vi skal betale. Når alle betaler skatten sin, blir det ein ganske stor sekk med pengar.</p>
-    <p type="listitem">– Er det den sekken som er skattekista, liksom? spør Mina.</p>
-    <p type="listitem">– Ja, på ein måte kan vi seie at alle skattepengane er som ei</p>
-    <p>skattekiste, smiler mamma. – Og det er ei skattekiste som alle får glede av, for pengane blir brukte til skolar, sjukehus, eldresenter, politi og mykje anna. Mina hugsar då bestefar låg på sjukehuset. Då sa han til mamma at han var glad for at han hadde betalt skatten sin. No forstår Mina betre kva bestefar meinte den gongen.</p>
-    <p type="listitem">– Var det du som brølte? spør ho og ser interessert på henne.</p>
-    <p>Mina nikkar, men får ikkje fram eit ord.</p>
-    <p type="listitem">– Eit så fl ott brøl har eg visst ikkje høyrt sidan eg sjølv vart</p>
-    <p>hoggen ut av steinblokka. Løva ser seg om og strekkjer forsiktig på labbane. Så kjem ho langsamt ned frå sokkelen. Mina sveittar i hendene og klarer nesten ikkje å stå stille. No er løva nede på bakken. Ho svingar på halen og ser på henne.</p>
-    <p type="listitem">– Gå til mamma di, du. Vi kan møtast inne i Stortinget om</p>
-    <p>ei stund, så kan vi gå ein liten runde saman. Eg må bruke den hemmelege døra mi, seier løva og forsvinn rundt hjørnet. Mina spring etter mamma, og saman går dei inn i Stortinget og opp på kontoret til mamma.</p>
-    <p>Midtvegs i trappa stansar ho framfor ei dør.</p>
-    <p type="listitem">– Her er det noko du må sjå, seier ho.</p>
-    <p>Dei kjem inn i eit rom med vegger av murstein og med mange bilde. I eit slags glasskåp ligg ei bok.</p>
-    <p type="listitem">– Dette er ein kopi av Grunnlova vår.</p>
-    <p>Ho vart skriven for omtrent 200 år sidan. Det er denne heile Noreg feirar kvar 17. mai. Grunnlova er nok det viktigaste eg har å passe på, seier løva tankefullt. Mina synest det er litt rart å feire ei bok, men så hugsar ho at mamma har sagt at Grunnlova er hovudlova for Noreg. Sjefen over alle andre lover, liksom. Ikkje rart at løva ser stolt ut!</p>
-    <p type="listitem">– Då vi fekk ei eiga grunnlov i Noreg,</p>
-    <p>begynte demokratiet.</p>
-    <p type="listitem">– Kva er demokrati? spør Mina.</p>
-    <p>Løva kremtar og fortel: – Det er at heile folket skal vere med og bestemme. Men alle kan ikkje bestemme på ein gong. Derfor vel vi nokon til å styre for oss. Dei 169 politikarane her på Stortinget kjem frå heile landet. Det er dei som avgjer dei viktige sakene.</p>
-    <p type="listitem">– Høyrer eg til folket då, herr Løve? spør</p>
-    <p>Mina.</p>
-    <p type="listitem">– Klart du gjer! Men du må vere 18 år før du</p>
-    <p>kan vere med og velje.</p>
-    <p>Når dei røystar, trykkjer dei på ein røysteknapp på plassen sin. Grøn knapp betyr ja. Raud knapp betyr nei. Den fargen som fl est trykkjer på, avgjer kva som blir bestemt.</p>
-    <p>Ho svingar med halen så Mina nesten går over ende. Så marsjerer ho ut, med hovudet høgt til vÍrs. Mina må springe etter.</p>
-    <p type="listitem">– Gråstein! snøftar løva igjen. – Eg er laga av granitt. Eg er ein</p>
-    <p>av dei første skulpturane i Oslo by. Eg ligg ute i all slags vÍr!    I over hundre år har eg passa på Stortinget og Grunnlova.  Dag og natt. Og i hundre nye år skal eg passe på.</p>
-    <p type="listitem">– Unnskyld, herr Løve, seier Mina og dreg løva forsiktig i halen.</p>
-    <p type="listitem">– Det er jammen bra at du er av granitt! fortset ho.</p>
-    <p>Då ristar løva på manken sin og ser meir fornøgd ut.</p>
-    <p>Saman ruslar dei to vennene nedover trappa.</p>
-    <p type="listitem">– Takk for følgjet, seier løva. – Det var fi nt å få vise deg nokre av</p>
-    <p>dei skattane eg vernar.</p>
-    <p type="listitem">– Det er bra at du passar på Stortinget og Grunnlova, seier Mina.</p>
-    <p type="listitem">– Ja, nokre ting er det verdt å passe på, svarer løva.</p>
-    <p>Mina gjev løva ein klem og takkar for omvisinga. Så spring ho tilbake til kontoret til mamma.</p>
-    <p>Mamma synest Mina vart lenge borte.</p>
-    <p type="listitem">– Du kan ikkje gå åleine rundt i huset her, seier mamma.</p>
-    <p type="listitem">– Eg gjekk jo ikkje heilt åleine då, svarer Mina med eit lurt</p>
-    <p>blikk. Mamma held fram med arbeidet sitt framfor pc-en sin.</p>
-    <p type="listitem">– Du mamma? Går det an å seie at demokratiet er ein skatt?</p>
-    <p>spør Mina etter ei stund.</p>
-    <p type="listitem">– Ja, det kan ein trygt seie, svarer mamma, litt forundra og</p>
-    <p>imponert. Då tenkjer Mina at ho har funne skattekista likevel. Og vorte venn med den som passar på skatten.</p>
-    <p/>
-    <p>-),*å-%2+%</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Mina og løva</title><genre code="ficti"/><author><person firstname="Elin B. R." lastname="Tømte" sex="f" born="" nationality=""/></author><year>2014</year><wordcount>981</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.stortinget.no/globalassets/pdf/diverse/mina-og-loven-nynorsk.pdf</origFileName><parallel_text xml:lang="nob" location="mina-og-loven.pdf"/><parallel_text xml:lang="sme" location="mina-og-loven-samisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mina kjenner eit lite sug i magen nesten før ho opnar augo. Ho har gledd seg så lenge til denne dagen! 17. mai er annleis enn alle andre dagar. Ein stor bursdag der alle er inviterte, tenkjer Mina, medan ho dreg opp strømpebuksa. Kleda la dei fram i går. Mina tek den nystrokne kjolen på. Han er raud med kvite prikkar. Ho svingar seg rundt på golvet, så kjolen faldar seg ut som ein paraply.</p>
+<p>På fortauet trengjer folk på frå alle kantar. Alle vil stå fremst så dei kan sjå. Nokon ropar hurra og vinkar til Mina og mamma. Mina løftar fl agget sitt og vinkar tilbake. Neste år skal ho også gå i toget!</p>
+<p>Når Mina har lagt seg den kvelden, fortel ho mamma om løva. Ho vil så frykteleg gjerne tilbake.</p>
+<p type="listitem">– Jenta mi, steinløver kan vel ikkje blunke! seier mamma og</p>
+<p>pakkar dyna godt rundt Mina. Men før mamma sløkkjer lampa, lover ho at Mina skal få vere med til Stortinget neste dag.</p>
+<p>Om natta begynner det å regne. Mina tenkjer på løva    som ligg våt og kald i regnet.</p>
+<p>Mina synest ikkje det liknar på noko skattekart.</p>
+<p type="listitem">– Kva er eit skattekort då? spør Mina litt skuffa.</p>
+<p type="listitem">– Dei som har eit arbeid, får lønn for det dei gjer, seier mamma.</p>
+<p type="listitem">– Alle må betale noko av lønna i skatt. Og skattekortet fortel</p>
+<p>kor mykje vi skal betale. Når alle betaler skatten sin, blir det ein ganske stor sekk med pengar.</p>
+<p type="listitem">– Er det den sekken som er skattekista, liksom? spør Mina.</p>
+<p type="listitem">– Ja, på ein måte kan vi seie at alle skattepengane er som ei</p>
+<p>skattekiste, smiler mamma. – Og det er ei skattekiste som alle får glede av, for pengane blir brukte til skolar, sjukehus, eldresenter, politi og mykje anna. Mina hugsar då bestefar låg på sjukehuset. Då sa han til mamma at han var glad for at han hadde betalt skatten sin. No forstår Mina betre kva bestefar meinte den gongen.</p>
+<p type="listitem">– Var det du som brølte? spør ho og ser interessert på henne.</p>
+<p>Mina nikkar, men får ikkje fram eit ord.</p>
+<p type="listitem">– Eit så fl ott brøl har eg visst ikkje høyrt sidan eg sjølv vart</p>
+<p>hoggen ut av steinblokka. Løva ser seg om og strekkjer forsiktig på labbane. Så kjem ho langsamt ned frå sokkelen. Mina sveittar i hendene og klarer nesten ikkje å stå stille. No er løva nede på bakken. Ho svingar på halen og ser på henne.</p>
+<p type="listitem">– Gå til mamma di, du. Vi kan møtast inne i Stortinget om</p>
+<p>ei stund, så kan vi gå ein liten runde saman. Eg må bruke den hemmelege døra mi, seier løva og forsvinn rundt hjørnet. Mina spring etter mamma, og saman går dei inn i Stortinget og opp på kontoret til mamma.</p>
+<p>Midtvegs i trappa stansar ho framfor ei dør.</p>
+<p type="listitem">– Her er det noko du må sjå, seier ho.</p>
+<p>Dei kjem inn i eit rom med vegger av murstein og med mange bilde. I eit slags glasskåp ligg ei bok.</p>
+<p type="listitem">– Dette er ein kopi av Grunnlova vår.</p>
+<p>Ho vart skriven for omtrent 200 år sidan. Det er denne heile Noreg feirar kvar 17. mai. Grunnlova er nok det viktigaste eg har å passe på, seier løva tankefullt. Mina synest det er litt rart å feire ei bok, men så hugsar ho at mamma har sagt at Grunnlova er hovudlova for Noreg. Sjefen over alle andre lover, liksom. Ikkje rart at løva ser stolt ut!</p>
+<p type="listitem">– Då vi fekk ei eiga grunnlov i Noreg,</p>
+<p>begynte demokratiet.</p>
+<p type="listitem">– Kva er demokrati? spør Mina.</p>
+<p>Løva kremtar og fortel: – Det er at heile folket skal vere med og bestemme. Men alle kan ikkje bestemme på ein gong. Derfor vel vi nokon til å styre for oss. Dei 169 politikarane her på Stortinget kjem frå heile landet. Det er dei som avgjer dei viktige sakene.</p>
+<p type="listitem">– Høyrer eg til folket då, herr Løve? spør</p>
+<p>Mina.</p>
+<p type="listitem">– Klart du gjer! Men du må vere 18 år før du</p>
+<p>kan vere med og velje.</p>
+<p>Når dei røystar, trykkjer dei på ein røysteknapp på plassen sin. Grøn knapp betyr ja. Raud knapp betyr nei. Den fargen som fl est trykkjer på, avgjer kva som blir bestemt.</p>
+<p>Ho svingar med halen så Mina nesten går over ende. Så marsjerer ho ut, med hovudet høgt til vÍrs. Mina må springe etter.</p>
+<p type="listitem">– Gråstein! snøftar løva igjen. – Eg er laga av granitt. Eg er ein</p>
+<p>av dei første skulpturane i Oslo by. Eg ligg ute i all slags vÍr!    I over hundre år har eg passa på Stortinget og Grunnlova.  Dag og natt. Og i hundre nye år skal eg passe på.</p>
+<p type="listitem">– Unnskyld, herr Løve, seier Mina og dreg løva forsiktig i halen.</p>
+<p type="listitem">– Det er jammen bra at du er av granitt! fortset ho.</p>
+<p>Då ristar løva på manken sin og ser meir fornøgd ut.</p>
+<p>Saman ruslar dei to vennene nedover trappa.</p>
+<p type="listitem">– Takk for følgjet, seier løva. – Det var fi nt å få vise deg nokre av</p>
+<p>dei skattane eg vernar.</p>
+<p type="listitem">– Det er bra at du passar på Stortinget og Grunnlova, seier Mina.</p>
+<p type="listitem">– Ja, nokre ting er det verdt å passe på, svarer løva.</p>
+<p>Mina gjev løva ein klem og takkar for omvisinga. Så spring ho tilbake til kontoret til mamma.</p>
+<p>Mamma synest Mina vart lenge borte.</p>
+<p type="listitem">– Du kan ikkje gå åleine rundt i huset her, seier mamma.</p>
+<p type="listitem">– Eg gjekk jo ikkje heilt åleine då, svarer Mina med eit lurt</p>
+<p>blikk. Mamma held fram med arbeidet sitt framfor pc-en sin.</p>
+<p type="listitem">– Du mamma? Går det an å seie at demokratiet er ein skatt?</p>
+<p>spør Mina etter ei stund.</p>
+<p type="listitem">– Ja, det kan ein trygt seie, svarer mamma, litt forundra og</p>
+<p>imponert. Då tenkjer Mina at ho har funne skattekista likevel. Og vorte venn med den som passar på skatten.</p>
+<p/>
+<p>-),*å-%2+%</p>
+</body></document>

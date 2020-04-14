@@ -1,45 +1,14 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Lágu álbmotmeahcci lea ásahuvvon - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>331</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/md/pressesenter/Pressemeldingar/2012/lahku-nasjonalpark-er-oppretta.html?id=710329</origFileName>
-    <parallel_text xml:lang="sme" location="lagu-albmotmeahcci-lea-asahuvvon_id_710329.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Láhku nasjonalpark er oppretta - regjeringen.no</p>
-    <p>
-      <em type="italic">Verneplan for Láhku i Nordland fylke ble vedteken av Kongen i statsråd i dag. Láhku er vår 36. nasjonalpark og utgjer ca. 188 kvadratkilometer. </em>
-    </p>
-    <p>- Eg gler meg over at nok eit storslagent naturområde med store naturverdiar blir sikra for våre komande slekter, seier miljøvernminister Bård Vegar Solhjell.</p>
-    <p>Láhku nasjonalpark finn vi i Glomfjordområdet og den ligg nær Saltfjellet-Svartisen nasjonalpark og nokon av dei største villmarksprega områda i Nordland. Nasjonalparken har areal i dei tre kommunane Beiarn, Gildeskål og Meløy og femner om delar av nedbørfeltet til Sundsfjordvassdraget, Fykanvassdraget, Arstadvassdraget og Gråtådalsvassdraget.</p>
-    <p>I nasjonalparken finn vi det største samanhengjande området av alpin karst i Noreg. Karst er eit omgrep på geologiske landskapsformasjonar danna gjennom oppløysing av løyseleg berggrunn, i dette tilfellet kalkfjell. Det spesielle kartslandskapet og den spesielle berggrunnen med tilhøyrande rikt planteliv er hovudgrunngjevinga for verneframlegget. Botanisk er området særs interessant, med over 260 registrerte planteartar. Grønlandsstarr og nordleg tinderublom er dei mest særsynte.</p>
-    <p>I fleire av innsjøane i området finn vi ulike kransalgar, og området er eit nasjonalt kjerneområde for den trua arten gråkrans og den nær trua arten kanadaglattkrans. Mange av innsjøane i området oppfyller kriteria for naturtypane kalksjøar og kransalgesjøar. Kalksjøar er klassifisert som sterkt trua i Norsk raudliste for naturtypar 2011.</p>
-    <p>Kulturminna i området er i hovudsak knytt til samisk reindrift. Dei fyrste kjeldane om reindrift i området går attende til 1600-tallet og det er framleis aktiv reindrift i området. Denne skal halda fram som i dag også no som området er verna.</p>
-    <p>Området vert mykje nytta til friluftsliv og er det viktigaste friluftsområdet i regionen. Jakt, fiske og turgåing er mest vanleg, og dette vil framleis vere tillate i verneområdet.</p>
-    <p>- Regjeringa ønskjer å styrke lokaldemokratiet i forvaltninga av verneområda. Eg vil difor leggje forvaltningsmynda til eit lokalt nasjonalparkstyre, seier Solhjell.</p>
-    <p>Inntil det nye nasjonalparkstyret er på plass vil Fylkesmannen i Nordland vere forvaltningsstyresmakt.</p>
-    <p>Faktaark om Lahku nasjonalpark (pdf)</p>
-    <p>Vernekart over Lahku nasjonalpark (pdf)</p>
-    <p>Oversiktskart over Lahku nasjonalpark (pdf)</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Lágu álbmotmeahcci lea ásahuvvon - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>331</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/md/pressesenter/Pressemeldingar/2012/lahku-nasjonalpark-er-oppretta.html?id=710329</origFileName><parallel_text xml:lang="sme" location="lagu-albmotmeahcci-lea-asahuvvon_id_710329.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Láhku nasjonalpark er oppretta - regjeringen.no</p>
+<p><em type="italic">Verneplan for Láhku i Nordland fylke ble vedteken av Kongen i statsråd i dag. Láhku er vår 36. nasjonalpark og utgjer ca. 188 kvadratkilometer. </em></p>
+<p>- Eg gler meg over at nok eit storslagent naturområde med store naturverdiar blir sikra for våre komande slekter, seier miljøvernminister Bård Vegar Solhjell.</p>
+<p>Láhku nasjonalpark finn vi i Glomfjordområdet og den ligg nær Saltfjellet-Svartisen nasjonalpark og nokon av dei største villmarksprega områda i Nordland. Nasjonalparken har areal i dei tre kommunane Beiarn, Gildeskål og Meløy og femner om delar av nedbørfeltet til Sundsfjordvassdraget, Fykanvassdraget, Arstadvassdraget og Gråtådalsvassdraget.</p>
+<p>I nasjonalparken finn vi det største samanhengjande området av alpin karst i Noreg. Karst er eit omgrep på geologiske landskapsformasjonar danna gjennom oppløysing av løyseleg berggrunn, i dette tilfellet kalkfjell. Det spesielle kartslandskapet og den spesielle berggrunnen med tilhøyrande rikt planteliv er hovudgrunngjevinga for verneframlegget. Botanisk er området særs interessant, med over 260 registrerte planteartar. Grønlandsstarr og nordleg tinderublom er dei mest særsynte.</p>
+<p>I fleire av innsjøane i området finn vi ulike kransalgar, og området er eit nasjonalt kjerneområde for den trua arten gråkrans og den nær trua arten kanadaglattkrans. Mange av innsjøane i området oppfyller kriteria for naturtypane kalksjøar og kransalgesjøar. Kalksjøar er klassifisert som sterkt trua i Norsk raudliste for naturtypar 2011.</p>
+<p>Kulturminna i området er i hovudsak knytt til samisk reindrift. Dei fyrste kjeldane om reindrift i området går attende til 1600-tallet og det er framleis aktiv reindrift i området. Denne skal halda fram som i dag også no som området er verna.</p>
+<p>Området vert mykje nytta til friluftsliv og er det viktigaste friluftsområdet i regionen. Jakt, fiske og turgåing er mest vanleg, og dette vil framleis vere tillate i verneområdet.</p>
+<p>- Regjeringa ønskjer å styrke lokaldemokratiet i forvaltninga av verneområda. Eg vil difor leggje forvaltningsmynda til eit lokalt nasjonalparkstyre, seier Solhjell.</p>
+<p>Inntil det nye nasjonalparkstyret er på plass vil Fylkesmannen i Nordland vere forvaltningsstyresmakt.</p>
+<p>Faktaark om Lahku nasjonalpark (pdf)</p>
+<p>Vernekart over Lahku nasjonalpark (pdf)</p>
+<p>Oversiktskart over Lahku nasjonalpark (pdf)</p>
+</body></document>

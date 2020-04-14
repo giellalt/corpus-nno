@@ -1,37 +1,10 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>469</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.regjeringen.no/nn/dep/kud/Dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20012002/otprp-nr-114-2001-2002-/4.html?id=170390</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>4 Økonomiske og administrative... - regjeringen.no</p>
-    <p>Ot.prp. nr. 114 (2001-2002)</p>
-    <p type="title">Om lov om endring i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (ny organisering av arbeidet for samiske språk)</p>
-    <p type="title">4 Økonomiske og administrative konsekvensar</p>
-    <p>Kultur- og kyrkjedepartementet kan ikkje sjå at lovforslaget medfører økonomiske konsekvensar. Lovforslaget inneber at ein ikkje lenger er pålagt å ha eit eige språkorgan, men overlet til Sametinget å avgjere kva som er den beste måten å organisere arbeidet på.</p>
-    <p>Når det gjeld forslaget til ny § 3-12 første ledd, må dette vurderast opp mot kva som er gjeldande rett i dag. Forskrift til samelovens språkregler § 2 nr. 2 slår fast at <span type="quote">«Samisk språkråd har ansvaret for å utvikle og bevare samisk språk i Norge.»</span> Utkastet til ny § 3-12 første ledd har teke utgangspunkt i dette. Då Sametinget fatta sitt omorganiseringsvedtak 25. mai 2000, innebar dette at Samisk språkråd si verksemd skulle leggjast ned frå 1. januar 2001. I følgje Sametinget er rådet sine oppgåver no flytta over til Samisk språkstyre og Sametinget si språkavdeling. Utkastet til lovforslag inneber difor ikkje nye økonomiske konsekvensar for Sametinget då det ikkje er tale om å påleggje Sametinget andre oppgåver enn det som følgjer av den nogjeldande forskrifta, og som Sametinget allereie har utført etter at deira nye organisasjonstruktur blei sett i verk frå 1. januar 2001. Økonomiske midlar som Sametinget tidlegare overførte til Samisk språkråd, kan Sametinget framleis disponere til språkarbeid.</p>
-    <p>Når det gjeld forslag til nytt § 3-12 andre ledd, viser Kultur- og kyrkjedepartementet til drøftinga under punkt 3.3 der det går fram at ein med lovforslaget ikkje tek sikte på å opprette ei ny rapporteringsordning. Allereie i dag eksisterer det ei årleg rapporteringsordning heimla i forskrift til samelovens språkreglar § 2 nr. 4. Departementet legg heller ikkje opp til at rapporten skal avvike vesentleg frå dei rapportane som skal utarbeidast etter gjeldande rett i dag når det gjeld innhald eller omfang.</p>
-    <p>Den einast endringa i høve til rapportering om situasjonen for samiske språk som lovforslaget legg opp til, er at ein ikkje lenger skal rapportere årleg, men kvart fjerde år. Det har vist seg i praksis at det ikkje er naturleg med ein omfattande rapport oftare en kvart fjerde år. Rapporteringa blir då knytt til prinsippmeldinga om samepolitikken som Kommunal- og regionaldepartementet legg fram kvart fjerde år.</p>
-    <p>Lovforslaget vil difor ikkje medføre nye arbeidsoppgåver for Sametinget som krev auka ressursar. Delar av dei økonomiske midlane løyva til Sametinget over Kommunal- og regionaldepartementet sitt budsjett, skal i følgje forskrift til samelovens språkregler § 2 nr. 5 dekke Samisk språkråd sine utgifter. Det er ikkje skjedd endringar i løyvinga frå Kommunal- og regionaldepartementet til Sametinget som ei følgje av at Samisk språkråd er lagt ned. Midlar som Sametinget tidlegare overførte til Samisk språkråd, kan Sametinget difor framleis disponere til språkarbeid.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>469</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.regjeringen.no/nn/dep/kud/Dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20012002/otprp-nr-114-2001-2002-/4.html?id=170390</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>4 Økonomiske og administrative... - regjeringen.no</p>
+<p>Ot.prp. nr. 114 (2001-2002)</p>
+<p type="title">Om lov om endring i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (ny organisering av arbeidet for samiske språk)</p>
+<p type="title">4 Økonomiske og administrative konsekvensar</p>
+<p>Kultur- og kyrkjedepartementet kan ikkje sjå at lovforslaget medfører økonomiske konsekvensar. Lovforslaget inneber at ein ikkje lenger er pålagt å ha eit eige språkorgan, men overlet til Sametinget å avgjere kva som er den beste måten å organisere arbeidet på.</p>
+<p>Når det gjeld forslaget til ny § 3-12 første ledd, må dette vurderast opp mot kva som er gjeldande rett i dag. Forskrift til samelovens språkregler § 2 nr. 2 slår fast at <span type="quote">«Samisk språkråd har ansvaret for å utvikle og bevare samisk språk i Norge.»</span> Utkastet til ny § 3-12 første ledd har teke utgangspunkt i dette. Då Sametinget fatta sitt omorganiseringsvedtak 25. mai 2000, innebar dette at Samisk språkråd si verksemd skulle leggjast ned frå 1. januar 2001. I følgje Sametinget er rådet sine oppgåver no flytta over til Samisk språkstyre og Sametinget si språkavdeling. Utkastet til lovforslag inneber difor ikkje nye økonomiske konsekvensar for Sametinget då det ikkje er tale om å påleggje Sametinget andre oppgåver enn det som følgjer av den nogjeldande forskrifta, og som Sametinget allereie har utført etter at deira nye organisasjonstruktur blei sett i verk frå 1. januar 2001. Økonomiske midlar som Sametinget tidlegare overførte til Samisk språkråd, kan Sametinget framleis disponere til språkarbeid.</p>
+<p>Når det gjeld forslag til nytt § 3-12 andre ledd, viser Kultur- og kyrkjedepartementet til drøftinga under punkt 3.3 der det går fram at ein med lovforslaget ikkje tek sikte på å opprette ei ny rapporteringsordning. Allereie i dag eksisterer det ei årleg rapporteringsordning heimla i forskrift til samelovens språkreglar § 2 nr. 4. Departementet legg heller ikkje opp til at rapporten skal avvike vesentleg frå dei rapportane som skal utarbeidast etter gjeldande rett i dag når det gjeld innhald eller omfang.</p>
+<p>Den einast endringa i høve til rapportering om situasjonen for samiske språk som lovforslaget legg opp til, er at ein ikkje lenger skal rapportere årleg, men kvart fjerde år. Det har vist seg i praksis at det ikkje er naturleg med ein omfattande rapport oftare en kvart fjerde år. Rapporteringa blir då knytt til prinsippmeldinga om samepolitikken som Kommunal- og regionaldepartementet legg fram kvart fjerde år.</p>
+<p>Lovforslaget vil difor ikkje medføre nye arbeidsoppgåver for Sametinget som krev auka ressursar. Delar av dei økonomiske midlane løyva til Sametinget over Kommunal- og regionaldepartementet sitt budsjett, skal i følgje forskrift til samelovens språkregler § 2 nr. 5 dekke Samisk språkråd sine utgifter. Det er ikkje skjedd endringar i løyvinga frå Kommunal- og regionaldepartementet til Sametinget som ei følgje av at Samisk språkråd er lagt ned. Midlar som Sametinget tidlegare overførte til Samisk språkråd, kan Sametinget difor framleis disponere til språkarbeid.</p>
+</body></document>

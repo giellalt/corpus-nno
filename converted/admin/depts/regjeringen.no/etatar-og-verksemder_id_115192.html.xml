@@ -1,60 +1,26 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Vuollásaš ásahusat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>400</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder.html?id=115192</origFileName>
-    <parallel_text xml:lang="eng" location="underliggende-etater_id_115192.html"/>
-    <parallel_text xml:lang="nob" location="underliggende_etater_id_115192.html"/>
-    <parallel_text xml:lang="sme" location="vuollasa-asahusat_id_115192.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Etatar og verksemder - regjeringen.no</p>
-    <p type="title">Finanstilsynet</p>
-    <p>Finanstilsynet skal arbeide for at bankar, forsikringsselskap og finansieringsføretak følgjer lovar og reglar som er vedtekne for finansmarknaden. Det same gjeld verdipapirføretak, børs og autoriserte marknadsplassar, verdipapirregister, eigedomsmeklarar, e-pengeføretak, revisorar og rekneskapsførarar.</p>
-    <p>Nettsida til Finanstilsynet</p>
-    <p type="title">Folketrygdfondet</p>
-    <p>Statens pensjonsfond blei oppretta ved lov 20. desember 2005 nr. 123. Statens pensjonsfond er ei overbygning over Statens petroleumsfond og Folketrygdfondet. Verksemda i dei to fonda er vidareført i den nye overbygninga. Statens pensjonsfond har såleis ikkje eiga styre eller eiga administrasjon.</p>
-    <p>Nettsida til Folketrygdfondet</p>
-    <p type="title">Senter for statleg økonomistyring</p>
-    <p>Senter for statleg økonomistyring (SSØ) blei etablert 1. januar 2004. SSØ er eit ekspertorgan for økonomistyring i staten. Hovudfunksjonane er knytte til forvaltning av økonomiregelverket i staten, konsernsystema for statsrekneskapen og staten sin konsernkontoordning, samt å levere økonomitenester til statlege forvaltningsverksemder.</p>
-    <p>Nettsida til Senter for statleg økonomistyring</p>
-    <p type="title">Skatteetaten</p>
-    <p>Skatteetaten skriv ut skattekort, forskotsskatt, kontrollerer sjølvmeldingane og har ansvar for folkeregisteret. Vidare fastset og kontrollerer etaten folketrygdavgifter og meirverdiavgift, krev inn meirverdiavgift og ei rekkje andre avgifter og gebyr for staten, og fastset og krev inn arveavgift.</p>
-    <p>Nettsida til Skatteetaten</p>
-    <p type="title">Statens innkrevingssentral</p>
-    <p>Statens innkrevjingssentral (SI) sørgjer for innkrevjing, tvangsinnkrevjing og rekneskapsføring av alle økonomiske krav frå politiet. I tillegg krev SI inn ei rekkje andre statlege krav som for eksempel misleghaldt vegavgift, misleghalden NRK-lisens, misleghaldne studielån og nordiske straffekrav. SI er også driftssentral for politietaten sitt økonomisystem og har tilrettelagt delar av innkrevjingsløysinga til bruk for namsmannsapparatet i Noreg.</p>
-    <p>Nettsida til Statens innkrevingssentral</p>
-    <p type="title">Statens pensjonsfond</p>
-    <p>Statens pensjonsfond blei oppretta ved lov 20. desember 2005 nr. 123. Statens pensjonsfond er ei overbygning over Statens petroleumsfond og Folketrygdfondet. Verksemda i dei to fonda er vidareført i den nye overbygninga. Statens pensjonsfond har såleis ikkje eige styre eller eigen administrasjon.</p>
-    <p>Nettsida til Statens pensjonsfond</p>
-    <p type="title">Statistisk sentralbyrå</p>
-    <p>Statistisk sentralbyrå (SSB) utarbeidar og gjer ut offisiell statistikk i Noreg, og har i tillegg ein betydeleg verksemd knytte til forsking. SSB dekkjer dei aller fleste samfunnsområda, og utarbeidar til eksempel statistikk og analyser om samfunnsøkonomi, næringsutvikling og befolkning.</p>
-    <p>Nettsida til Statistisk sentralbyrå</p>
-    <p type="title">Toll- og avgiftsetaten/Tollvesenet</p>
-    <p>Toll- og avgiftsetaten består av Toll- og avgiftsdirektoratet sentralt, samt seks tollregionar, 20 tollsted og fire ekspedisjons - og kontrolleiningar. Etatens hovudmål er å sikre at toll og avgifter vert riktig fastsett og betalt inn til riktig tid. Etaten har og ansvaret for å hindre at varer vert teken med ulovleg inn eller ut av Noreg.</p>
-    <p>Nettsida til Toll- og avgiftsetaten/Tollvesenet</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Vuollásaš ásahusat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>400</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fin/Om-Departementet/etatar-og-verksemder.html?id=115192</origFileName><parallel_text xml:lang="eng" location="underliggende-etater_id_115192.html"/><parallel_text xml:lang="nob" location="underliggende_etater_id_115192.html"/><parallel_text xml:lang="sme" location="vuollasa-asahusat_id_115192.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Etatar og verksemder - regjeringen.no</p>
+<p type="title">Finanstilsynet</p>
+<p>Finanstilsynet skal arbeide for at bankar, forsikringsselskap og finansieringsføretak følgjer lovar og reglar som er vedtekne for finansmarknaden. Det same gjeld verdipapirføretak, børs og autoriserte marknadsplassar, verdipapirregister, eigedomsmeklarar, e-pengeføretak, revisorar og rekneskapsførarar.</p>
+<p>Nettsida til Finanstilsynet</p>
+<p type="title">Folketrygdfondet</p>
+<p>Statens pensjonsfond blei oppretta ved lov 20. desember 2005 nr. 123. Statens pensjonsfond er ei overbygning over Statens petroleumsfond og Folketrygdfondet. Verksemda i dei to fonda er vidareført i den nye overbygninga. Statens pensjonsfond har såleis ikkje eiga styre eller eiga administrasjon.</p>
+<p>Nettsida til Folketrygdfondet</p>
+<p type="title">Senter for statleg økonomistyring</p>
+<p>Senter for statleg økonomistyring (SSØ) blei etablert 1. januar 2004. SSØ er eit ekspertorgan for økonomistyring i staten. Hovudfunksjonane er knytte til forvaltning av økonomiregelverket i staten, konsernsystema for statsrekneskapen og staten sin konsernkontoordning, samt å levere økonomitenester til statlege forvaltningsverksemder.</p>
+<p>Nettsida til Senter for statleg økonomistyring</p>
+<p type="title">Skatteetaten</p>
+<p>Skatteetaten skriv ut skattekort, forskotsskatt, kontrollerer sjølvmeldingane og har ansvar for folkeregisteret. Vidare fastset og kontrollerer etaten folketrygdavgifter og meirverdiavgift, krev inn meirverdiavgift og ei rekkje andre avgifter og gebyr for staten, og fastset og krev inn arveavgift.</p>
+<p>Nettsida til Skatteetaten</p>
+<p type="title">Statens innkrevingssentral</p>
+<p>Statens innkrevjingssentral (SI) sørgjer for innkrevjing, tvangsinnkrevjing og rekneskapsføring av alle økonomiske krav frå politiet. I tillegg krev SI inn ei rekkje andre statlege krav som for eksempel misleghaldt vegavgift, misleghalden NRK-lisens, misleghaldne studielån og nordiske straffekrav. SI er også driftssentral for politietaten sitt økonomisystem og har tilrettelagt delar av innkrevjingsløysinga til bruk for namsmannsapparatet i Noreg.</p>
+<p>Nettsida til Statens innkrevingssentral</p>
+<p type="title">Statens pensjonsfond</p>
+<p>Statens pensjonsfond blei oppretta ved lov 20. desember 2005 nr. 123. Statens pensjonsfond er ei overbygning over Statens petroleumsfond og Folketrygdfondet. Verksemda i dei to fonda er vidareført i den nye overbygninga. Statens pensjonsfond har såleis ikkje eige styre eller eigen administrasjon.</p>
+<p>Nettsida til Statens pensjonsfond</p>
+<p type="title">Statistisk sentralbyrå</p>
+<p>Statistisk sentralbyrå (SSB) utarbeidar og gjer ut offisiell statistikk i Noreg, og har i tillegg ein betydeleg verksemd knytte til forsking. SSB dekkjer dei aller fleste samfunnsområda, og utarbeidar til eksempel statistikk og analyser om samfunnsøkonomi, næringsutvikling og befolkning.</p>
+<p>Nettsida til Statistisk sentralbyrå</p>
+<p type="title">Toll- og avgiftsetaten/Tollvesenet</p>
+<p>Toll- og avgiftsetaten består av Toll- og avgiftsdirektoratet sentralt, samt seks tollregionar, 20 tollsted og fire ekspedisjons - og kontrolleiningar. Etatens hovudmål er å sikre at toll og avgifter vert riktig fastsett og betalt inn til riktig tid. Etaten har og ansvaret for å hindre at varer vert teken med ulovleg inn eller ut av Noreg.</p>
+<p>Nettsida til Toll- og avgiftsetaten/Tollvesenet</p>
+</body></document>

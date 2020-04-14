@@ -1,64 +1,36 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Korleis arbeide med VISL setningstre</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>755</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/cealkkamuorraravvagat.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="cealkkamuorraravvagat.eng.html"/>
-    <parallel_text xml:lang="sme" location="cealkkamuorraravvagat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Korleis arbeide med VISL setningstre</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Om setningene</p>
-      <p type="listitem">Korleis byrje</p>
-      <p type="listitem">Fargane og deira betyding</p>
-      <p type="listitem">Sjå det ferdige setningstreet</p>
-      <p type="listitem">Byggje eit tre</p>
-      <p type="listitem">Linkar til hjelpemiddel og VISL Setningstre:</p>
-    </list>
-    <p xml:lang="nob">Direktelink til VISL setningstre</p>
-    <p type="title" xml:lang="nob">Om setningene</p>
-    <p>Frå mange kjelder har vi samla setninger som vi igjen har tilpassa til bruken vår, og så har vi analysert dei. Forkortingane til ordklassene og funksjonane kan i byrjinga virke framande for brukarane, men VISL bruker dei same forkortingane til alle språk og derfor er dei internasjonale.</p>
-    <p>Vi brukar over tusen setninger, dei same i både spela, Killerfiller og til setningstreet. Setningene er fordelt på tre korpus slik at ein kan byrje med dei enklaste setningene. I tillegg er det 640 setninger som er berre for Killerfiler. I dei er morfologien tilpassa formålet med Killerfiller.</p>
-    <p type="title">Korleis byrje</p>
-    <p>Nederst på denne sida er ein link til VISL-setningstre. Der vel du setningskorpus (nivå) som du ønskjer, og så får du sjå kva slags setningstypar som finst i det valte korpuset. Du vel setningstype, og så kommer setningene til syne. Til venstre for kvar setning er eit ikon:</p>
-    <p>Når du trykkjer dette ikonet, opnar setningstresida seg med den valte setninga. Du kan sjøl velje om du vil sjå det ferdige setningstreet eller om du vil byggje det sjøl.</p>
-    <p type="title">Fargane og deira betyding</p>
-    <p>I treet har setningsledda (så som subjekt, verbal osb.) grønn bakgrunnsfarge. Ordklassene (så som substantiv, verb osb.) har blå bakgrunnsfarge. Setningsledda sine forkortingar har for det meste store bokstavar, mens ordklassene har berre små bokstavar i forkortingane. Du bør sjå på ordklassene og deira forkortingar og setningsledda og deira forkortingar .</p>
-    <p>Øvst på setningstresida er ein grøn linje med alle setningsledda sine funksjonar. I den blå linja er alle ordklassa og former. Huvedspråket på VISL-sidene er engelsk, men du kan lese funskjonsnamna og ordklassene på samisk viss du legger musepila på det engelske ordet. Det kan vere lurt å skrive ut lista med forkortingar på papir og ha den ved sida av datamaskinen når du arbeider med VISL.</p>
-    <p type="title">Sjå det ferdige setningstreet</p>
-    <p>Viss du vil sjå på det ferdige treet der det er merka både ordklassar og syntaktiske funksjonar, så trykkjer du <span type="quote" xml:lang="vep">"Expand Tree"</span> i den venstre margen. Eller du kan trykkje på den farga kassa (t.d. STA/cl) og da ser du kva for ord som høyrer til same setningsledd. Viss det er ein gruppe (g), paratakse (par) eller bisetning (cl), kan du også trykkje dei for å sjå kva for ord eller setningsledd som høyrer til desse.</p>
-    <p>I <span type="quote" xml:lang="eng">"Display"</span>-menyen øvst på sida kan du velje at berre ordklassar og grupper skal synast (<span type="quote" xml:lang="eng">"Form only"</span>), eller at berre funksjonanene skal synast (<span type="quote" xml:lang="eng">"Function only"</span>). I den same menyen kan du velje om du vil ha opplysningane ved siden av kvarandre eller under kvarandre.</p>
-    <p>Her ser du eit ferdig setningstre:</p>
-    <p type="title">Byggje eit tre</p>
-    <p>Viss du vil byggje treet sjøl, så vel du <span type="quote" xml:lang="vep">"Build Tree"</span> i Tools-menyen. Da kjem det ein ny meny til syne i venstre marg.</p>
-    <p>Du skal no leggje ordklassene og setningsledda på riktig plass så fort som du kan. Du trykkjer først forkortinga på den grøne eller den blå linja, og så trykkjer du på riktig kasse. Viss du har arbeidd riktig, kommer forkortinga til syne, og du kan fortsette med andre ord. Viss du har arbeidd galt, må du prøve på nytt.</p>
-    <p>Du kan gjere det enklare for deg sjøl viss du i <span type="quote" xml:lang="nob">"Setting"</span>-menyen vel <span type="quote" xml:lang="eng">"Teaching environment"</span>, og så under <span type="quote" xml:lang="eng">"Symbols shown"</span> vel du <span type="quote" xml:lang="eng">"Minor"</span>. I dei grøne og blå linjene synast da berre forkortingane som du treng til den aktuelle setninga som du arbeider med.</p>
-    <p>Nokre setningsledd er grupper. Da må du trykkje dei kassene som du meiner høyrer til samme gruppe. Kassene markerast med ei svart ramme. Så trykkjer <span type="quote" xml:lang="vep">"Combine Nodes"</span>. Viss du har arbeidd riktig, kommer trestrukturen til syne. Viss det ikkje skjer noe, har du ikkje gjort riktig. (Den svarte markeringa kan du fjerne ved å trykkje kassa ein gong til, eller du kan velje <span type="quote" xml:lang="eng">"Clear section"</span>.)</p>
-    <p>Viss du treng hjelp, kan du trykkje ein kasse og så velje <span type="quote" xml:lang="eng">"Show mother"</span>. Eller du kan velje <span type="quote" xml:lang="eng">"Show structure"</span>, og da kjem strukturen til heile treet til syne.</p>
-    <p>Viss du trykkjer ei kasse, og så vel <span type="quote" xml:lang="vep">"Reveal Node"</span>, kommer denne kassa sine forkortingar til syne. Viss du gjer opp, kan du trykkje <span type="quote" xml:lang="eng">"Select All"</span>, og så <span type="quote" xml:lang="vep">"Reveal Node"</span>, og da kommer informasjon om alle orda i setninga til syne.</p>
-    <p type="title">Linkar til hjelpemiddel og VISL Setningstre:</p>
-    <list>
-      <p type="listitem">Om ordklassar</p>
-      <p type="listitem">Ordklassane og deira forkortingar</p>
-      <p type="listitem">Setningsledd og funksjonar</p>
-      <p type="listitem">Setningsledda og deira forkortingar</p>
-      <p type="listitem" xml:lang="nob">Forslag til progresjon i grunnskolen og videregåande skole</p>
-      <p type="listitem" xml:lang="nob">Link til VISL setningstre</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Korleis arbeide med VISL setningstre</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>755</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkamuorraravvagat.nob.html</origFileName><parallel_text xml:lang="eng" location="cealkkamuorraravvagat.eng.html"/><parallel_text xml:lang="sme" location="cealkkamuorraravvagat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Korleis arbeide med VISL setningstre</p>
+<list><p type="listitem" xml:lang="nob">Om setningene</p>
+<p type="listitem">Korleis byrje</p>
+<p type="listitem">Fargane og deira betyding</p>
+<p type="listitem">Sjå det ferdige setningstreet</p>
+<p type="listitem">Byggje eit tre</p>
+<p type="listitem">Linkar til hjelpemiddel og VISL Setningstre:</p>
+</list><p xml:lang="nob">Direktelink til VISL setningstre</p>
+<p type="title" xml:lang="nob">Om setningene</p>
+<p>Frå mange kjelder har vi samla setninger som vi igjen har tilpassa til bruken vår, og så har vi analysert dei. Forkortingane til ordklassene og funksjonane kan i byrjinga virke framande for brukarane, men VISL bruker dei same forkortingane til alle språk og derfor er dei internasjonale.</p>
+<p>Vi brukar over tusen setninger, dei same i både spela, Killerfiller og til setningstreet. Setningene er fordelt på tre korpus slik at ein kan byrje med dei enklaste setningene. I tillegg er det 640 setninger som er berre for Killerfiler. I dei er morfologien tilpassa formålet med Killerfiller.</p>
+<p type="title">Korleis byrje</p>
+<p>Nederst på denne sida er ein link til VISL-setningstre. Der vel du setningskorpus (nivå) som du ønskjer, og så får du sjå kva slags setningstypar som finst i det valte korpuset. Du vel setningstype, og så kommer setningene til syne. Til venstre for kvar setning er eit ikon:</p>
+<p>Når du trykkjer dette ikonet, opnar setningstresida seg med den valte setninga. Du kan sjøl velje om du vil sjå det ferdige setningstreet eller om du vil byggje det sjøl.</p>
+<p type="title">Fargane og deira betyding</p>
+<p>I treet har setningsledda (så som subjekt, verbal osb.) grønn bakgrunnsfarge. Ordklassene (så som substantiv, verb osb.) har blå bakgrunnsfarge. Setningsledda sine forkortingar har for det meste store bokstavar, mens ordklassene har berre små bokstavar i forkortingane. Du bør sjå på ordklassene og deira forkortingar og setningsledda og deira forkortingar .</p>
+<p>Øvst på setningstresida er ein grøn linje med alle setningsledda sine funksjonar. I den blå linja er alle ordklassa og former. Huvedspråket på VISL-sidene er engelsk, men du kan lese funskjonsnamna og ordklassene på samisk viss du legger musepila på det engelske ordet. Det kan vere lurt å skrive ut lista med forkortingar på papir og ha den ved sida av datamaskinen når du arbeider med VISL.</p>
+<p type="title">Sjå det ferdige setningstreet</p>
+<p>Viss du vil sjå på det ferdige treet der det er merka både ordklassar og syntaktiske funksjonar, så trykkjer du <span type="quote" xml:lang="vep">"Expand Tree"</span> i den venstre margen. Eller du kan trykkje på den farga kassa (t.d. STA/cl) og da ser du kva for ord som høyrer til same setningsledd. Viss det er ein gruppe (g), paratakse (par) eller bisetning (cl), kan du også trykkje dei for å sjå kva for ord eller setningsledd som høyrer til desse.</p>
+<p>I <span type="quote" xml:lang="eng">"Display"</span>-menyen øvst på sida kan du velje at berre ordklassar og grupper skal synast (<span type="quote" xml:lang="eng">"Form only"</span>), eller at berre funksjonanene skal synast (<span type="quote" xml:lang="eng">"Function only"</span>). I den same menyen kan du velje om du vil ha opplysningane ved siden av kvarandre eller under kvarandre.</p>
+<p>Her ser du eit ferdig setningstre:</p>
+<p type="title">Byggje eit tre</p>
+<p>Viss du vil byggje treet sjøl, så vel du <span type="quote" xml:lang="vep">"Build Tree"</span> i Tools-menyen. Da kjem det ein ny meny til syne i venstre marg.</p>
+<p>Du skal no leggje ordklassene og setningsledda på riktig plass så fort som du kan. Du trykkjer først forkortinga på den grøne eller den blå linja, og så trykkjer du på riktig kasse. Viss du har arbeidd riktig, kommer forkortinga til syne, og du kan fortsette med andre ord. Viss du har arbeidd galt, må du prøve på nytt.</p>
+<p>Du kan gjere det enklare for deg sjøl viss du i <span type="quote" xml:lang="nob">"Setting"</span>-menyen vel <span type="quote" xml:lang="eng">"Teaching environment"</span>, og så under <span type="quote" xml:lang="eng">"Symbols shown"</span> vel du <span type="quote" xml:lang="eng">"Minor"</span>. I dei grøne og blå linjene synast da berre forkortingane som du treng til den aktuelle setninga som du arbeider med.</p>
+<p>Nokre setningsledd er grupper. Da må du trykkje dei kassene som du meiner høyrer til samme gruppe. Kassene markerast med ei svart ramme. Så trykkjer <span type="quote" xml:lang="vep">"Combine Nodes"</span>. Viss du har arbeidd riktig, kommer trestrukturen til syne. Viss det ikkje skjer noe, har du ikkje gjort riktig. (Den svarte markeringa kan du fjerne ved å trykkje kassa ein gong til, eller du kan velje <span type="quote" xml:lang="eng">"Clear section"</span>.)</p>
+<p>Viss du treng hjelp, kan du trykkje ein kasse og så velje <span type="quote" xml:lang="eng">"Show mother"</span>. Eller du kan velje <span type="quote" xml:lang="eng">"Show structure"</span>, og da kjem strukturen til heile treet til syne.</p>
+<p>Viss du trykkjer ei kasse, og så vel <span type="quote" xml:lang="vep">"Reveal Node"</span>, kommer denne kassa sine forkortingar til syne. Viss du gjer opp, kan du trykkje <span type="quote" xml:lang="eng">"Select All"</span>, og så <span type="quote" xml:lang="vep">"Reveal Node"</span>, og da kommer informasjon om alle orda i setninga til syne.</p>
+<p type="title">Linkar til hjelpemiddel og VISL Setningstre:</p>
+<list><p type="listitem" xml:lang="swe">Om ordklassar</p>
+<p type="listitem">Ordklassane og deira forkortingar</p>
+<p type="listitem">Setningsledd og funksjonar</p>
+<p type="listitem">Setningsledda og deira forkortingar</p>
+<p type="listitem" xml:lang="nob">Forslag til progresjon i grunnskolen og videregåande skole</p>
+<p type="listitem" xml:lang="nob">Link til VISL setningstre</p>
+</list></body></document>

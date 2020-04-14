@@ -1,140 +1,90 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>WordFall</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>530</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/WordFall_nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="wordfall_eng.html"/>
-    <parallel_text xml:lang="sme" location="wordfall_sme.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">WordFall</p>
-    <list>
-      <p type="listitem">Om spelet</p>
-      <p type="listitem">Å starte spelet</p>
-      <p type="listitem" xml:lang="nob">Setningsnummer</p>
-      <p type="listitem" xml:lang="nob">Poeng</p>
-      <p type="listitem" xml:lang="est">Resultat</p>
-      <p type="listitem">Nivå</p>
-      <p type="listitem" xml:lang="kal">Ordklassar</p>
-      <p type="listitem">Stoppe spelet</p>
-      <p type="listitem">Lyd</p>
-      <p type="listitem" xml:lang="nob">Statistikk</p>
-      <p type="listitem">Ordklassar og deira forkortingar</p>
-      <p type="listitem" xml:lang="eng">WordFall-link:</p>
-    </list>
-    <p>Direktelink til WordFall VISL</p>
-    <p type="title">Om spelet</p>
-    <p>I WordFall-spelet er det meininga å arbeide med ordklasser. Setninga kjem til syne, og så fell dei ned, eitt etter eitt. Med piltasten dirigerer du dei til å falle ned i rett ordklassekasse. Viss du trykker nedpiltasten, så fell ordet fortare.</p>
-    <p type="title">Å starte spelet</p>
-    <list>
-      <p type="listitem">Skriv setninga sitt nummer (for å få ei bestemt setning) – eller</p>
-      <p type="listitem">berre trykk <span type="quote" xml:lang="nob">"Play"</span></p>
-    </list>
-    <p>Aktiver Java-vindauget med å klikke på det, og trykk på F2-tasten på tastaturet.</p>
-    <p type="title" xml:lang="nob">Setningsnummer</p>
-    <p>Du kan velge eit setningskorpus eller ein spesiell type setninger, t.d. SMEAb143. Men da kan du ikkje registrere resultatet.</p>
-    <p>Du kan sjå setningkorpusa her: setningskorpus</p>
-    <p type="title" xml:lang="nob">Poeng</p>
-    <p>Du får 10 poeng kvar gong du gjer riktig. Viss du legger ordet i feil ordklasse, så mister du 5 poeng. Viss du klarer heile setninga uten feil, så får du 10 bonuspoeng for kvart ord. Du får dobbelt så mange poeng!</p>
-    <p>På høgre side er Penalty Box - straffeboksen. Kvar gong eit ord faller i feil ordklasse, så aukar vannivået. Når Penalty Box er full av vann, så kjem ein murvegg som gjer at de neste orda faller fortare ned. Når murveggen dekker heile skjermen, så er spelet over. Du kan stoppe spelet viss du vel <span type="quote" xml:lang="vep">"Quit Game"</span> i menyen.</p>
-    <p type="title" xml:lang="est">Resultat</p>
-    <p>Viss resultatet dit er blant dei 10 beste resultata for i dag, eller viss det er blant dei 100 beste totalt, får du registrere namnet ditt, og landet du er frå.</p>
-    <p type="title">Nivå</p>
-    <p>... er det tre av: <span type="quote" xml:lang="nob">"Beginner"</span>, <span type="quote" xml:lang="ron">"Intermediate"</span> og <span type="quote" xml:lang="eng">"Expert"</span>. Jo høgare nivå du vel, desto lengre er setningane og orda faller fortare. Mursteinane er også større, slik at skjermen fyllast fortare når du gjer feil. Spelet startar på <span type="quote" xml:lang="ron">"Intermediate"</span>-nivået, men du kan sjølv velje nivå i <span type="quote" xml:lang="smj">"Game"</span>-menyen.</p>
-    <p type="title" xml:lang="kal">Ordklassar</p>
-    <p>Viss du ikkje vil bruke alle ordklassane, kan du i <span type="quote" xml:lang="smj">"Game"</span>-menyen velje <span type="quote" xml:lang="nob">"Word Classes"</span>. Her kan du velje enten ferdigdefinerte grupper, eller <span type="quote" xml:lang="vep">"Custom"</span>, og da kan du sjølv velje ordklassar. Men da kan du ikkje registrere resultatet.</p>
-    <p type="title">Stoppe spelet</p>
-    <p>I Game-menyen kan du velje <span type="quote" xml:lang="nob">"Stop Game"</span> eller <span type="quote" xml:lang="sme">"Quit"</span>. Men du kan registrere resultatet berre viss du veljer <span type="quote" xml:lang="nob">"Stop Game"</span>, og du har nok poeng.</p>
-    <p type="title">Lyd</p>
-    <p>Du kan slå av lyden i <span type="quote" xml:lang="nob">"Sound Effects Settings"</span>-menyen.</p>
-    <p type="title" xml:lang="nob">Statistikk</p>
-    <p>Når spelet er over, viser datamaskinen deg resultata, og spør om du vil øve på de ordklassane som var vanskelegast for deg.</p>
-    <p type="title">Ordklassar og deira forkortingar</p>
-    <p>Vi bruker desse ordklassene:</p>
-    <p xml:lang="fin">n</p>
-    <p>substantiv (</p>
-    <p xml:lang="sme">
-      <em type="italic">girji, lohkamat, golmmas </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="eng">prop</p>
-    <p xml:lang="nob">propra (egennavn) (</p>
-    <p xml:lang="sme">
-      <em type="italic">William, Kárášjohka </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="eng">pron</p>
-    <p xml:lang="eng">pronomen (</p>
-    <p xml:lang="sme">
-      <em type="italic">mun, sidjiide, soapmásat, ollu </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="isl">num</p>
-    <p>talord (</p>
-    <p xml:lang="sme">
-      <em type="italic">okta, 1923 </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adj</p>
-    <p>adjektiv (</p>
-    <p xml:lang="sme">
-      <em type="italic">alit, ollu, njealját </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">prp</p>
-    <p xml:lang="eng">pre-/postposisjon (</p>
-    <p xml:lang="sme">
-      <em type="italic">alde, miehtá </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">conj</p>
-    <p xml:lang="fin">konjunksjon (</p>
-    <p xml:lang="sme">
-      <em type="italic">ja, ahte, vaikko </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="swe">intj</p>
-    <p xml:lang="nob">interjeksjon (</p>
-    <p xml:lang="smn">
-      <em type="italic">vuoi, jippi </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adv</p>
-    <p>adverb (</p>
-    <p xml:lang="sme">
-      <em type="italic">hui, johtilit, olgun </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">v</p>
-    <p>verb (</p>
-    <p xml:lang="sme">
-      <em type="italic">lean, borran, juhkamis </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p>part</p>
-    <p>partikkel (</p>
-    <p xml:lang="sme">
-      <em type="italic">go, amma, han </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p>I nokre spel er det merka ordklassar som ikkje finst i samisk, så som <span type="quote" xml:lang="swe">"infm"</span> (infinitivsmerke) og <span type="quote">"art"</span> (artikkel).</p>
-    <p>Du kan lese meir om ordklassar her: Ordklassar og vurdering av dei</p>
-    <p type="title" xml:lang="eng">WordFall-link:</p>
-    <p xml:lang="deu">WordFall VISL</p>
-    <p>Last changed: $Id: WordFall_nno.xml,v 1.8 2008/05/06 lene Exp $</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>WordFall</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/WordFall_nob.html</origFileName><parallel_text xml:lang="eng" location="wordfall_eng.html"/><parallel_text xml:lang="sme" location="wordfall_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">WordFall</p>
+<list><p type="listitem">Om spelet</p>
+<p type="listitem">Å starte spelet</p>
+<p type="listitem" xml:lang="isl">Setningsnummer</p>
+<p type="listitem" xml:lang="nob">Poeng</p>
+<p type="listitem" xml:lang="est">Resultat</p>
+<p type="listitem">Nivå</p>
+<p type="listitem" xml:lang="kal">Ordklassar</p>
+<p type="listitem">Stoppe spelet</p>
+<p type="listitem">Lyd</p>
+<p type="listitem" xml:lang="nob">Statistikk</p>
+<p type="listitem">Ordklassar og deira forkortingar</p>
+<p type="listitem" xml:lang="eng">WordFall-link:</p>
+</list><p>Direktelink til WordFall VISL</p>
+<p type="title">Om spelet</p>
+<p>I WordFall-spelet er det meininga å arbeide med ordklasser. Setninga kjem til syne, og så fell dei ned, eitt etter eitt. Med piltasten dirigerer du dei til å falle ned i rett ordklassekasse. Viss du trykker nedpiltasten, så fell ordet fortare.</p>
+<p type="title">Å starte spelet</p>
+<list><p type="listitem">Skriv setninga sitt nummer (for å få ei bestemt setning) – eller</p>
+<p type="listitem">berre trykk <span type="quote" xml:lang="nob">"Play"</span></p>
+</list><p>Aktiver Java-vindauget med å klikke på det, og trykk på F2-tasten på tastaturet.</p>
+<p type="title" xml:lang="isl">Setningsnummer</p>
+<p>Du kan velge eit setningskorpus eller ein spesiell type setninger, t.d. SMEAb143. Men da kan du ikkje registrere resultatet.</p>
+<p>Du kan sjå setningkorpusa her: setningskorpus</p>
+<p type="title" xml:lang="nob">Poeng</p>
+<p>Du får 10 poeng kvar gong du gjer riktig. Viss du legger ordet i feil ordklasse, så mister du 5 poeng. Viss du klarer heile setninga uten feil, så får du 10 bonuspoeng for kvart ord. Du får dobbelt så mange poeng!</p>
+<p>På høgre side er Penalty Box - straffeboksen. Kvar gong eit ord faller i feil ordklasse, så aukar vannivået. Når Penalty Box er full av vann, så kjem ein murvegg som gjer at de neste orda faller fortare ned. Når murveggen dekker heile skjermen, så er spelet over. Du kan stoppe spelet viss du vel <span type="quote" xml:lang="fin">"Quit Game"</span> i menyen.</p>
+<p type="title" xml:lang="est">Resultat</p>
+<p>Viss resultatet dit er blant dei 10 beste resultata for i dag, eller viss det er blant dei 100 beste totalt, får du registrere namnet ditt, og landet du er frå.</p>
+<p type="title">Nivå</p>
+<p>... er det tre av: <span type="quote" xml:lang="nob">"Beginner"</span>, <span type="quote" xml:lang="ron">"Intermediate"</span> og <span type="quote" xml:lang="eng">"Expert"</span>. Jo høgare nivå du vel, desto lengre er setningane og orda faller fortare. Mursteinane er også større, slik at skjermen fyllast fortare når du gjer feil. Spelet startar på <span type="quote" xml:lang="ron">"Intermediate"</span>-nivået, men du kan sjølv velje nivå i <span type="quote" xml:lang="smj">"Game"</span>-menyen.</p>
+<p type="title" xml:lang="kal">Ordklassar</p>
+<p>Viss du ikkje vil bruke alle ordklassane, kan du i <span type="quote" xml:lang="smj">"Game"</span>-menyen velje <span type="quote" xml:lang="nob">"Word Classes"</span>. Her kan du velje enten ferdigdefinerte grupper, eller <span type="quote" xml:lang="vep">"Custom"</span>, og da kan du sjølv velje ordklassar. Men da kan du ikkje registrere resultatet.</p>
+<p type="title">Stoppe spelet</p>
+<p>I Game-menyen kan du velje <span type="quote" xml:lang="nob">"Stop Game"</span> eller <span type="quote" xml:lang="sme">"Quit"</span>. Men du kan registrere resultatet berre viss du veljer <span type="quote" xml:lang="nob">"Stop Game"</span>, og du har nok poeng.</p>
+<p type="title">Lyd</p>
+<p>Du kan slå av lyden i <span type="quote" xml:lang="nob">"Sound Effects Settings"</span>-menyen.</p>
+<p type="title" xml:lang="nob">Statistikk</p>
+<p>Når spelet er over, viser datamaskinen deg resultata, og spør om du vil øve på de ordklassane som var vanskelegast for deg.</p>
+<p type="title">Ordklassar og deira forkortingar</p>
+<p>Vi bruker desse ordklassene:</p>
+<p xml:lang="fin">n</p>
+<p>substantiv (</p>
+<p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="eng">prop</p>
+<p xml:lang="nob">propra (egennavn) (</p>
+<p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="eng">pron</p>
+<p xml:lang="eng">pronomen (</p>
+<p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="isl">num</p>
+<p>talord (</p>
+<p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adj</p>
+<p>adjektiv (</p>
+<p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">prp</p>
+<p xml:lang="rmu">pre-/postposisjon (</p>
+<p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">conj</p>
+<p xml:lang="fin">konjunksjon (</p>
+<p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="swe">intj</p>
+<p xml:lang="nob">interjeksjon (</p>
+<p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adv</p>
+<p>adverb (</p>
+<p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">v</p>
+<p>verb (</p>
+<p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
+<p xml:lang="vep">)</p>
+<p>part</p>
+<p>partikkel (</p>
+<p xml:lang="sme"><em type="italic">go, amma, han </em></p>
+<p xml:lang="vep">)</p>
+<p>I nokre spel er det merka ordklassar som ikkje finst i samisk, så som <span type="quote" xml:lang="swe">"infm"</span> (infinitivsmerke) og <span type="quote">"art"</span> (artikkel).</p>
+<p>Du kan lese meir om ordklassar her: Ordklassar og vurdering av dei</p>
+<p type="title" xml:lang="eng">WordFall-link:</p>
+<p xml:lang="deu">WordFall VISL</p>
+<p>Last changed: $Id: WordFall_nno.xml,v 1.8 2008/05/06 lene Exp $</p>
+</body></document>

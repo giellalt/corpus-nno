@@ -1,63 +1,36 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1227</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.regjeringen.no/nn/dep/aid/dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20022003/otprp-nr-34-2002-2003-/2.html?id=172548</origFileName>
-    <parallel_text xml:lang="sme" location="2_id_172557.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>2 Bakgrunn for og kommentarar... - regjeringen.no</p>
-    <p>Ot.prp. nr. 34 (2002-2003)</p>
-    <p type="title">Om lov om endring i samelova m.m.</p>
-    <p type="title">2 Bakgrunn for og kommentarar til forslaget</p>
-    <p type="title">2.1 Arbeidsgruppe og mandat</p>
-    <p>Utover førebelse reglar frå Utanriksdepartementet for rangering av det samiske flagget i forhold til andre flagg, eksisterer det ikkje noka føresegn om bruken av det samiske flagget. På denne bakgrunnen blei det hausten 1999 nedsett ei arbeidsgruppe samansett av fire representantar frå Sametinget, Utanriksdepartementet og Kommunal- og regionaldepartementet. Mandatet til arbeidsgruppa var å utarbeide forslag til retningslinjer for bruk av det samiske flagget, og å foreslå eit opplegg for informasjon om bruken av flagget.</p>
-    <p>Rapporten <span type="quote">«Bruk av det samiske flagget»</span> blei levert til Kommunal- og regionaldepartementet i juli 2001.</p>
-    <p type="title">2.2 Tilråding frå arbeidsgruppa</p>
-    <p>Sidan det samiske flagget allereie er teke i bruk og godkjent av samekonferansen, meiner arbeidsgruppa at det ikkje er nødvendig å godkjenne flagget i Noreg. Derimot er det nødvendig å harmonisere dagens praksis med norsk lov. Lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger må derfor kome i samsvar med gjeldande praksis for bruk av det samiske flagget. Det vil også vere nødvendig å formalisere bruken av det samiske flagget gjennom eit regelverk. Arbeidsgruppa har eit konkret forslag til reglar:</p>
-    <p>«1. Godkjenning: Det samiske flagget ble godkjent av den 13. Samekonferansen i Åre 15.8.1986. Flagget har siden vært i bruk. Det samiske flagget er godkjent til bruk for offentlige bygninger og eiendommer, eller bygninger og eiendommer som for den vesentligste del benyttes av offentlige myndigheter.</p>
-    <p>2. Rangering: Det samiske flagget er felles for samene i Norge, Sverige, Finland og Russland og er dermed et felles symbol for det samiske folket. Det samiske flagget rangerer etter det norske flagget, men foran norske kommune- og fylkesflagg og eventuelle regionale flagg.</p>
-    <p>Det samiske flagget rangerer etter det norske flagget ved offisielle norske flaggdager og ved offisielle norske anledninger hvor det flagges. Det samiske flagget rangerer også etter andre nasjonalstaters flagg. I tilfeller hvor samene er vertskap for en større internasjonal konferanse, er det naturlig at det samiske flagget plasseres som vertskapsflagg sideordnet det norske flagg og rangeres foran gjestende lands nasjonalflagg.</p>
-    <p>3. Flagging: Kommunene og fylkeskommunene avgjør selv hvorvidt og i hvilken utstrekning de vil benytte det samiske flagget. Det kan brukes samtidig med det norske flagget eller alene. Det kan også flagges på halv stang med det samiske flagget.</p>
-    <p>4. God flaggskikk: Det samiske flagget er et symbol for det samiske folket og er derfor forbundet med høytidelighet og skal behandles med respekt. Bruken (heising/firing) og behandlingen av det samiske flagget følger flaggreglementet for det norske flagget.</p>
-    <p>God flaggskikk innebærer også at det føres en restriktiv linje for bruken av det samiske flagget i kommersiell sammenheng.</p>
-    <p>5. Spørsmål om bruken av det samiske flagget rettes til Sametinget.»</p>
-    <p>Kommunar og fylkeskommunar avgjer sjølve om dei ønskjer å bruke det samiske flagget, og i kva omfang. Arbeidsgruppa tilrår kommunar om å utarbeide reglar for flagging som også omfattar flagging med det samiske flagget og flagging på samiske flaggdagar. Alle dei seks kommunane i forvaltningsområdet for samisk språk har eigne vedtak (reglement) og rutinar for bruk av det samiske flagget. Også kommunar utanfor forvaltningsområdet har utarbeidd praksis for flagging med det samiske flagget på 6. februar, samefolkets dag.</p>
-    <p>Arbeidsgruppa tek også opp spørsmålet om 6. februar bør innførast som offisiell flaggdag. Ei slik endring må eventuelt fastsetjast i forskrift til lov om Norges Flag (flagglova). Denne problemstillinga vil regjeringa behandle vidare.</p>
-    <p type="title">2.3 Høyringa</p>
-    <p>Rapporten har vore sendt til 165 høyringsinstansar. Høyringsinstansar har vore <em type="italic">Sametinget, kommunar, fylkeskommunar </em>og <em type="italic">samiske organisasjonar </em>. Det er motteke i alt 27 svar. Sametinget har motteke alle høyringssvara og har deretter gitt sitt høyringssvar til departementet. </p>
-    <p>Alle høyringsinstansane stør forslaget frå arbeidsgruppa om å heimle bruken av det samiske flagget i lovverket, det same gjeld forslaget om å formalisere bruken av flagget gjennom eit eige regelverk.</p>
-    <p><em type="italic">Sametinget </em>har i sitt høyringssvar bedt om at departementet snarast set i gang dei nødvendige lovtekniske vurderingane for å formalisere bruken av det samiske flagget i Noreg. Sametinget er i hovudsak samd i arbeidsgruppa sitt forslag til punkt, med ei endring i punkt 3. Sametinget har vedteke desse reglane (Sametingets vedtak 43/01): </p>
-    <p>«1. Godkjenning: Det samiske flagget ble godkjent av den 13. Samekonferansen i Åre 15.8.1986. Flagget har siden vært i bruk. Det samiske flagget er godkjent til bruk for offentlige bygninger og eiendommer, eller bygninger og eiendommer som for den vesentligste del benyttes av offentlige myndigheter.</p>
-    <p>2. Rangering: Det samiske flagget er felles for samene i Norge, Sverige, Finland og Russland og er dermed et felles symbol for det samiske folket. Det samiske flagget rangerer etter det norske flagget, men foran norske kommune- og fylkesflagg og eventuelle regionale flagg.</p>
-    <p>Det samiske flagget rangerer etter det norske flagget ved offisielle norske flaggdager og ved offisielle norske anledninger hvor det flagges. Det samiske flagget rangerer også etter andre nasjonalstaters flagg. I tilfeller hvor samene er vertskap for en større internasjonal konferanse, er det naturlig at det samiske flagget plasseres som vertskapsflagg sideordnet det norske flagg og rangeres foran gjestende lands nasjonalflagg.</p>
-    <p>3. Flagging: Kommunene og fylkeskommunene bør benytte det samiske flagget, og oppfordres til å utarbeide regler for flagging som også omfatter regler for flagging av det samiske flagget og flagging på samiske flaggdager. Det samiske flagget kan brukes samtidig med det norske flagget eller alene. Det kan også flagges på halv stang med det samiske flagget.</p>
-    <p>4. God flaggskikk: Det samiske flagget er et symbol for det samiske folket og er derfor forbundet med høytidelighet og skal behandles med respekt. Bruken (heising/firing) og behandlingen av det samiske flagget følger flaggreglementet for det norske flagget.</p>
-    <p>God flaggskikk innebærer også at det føres en restriktiv linje for bruken av det samiske flagget i kommersiell sammenheng.</p>
-    <p>5. Spørsmål om bruken av det samiske flagget rettes til Sametinget.»</p>
-    <p>Departementet legg avgjerande vekt på vurderinga frå Sametinget.</p>
-    <p type="title">2.4 Departementets vurdering</p>
-    <p>Spesielt i samband med 6. februar, som er samefolkets dag, er nærmare retningslinjer for bruken av det samiske flagget etterspurd, og både Sametinget og Utanriksdepartementet har fått mange spørsmål om dette. Kommunal- og regionaldepartementet ser derfor behovet for å endre samelova, og dessutan lov om flagging på kommunale bygninger.</p>
-    <p>Etter forskriftene om bruk av statsflagget og handelsflagget (flaggreglement) av 27. oktober 1927 er det berre statens offentlege eigedom som er pålagt å flagge på offisielle flaggdagar. Flaggreglementet pålegg ikkje kommunar og fylkeskommunar å flagge på offisielle flaggdagar. Likevel er det vanleg at kommunane og fylkeskommunane følgjer flaggreglementet, og flaggar frå kommunale og fylkeskommunale bygningar og institusjonar på alle offentlege flaggdagar. Departementet er derfor einig i Sametingets tilråding og oppfordring til kommunane og fylkeskommunane om å bruke og utarbeide eigne reglar for flagging med det samiske flagget.</p>
-    <p>Departementet ser det som mest formålstenleg at Sametinget både får mynde til å fastsetje forskrifter om bruk av det samiske flagget og ansvaret for å informere om flagget. Sametinget skal ikkje kunne påleggje nokon å bruke det samiske flagget. Sametinget har tidlegare fått forskriftsmynde gjennom opplæringslova § 6-4.</p>
-    <p>Departementet foreslår at endringa skjer ved å heimle bruken av det samiske flagget med ei tilføying til romartal I første ledd i lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger. Sametinget sitt mynde til å fastsetje forskrift om bruken av det samiske flagget skjer ved tilføying av ein ny § 1-6 <em type="italic">Det samiske flagg </em>i samelova, samstundes som <span type="quote">«det samiske flagg»</span> blir definert. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>1227</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.regjeringen.no/nn/dep/aid/dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20022003/otprp-nr-34-2002-2003-/2.html?id=172548</origFileName><parallel_text xml:lang="sme" location="2_id_172557.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>2 Bakgrunn for og kommentarar... - regjeringen.no</p>
+<p>Ot.prp. nr. 34 (2002-2003)</p>
+<p type="title">Om lov om endring i samelova m.m.</p>
+<p type="title">2 Bakgrunn for og kommentarar til forslaget</p>
+<p type="title">2.1 Arbeidsgruppe og mandat</p>
+<p>Utover førebelse reglar frå Utanriksdepartementet for rangering av det samiske flagget i forhold til andre flagg, eksisterer det ikkje noka føresegn om bruken av det samiske flagget. På denne bakgrunnen blei det hausten 1999 nedsett ei arbeidsgruppe samansett av fire representantar frå Sametinget, Utanriksdepartementet og Kommunal- og regionaldepartementet. Mandatet til arbeidsgruppa var å utarbeide forslag til retningslinjer for bruk av det samiske flagget, og å foreslå eit opplegg for informasjon om bruken av flagget.</p>
+<p>Rapporten <span type="quote">«Bruk av det samiske flagget»</span> blei levert til Kommunal- og regionaldepartementet i juli 2001.</p>
+<p type="title">2.2 Tilråding frå arbeidsgruppa</p>
+<p>Sidan det samiske flagget allereie er teke i bruk og godkjent av samekonferansen, meiner arbeidsgruppa at det ikkje er nødvendig å godkjenne flagget i Noreg. Derimot er det nødvendig å harmonisere dagens praksis med norsk lov. Lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger må derfor kome i samsvar med gjeldande praksis for bruk av det samiske flagget. Det vil også vere nødvendig å formalisere bruken av det samiske flagget gjennom eit regelverk. Arbeidsgruppa har eit konkret forslag til reglar:</p>
+<p>«1. Godkjenning: Det samiske flagget ble godkjent av den 13. Samekonferansen i Åre 15.8.1986. Flagget har siden vært i bruk. Det samiske flagget er godkjent til bruk for offentlige bygninger og eiendommer, eller bygninger og eiendommer som for den vesentligste del benyttes av offentlige myndigheter.</p>
+<p>2. Rangering: Det samiske flagget er felles for samene i Norge, Sverige, Finland og Russland og er dermed et felles symbol for det samiske folket. Det samiske flagget rangerer etter det norske flagget, men foran norske kommune- og fylkesflagg og eventuelle regionale flagg.</p>
+<p>Det samiske flagget rangerer etter det norske flagget ved offisielle norske flaggdager og ved offisielle norske anledninger hvor det flagges. Det samiske flagget rangerer også etter andre nasjonalstaters flagg. I tilfeller hvor samene er vertskap for en større internasjonal konferanse, er det naturlig at det samiske flagget plasseres som vertskapsflagg sideordnet det norske flagg og rangeres foran gjestende lands nasjonalflagg.</p>
+<p>3. Flagging: Kommunene og fylkeskommunene avgjør selv hvorvidt og i hvilken utstrekning de vil benytte det samiske flagget. Det kan brukes samtidig med det norske flagget eller alene. Det kan også flagges på halv stang med det samiske flagget.</p>
+<p>4. God flaggskikk: Det samiske flagget er et symbol for det samiske folket og er derfor forbundet med høytidelighet og skal behandles med respekt. Bruken (heising/firing) og behandlingen av det samiske flagget følger flaggreglementet for det norske flagget.</p>
+<p>God flaggskikk innebærer også at det føres en restriktiv linje for bruken av det samiske flagget i kommersiell sammenheng.</p>
+<p>5. Spørsmål om bruken av det samiske flagget rettes til Sametinget.»</p>
+<p>Kommunar og fylkeskommunar avgjer sjølve om dei ønskjer å bruke det samiske flagget, og i kva omfang. Arbeidsgruppa tilrår kommunar om å utarbeide reglar for flagging som også omfattar flagging med det samiske flagget og flagging på samiske flaggdagar. Alle dei seks kommunane i forvaltningsområdet for samisk språk har eigne vedtak (reglement) og rutinar for bruk av det samiske flagget. Også kommunar utanfor forvaltningsområdet har utarbeidd praksis for flagging med det samiske flagget på 6. februar, samefolkets dag.</p>
+<p>Arbeidsgruppa tek også opp spørsmålet om 6. februar bør innførast som offisiell flaggdag. Ei slik endring må eventuelt fastsetjast i forskrift til lov om Norges Flag (flagglova). Denne problemstillinga vil regjeringa behandle vidare.</p>
+<p type="title">2.3 Høyringa</p>
+<p>Rapporten har vore sendt til 165 høyringsinstansar. Høyringsinstansar har vore <em type="italic">Sametinget, kommunar, fylkeskommunar </em>og <em type="italic">samiske organisasjonar </em>. Det er motteke i alt 27 svar. Sametinget har motteke alle høyringssvara og har deretter gitt sitt høyringssvar til departementet. </p>
+<p>Alle høyringsinstansane stør forslaget frå arbeidsgruppa om å heimle bruken av det samiske flagget i lovverket, det same gjeld forslaget om å formalisere bruken av flagget gjennom eit eige regelverk.</p>
+<p><em type="italic">Sametinget </em>har i sitt høyringssvar bedt om at departementet snarast set i gang dei nødvendige lovtekniske vurderingane for å formalisere bruken av det samiske flagget i Noreg. Sametinget er i hovudsak samd i arbeidsgruppa sitt forslag til punkt, med ei endring i punkt 3. Sametinget har vedteke desse reglane (Sametingets vedtak 43/01): </p>
+<p>«1. Godkjenning: Det samiske flagget ble godkjent av den 13. Samekonferansen i Åre 15.8.1986. Flagget har siden vært i bruk. Det samiske flagget er godkjent til bruk for offentlige bygninger og eiendommer, eller bygninger og eiendommer som for den vesentligste del benyttes av offentlige myndigheter.</p>
+<p>2. Rangering: Det samiske flagget er felles for samene i Norge, Sverige, Finland og Russland og er dermed et felles symbol for det samiske folket. Det samiske flagget rangerer etter det norske flagget, men foran norske kommune- og fylkesflagg og eventuelle regionale flagg.</p>
+<p>Det samiske flagget rangerer etter det norske flagget ved offisielle norske flaggdager og ved offisielle norske anledninger hvor det flagges. Det samiske flagget rangerer også etter andre nasjonalstaters flagg. I tilfeller hvor samene er vertskap for en større internasjonal konferanse, er det naturlig at det samiske flagget plasseres som vertskapsflagg sideordnet det norske flagg og rangeres foran gjestende lands nasjonalflagg.</p>
+<p>3. Flagging: Kommunene og fylkeskommunene bør benytte det samiske flagget, og oppfordres til å utarbeide regler for flagging som også omfatter regler for flagging av det samiske flagget og flagging på samiske flaggdager. Det samiske flagget kan brukes samtidig med det norske flagget eller alene. Det kan også flagges på halv stang med det samiske flagget.</p>
+<p>4. God flaggskikk: Det samiske flagget er et symbol for det samiske folket og er derfor forbundet med høytidelighet og skal behandles med respekt. Bruken (heising/firing) og behandlingen av det samiske flagget følger flaggreglementet for det norske flagget.</p>
+<p>God flaggskikk innebærer også at det føres en restriktiv linje for bruken av det samiske flagget i kommersiell sammenheng.</p>
+<p>5. Spørsmål om bruken av det samiske flagget rettes til Sametinget.»</p>
+<p>Departementet legg avgjerande vekt på vurderinga frå Sametinget.</p>
+<p type="title">2.4 Departementets vurdering</p>
+<p>Spesielt i samband med 6. februar, som er samefolkets dag, er nærmare retningslinjer for bruken av det samiske flagget etterspurd, og både Sametinget og Utanriksdepartementet har fått mange spørsmål om dette. Kommunal- og regionaldepartementet ser derfor behovet for å endre samelova, og dessutan lov om flagging på kommunale bygninger.</p>
+<p>Etter forskriftene om bruk av statsflagget og handelsflagget (flaggreglement) av 27. oktober 1927 er det berre statens offentlege eigedom som er pålagt å flagge på offisielle flaggdagar. Flaggreglementet pålegg ikkje kommunar og fylkeskommunar å flagge på offisielle flaggdagar. Likevel er det vanleg at kommunane og fylkeskommunane følgjer flaggreglementet, og flaggar frå kommunale og fylkeskommunale bygningar og institusjonar på alle offentlege flaggdagar. Departementet er derfor einig i Sametingets tilråding og oppfordring til kommunane og fylkeskommunane om å bruke og utarbeide eigne reglar for flagging med det samiske flagget.</p>
+<p>Departementet ser det som mest formålstenleg at Sametinget både får mynde til å fastsetje forskrifter om bruk av det samiske flagget og ansvaret for å informere om flagget. Sametinget skal ikkje kunne påleggje nokon å bruke det samiske flagget. Sametinget har tidlegare fått forskriftsmynde gjennom opplæringslova § 6-4.</p>
+<p>Departementet foreslår at endringa skjer ved å heimle bruken av det samiske flagget med ei tilføying til romartal I første ledd i lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger. Sametinget sitt mynde til å fastsetje forskrift om bruken av det samiske flagget skjer ved tilføying av ein ny § 1-6 <em type="italic">Det samiske flagg </em>i samelova, samstundes som <span type="quote">«det samiske flagg»</span> blir definert. </p>
+</body></document>

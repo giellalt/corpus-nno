@@ -1,43 +1,11 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ođđasit registrerema divat vuoliduvvo sakka ja birasprofiila nannejuvvo - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>443</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/omregistreringsavgifta-vert-kraftig-redu.html?id=704096</origFileName>
-    <parallel_text xml:lang="nob" location="omregistreringsavgiften-reduseres-krafti_id_704096.html"/>
-    <parallel_text xml:lang="sme" location="oasit-registrerema-divat-vuoliduvvo-sakk_id_704096.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Omregistreringsavgifta vert kraftig redusert og miljøprofilen vert styrka - regjeringen.no</p>
-    <p>
-      <em type="italic">- Regjeringa gjer framlegg om å redusere omregistreringsavgifta for andre år på rad. Samstundes held vi fram arbeidet med å styrkje miljøprofilen for bilavgiftene, seier finansminister Sigbjørn Johnsen. </em>
-    </p>
-    <p><em type="italic">Omregistreringsavgifta vert redusert </em>Regjeringa gjer framlegg om å redusere omregistreringsavgifta med ytterlegare 400 millionar kroner i 2013. I 2012 vart omregistreringsavgifta redusert med om lag 185 millionar kroner. Satsane vert særleg reduserte for næringskjøretøy. For desse er reduksjonen på 40 prosent, medan ho vert redusert med 12 prosent for andre kjøretøy. </p>
-    <p>Reduksjonen av satsane for næringskjøretøy vil gjere det mindre lønsamt å omsetje kjøretøy utanfor Noreg. Letta reduserer òg konkurranseføremona for importerte bruktbilar samanlikna med tilsvarande bruktbilar som vert omregistrert innanlands.</p>
-    <p><em type="italic">Miljøprofilen i eingongsavgifta vert styrka </em>Regjeringa har gradvis dreidd eingongsavgifta slik at den legg sterkare vekt på miljøeigenskapane til bilen. Både global og lokal forureining er no adressert i avgifta. Omlegginga har bidrege til ein stor reduksjon av CO2-utslepp frå nye personbilar. Utsleppet er redusert frå 177 g/km i 2006 til 130 g/km i perioden januar til september 2012. Dette er en reduksjon på 27 prosent. </p>
-    <p>Regjeringa gjer framlegg om å redusere innslagspunkta på 130 g/km eller høgare i CO2-komponenten med 5 g/km. I tillegg gjer regjeringa framlegg om å auke frådraget for bilar med utslepp under 110 g/km med 50 kroner per g/km utover prisjusteringa. Frådraget for utslepp under 50 g/km vert auka med 100 kroner per g/km utover prisjusteringa. Ein foreslår å auke NOX-komponenten frå 22 til 35 kroner per mg/km for å ta ytterlegare omsyn til lokal forureining.</p>
-    <p>Regjeringa gjer framlegg om at auka avgift på CO2- og NOX-utslepp vert motsvara av lågare avgift på motoreffekten til kjøretøya. Ein foreslår å redusere alle satsane med om lag 13 prosent reelt.</p>
-    <p>Samla sett vil endringane innebere at nivået på eingongsavgifta held seg om lag uendra på kort sikt. For dei fleste biltypane inneber dette små endringar. Bilar med særs låge CO2 og NOX-utslipp og bilar med høg effekt vil derimot kome godt ut av endringane.</p>
-    <p><em type="italic">Vrakpanten vert auka </em>Regjeringa gjer framlegg om å auke vrakpanten frå 2 000 kroner til 2 500 kroner per kjøretøy. I 2012 auka vrakpanten med 500 kroner. Auka vrakpant styrkjer motivasjonen til å levere inn utrangerte kjøretøy til godkjende oppsamlingsplassar. Den auka vrakpanten vert finansiert ved at vrakpantavgifta, som er ein del av eingongsavgifta, aukar frå 1 700 til 2 000 kroner per kjøretøy. </p>
-    <p><em type="italic">Miljødifferensiering i vektårsavgifta </em>Ein foreslår å utvide avgiftstabellen med ei ny avgiftsklasse for tunge kjøretøy som oppfyller EURO VI eller strengare. Satsane vert sette til mellom 84 og 252 kroner. Dette inneber at tunge kjøretøy med låge utslepp av avgassar får redusert vektårsavgift. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ođđasit registrerema divat vuoliduvvo sakka ja birasprofiila nannejuvvo - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>443</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/omregistreringsavgifta-vert-kraftig-redu.html?id=704096</origFileName><parallel_text xml:lang="nob" location="omregistreringsavgiften-reduseres-krafti_id_704096.html"/><parallel_text xml:lang="sme" location="oasit-registrerema-divat-vuoliduvvo-sakk_id_704096.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Omregistreringsavgifta vert kraftig redusert og miljøprofilen vert styrka - regjeringen.no</p>
+<p><em type="italic">- Regjeringa gjer framlegg om å redusere omregistreringsavgifta for andre år på rad. Samstundes held vi fram arbeidet med å styrkje miljøprofilen for bilavgiftene, seier finansminister Sigbjørn Johnsen. </em></p>
+<p><em type="italic">Omregistreringsavgifta vert redusert </em>Regjeringa gjer framlegg om å redusere omregistreringsavgifta med ytterlegare 400 millionar kroner i 2013. I 2012 vart omregistreringsavgifta redusert med om lag 185 millionar kroner. Satsane vert særleg reduserte for næringskjøretøy. For desse er reduksjonen på 40 prosent, medan ho vert redusert med 12 prosent for andre kjøretøy. </p>
+<p>Reduksjonen av satsane for næringskjøretøy vil gjere det mindre lønsamt å omsetje kjøretøy utanfor Noreg. Letta reduserer òg konkurranseføremona for importerte bruktbilar samanlikna med tilsvarande bruktbilar som vert omregistrert innanlands.</p>
+<p><em type="italic">Miljøprofilen i eingongsavgifta vert styrka </em>Regjeringa har gradvis dreidd eingongsavgifta slik at den legg sterkare vekt på miljøeigenskapane til bilen. Både global og lokal forureining er no adressert i avgifta. Omlegginga har bidrege til ein stor reduksjon av CO2-utslepp frå nye personbilar. Utsleppet er redusert frå 177 g/km i 2006 til 130 g/km i perioden januar til september 2012. Dette er en reduksjon på 27 prosent. </p>
+<p>Regjeringa gjer framlegg om å redusere innslagspunkta på 130 g/km eller høgare i CO2-komponenten med 5 g/km. I tillegg gjer regjeringa framlegg om å auke frådraget for bilar med utslepp under 110 g/km med 50 kroner per g/km utover prisjusteringa. Frådraget for utslepp under 50 g/km vert auka med 100 kroner per g/km utover prisjusteringa. Ein foreslår å auke NOX-komponenten frå 22 til 35 kroner per mg/km for å ta ytterlegare omsyn til lokal forureining.</p>
+<p>Regjeringa gjer framlegg om at auka avgift på CO2- og NOX-utslepp vert motsvara av lågare avgift på motoreffekten til kjøretøya. Ein foreslår å redusere alle satsane med om lag 13 prosent reelt.</p>
+<p>Samla sett vil endringane innebere at nivået på eingongsavgifta held seg om lag uendra på kort sikt. For dei fleste biltypane inneber dette små endringar. Bilar med særs låge CO2 og NOX-utslipp og bilar med høg effekt vil derimot kome godt ut av endringane.</p>
+<p><em type="italic">Vrakpanten vert auka </em>Regjeringa gjer framlegg om å auke vrakpanten frå 2 000 kroner til 2 500 kroner per kjøretøy. I 2012 auka vrakpanten med 500 kroner. Auka vrakpant styrkjer motivasjonen til å levere inn utrangerte kjøretøy til godkjende oppsamlingsplassar. Den auka vrakpanten vert finansiert ved at vrakpantavgifta, som er ein del av eingongsavgifta, aukar frå 1 700 til 2 000 kroner per kjøretøy. </p>
+<p><em type="italic">Miljødifferensiering i vektårsavgifta </em>Ein foreslår å utvide avgiftstabellen med ei ny avgiftsklasse for tunge kjøretøy som oppfyller EURO VI eller strengare. Satsane vert sette til mellom 84 og 252 kroner. Dette inneber at tunge kjøretøy med låge utslepp av avgassar får redusert vektårsavgift. </p>
+</body></document>

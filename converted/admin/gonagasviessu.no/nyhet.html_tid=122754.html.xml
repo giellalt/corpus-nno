@@ -1,45 +1,19 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Opna det 159. stortinget  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>346</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=122754</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=122754.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=122754_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title">Opna det 159. stortinget</p>
-    <p>"Jeg hilser Stortinget velkommen til ansvarsfullt arbeid og ønsker at det må bli til gagn for fedrelandet." Med desse tradisjonsrike orda innleidde Hans Majestet i dag Trontalen og den høgtidelege opninga av Noregs 159. storting.</p>
-    <p xml:lang="koi">02.10.2014</p>
-    <p>Gangen i seremonien har vore nedfelt i § 74 i Grunnlova sidan 1814, og det er 200 år sidan Stortinget kom saman for første gong. Årlege storting vart innført først i 1871 – derfor er årets sesjon den 159. i rekkja og ikkje nummer 200.</p>
-    <p>Hans Majestet kom til Stortinget like før klokka 13.00, følgd av Hennar Majestet Dronninga og Den Høgvørde Kronprinsen. Dette er normalt den einaste gongen Kongen besøkjer Stortinget i løpet av eit år, og den einaste gongen både Konge og Regjering, Storting og Høgsterett er samla.</p>
-    <p type="title">Trontalen og Tilstanden i riket</p>
-    <p>Det er to hovudelement i seremonien: Trontalen og Utgreiinga om tilstanden i riket. Kongen held Trontalen, men han er forfatta av representantar for Regjeringa. Talen trekkjer opp hovudlinene i politikken til regjeringa i året som kjem. Om nokre dagar følgjer trontaledebatten, der Regjering og opposisjon vil diskutere viktige moment frå talen.</p>
-    <p>Trontalen blir etterfølgd av ei utgreiing om tilstanden i riket. Dette er ein gjennomgang av kva Regjeringa har oppnådd det siste året, og tradisjonen tilseier at det er den yngste medlemmen i Regjeringa som held talen. I år var det kunnskapsminister Torbjørn Røe Isaksen som talte.</p>
-    <p>Når utgreiinga er halden, overrekkjer statsministeren henne til Kongen, som så overrekkjer både Trontalen og Utgreiinga om tilstanden i riket til Stortingspresidenten. Stortingspresidenten har det høgaste offentlege vervet i Noreg etter Kongen.</p>
-    <p type="title">Seremoni fastlagd i Grunnlova</p>
-    <p>Seremonien rundt opninga av Stortinget er fastlagd i § 74 i Grunnlova:</p>
-    <p>"Så snart Stortinget har konstituert seg, opnar kongen eller den han set til det, forhandlingane med ei tale om tilstanden i riket og dei emna han særleg vil gjere Stortinget merksam på. Inga drøfting må skje med kongen til stades."</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Grunnloven av 1814 med senere endringer</p>
-      <p type="listitem">Stortinget.no</p>
-      <p type="listitem" xml:lang="nob">Trontalene er tilgjengelig via Statsministerens kontor</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Opna det 159. stortinget  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>345</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=122754</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=122754.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=122754_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Opna det 159. stortinget</p>
+<p>"Jeg hilser Stortinget velkommen til ansvarsfullt arbeid og ønsker at det må bli til gagn for fedrelandet." Med desse tradisjonsrike orda innleidde Hans Majestet i dag Trontalen og den høgtidelege opninga av Noregs 159. storting.</p>
+<p xml:lang="vep">02.10.2014</p>
+<p>Gangen i seremonien har vore nedfelt i § 74 i Grunnlova sidan 1814, og det er 200 år sidan Stortinget kom saman for første gong. Årlege storting vart innført først i 1871 – derfor er årets sesjon den 159. i rekkja og ikkje nummer 200.</p>
+<p>Hans Majestet kom til Stortinget like før klokka 13.00, følgd av Hennar Majestet Dronninga og Den Høgvørde Kronprinsen. Dette er normalt den einaste gongen Kongen besøkjer Stortinget i løpet av eit år, og den einaste gongen både Konge og Regjering, Storting og Høgsterett er samla.</p>
+<p type="title">Trontalen og Tilstanden i riket</p>
+<p>Det er to hovudelement i seremonien: Trontalen og Utgreiinga om tilstanden i riket. Kongen held Trontalen, men han er forfatta av representantar for Regjeringa. Talen trekkjer opp hovudlinene i politikken til regjeringa i året som kjem. Om nokre dagar følgjer trontaledebatten, der Regjering og opposisjon vil diskutere viktige moment frå talen.</p>
+<p>Trontalen blir etterfølgd av ei utgreiing om tilstanden i riket. Dette er ein gjennomgang av kva Regjeringa har oppnådd det siste året, og tradisjonen tilseier at det er den yngste medlemmen i Regjeringa som held talen. I år var det kunnskapsminister Torbjørn Røe Isaksen som talte.</p>
+<p>Når utgreiinga er halden, overrekkjer statsministeren henne til Kongen, som så overrekkjer både Trontalen og Utgreiinga om tilstanden i riket til Stortingspresidenten. Stortingspresidenten har det høgaste offentlege vervet i Noreg etter Kongen.</p>
+<p type="title">Seremoni fastlagd i Grunnlova</p>
+<p>Seremonien rundt opninga av Stortinget er fastlagd i § 74 i Grunnlova:</p>
+<p>"Så snart Stortinget har konstituert seg, opnar kongen eller den han set til det, forhandlingane med ei tale om tilstanden i riket og dei emna han særleg vil gjere Stortinget merksam på. Inga drøfting må skje med kongen til stades."</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="nob">Grunnloven av 1814 med senere endringer</p>
+<p type="listitem">Stortinget.no</p>
+<p type="listitem" xml:lang="nob">Trontalene er tilgjengelig via Statsministerens kontor</p>
+</list></body></document>

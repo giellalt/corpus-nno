@@ -1,41 +1,6 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Johtilis váiddameannudeapmi Almmolaš háhkamiid váiddanammagottis - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>190</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/raskare-klagebehandling-i-klagenemnda-fo.html?id=682461</origFileName>
-    <parallel_text xml:lang="nob" location="raskere-klagebehandling-i-klagenemnda-fo_id_682461.html"/>
-    <parallel_text xml:lang="sme" location="johtilis-vaiddameannudeapmi-almmola-hahk_id_682461.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Raskare klagebehandling i Klagenemnda for offentlege innkjøp - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa foreslår å auke gebyra for klagebehandling i Klagenemnda for offentlege innkjøp (Kofa). Regjeringas forslag til nye gebyr er kroner 8 000 for rådgivande saker og kroner 1 000 for saker som gjeld ulovlege direkte innkjøp. Med auka gebyr ønskjer regjeringa færre avviste saker og raskare saksbehandlingstid. </em>
-    </p>
-    <p>- Kofa skal vere eit lågterskeltilbod og eit alternativ til domstolane. Då er det viktig med rask og rimeleg klagebehandling. Det går med mykje ressursar på saker som blir avviste. Med auka gebyr ønskjer vi å oppnå betre grunna klager, færre avviste klager og raskare saksbehandling, seier fornyingsminister Rigmor Aasrud.</p>
-    <p>Talet på nye saker til Kofa har dobla seg på fem år. I 2011 blei ei av tre saker avviste. Dette er saker som for eksempel manglar dokumentasjon, er forelda eller er ugrunna. Gjennomsnittlege kostnader per klagesak er ca 40 000 kroner.</p>
-    <p>Offentleg sektor i Noreg kjøper årleg varer, tenester og byggje- og anleggsarbeid for om lag 330 milliardar kroner. Kofa behandla i 2011 331 klagesaker om brot på regelverket for offentlege innkjøp. Nemnda består av ti regjeringsoppnemnde medlemmer. Sekretariatet ligg administrativt under Konkurransetilsynet.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Johtilis váiddameannudeapmi Almmolaš háhkamiid váiddanammagottis - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>190</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/raskare-klagebehandling-i-klagenemnda-fo.html?id=682461</origFileName><parallel_text xml:lang="nob" location="raskere-klagebehandling-i-klagenemnda-fo_id_682461.html"/><parallel_text xml:lang="sme" location="johtilis-vaiddameannudeapmi-almmola-hahk_id_682461.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Raskare klagebehandling i Klagenemnda for offentlege innkjøp - regjeringen.no</p>
+<p><em type="italic">Regjeringa foreslår å auke gebyra for klagebehandling i Klagenemnda for offentlege innkjøp (Kofa). Regjeringas forslag til nye gebyr er kroner 8 000 for rådgivande saker og kroner 1 000 for saker som gjeld ulovlege direkte innkjøp. Med auka gebyr ønskjer regjeringa færre avviste saker og raskare saksbehandlingstid. </em></p>
+<p>- Kofa skal vere eit lågterskeltilbod og eit alternativ til domstolane. Då er det viktig med rask og rimeleg klagebehandling. Det går med mykje ressursar på saker som blir avviste. Med auka gebyr ønskjer vi å oppnå betre grunna klager, færre avviste klager og raskare saksbehandling, seier fornyingsminister Rigmor Aasrud.</p>
+<p>Talet på nye saker til Kofa har dobla seg på fem år. I 2011 blei ei av tre saker avviste. Dette er saker som for eksempel manglar dokumentasjon, er forelda eller er ugrunna. Gjennomsnittlege kostnader per klagesak er ca 40 000 kroner.</p>
+<p>Offentleg sektor i Noreg kjøper årleg varer, tenester og byggje- og anleggsarbeid for om lag 330 milliardar kroner. Kofa behandla i 2011 331 klagesaker om brot på regelverket for offentlege innkjøp. Nemnda består av ti regjeringsoppnemnde medlemmer. Sekretariatet ligg administrativt under Konkurransetilsynet.</p>
+</body></document>

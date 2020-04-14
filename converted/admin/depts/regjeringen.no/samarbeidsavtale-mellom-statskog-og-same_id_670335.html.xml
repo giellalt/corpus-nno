@@ -1,42 +1,8 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ovttasbargošiehtadus gaskal Stáhtavuovddi ja Sámedikki - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>181</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/lmd/aktuelt/nyheiter/2012/jan-12/samarbeidsavtale-mellom-statskog-og-same.html?id=670335</origFileName>
-    <parallel_text xml:lang="sme" location="ovttasbargoiehtadus-gaskal-stahtavuovddi_id_670335.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samarbeidsavtale mellom Statskog og Sametinget - regjeringen.no</p>
-    <p>Statskog og Sametinget har underteikna ein samarbeidsavtale som skal styrkje samisk innverknad. Formålet med avtalen er å etablere rammer for kontakt mellom Statskog SF og Sametinget.</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Sjå meir om saka hjå Statskog </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">Les innhaldet i samarbeidsavtalen hjå Statskog </em>
-      </p>
-    </list>
-    <p><em type="italic">Styrker samisk innverknad </em>Avtalen har reglar for korleis Statskog og Sametinget skal konsultere med sikte på å oppnå Sametinget sin tilslutnad til tiltak for grunndisponering. Som større tiltak for grunndisponering blir rekna utbygging av vindkraft, drift av mineralforekomstar, utbygging av hyttefelt m.v. </p>
-    <p>Av avtalen følgjer det óg at Sametinget og Statskog er samde om å vurdere ordningar som kan medverke til gjensidig nytte for både samisk kultur og næringsdrift, og for Statskog. Partane skal ha minst eitt kontaktmøte i året knytt til samarbeidsavtalen. Avtalen gjeld i tre år og tek til å virke når Sametinget sitt plenum har godkjent den. Sametinget skal behandle avtalen i uke 8.</p>
-    <p><em type="italic">Statskog </em>Statskog er den største grunneigaren i Noreg. Staten sin grunn utgjer 60.000 km2. Det er 1/5 av Noreg sitt fastland. Staten er 100 prosent eigar av Statskog SF. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ovttasbargošiehtadus gaskal Stáhtavuovddi ja Sámedikki - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>181</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/lmd/aktuelt/nyheiter/2012/jan-12/samarbeidsavtale-mellom-statskog-og-same.html?id=670335</origFileName><parallel_text xml:lang="sme" location="ovttasbargoiehtadus-gaskal-stahtavuovddi_id_670335.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samarbeidsavtale mellom Statskog og Sametinget - regjeringen.no</p>
+<p>Statskog og Sametinget har underteikna ein samarbeidsavtale som skal styrkje samisk innverknad. Formålet med avtalen er å etablere rammer for kontakt mellom Statskog SF og Sametinget.</p>
+<list><p type="listitem"><em type="italic">Sjå meir om saka hjå Statskog </em></p>
+<p type="listitem"><em type="italic">Les innhaldet i samarbeidsavtalen hjå Statskog </em></p>
+</list><p><em type="italic">Styrker samisk innverknad </em>Avtalen har reglar for korleis Statskog og Sametinget skal konsultere med sikte på å oppnå Sametinget sin tilslutnad til tiltak for grunndisponering. Som større tiltak for grunndisponering blir rekna utbygging av vindkraft, drift av mineralforekomstar, utbygging av hyttefelt m.v. </p>
+<p>Av avtalen følgjer det óg at Sametinget og Statskog er samde om å vurdere ordningar som kan medverke til gjensidig nytte for både samisk kultur og næringsdrift, og for Statskog. Partane skal ha minst eitt kontaktmøte i året knytt til samarbeidsavtalen. Avtalen gjeld i tre år og tek til å virke når Sametinget sitt plenum har godkjent den. Sametinget skal behandle avtalen i uke 8.</p>
+<p><em type="italic">Statskog </em>Statskog er den største grunneigaren i Noreg. Staten sin grunn utgjer 60.000 km2. Det er 1/5 av Noreg sitt fastland. Staten er 100 prosent eigar av Statskog SF. </p>
+</body></document>

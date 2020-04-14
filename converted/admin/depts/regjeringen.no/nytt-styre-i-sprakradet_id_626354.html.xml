@@ -1,46 +1,18 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Giellaráđi ođđa stivra   - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>244</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/nytt-styre-i-sprakradet.html?id=626354</origFileName>
-    <parallel_text xml:lang="sme" location="giellarai-oa-stivra--_id_626354.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nytt styre i Språkrådet - regjeringen.no</p>
-    <p>Statsråd Anniken Huitfeldt har oppnemnt nytt styre for Språkrådet. Ottar Grepstad, forfattar og direktør for Nynorsk Kultursentrum blir styreleiar.</p>
-    <p>- Eg er glad for at vi har fått på plass eit godt og kompetent styre for Språkrådet. Vi kjem no raskt til å lyse ut stillinga som direktør for Språkrådet, seier kulturminister Anniken Huitfeldt.</p>
-    <p type="title">Styret i Språkrådet til 31.12.2014:</p>
-    <p><em type="italic">Ottar Grepstad </em>, Volda, leiar (f. 1953, forfattar og direktør for Nynorsk Kultursentrum, rådsmedlem i Norsk kulturråd 2005–2009, styremedlem i Språkrådet 2006–2010.) </p>
-    <p><em type="italic">Åse Lill Kimestad </em>, Mandal, nestleiar (f. 1955, rektor ved Vågsbygd videregående skole, medlem av fagrådet for høgare utdanning i Språkrådet) </p>
-    <p><em type="italic">Trond Trosterud </em>, Tromsø (f. 1962, førsteamanuensis i samisk språkteknologi ved Universitetet i Tromsø) </p>
-    <p><em type="italic">Åse Wetås </em>, Oslo (f. 1972, prosjektdirektør for Norsk ordbok 2014) </p>
-    <p><em type="italic">Sigrun Høgetveit Berg </em>, Tromsø (f. 1972, cand. philol, stipendiat ved Universitetet i Tromsø) </p>
-    <p><em type="italic">Helene Uri </em>, Oslo (f. 1964, forfattar og språkvitar, dr. art. i lingvistikk) </p>
-    <p><em type="italic">Kamil Øzerk </em>, Oslo ( f.1954 på Kypros, tyrkisk-norsk pedagog, dr. polit., professor i pedagogikk ved Universitetet i Oslo. Har mellom anna forska på tospråkleg opplæring) </p>
-    <p><em type="italic">Ola T. Lånke </em>, Trondheim (f. 1948, prest, tidlegare stortingsrepresentant for Kr.F.) </p>
-    <p type="title">Oppnemnde etter val av dei tilsette:</p>
-    <p>Margrethe Kvarenes (rådgjevar, BM), Daniel Ims (rådgjevar, NYNO),</p>
-    <p>Varamedlem:</p>
-    <p>Lars Rottem Krangnes, Oslo (nasjonal konsulent i Landsrådet for Norges barne- og ungdomsorganisasjoner, med samfunnskontakt som ansvarsområde)</p>
-    <p>Bente Christensen, Oslo (leiar av Institutt for lingvistiske og nordiske studium, Universitetet i Oslo)</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Giellaráđi ođđa stivra   - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>244</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/nytt-styre-i-sprakradet.html?id=626354</origFileName><parallel_text xml:lang="sme" location="giellarai-oa-stivra--_id_626354.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nytt styre i Språkrådet - regjeringen.no</p>
+<p>Statsråd Anniken Huitfeldt har oppnemnt nytt styre for Språkrådet. Ottar Grepstad, forfattar og direktør for Nynorsk Kultursentrum blir styreleiar.</p>
+<p>- Eg er glad for at vi har fått på plass eit godt og kompetent styre for Språkrådet. Vi kjem no raskt til å lyse ut stillinga som direktør for Språkrådet, seier kulturminister Anniken Huitfeldt.</p>
+<p type="title">Styret i Språkrådet til 31.12.2014:</p>
+<p><em type="italic">Ottar Grepstad </em>, Volda, leiar (f. 1953, forfattar og direktør for Nynorsk Kultursentrum, rådsmedlem i Norsk kulturråd 2005–2009, styremedlem i Språkrådet 2006–2010.) </p>
+<p><em type="italic">Åse Lill Kimestad </em>, Mandal, nestleiar (f. 1955, rektor ved Vågsbygd videregående skole, medlem av fagrådet for høgare utdanning i Språkrådet) </p>
+<p><em type="italic">Trond Trosterud </em>, Tromsø (f. 1962, førsteamanuensis i samisk språkteknologi ved Universitetet i Tromsø) </p>
+<p><em type="italic">Åse Wetås </em>, Oslo (f. 1972, prosjektdirektør for Norsk ordbok 2014) </p>
+<p><em type="italic">Sigrun Høgetveit Berg </em>, Tromsø (f. 1972, cand. philol, stipendiat ved Universitetet i Tromsø) </p>
+<p><em type="italic">Helene Uri </em>, Oslo (f. 1964, forfattar og språkvitar, dr. art. i lingvistikk) </p>
+<p><em type="italic">Kamil Øzerk </em>, Oslo ( f.1954 på Kypros, tyrkisk-norsk pedagog, dr. polit., professor i pedagogikk ved Universitetet i Oslo. Har mellom anna forska på tospråkleg opplæring) </p>
+<p><em type="italic">Ola T. Lånke </em>, Trondheim (f. 1948, prest, tidlegare stortingsrepresentant for Kr.F.) </p>
+<p type="title">Oppnemnde etter val av dei tilsette:</p>
+<p>Margrethe Kvarenes (rådgjevar, BM), Daniel Ims (rådgjevar, NYNO),</p>
+<p>Varamedlem:</p>
+<p>Lars Rottem Krangnes, Oslo (nasjonal konsulent i Landsrådet for Norges barne- og ungdomsorganisasjoner, med samfunnskontakt som ansvarsområde)</p>
+<p>Bente Christensen, Oslo (leiar av Institutt for lingvistiske og nordiske studium, Universitetet i Oslo)</p>
+</body></document>

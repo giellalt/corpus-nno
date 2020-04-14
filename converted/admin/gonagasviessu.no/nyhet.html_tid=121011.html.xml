@@ -1,40 +1,14 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Gratulerer med dagen!  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>234</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=121011</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=121011.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=121011_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title">Gratulerer med dagen!</p>
-    <p>I dag er det 200 år sidan vi fekk Grunnlova. Kongefamilien helsar tradisjonen tru barnetoget i Oslo frå Slottsbalkongen. Kronprinsfamilien helsar først barnetoget i Asker utanfor Skaugum.</p>
-    <p xml:lang="koi">17.05.2014</p>
-    <p>Det er Linderud skole som vil gå først i jubileumstoget, som teiknar til å bli rekordstort. Bak Linderud kjem Kastellet, Akkarfjord og enda 114 skolar.</p>
-    <p>Æra av å gå først i 17. mai-toget får skolar som fyller runde år, og i år fyller Linderud skole 50. Dei åtte elevane på Akkarfjord skole frå Hammerfest er gjester i toget. Det er ikkje første gong ein skole utanbys frå er med i toget til Oslo-skolane, men det er svært sjeldan. I 1976 gjekk Longyearbyen skole i 17. mai-toget i Oslo.</p>
-    <p type="title" xml:lang="est">Tradisjon</p>
-    <p>Kong Haakon og Dronning Maud innstifta skikken med å helse barnetoget i Oslo frå Slottsbalkongen i 1906. Skikken har sidan vore halden i hevd. Dei einaste unntaka var 1910, da far til Dronning Maud, den engelske Kong Edward, vart gravlagd, og krigsåra 1940–1944.</p>
-    <p type="title" xml:lang="nob">Grunnlovsmarkering på Eidsvoll</p>
-    <p>I kveld blir det stor feiring av Grunnlovsjubileet på Eidsvoll, der det heile starta. Hans Majestet Kongen og Hennar Majestet Dronninga vil vere til stades. Det vil òg Hennar Majestet Dronning Margrethe og Den Høgvørde Prins Henrik av Danmark, og Hans Majestet Kong Carl Gustaf og Hennar Majestet Dronning Silvia av Sverige.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Barnetogets historie (Nyhet)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Gratulerer med dagen!  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>233</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=121011</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=121011.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=121011_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Gratulerer med dagen!</p>
+<p>I dag er det 200 år sidan vi fekk Grunnlova. Kongefamilien helsar tradisjonen tru barnetoget i Oslo frå Slottsbalkongen. Kronprinsfamilien helsar først barnetoget i Asker utanfor Skaugum.</p>
+<p xml:lang="vep">17.05.2014</p>
+<p>Det er Linderud skole som vil gå først i jubileumstoget, som teiknar til å bli rekordstort. Bak Linderud kjem Kastellet, Akkarfjord og enda 114 skolar.</p>
+<p>Æra av å gå først i 17. mai-toget får skolar som fyller runde år, og i år fyller Linderud skole 50. Dei åtte elevane på Akkarfjord skole frå Hammerfest er gjester i toget. Det er ikkje første gong ein skole utanbys frå er med i toget til Oslo-skolane, men det er svært sjeldan. I 1976 gjekk Longyearbyen skole i 17. mai-toget i Oslo.</p>
+<p type="title" xml:lang="est">Tradisjon</p>
+<p>Kong Haakon og Dronning Maud innstifta skikken med å helse barnetoget i Oslo frå Slottsbalkongen i 1906. Skikken har sidan vore halden i hevd. Dei einaste unntaka var 1910, da far til Dronning Maud, den engelske Kong Edward, vart gravlagd, og krigsåra 1940–1944.</p>
+<p type="title" xml:lang="nob">Grunnlovsmarkering på Eidsvoll</p>
+<p>I kveld blir det stor feiring av Grunnlovsjubileet på Eidsvoll, der det heile starta. Hans Majestet Kongen og Hennar Majestet Dronninga vil vere til stades. Det vil òg Hennar Majestet Dronning Margrethe og Den Høgvørde Prins Henrik av Danmark, og Hans Majestet Kong Carl Gustaf og Hennar Majestet Dronning Silvia av Sverige.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="nob">Barnetogets historie (Nyhet)</p>
+</list></body></document>

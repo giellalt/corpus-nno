@@ -1,50 +1,13 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Kan spare milliardar på smartare grøftegraving for breiband - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>399</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/Kan-spare-milliardar-pa-smartare-groftegraving-for-breiband.html?id=607412</origFileName>
-    <parallel_text xml:lang="nob" location="kan-spare-milliarder-pa-smartere-groftegraving-for-bredband_id_607412.html"/>
-    <parallel_text xml:lang="sme" location="vejola-seastit-miljarddaid-jos-goaivu-eara-vugiid-mielde-goivvohagaid--govdafierpmadahkii_id_607412.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kan spare milliardar på smartare grøftegraving for breiband - regjeringen.no</p>
-    <p>
-      <em type="italic">- Legg røyr for framtidige fiberkablar, koordiner grøftegravinga og ikkje still for strenge krav til kor djupe grøftene skal vere. På den måten kan samfunnet spare milliardar samtidig som flest mogleg får breiband. Det er hovudkonklusjonen i ein ny rapport om <span type="quote">”god breibandsskikk”</span>. </em>
-    </p>
-    <p>Mykje kan gjerast enklare og billegare for å sikre innbyggjarane eit godt breibandstilbod. I ein del område er utbygging så dyrt at til dømes lokale krav om djupe grøfter gjer at marknadsaktørane ikkje vil tilby breitt breiband.</p>
-    <p>- Vanleg breiband er tilgjengeleg for 99,9 prosent av oss, men behova for bandbreidd aukar svært raskt. Difor må offentlege styresmakter, grunneigarar og bransjeaktørar samarbeide for å leggje betre til rette for kostnadseffektiv utbygging av høgkapasitetsnett. Det er unødig bruk av tid og pengar at same veg vert graven opp att etter få år, fordi ingen såg for seg trongen for kablar i framtida. Sektorvise regelverk må òg tilpassast breibandsutbygging, seier fornyingsminister Rigmor Aasrud.</p>
-    <p>- Raskt breiband er særs viktig for at folk skal ha fridom til å busetje seg der dei vil, seier kommunal- og regionalminister Liv Signe Navarsete. Ho oppfordrar difor fylke og kommunar til å vere aktive utviklingsaktørar for å samordne all infrastruktur. Ho syner mellom anna til Nord-Trøndelag, der fylkeskommunen legg trekkrøyr for breiband i samband med utbetring av fylkesvegane.</p>
-    <p>- Eg vil oppfordre alle kommunar og fylkeskommunar til å følgje god breibandsskikk. Samtidig vil regjeringa sjå på kva vi kan gjere på nasjonalt nivå for å leggje til rette for dette. Difor vil eg invitere bransjen til samråd om breibandspolitikken framover, seier fornyingsminister Rigmor Aasrud.</p>
-    <p>Mange av verkemidla knytte til føringsvegar (grøfter, røyr etc.) for breiband finst på kommunalt nivå. Til dømes har fleire kommunar innført større krav til kor djupe grøftene skal vere, og ei nedjustering av desse krava kan føre til ein nasjonal kostnadsreduksjon på utbygging av høgkapasitetsnett på seks milliardar kroner.</p>
-    <p>Nexia, som har utført analysen, trekkjer fram blant anna desse kjenneteikna på god kommunal breibandsskikk:</p>
-    <list>
-      <p type="listitem">Kommunen sørgjer for at det vert lagt trekkrøyr for fiber når det vert grave av andre omsyn.</p>
-      <p type="listitem">Kommunen held god oversikt over eksisterande føringsvegar og gir tilgang til føringsvegane på ein ikkje-diskriminerande og rimeleg måte.</p>
-      <p type="listitem">Kommunen set moderate krav til kor djupt trekkrøyr skal leggjast og til re-asfaltering.</p>
-    </list>
-    <p><em type="italic">Analysen </em>Vei, vann og bredbånd <em type="italic">(pdf) </em><em type="italic">er skriven av Nexia på oppdrag frå Fornyings- administrasjons- og kyrkjedepartementet. </em></p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Kan spare milliardar på smartare grøftegraving for breiband - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>399</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/Kan-spare-milliardar-pa-smartare-groftegraving-for-breiband.html?id=607412</origFileName><parallel_text xml:lang="nob" location="kan-spare-milliarder-pa-smartere-groftegraving-for-bredband_id_607412.html"/><parallel_text xml:lang="sme" location="vejola-seastit-miljarddaid-jos-goaivu-eara-vugiid-mielde-goivvohagaid--govdafierpmadahkii_id_607412.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kan spare milliardar på smartare grøftegraving for breiband - regjeringen.no</p>
+<p><em type="italic">- Legg røyr for framtidige fiberkablar, koordiner grøftegravinga og ikkje still for strenge krav til kor djupe grøftene skal vere. På den måten kan samfunnet spare milliardar samtidig som flest mogleg får breiband. Det er hovudkonklusjonen i ein ny rapport om <span type="quote">”god breibandsskikk”</span>. </em></p>
+<p>Mykje kan gjerast enklare og billegare for å sikre innbyggjarane eit godt breibandstilbod. I ein del område er utbygging så dyrt at til dømes lokale krav om djupe grøfter gjer at marknadsaktørane ikkje vil tilby breitt breiband.</p>
+<p>- Vanleg breiband er tilgjengeleg for 99,9 prosent av oss, men behova for bandbreidd aukar svært raskt. Difor må offentlege styresmakter, grunneigarar og bransjeaktørar samarbeide for å leggje betre til rette for kostnadseffektiv utbygging av høgkapasitetsnett. Det er unødig bruk av tid og pengar at same veg vert graven opp att etter få år, fordi ingen såg for seg trongen for kablar i framtida. Sektorvise regelverk må òg tilpassast breibandsutbygging, seier fornyingsminister Rigmor Aasrud.</p>
+<p>- Raskt breiband er særs viktig for at folk skal ha fridom til å busetje seg der dei vil, seier kommunal- og regionalminister Liv Signe Navarsete. Ho oppfordrar difor fylke og kommunar til å vere aktive utviklingsaktørar for å samordne all infrastruktur. Ho syner mellom anna til Nord-Trøndelag, der fylkeskommunen legg trekkrøyr for breiband i samband med utbetring av fylkesvegane.</p>
+<p>- Eg vil oppfordre alle kommunar og fylkeskommunar til å følgje god breibandsskikk. Samtidig vil regjeringa sjå på kva vi kan gjere på nasjonalt nivå for å leggje til rette for dette. Difor vil eg invitere bransjen til samråd om breibandspolitikken framover, seier fornyingsminister Rigmor Aasrud.</p>
+<p>Mange av verkemidla knytte til føringsvegar (grøfter, røyr etc.) for breiband finst på kommunalt nivå. Til dømes har fleire kommunar innført større krav til kor djupe grøftene skal vere, og ei nedjustering av desse krava kan føre til ein nasjonal kostnadsreduksjon på utbygging av høgkapasitetsnett på seks milliardar kroner.</p>
+<p>Nexia, som har utført analysen, trekkjer fram blant anna desse kjenneteikna på god kommunal breibandsskikk:</p>
+<list><p type="listitem">Kommunen sørgjer for at det vert lagt trekkrøyr for fiber når det vert grave av andre omsyn.</p>
+<p type="listitem">Kommunen held god oversikt over eksisterande føringsvegar og gir tilgang til føringsvegane på ein ikkje-diskriminerande og rimeleg måte.</p>
+<p type="listitem">Kommunen set moderate krav til kor djupt trekkrøyr skal leggjast og til re-asfaltering.</p>
+</list><p><em type="italic">Analysen </em>Vei, vann og bredbånd <em type="italic">(pdf) </em><em type="italic">er skriven av Nexia på oppdrag frå Fornyings- administrasjons- og kyrkjedepartementet. </em></p>
+</body></document>

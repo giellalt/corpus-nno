@@ -1,74 +1,42 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Statsbesøk til Australia  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>838</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=125852</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=125852.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=125852_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title" xml:lang="nob">Statsbesøk til Australia</p>
-    <p>Hans Majestet Kongen og Hennar Majestet Dronninga innleidde Noregs første statsbesøk til Australia i dag. Besøket blir gjennomført i Canberra og Sydney, før det blir avslutta i Perth på fredag.</p>
-    <p xml:lang="koi">23.02.2015</p>
-    <p>Kongen og Dronninga blir følgde av utanriksminister Børge Brende og olje- og energiminister Tord Lien, i tillegg til ein større delegasjon med representantar for norsk administrasjon og næringsliv.</p>
-    <p>Kongeparet kom til hovudstaden Canberra i går kveld, der dei vart varmt mottekne av nordmenn busette i byen. <span type="quote">«Kor i»</span> song Griegs Våren for Kongen og Dronninga, som òg var til middag hos ambassadør Unni Kløvstad denne første kvelden.</p>
-    <p type="title" xml:lang="nob">Australian War Memorial</p>
-    <p>Det første offisielle besøket til Kongeparet i dag gjekk til det australske krigsminnesmerket – Australian War Memorial. Senteret er både eit minnesmerke over falne australske soldatar, eit museum og eit arkiv over Australias krigshistorie. Det vart halde ein verdig og vakker seremoni med kransnedlegging ved den ukjende soldats grav her i dag tidleg.</p>
-    <p>I år er det 100 år sidan slaget ved Gallipoli, der Australia mista rundt 8700 soldatar. Totalt gjekk det 61 522 australske soldatar tapt under 1. verdskrig. Også under 2. verdskrig slost Australia på alliert side, og ein av dei falne soldatane vart spesielt heidra av Kongeparet i dag.</p>
-    <p type="title" xml:lang="nob">Warrant Officer George Gregory Allman</p>
-    <p>Warrant Officer Allman var telegrafist og skyttar i det australske luftvåpenet under 2. verdskrig. Som medlem av 196. skvadron av Royal Air Force, RAF, deltok han ved både Normandie og Arnhem. Den 31. mars 1945 fekk Allman og resten av mannskapet i oppdrag å flyge til Noreg og sleppe ned forsyningar til norske motstandsfolk. Flyet vart oppdaga og angripe – og skote ned. Staden flyet krasja, har aldri vorte funnen.</p>
-    <p>Roll of Honour listar opp namna på soldatane Australia har mista, i bronse. I dag plasserte Kongen og Dronninga kvar sin valmue ved namnet til George Gregory Allman.</p>
-    <p type="title" xml:lang="est">Velkomstseremoni</p>
-    <p>Den offisielle velkomstseremonien vart halden utanfor Government House i Canberra, der Kongeparet vart ønskt formelt velkommen av Australias generalguvernør, H.E. Peter John Cosgrove og Lady Cosgrove. Nasjonalsongane vart spelte, før Kong Harald inspiserte æresvakta.</p>
-    <p>Etter seremonien var det møte mellom Kongeparet, Generalguvernøren og Lady Cosgrove, før ein offisiell lunsj til ære for Kongen og Dronninga. I talen sin under lunsjen understreka Kong Harald dei nære banda mellom Noreg og Australia og ønsket om eit enda tettare samarbeid innan forsking og næringsliv. Men aller først æra Kongen det aboriginske Ngnunnawal-folket, som har hatt tilhald i Canberra-regionen i over 21 000 år:</p>
-    <p xml:lang="eng">
-      <em type="italic">I would like to start by acknowledging the traditional owners of the land on which we meet — the Ngnunnawal people — and paying my respects to their Elders past and present. </em>
-    </p>
-    <p type="title" xml:lang="isl">Kengurutur</p>
-    <p>Etter lunsj vart det høve til ein liten kengurusafari ute i parken som omkransar Government House. Generalguvernøren og Lady Cosgrove tok Kong Harald og Dronning Sonja med i ein golfbil for ein nærare kikk på noko av Australias heilt spesielle dyreliv.</p>
-    <p type="title">Møte og seminar</p>
-    <p>I ettermiddag vart det halde ei rekkje møte mellom ulike delar av dei norske og australske delegasjonane. Kongen og Dronninga møtte både med statsminister Tony Abbott og opposisjonsleiar Bill Shorten, før Kongen heldt det avsluttande innlegget på eit norsk-australsk forsvarsindustriseminar.</p>
-    <p>Australia er ein stadig viktigare partnar i forsvarssamarbeidet, både for NATO generelt og for Noreg spesifikt. Noreg samarbeidde med australske styrkar i Afghanistan, og Australia og Noreg deltek òg begge i F-35-kampflyprogrammet.</p>
-    <p xml:lang="eng"><em type="italic">Through our shared experiences, Australia and Norway have developed close defence cooperation, which includes defence technology, </em>sa Kongen til seminardeltakarane. <em type="italic">The Norwegian defence industry has expanded its international activities in recent years and Australia has become its second most important market. The high-tech defence industry uses cutting-edge science, which is also essential for many civilian purposes. </em></p>
-    <p>Norske bedrifter er viktige leverandørar til kampsystemet og simulatoren for Australias Hobart-destroyarar og det luftborne overvakingssystemet AWACS, og det er ei rekkje representantar frå forsvarsindustrien med i næringslivsdelegasjonen under dette statsbesøket.</p>
-    <p>I kveld, lokal tid, var Kongeparet gjester til offisiell middag hos statsministeren i Parliament House, før dei reiste vidare til Sydney, der dei neste dagane av statsbesøket skal gjennomførast.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p>Fakta</p>
-    <p>
-      <em type="italic">Fakta om Australia </em>
-    </p>
-    <p xml:lang="nob">Hovedstad: Canberra Største byer: Sydney, Melbourne, Brisbane og Perth</p>
-    <p xml:lang="nob">Størrelse: 7 692 024 km² (Norge: 385 186 km²) Befolkning 2013: ca 23 millioner Offisielt språk: Australsk-engelsk</p>
-    <p xml:lang="nob">Styresett: Australia er en føderal stat bestående av 6 delstater og 2 territorier. Det er et konstitusjonelt monarki med parlamentarisk styresett, etablert 1901. Statsoverhode 2015: Dronning Elizabeth II, representert ved Generalguvernør Peter John Cosgrove.</p>
-    <p xml:lang="nob">Forholdet mellom Norge og Australia er svært godt, med nært samarbeid blant annet i FN og innenfor Antarktis-traktatsystemet.</p>
-    <p xml:lang="nob">Samhandelen med Australia er økende, dominert av norsk eksport. Det er rundt 2000 norske studenter i Australia, og det anslås at omkring 10 000 nordmenn bor i Australia.</p>
-    <p xml:lang="nob">Kilde: UD</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="eng">State visit to Australia: Luncheon in Government House (Tale)</p>
-      <p type="listitem" xml:lang="eng">State visit to Australia: Defence Industry Seminar (Tale)</p>
-      <p type="listitem" xml:lang="nob">Åpnet seminar om Antarktis (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Norsk natur i kunstform (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Avsluttet statsbesøket i Perth (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Australia 2015 (Fotoalbum)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Australian War Memorial</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Statsbesøk til Australia  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>837</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=125852</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=125852.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=125852_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title" xml:lang="nob">Statsbesøk til Australia</p>
+<p>Hans Majestet Kongen og Hennar Majestet Dronninga innleidde Noregs første statsbesøk til Australia i dag. Besøket blir gjennomført i Canberra og Sydney, før det blir avslutta i Perth på fredag.</p>
+<p xml:lang="vep">23.02.2015</p>
+<p>Kongen og Dronninga blir følgde av utanriksminister Børge Brende og olje- og energiminister Tord Lien, i tillegg til ein større delegasjon med representantar for norsk administrasjon og næringsliv.</p>
+<p>Kongeparet kom til hovudstaden Canberra i går kveld, der dei vart varmt mottekne av nordmenn busette i byen. <span type="quote">«Kor i»</span> song Griegs Våren for Kongen og Dronninga, som òg var til middag hos ambassadør Unni Kløvstad denne første kvelden.</p>
+<p type="title" xml:lang="nob">Australian War Memorial</p>
+<p>Det første offisielle besøket til Kongeparet i dag gjekk til det australske krigsminnesmerket – Australian War Memorial. Senteret er både eit minnesmerke over falne australske soldatar, eit museum og eit arkiv over Australias krigshistorie. Det vart halde ein verdig og vakker seremoni med kransnedlegging ved den ukjende soldats grav her i dag tidleg.</p>
+<p>I år er det 100 år sidan slaget ved Gallipoli, der Australia mista rundt 8700 soldatar. Totalt gjekk det 61 522 australske soldatar tapt under 1. verdskrig. Også under 2. verdskrig slost Australia på alliert side, og ein av dei falne soldatane vart spesielt heidra av Kongeparet i dag.</p>
+<p type="title" xml:lang="nob">Warrant Officer George Gregory Allman</p>
+<p>Warrant Officer Allman var telegrafist og skyttar i det australske luftvåpenet under 2. verdskrig. Som medlem av 196. skvadron av Royal Air Force, RAF, deltok han ved både Normandie og Arnhem. Den 31. mars 1945 fekk Allman og resten av mannskapet i oppdrag å flyge til Noreg og sleppe ned forsyningar til norske motstandsfolk. Flyet vart oppdaga og angripe – og skote ned. Staden flyet krasja, har aldri vorte funnen.</p>
+<p>Roll of Honour listar opp namna på soldatane Australia har mista, i bronse. I dag plasserte Kongen og Dronninga kvar sin valmue ved namnet til George Gregory Allman.</p>
+<p type="title" xml:lang="est">Velkomstseremoni</p>
+<p>Den offisielle velkomstseremonien vart halden utanfor Government House i Canberra, der Kongeparet vart ønskt formelt velkommen av Australias generalguvernør, H.E. Peter John Cosgrove og Lady Cosgrove. Nasjonalsongane vart spelte, før Kong Harald inspiserte æresvakta.</p>
+<p>Etter seremonien var det møte mellom Kongeparet, Generalguvernøren og Lady Cosgrove, før ein offisiell lunsj til ære for Kongen og Dronninga. I talen sin under lunsjen understreka Kong Harald dei nære banda mellom Noreg og Australia og ønsket om eit enda tettare samarbeid innan forsking og næringsliv. Men aller først æra Kongen det aboriginske Ngnunnawal-folket, som har hatt tilhald i Canberra-regionen i over 21 000 år:</p>
+<p xml:lang="eng"><em type="italic">I would like to start by acknowledging the traditional owners of the land on which we meet — the Ngnunnawal people — and paying my respects to their Elders past and present. </em></p>
+<p type="title" xml:lang="isl">Kengurutur</p>
+<p>Etter lunsj vart det høve til ein liten kengurusafari ute i parken som omkransar Government House. Generalguvernøren og Lady Cosgrove tok Kong Harald og Dronning Sonja med i ein golfbil for ein nærare kikk på noko av Australias heilt spesielle dyreliv.</p>
+<p type="title">Møte og seminar</p>
+<p>I ettermiddag vart det halde ei rekkje møte mellom ulike delar av dei norske og australske delegasjonane. Kongen og Dronninga møtte både med statsminister Tony Abbott og opposisjonsleiar Bill Shorten, før Kongen heldt det avsluttande innlegget på eit norsk-australsk forsvarsindustriseminar.</p>
+<p>Australia er ein stadig viktigare partnar i forsvarssamarbeidet, både for NATO generelt og for Noreg spesifikt. Noreg samarbeidde med australske styrkar i Afghanistan, og Australia og Noreg deltek òg begge i F-35-kampflyprogrammet.</p>
+<p xml:lang="eng"><em type="italic">Through our shared experiences, Australia and Norway have developed close defence cooperation, which includes defence technology, </em>sa Kongen til seminardeltakarane. <em type="italic">The Norwegian defence industry has expanded its international activities in recent years and Australia has become its second most important market. The high-tech defence industry uses cutting-edge science, which is also essential for many civilian purposes. </em></p>
+<p>Norske bedrifter er viktige leverandørar til kampsystemet og simulatoren for Australias Hobart-destroyarar og det luftborne overvakingssystemet AWACS, og det er ei rekkje representantar frå forsvarsindustrien med i næringslivsdelegasjonen under dette statsbesøket.</p>
+<p>I kveld, lokal tid, var Kongeparet gjester til offisiell middag hos statsministeren i Parliament House, før dei reiste vidare til Sydney, der dei neste dagane av statsbesøket skal gjennomførast.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p>Fakta</p>
+<p><em type="italic">Fakta om Australia </em></p>
+<p xml:lang="nob">Hovedstad: Canberra Største byer: Sydney, Melbourne, Brisbane og Perth</p>
+<p xml:lang="nob">Størrelse: 7 692 024 km² (Norge: 385 186 km²) Befolkning 2013: ca 23 millioner Offisielt språk: Australsk-engelsk</p>
+<p xml:lang="nob">Styresett: Australia er en føderal stat bestående av 6 delstater og 2 territorier. Det er et konstitusjonelt monarki med parlamentarisk styresett, etablert 1901. Statsoverhode 2015: Dronning Elizabeth II, representert ved Generalguvernør Peter John Cosgrove.</p>
+<p xml:lang="nob">Forholdet mellom Norge og Australia er svært godt, med nært samarbeid blant annet i FN og innenfor Antarktis-traktatsystemet.</p>
+<p xml:lang="nob">Samhandelen med Australia er økende, dominert av norsk eksport. Det er rundt 2000 norske studenter i Australia, og det anslås at omkring 10 000 nordmenn bor i Australia.</p>
+<p xml:lang="nob">Kilde: UD</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="eng">State visit to Australia: Luncheon in Government House (Tale)</p>
+<p type="listitem" xml:lang="eng">State visit to Australia: Defence Industry Seminar (Tale)</p>
+<p type="listitem" xml:lang="nob">Åpnet seminar om Antarktis (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Norsk natur i kunstform (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Avsluttet statsbesøket i Perth (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Australia 2015 (Fotoalbum)</p>
+</list><list><p type="listitem" xml:lang="nob">Australian War Memorial</p>
+</list></body></document>

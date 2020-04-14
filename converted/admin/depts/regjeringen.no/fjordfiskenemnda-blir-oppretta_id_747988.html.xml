@@ -1,33 +1,3 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Vuotnaguolástuslávdegoddi nammaduvvo - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Nærings- og fiskeridepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>119</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/nfd/aktuelt/nyheiter/nyheter-2013/fjordfiskenemnda-blir-oppretta.html?id=747988</origFileName>
-    <parallel_text xml:lang="nob" location="kulturdepartementet-nedsetter-utrednings_id_748000.html"/>
-    <parallel_text xml:lang="sme" location="vuotnaguolastuslavdegoddi-nammaduvvo_id_747988.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Fjordfiskenemnda blir oppretta - regjeringen.no</p>
-    <p><em type="italic">-Ein milepæl i oppfølginga av Kystfiskeutvalet sitt arbeid, seier fiskeriminister Elisabeth Aspaker etter konsultasjonsmøtet med Sametinget i dag. </em>Sametingspresident Aili Keskitalo og fiskeriminister Elisabeth Aspaker vart i dag einige om å opprette Fjordfiskenemnda. Nemnda skal vere eit rådgivande organ for styresmaktene i fiskerisaker i dei tre nordlegaste fylka, og skal mellom anna gi råd om fastsetting av fjordlinjer. Fjordlinjene avgrensar dei større fartøya sitt fiske inne i fjordane. -Vi ønskjer å ha nemnda i arbeid så raskt som råd er, og vi legg opp til at medlemmene skal vere nemnde opp innan 1. februar, seier fiskeriminister Elisabeth Aspaker. Sametingspresidenten og fiskeriministeren vart også einige om retningslinjer for konsultasjonar mellom Sametinget og departementet i fiskerisaker. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Vuotnaguolástuslávdegoddi nammaduvvo - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Nærings- og fiskeridepartementet" sex="unknown" born="" nationality=""/></author><year>2013</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>119</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/nfd/aktuelt/nyheiter/nyheter-2013/fjordfiskenemnda-blir-oppretta.html?id=747988</origFileName><parallel_text xml:lang="nob" location="kulturdepartementet-nedsetter-utrednings_id_748000.html"/><parallel_text xml:lang="sme" location="vuotnaguolastuslavdegoddi-nammaduvvo_id_747988.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Fjordfiskenemnda blir oppretta - regjeringen.no</p>
+<p><em type="italic">-Ein milepæl i oppfølginga av Kystfiskeutvalet sitt arbeid, seier fiskeriminister Elisabeth Aspaker etter konsultasjonsmøtet med Sametinget i dag. </em>Sametingspresident Aili Keskitalo og fiskeriminister Elisabeth Aspaker vart i dag einige om å opprette Fjordfiskenemnda. Nemnda skal vere eit rådgivande organ for styresmaktene i fiskerisaker i dei tre nordlegaste fylka, og skal mellom anna gi råd om fastsetting av fjordlinjer. Fjordlinjene avgrensar dei større fartøya sitt fiske inne i fjordane. -Vi ønskjer å ha nemnda i arbeid så raskt som råd er, og vi legg opp til at medlemmene skal vere nemnde opp innan 1. februar, seier fiskeriminister Elisabeth Aspaker. Sametingspresidenten og fiskeriministeren vart også einige om retningslinjer for konsultasjonar mellom Sametinget og departementet i fiskerisaker. </p>
+</body></document>

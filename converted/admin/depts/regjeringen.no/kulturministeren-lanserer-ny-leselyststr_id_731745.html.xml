@@ -1,41 +1,12 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Kulturministtar almmuha ođđa lohkanhállostrategiija - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>285</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2013/kulturministeren-lanserer-ny-leselyststr.html?id=731745</origFileName>
-    <parallel_text xml:lang="sme" location="kulturministtar-almmuha-oa-lohkanhallost_id_731745.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Kulturministeren lanserer ny leselyststrategi - regjeringen.no</p>
-    <p>– Å opne ei bok er som å opne døra til ei ny verd. Lesing er underhaldning, det er ei kjelde til personleg utvikling og til rein glede. Å lese gir oss høve til å delta i den offentlege debatten. Det er ei demokratisk handling. Difor er lesing viktig, seier kulturminister Hadia Tajik.</p>
-    <p xml:lang="sma">Leselyststrategien 2013 (.pdf)</p>
-    <p xml:lang="nob">Utlysning av prosjektmidler for å fremme leselyst</p>
-    <p>Regjeringa legg i dag fram ein leselyststrategi der barn og unge er ei sentral målgruppe. Målet med leselyststrategien er å fremje lesing og leselyst, og å sikre tilgang til litteratur for barn og unge.</p>
-    <p>Leselyststrategien inneheld fleire døme på gode tiltak og prosjekt. Prosjekta er framheva for å inspirere både kommunar og andre aktørar til å setje i gang eigne prosjekt eller satse på eksisterande prosjekt i arbeidet med å auke leselysta.</p>
-    <p>Kulturdepartementet vil bruke 2,75 millionar kroner i 2013 på tiltak for å auke leselysta til barn og unge.</p>
-    <p>Av dette vil Kulturdepartementet lyse ut 1,2 millionar kroner til leselystprosjekt i 2013. Organisasjonar kan søkje om midlar til prosjekt som har som mål å fremje leselysta til barn og unge.</p>
-    <p>Leselystprosjektet <em type="italic">Hat-trick </em>får 850 000 kroner i 2013. Dette er eit breiddeprosjekt i regi av Foreningen !les, der litteratur og formidling skjer på fotballarenaer. Prosjektet framhevar gode lesande rollemodellar frå fotballmiljøet. </p>
-    <p>Prosjektet <em type="italic">Bok til alle-bibliotek </em>får 700 000 kroner i 2013. Dette er eit prosjekt der bibliotek forpliktar seg til å formidle litteratur til folk som har problem med lesing. Dette er eit populært tiltak som bidrar til alle – uansett leseevne – får lese. </p>
-    <p>Desse midlane kjem i tillegg til dei 17 millionar kronene som Nasjonalbiblioteket allereie disponerer til prosjekt- og utviklingstiltak i biblioteksektoren.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Kulturministtar almmuha ođđa lohkanhállostrategiija - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2013</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>285</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2013/kulturministeren-lanserer-ny-leselyststr.html?id=731745</origFileName><parallel_text xml:lang="sme" location="kulturministtar-almmuha-oa-lohkanhallost_id_731745.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Kulturministeren lanserer ny leselyststrategi - regjeringen.no</p>
+<p>– Å opne ei bok er som å opne døra til ei ny verd. Lesing er underhaldning, det er ei kjelde til personleg utvikling og til rein glede. Å lese gir oss høve til å delta i den offentlege debatten. Det er ei demokratisk handling. Difor er lesing viktig, seier kulturminister Hadia Tajik.</p>
+<p xml:lang="sma">Leselyststrategien 2013 (.pdf)</p>
+<p xml:lang="nob">Utlysning av prosjektmidler for å fremme leselyst</p>
+<p>Regjeringa legg i dag fram ein leselyststrategi der barn og unge er ei sentral målgruppe. Målet med leselyststrategien er å fremje lesing og leselyst, og å sikre tilgang til litteratur for barn og unge.</p>
+<p>Leselyststrategien inneheld fleire døme på gode tiltak og prosjekt. Prosjekta er framheva for å inspirere både kommunar og andre aktørar til å setje i gang eigne prosjekt eller satse på eksisterande prosjekt i arbeidet med å auke leselysta.</p>
+<p>Kulturdepartementet vil bruke 2,75 millionar kroner i 2013 på tiltak for å auke leselysta til barn og unge.</p>
+<p>Av dette vil Kulturdepartementet lyse ut 1,2 millionar kroner til leselystprosjekt i 2013. Organisasjonar kan søkje om midlar til prosjekt som har som mål å fremje leselysta til barn og unge.</p>
+<p>Leselystprosjektet <em type="italic">Hat-trick </em>får 850 000 kroner i 2013. Dette er eit breiddeprosjekt i regi av Foreningen !les, der litteratur og formidling skjer på fotballarenaer. Prosjektet framhevar gode lesande rollemodellar frå fotballmiljøet. </p>
+<p>Prosjektet <em type="italic">Bok til alle-bibliotek </em>får 700 000 kroner i 2013. Dette er eit prosjekt der bibliotek forpliktar seg til å formidle litteratur til folk som har problem med lesing. Dette er eit populært tiltak som bidrar til alle – uansett leseevne – får lese. </p>
+<p>Desse midlane kjem i tillegg til dei 17 millionar kronene som Nasjonalbiblioteket allereie disponerer til prosjekt- og utviklingstiltak i biblioteksektoren.</p>
+</body></document>

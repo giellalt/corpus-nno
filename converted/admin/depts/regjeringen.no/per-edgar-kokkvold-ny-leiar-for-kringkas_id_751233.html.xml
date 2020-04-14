@@ -1,36 +1,5 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Per Edgar Kokkvold lea nammaduvvon Kringkastingsrådet dahje NRK-ráđi ođđa jođiheaddjin. - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2014</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>331</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2014/per-edgar-kokkvold-ny-leiar-for-kringkas.html?id=751233</origFileName>
-    <parallel_text xml:lang="nob" location="reindriftsavtale_id_751427.html"/>
-    <parallel_text xml:lang="sme" location="ovtta-oaivilis-oa-boazodoalloiehtadusa-h_id_751427.html"/>
-    <parallel_text xml:lang="smj" location="nammada-viidat-ohkkejuvvon-referansajoav_id_750286.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Per Edgar Kokkvold ny leiar for Kringkastingsrådet - regjeringen.no</p>
-    <p>Kongen i statsråd oppnemnde fredag sine medlemer til Kringkastingsrådet for perioden 2014 - 2017. Stortinget oppnemnde sine medlemmer i desember.</p>
-    <p>- Vi har lagt vekt på både kontinuitet og nye namn. Medlemmene har stor samfunns- og mediekompetanse. Vi går også bort frå prinsippet om å oppnemne ein leiar som høyrer til eit politisk parti, og legg vekt på kompetanse på mediefeltet når vi utnemner Per Edgar Kokkvold som leiar. Han vil bidra til å vitalisere diskusjonane i Kringkastingsrådet saman med resten av medlemmene. Kokkvold har gjennom si tid som mangeårig leiar av Norsk Presseforbund vore ei markant røyst i ordskiftet om presseetikk, seier kulturminister Thorhild Widvey. Etter oppnemningane blir det nye rådet: Leiar: Per Edgar Kokkvold, Drøbak (ny) Varamedlem: Rune Hetland, Vikebygd (ny) Nestleiar: Kjersti Thorbjørnrud, Oslo Varamedlem: Mona Solbakk, Birtavarre (ny) Medlem: Frank Rossavik, Bergen Varamedlem: Henning Warloe, Bergen (ny) Medlem: Beate Bø Nilsen, Sortland (varamedlem 2010-14) Varamedlem: Hannah Wozene Kvam, Oslo (ny) Medlem: Hallvard Moe, Bergen (ny) Varamedlem: Ola By Rise, Trondheim (ny) Medlem: Elin Ørjasæter, Oslo (ny) Varamedlem: Randi Wenche Haugen, Trondheim (ny) Stortinget oppnemnde 3. desember 2013 desse medlemene: Medlem: Sigvald Oppebøen Hansen, Nissedal Varamedlem: Espen Granberg Johnsen, Lillehammer Medlem: Mette Gundersen, Kristiansand Varamedlem: Inger Løite, Sundebru Medlem: Afshan Rafiq, Oslo Varamedlem: Elizabeth Skogrand, Røyken Medlem: Marvin Wiseth, Trondheim Varamedlem: Jens Johan Hjorth, Tromsø Medlem: Finn Egil Holm, Sande i Vestfold Varamedlem: Ingvil Smines Tybring-Gjedde, Oslo Medlem: May-Helen Molvær Grimstad, Ålesund Varamedlem: Thor Bjarne Bore, Stavanger Medlem: Erlend Grimstad, Skedsmo Varamedlem: Line Gaare Paulsen, Oslo</p>
-    <p>Kringkastingsrådet er eit rådgjevande organ for Norsk rikskringkasting. Rådet skal drøfte og uttale seg om hovudlinene for programverksemda i Norsk rikskringkasting. Åtte av medlemane i rådet blir oppnemnt av Stortinget, medan seks blir oppnemnt av Kongen i statsråd. I tillegg er den som til einkvar tid er leiar for Samisk Programråd medlem i rådet, og like eins er nestleiaren i Samisk Programråd personleg varamedlem for leiaren. Det er Sametinget som oppnemner Samisk programråd.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Per Edgar Kokkvold lea nammaduvvon Kringkastingsrådet dahje NRK-ráđi ođđa jođiheaddjin. - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2014</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>331</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2014/per-edgar-kokkvold-ny-leiar-for-kringkas.html?id=751233</origFileName><parallel_text xml:lang="nob" location="reindriftsavtale_id_751427.html"/><parallel_text xml:lang="sme" location="ovtta-oaivilis-oa-boazodoalloiehtadusa-h_id_751427.html"/><parallel_text xml:lang="smj" location="nammada-viidat-ohkkejuvvon-referansajoav_id_750286.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Per Edgar Kokkvold ny leiar for Kringkastingsrådet - regjeringen.no</p>
+<p>Kongen i statsråd oppnemnde fredag sine medlemer til Kringkastingsrådet for perioden 2014 - 2017. Stortinget oppnemnde sine medlemmer i desember.</p>
+<p>- Vi har lagt vekt på både kontinuitet og nye namn. Medlemmene har stor samfunns- og mediekompetanse. Vi går også bort frå prinsippet om å oppnemne ein leiar som høyrer til eit politisk parti, og legg vekt på kompetanse på mediefeltet når vi utnemner Per Edgar Kokkvold som leiar. Han vil bidra til å vitalisere diskusjonane i Kringkastingsrådet saman med resten av medlemmene. Kokkvold har gjennom si tid som mangeårig leiar av Norsk Presseforbund vore ei markant røyst i ordskiftet om presseetikk, seier kulturminister Thorhild Widvey. Etter oppnemningane blir det nye rådet: Leiar: Per Edgar Kokkvold, Drøbak (ny) Varamedlem: Rune Hetland, Vikebygd (ny) Nestleiar: Kjersti Thorbjørnrud, Oslo Varamedlem: Mona Solbakk, Birtavarre (ny) Medlem: Frank Rossavik, Bergen Varamedlem: Henning Warloe, Bergen (ny) Medlem: Beate Bø Nilsen, Sortland (varamedlem 2010-14) Varamedlem: Hannah Wozene Kvam, Oslo (ny) Medlem: Hallvard Moe, Bergen (ny) Varamedlem: Ola By Rise, Trondheim (ny) Medlem: Elin Ørjasæter, Oslo (ny) Varamedlem: Randi Wenche Haugen, Trondheim (ny) Stortinget oppnemnde 3. desember 2013 desse medlemene: Medlem: Sigvald Oppebøen Hansen, Nissedal Varamedlem: Espen Granberg Johnsen, Lillehammer Medlem: Mette Gundersen, Kristiansand Varamedlem: Inger Løite, Sundebru Medlem: Afshan Rafiq, Oslo Varamedlem: Elizabeth Skogrand, Røyken Medlem: Marvin Wiseth, Trondheim Varamedlem: Jens Johan Hjorth, Tromsø Medlem: Finn Egil Holm, Sande i Vestfold Varamedlem: Ingvil Smines Tybring-Gjedde, Oslo Medlem: May-Helen Molvær Grimstad, Ålesund Varamedlem: Thor Bjarne Bore, Stavanger Medlem: Erlend Grimstad, Skedsmo Varamedlem: Line Gaare Paulsen, Oslo</p>
+<p>Kringkastingsrådet er eit rådgjevande organ for Norsk rikskringkasting. Rådet skal drøfte og uttale seg om hovudlinene for programverksemda i Norsk rikskringkasting. Åtte av medlemane i rådet blir oppnemnt av Stortinget, medan seks blir oppnemnt av Kongen i statsråd. I tillegg er den som til einkvar tid er leiar for Samisk Programråd medlem i rådet, og like eins er nestleiaren i Samisk Programråd personleg varamedlem for leiaren. Det er Sametinget som oppnemner Samisk programråd.</p>
+</body></document>

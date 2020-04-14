@@ -1,43 +1,7 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Stáhtačálli Roger Ingebrigtsen - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Forsvarsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>133</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fd/om-departementet/Anna-politisk-leiing/statssekretar-roger-ingebrigtsen.html?id=610369</origFileName>
-    <parallel_text xml:lang="eng" location="state-secretary-roger-ingebrigtsen_id_610369.html"/>
-    <parallel_text xml:lang="nob" location="statssekretar-roger-ingebrigtsen_id_610369.html"/>
-    <parallel_text xml:lang="sme" location="stahtaalli-roger-ingebrigtsen_id_610369.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Statssekretær Roger Ingebrigtsen - regjeringen.no</p>
-    <p>Roger Ingebrigtsen er frå 18. juni 2010 statssekretær i Forsvarsdepartementet. Ingebrigtsen kjem frå stillinga som statssekretær i Helse- og omsorgsdepartementet og overtek stillinga etter Espen Barth Eide, som har takka ja til å bli statssekretær i Utenriksdepartementet.</p>
-    <p>
-      <em type="italic">CV </em>
-    </p>
-    <p>2010: 18. juni: Statssekretær i Forsvarsdepartementet 2009: 20. oktober: Statssekretær i Helse- og omsorgsdepartementet 2009: Strategisk rådgjevar for Arbeiderpartiet 2007-2009: Strategi- og kommunikasjonssjef Tromsø 2018 2003-2006: Fylkesråd for kompetanse og utvikling i Troms 2001-2003: Kommunikasjonssjef TFDS/Hurtigruten 2000-2001: Statssekretær Kulturdepartementet 1999: Nyhetsredaktør Nordlys 1998-1999: Informasjonssjef Nasjonalt senter for telemedisin/UNN 1996-1998: Journalist VG 1992-1996: Politisk rådgjevar Kommunal- og regionaldepartementet 1991: Journalist Dagbladet 1989-1991: Politisk rådgjevar Arbeiderpartiets stortingsgruppe</p>
-    <p><em type="italic">Verv: </em>Styreleiar Nordnorsk opera og symfoniorkester (2009-2013) Leiar Tromsø Arbeiderparti (2006-2010) </p>
-    <p><em type="italic">Anna: </em>Bur i Tromsø. Gift med Lene Hansen. Barn: Anne (1997) og Jens (1999). </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Stáhtačálli Roger Ingebrigtsen - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Forsvarsdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>133</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fd/om-departementet/Anna-politisk-leiing/statssekretar-roger-ingebrigtsen.html?id=610369</origFileName><parallel_text xml:lang="eng" location="state-secretary-roger-ingebrigtsen_id_610369.html"/><parallel_text xml:lang="nob" location="statssekretar-roger-ingebrigtsen_id_610369.html"/><parallel_text xml:lang="sme" location="stahtaalli-roger-ingebrigtsen_id_610369.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Statssekretær Roger Ingebrigtsen - regjeringen.no</p>
+<p>Roger Ingebrigtsen er frå 18. juni 2010 statssekretær i Forsvarsdepartementet. Ingebrigtsen kjem frå stillinga som statssekretær i Helse- og omsorgsdepartementet og overtek stillinga etter Espen Barth Eide, som har takka ja til å bli statssekretær i Utenriksdepartementet.</p>
+<p><em type="italic">CV </em></p>
+<p>2010: 18. juni: Statssekretær i Forsvarsdepartementet 2009: 20. oktober: Statssekretær i Helse- og omsorgsdepartementet 2009: Strategisk rådgjevar for Arbeiderpartiet 2007-2009: Strategi- og kommunikasjonssjef Tromsø 2018 2003-2006: Fylkesråd for kompetanse og utvikling i Troms 2001-2003: Kommunikasjonssjef TFDS/Hurtigruten 2000-2001: Statssekretær Kulturdepartementet 1999: Nyhetsredaktør Nordlys 1998-1999: Informasjonssjef Nasjonalt senter for telemedisin/UNN 1996-1998: Journalist VG 1992-1996: Politisk rådgjevar Kommunal- og regionaldepartementet 1991: Journalist Dagbladet 1989-1991: Politisk rådgjevar Arbeiderpartiets stortingsgruppe</p>
+<p><em type="italic">Verv: </em>Styreleiar Nordnorsk opera og symfoniorkester (2009-2013) Leiar Tromsø Arbeiderparti (2006-2010) </p>
+<p><em type="italic">Anna: </em>Bur i Tromsø. Gift med Lene Hansen. Barn: Anne (1997) og Jens (1999). </p>
+</body></document>

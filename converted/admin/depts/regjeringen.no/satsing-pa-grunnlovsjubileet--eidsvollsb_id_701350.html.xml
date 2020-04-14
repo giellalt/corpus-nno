@@ -1,35 +1,6 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Vuoruhit vuođđolágaávvudeami – Eidsvoll visti - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>161</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/satsing-pa-grunnlovsjubileet--eidsvollsb.html?id=701350</origFileName>
-    <parallel_text xml:lang="sme" location="vuoruhit-vuoolagaavvudeami--eidsvoll-vis_id_701350.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Satsing på grunnlovsjubiléet – Eidsvollsbygningen - regjeringen.no</p>
-    <p>Rehabiliteringa av Eidsvollsbygningen held fram. Inventarprosjektet blir styrkt med 2,5 millionar kroner i 2013.</p>
-    <p>Eidsvollsbygningen skal bli restaurert slik at publikum får inntrykk av korleis det såg ut i 1814. Statsbygg er ansvarleg for rehabiliteringa, medan inventaret i Eidsvollsbygningen er Norsk Folkemuseum sitt ansvar.</p>
-    <p>Statsbygg har arbeidd med rehabiliteringsprosjektet sidan 2006. Sjølve byggjearbeida starta i oktober i 2011. 2013 blir eit viktig år i prosjektet, og det er sett av 109 millionar kroner til arbeidet i 2013 i budsjettet til Fornyings-, administrasjons- og kyrkjedepartementet. Den totale kostnadsramma til rehabiliteringa er på 381,6 millionar kroner.</p>
-    <p>Mykje av det eksisterande interiøret er ikkje autentisk. Norsk Folkemuseum har ei viktig oppgåve fram til grunnlovsjubiléet med å leggje til rette for mest mogleg tidsrett møblering av Eidsvollsbygningen slik at inventaret vil vere i like god stand som den nyrehabiliterte bygningen. Tilskotet til inventarprosjektet i 2013 blir på 9,9 millionar kroner. Det er ein auke på 2,5 millionar kroner.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Vuoruhit vuođđolágaávvudeami – Eidsvoll visti - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>161</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/satsing-pa-grunnlovsjubileet--eidsvollsb.html?id=701350</origFileName><parallel_text xml:lang="sme" location="vuoruhit-vuoolagaavvudeami--eidsvoll-vis_id_701350.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Satsing på grunnlovsjubiléet – Eidsvollsbygningen - regjeringen.no</p>
+<p>Rehabiliteringa av Eidsvollsbygningen held fram. Inventarprosjektet blir styrkt med 2,5 millionar kroner i 2013.</p>
+<p>Eidsvollsbygningen skal bli restaurert slik at publikum får inntrykk av korleis det såg ut i 1814. Statsbygg er ansvarleg for rehabiliteringa, medan inventaret i Eidsvollsbygningen er Norsk Folkemuseum sitt ansvar.</p>
+<p>Statsbygg har arbeidd med rehabiliteringsprosjektet sidan 2006. Sjølve byggjearbeida starta i oktober i 2011. 2013 blir eit viktig år i prosjektet, og det er sett av 109 millionar kroner til arbeidet i 2013 i budsjettet til Fornyings-, administrasjons- og kyrkjedepartementet. Den totale kostnadsramma til rehabiliteringa er på 381,6 millionar kroner.</p>
+<p>Mykje av det eksisterande interiøret er ikkje autentisk. Norsk Folkemuseum har ei viktig oppgåve fram til grunnlovsjubiléet med å leggje til rette for mest mogleg tidsrett møblering av Eidsvollsbygningen slik at inventaret vil vere i like god stand som den nyrehabiliterte bygningen. Tilskotet til inventarprosjektet i 2013 blir på 9,9 millionar kroner. Det er ein auke på 2,5 millionar kroner.</p>
+</body></document>

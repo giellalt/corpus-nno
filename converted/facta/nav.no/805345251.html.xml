@@ -1,72 +1,37 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>NAV - Overgangsstønad - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>798</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Overgangsstønad/Overgangsstønad/805345251.cms</origFileName>
-    <parallel_text xml:lang="eng" location="805369198.html"/>
-    <parallel_text xml:lang="nob" location="overgangsstonad.html"/>
-    <parallel_text xml:lang="sme" location="229457.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Overgangsstønad</p>
-    <p>Overgangsstønad skal sikre inntekt til livsopphald til deg som er einsleg mor eller far, og som er åleine om omsorga for barn. Overgangsstønad blir gitt i ein avgrensa periode og er avhengig av alderen på barnet og behovet for stønaden.</p>
-    <p type="title">Kven kan få overgangsstønad?</p>
-    <p>Du må fylle visse vilkår for å ha rett til stønad som einsleg mor eller far.</p>
-    <p>Vilkåra er i hovudtrekk:</p>
-    <list>
-      <p type="listitem">Du og barnet må ha budd i Noreg dei tre siste åra.</p>
-      <p type="listitem">Du og barnet må opphalde dykk i Noreg.</p>
-      <p type="listitem">Du må vere ugift, skild eller separert.</p>
-      <p type="listitem">Du må ha åleineomsorg for barnet.</p>
-      <p type="listitem">Du må ikkje ha noko forhold til den andre av foreldra til barnet som kan innebere at du ikkje er einsleg mor eller far.</p>
-    </list>
-    <p>Du kan lese meir om vilkåra for overgangsstønad i folketrygdlova under Regelverk i menyen til høgre</p>
-    <p>Nokre av vilkåra kan fråvikast. NAV-kontoret ditt kan gi deg nærmare orientering om det.</p>
-    <p>Dersom du fyller vilkåra, kan du ha rett til overgangsstønad. Dersom barnet er under tre år, står du i utgangspunktet fritt til å velje om du vil vere i aktivitet (arbeid eller utdanning). Men det er til din eigen fordel at du begynner å tenkje på aktivitet før barnet fyller tre år. Frå barnet fyller tre år, <em type="italic">må </em>du vere i aktivitet som utgjer minst halvparten av full tid, til dømes halvtidsarbeid eller utdanning som utgjer halvparten av fullt studium. Dersom du ikkje har arbeid eller skuleplass, må du vere registrert hos NAV som reell arbeidssøkjar. </p>
-    <p>Aktivitetskravet kan falle bort mellombels dersom du eller barnet er sjuke, eller dersom du ikkje har nokon som kan passe barnet (barnehageplass, SFO-plass eller liknande). Du må då dokumentere sjukdommen ved legeattest og til dømes bekrefte at du har fått avslag på søknad om barnehageplass.</p>
-    <p type="title">Kor lenge kan du få overgangsstønad?</p>
-    <p>Hovudregelen er at du kan få overgangsstønad i opptil tre år fram til det yngste barnet fyller åtte år. Du kan få overgangsstønad frå inntil to månader før venta fødsel dersom du er åleine på fødselstidspunktet.</p>
-    <p>Treårsperioden kan utvidast med inntil to år fram til det yngste barnet fyller åtte år, dersom du er i nødvendig utdanning. Treårsperioden kan utvidast med opptil tre år fram til det yngste barnet fyller åtte år, dersom du er i nødvendig utdanning og har omsorg for fleire enn to barn, eller dersom du blei åleineforsørgjar før du fylte 18 år.</p>
-    <p>Blir du åleine med barnet på grunn av samlivsbrot, separasjon eller skilsmisse etter at det yngste barnet fylte åtte år, kan du få overgangsstønad i opptil to år fram til det yngste barnet fyller ti år. Det første året må du fylle aktivitetskravet. Det andre året må du vere under nødvendig utdanning.</p>
-    <p>Dersom barnet ditt er særleg tilsynskrevjande på grunn av funksjonshemming, sjukdom eller store sosiale problem, kan du på visse vilkår få overgangsstønad fram til barnet fyller 18 år.</p>
-    <p type="title">Kva kan du få?</p>
-    <p>Overgangsstønaden utgjer 1,97 gonger grunnbeløpet i folketrygda. Ytinga er skattepliktig. Det blir ikkje utbetalt feriepengar av overgangsstønad.</p>
-    <p>Det er Stortinget som fastset grunnbeløpet. Grunnbeløpet blir vanlegvis regulert ein gong per år (1. mai) i samsvar med endringane i levekostnadene og det allmenne inntektsnivået.</p>
-    <p>Overgangsstønaden blir redusert mot inntekt. Det vil seie at du kan tene inntil halvparten av grunnbeløpet i løpet av ein tolvmånadersperiode utan av overgangsstønaden din blir redusert. Tener du meir, blir overgangsstønaden redusert med 40 øre for kvar krone du tener utover det halve grunnbeløpet.</p>
-    <p>Dagpengar, sjukepengar, stønad ved sjukdom hos barn, foreldrepengar og anna blir likestilt med arbeidsinntekt. Dersom du får andre ytingar til livsopphald frå folketrygda eller tilsvarande ytingar frå utlandet, påverkar det overgangsstønaden.</p>
-    <p>Overgangsstønad blir utbetalt frå og med månaden etter at du fyller vilkåra for stønad.</p>
-    <p type="title">Korleis søkjer du om overgangsstønad?</p>
-    <p>Du søkjer om overgangsstønad på blanketten <span type="quote">”Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til einsleg mor/far”</span>, som du finn under Skjema og vedlegg [ i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden.</p>
-    <p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
-    <p type="title">Vedtak</p>
-    <p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
-    <p type="title">Dersom du flytter til utlandet</p>
-    <p>Dersom du skal arbeide i utlandet for ein norsk arbeidsgivar og framleis er medlem av folketrygda, kan du ha rett til overgangsstønad. Det same gjeld dersom du skal studere eller arbeide i utlandet i mindre enn seks månader. I slike tilfelle må du sende ein søknad til NAV-kontoret ditt før utreisa.</p>
-    <p>Du skal alltid melde frå til NAV-kontoret ditt dersom du flytter til eller skal opphalde deg mellombels i utlandet. Meir om opphald i utlandet under Internasjonalt i menyen til høgre.</p>
-    <p type="title">Satsar</p>
-    <p type="title">Satsar ved overgangsstønad</p>
-    <p>Full overgangsstønad utgjer 11 965 kroner pr. månad og reduserast dersom arbeidsinntekten omrekna til årsinntekt er 37 000 kroner eller meir.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>NAV - Overgangsstønad - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>798</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Overgangsstønad/Overgangsstønad/805345251.cms</origFileName><parallel_text xml:lang="eng" location="805369198.html"/><parallel_text xml:lang="nob" location="overgangsstonad.html"/><parallel_text xml:lang="sme" location="229457.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Overgangsstønad</p>
+<p>Overgangsstønad skal sikre inntekt til livsopphald til deg som er einsleg mor eller far, og som er åleine om omsorga for barn. Overgangsstønad blir gitt i ein avgrensa periode og er avhengig av alderen på barnet og behovet for stønaden.</p>
+<p type="title">Kven kan få overgangsstønad?</p>
+<p>Du må fylle visse vilkår for å ha rett til stønad som einsleg mor eller far.</p>
+<p>Vilkåra er i hovudtrekk:</p>
+<list><p type="listitem">Du og barnet må ha budd i Noreg dei tre siste åra.</p>
+<p type="listitem">Du og barnet må opphalde dykk i Noreg.</p>
+<p type="listitem">Du må vere ugift, skild eller separert.</p>
+<p type="listitem">Du må ha åleineomsorg for barnet.</p>
+<p type="listitem">Du må ikkje ha noko forhold til den andre av foreldra til barnet som kan innebere at du ikkje er einsleg mor eller far.</p>
+</list><p>Du kan lese meir om vilkåra for overgangsstønad i folketrygdlova under Regelverk i menyen til høgre</p>
+<p>Nokre av vilkåra kan fråvikast. NAV-kontoret ditt kan gi deg nærmare orientering om det.</p>
+<p>Dersom du fyller vilkåra, kan du ha rett til overgangsstønad. Dersom barnet er under tre år, står du i utgangspunktet fritt til å velje om du vil vere i aktivitet (arbeid eller utdanning). Men det er til din eigen fordel at du begynner å tenkje på aktivitet før barnet fyller tre år. Frå barnet fyller tre år, <em type="italic">må </em>du vere i aktivitet som utgjer minst halvparten av full tid, til dømes halvtidsarbeid eller utdanning som utgjer halvparten av fullt studium. Dersom du ikkje har arbeid eller skuleplass, må du vere registrert hos NAV som reell arbeidssøkjar. </p>
+<p>Aktivitetskravet kan falle bort mellombels dersom du eller barnet er sjuke, eller dersom du ikkje har nokon som kan passe barnet (barnehageplass, SFO-plass eller liknande). Du må då dokumentere sjukdommen ved legeattest og til dømes bekrefte at du har fått avslag på søknad om barnehageplass.</p>
+<p type="title">Kor lenge kan du få overgangsstønad?</p>
+<p>Hovudregelen er at du kan få overgangsstønad i opptil tre år fram til det yngste barnet fyller åtte år. Du kan få overgangsstønad frå inntil to månader før venta fødsel dersom du er åleine på fødselstidspunktet.</p>
+<p>Treårsperioden kan utvidast med inntil to år fram til det yngste barnet fyller åtte år, dersom du er i nødvendig utdanning. Treårsperioden kan utvidast med opptil tre år fram til det yngste barnet fyller åtte år, dersom du er i nødvendig utdanning og har omsorg for fleire enn to barn, eller dersom du blei åleineforsørgjar før du fylte 18 år.</p>
+<p>Blir du åleine med barnet på grunn av samlivsbrot, separasjon eller skilsmisse etter at det yngste barnet fylte åtte år, kan du få overgangsstønad i opptil to år fram til det yngste barnet fyller ti år. Det første året må du fylle aktivitetskravet. Det andre året må du vere under nødvendig utdanning.</p>
+<p>Dersom barnet ditt er særleg tilsynskrevjande på grunn av funksjonshemming, sjukdom eller store sosiale problem, kan du på visse vilkår få overgangsstønad fram til barnet fyller 18 år.</p>
+<p type="title">Kva kan du få?</p>
+<p>Overgangsstønaden utgjer 1,97 gonger grunnbeløpet i folketrygda. Ytinga er skattepliktig. Det blir ikkje utbetalt feriepengar av overgangsstønad.</p>
+<p>Det er Stortinget som fastset grunnbeløpet. Grunnbeløpet blir vanlegvis regulert ein gong per år (1. mai) i samsvar med endringane i levekostnadene og det allmenne inntektsnivået.</p>
+<p>Overgangsstønaden blir redusert mot inntekt. Det vil seie at du kan tene inntil halvparten av grunnbeløpet i løpet av ein tolvmånadersperiode utan av overgangsstønaden din blir redusert. Tener du meir, blir overgangsstønaden redusert med 40 øre for kvar krone du tener utover det halve grunnbeløpet.</p>
+<p>Dagpengar, sjukepengar, stønad ved sjukdom hos barn, foreldrepengar og anna blir likestilt med arbeidsinntekt. Dersom du får andre ytingar til livsopphald frå folketrygda eller tilsvarande ytingar frå utlandet, påverkar det overgangsstønaden.</p>
+<p>Overgangsstønad blir utbetalt frå og med månaden etter at du fyller vilkåra for stønad.</p>
+<p type="title">Korleis søkjer du om overgangsstønad?</p>
+<p>Du søkjer om overgangsstønad på blanketten <span type="quote">”Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til einsleg mor/far”</span>, som du finn under Skjema og vedlegg [ i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden.</p>
+<p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
+<p type="title">Vedtak</p>
+<p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
+<p type="title">Dersom du flytter til utlandet</p>
+<p>Dersom du skal arbeide i utlandet for ein norsk arbeidsgivar og framleis er medlem av folketrygda, kan du ha rett til overgangsstønad. Det same gjeld dersom du skal studere eller arbeide i utlandet i mindre enn seks månader. I slike tilfelle må du sende ein søknad til NAV-kontoret ditt før utreisa.</p>
+<p>Du skal alltid melde frå til NAV-kontoret ditt dersom du flytter til eller skal opphalde deg mellombels i utlandet. Meir om opphald i utlandet under Internasjonalt i menyen til høgre.</p>
+<p type="title">Satsar</p>
+<p type="title">Satsar ved overgangsstønad</p>
+<p>Full overgangsstønad utgjer 11 965 kroner pr. månad og reduserast dersom arbeidsinntekten omrekna til årsinntekt er 37 000 kroner eller meir.</p>
+</body></document>

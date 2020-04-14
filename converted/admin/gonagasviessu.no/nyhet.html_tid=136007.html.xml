@@ -1,43 +1,17 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Polsk-norsk samarbeid  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>306</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=136007</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=136007.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=136007_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title" xml:lang="nob">Polsk-norsk samarbeid</p>
-    <p>Forsvarssamarbeid stod sentralt på programmet for H.M. Kongen og H.E. President Andrzej Duda i dag. Men andre dag på statsbesøket starta med eit næringslivsseminar.</p>
-    <p xml:lang="koi">24.05.2016</p>
-    <p>Kongen og Presidenten kom til Høyres Hus i dag tidleg og stod saman for opninga av eit næringslivsseminar vigd samarbeidet mellom Polen og Noreg innan områda offshore, energi og maritim næring. Polen er ein av Noregs ti viktigaste handelspartnarar, og norsk eksport til Polen aukar.</p>
-    <p>Etter opninga drog Kong Harald og President Duda til Nobelinstituttet, der Presidenten heldt foredrag.</p>
-    <p type="title">Forsvarssamarbeid</p>
-    <p>Noreg og Polen samarbeider tett i NATO, noko Kong Harald tok opp i sin tale under gallamiddagen til ære for statsbesøket i går kveld.</p>
-    <p xml:lang="nob"><em type="italic">- Polen har en sentral posisjon i forsvarsalliansen i kraft av sin størrelse og geografiske plassering, og arrangerer det neste NATO-toppmøtet i Warszawa i juli. I forsvarsindustrien er vårt tosidige samarbeid tett. Samarbeid om sikkerhet og forsvar har derfor en sentral plass under presidentens besøk til Norge, </em>sa Kongen. </p>
-    <p>I dag følgde Kong Harald Presidenten til Akershus festning, der dei fekk ein presentasjon av NASAMS (Norwegian Advanced Surface to Air Missile System) på Festningsplassen. Dei kunne òg oververe signeringa av ein avtale mellom Kongsberg Gruppen og Polish Armament Group, der dei to selskapa er einige om å utvide samarbeidet. Dei samarbeider alt om leveransar av kystforsvarssystem til den polske marinen.</p>
-    <p type="title">Vidare til Bodø</p>
-    <p>Deretter kunne statsminister Erna Solberg ønskje velkommen til regjeringas lunsj til ære for statsbesøket. Både Kong Harald, det polske presidentparet og Den Høgvørde Kronprinsesse Mette-Marit deltok under lunsjen på Akershus slott.</p>
-    <p>I ettermiddag reiser President Andrzej Duda og fru Agata Kornhauser-Duda til Bodø. Hans Majestet Kongen følgjer dei rundt i Nordland òg og vil vere presidentparets gjester ved ein offisiell middag i Bodø i kveld.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Statsbesøk fra Polen (Nyhet)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Polsk-norsk samarbeid  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>305</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=136007</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=136007.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=136007_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title" xml:lang="nob">Polsk-norsk samarbeid</p>
+<p>Forsvarssamarbeid stod sentralt på programmet for H.M. Kongen og H.E. President Andrzej Duda i dag. Men andre dag på statsbesøket starta med eit næringslivsseminar.</p>
+<p xml:lang="vep">24.05.2016</p>
+<p>Kongen og Presidenten kom til Høyres Hus i dag tidleg og stod saman for opninga av eit næringslivsseminar vigd samarbeidet mellom Polen og Noreg innan områda offshore, energi og maritim næring. Polen er ein av Noregs ti viktigaste handelspartnarar, og norsk eksport til Polen aukar.</p>
+<p>Etter opninga drog Kong Harald og President Duda til Nobelinstituttet, der Presidenten heldt foredrag.</p>
+<p type="title">Forsvarssamarbeid</p>
+<p>Noreg og Polen samarbeider tett i NATO, noko Kong Harald tok opp i sin tale under gallamiddagen til ære for statsbesøket i går kveld.</p>
+<p xml:lang="nob"><em type="italic">- Polen har en sentral posisjon i forsvarsalliansen i kraft av sin størrelse og geografiske plassering, og arrangerer det neste NATO-toppmøtet i Warszawa i juli. I forsvarsindustrien er vårt tosidige samarbeid tett. Samarbeid om sikkerhet og forsvar har derfor en sentral plass under presidentens besøk til Norge, </em>sa Kongen. </p>
+<p>I dag følgde Kong Harald Presidenten til Akershus festning, der dei fekk ein presentasjon av NASAMS (Norwegian Advanced Surface to Air Missile System) på Festningsplassen. Dei kunne òg oververe signeringa av ein avtale mellom Kongsberg Gruppen og Polish Armament Group, der dei to selskapa er einige om å utvide samarbeidet. Dei samarbeider alt om leveransar av kystforsvarssystem til den polske marinen.</p>
+<p type="title">Vidare til Bodø</p>
+<p>Deretter kunne statsminister Erna Solberg ønskje velkommen til regjeringas lunsj til ære for statsbesøket. Både Kong Harald, det polske presidentparet og Den Høgvørde Kronprinsesse Mette-Marit deltok under lunsjen på Akershus slott.</p>
+<p>I ettermiddag reiser President Andrzej Duda og fru Agata Kornhauser-Duda til Bodø. Hans Majestet Kongen følgjer dei rundt i Nordland òg og vil vere presidentparets gjester ved ein offisiell middag i Bodø i kveld.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="nob">Statsbesøk fra Polen (Nyhet)</p>
+</list></body></document>
