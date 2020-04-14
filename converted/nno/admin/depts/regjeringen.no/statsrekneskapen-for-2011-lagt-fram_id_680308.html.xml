@@ -1,123 +1,79 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>2011 stáhtarehketdoallu ovddiduvvon - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>771</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/statsrekneskapen-for-2011-lagt-fram.html?id=680308</origFileName>
-    <parallel_text xml:lang="sme" location="2011-stahtarehketdoallu-ovddiduvvon_id_680308.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Statsrekneskapen for 2011 lagt fram - regjeringen.no</p>
-    <p>
-      <em type="italic">Det oljekorrigerte underskotet i statsrekneskapen for 2011 vart 79,4 milliardar kroner. Det er 4,8 milliardar kroner mindre enn i nysaldert budsjett, vedteke i desember 2011. Dei samla inntektene vart 6,1 milliardar kroner høgare, medan dei samla utgiftene vart 1,3 milliardar kroner høgare enn i nysaldert budsjett. </em>
-    </p>
-    <p>Det er overført 84,2 milliardar kroner frå Statens pensjonsfond utland (SPU) til statsbudsjettet. Det svarer til det oljekorrigerte underskotet i nysaldert budsjett, vedteke av Stortinget i desember 2011. I rekneskapen vart det oljekorrigerte underskotet 79,4 milliardar kroner, og statsrekneskapen vert såleis gjort opp med eit overskot på 4,8 milliardar kroner.</p>
-    <p>Samanlikna med saldert budsjett for 2011(vedteke i Stortinget desember 2010) vart det oljekorrigerte underskotet 55,6 milliardar kroner mindre. Inntektene vart 51,1 milliardar kroner høgare, medan utgiftene vart 4,5 milliardar kroner mindre . Om lag 40,0 milliardar kroner av inntektsauken er høgare skatte- og avgiftsinntekter, 4,1 milliardar kroner er auka rente- og utbyteinntekter og om lag 6,4 milliardar kroner er auka inntekter under departementa. Utgiftsnedgangen kjem mellom anna av lågare renteutgifter og utgifter til dagpengar under folketrygda. Ein reknar no den reelle, underliggjande utgiftsveksten frå rekneskapen 2010 til rekneskapen 2011 til å vera på 1,7 prosent.</p>
-    <p>Unytta løyving på budsjettpostar merkte <span type="quote">«kan overførast»</span> og inntil 5 prosent av unytta løyving på driftspostar kan overførast til neste budsjettermin. Det er samla overført 44,4 milliardar kroner til 2012. Av dette gjeld 33,3 milliardar kroner den særskilde løyvinga av <em type="italic">lån til mellombels statleg eksportfinansieringsordning </em>vedteken i desember 2011. Utanom denne posten er det overført 11,1 milliardar kroner til 2012. Dette er ein auke på 0,3 milliardar kroner frå året før. </p>
-    <p>Bruken av petroleumsinntekter, målt ved det strukturelle, oljekorrigerte underskotet, er no rekna til 94,1 milliardar kroner i 2011. Det er om lag 34 milliardar kroner mindre enn anslaget i Nasjonalbudsjettet 2011 og 4,9 milliardar kroner mindre enn rekna i nysalderinga (vedteke i Stortinget desember 2011). Venta realavkastning av SPU i 2011 er rekna til 123,2 milliardar kroner, svarande til 4 prosent av fondet ved inngangen til året. Bruken av petroleumsinntekter vart dermed om lag 29 milliardar kroner mindre enn venta realavkastning av SPU. Det strukturelle, oljekorrigerte underskotet kjem fram ved at den oljekorrigerte budsjettbalansen mellom anna vert korrigert for verknaden av konjunkturane på skatteinntektene i statsbudsjettet.</p>
-    <p>Statsrekneskapen syner at netto inntekter frå oljeverksemda vart 350,8 milliardar kroner. Beløpet vart overført SPU, medan det i samsvar med nysaldert budsjett vart ført tilbake 84,2 milliardar kroner til statskassa. Netto renteinntekter og utbyte i Statens pensjonsfond vart samla 103,0 milliardar kroner med 97,0 milliardar kroner i SPU og 6,0 milliardar kroner i Statens pensjonsfond Noreg. Overskotet i Statens pensjonsfond vart dermed 369,7 milliardar kroner. Av dette er overskotet i SPU knapt 363,7 milliardar kroner. Det samla overskotet i statsbudsjettet (4,8 milliardar kroner) og Statens pensjonsfond (369,7 milliardar kroner) vart 374,4 milliardar kroner.</p>
-    <p>Marknadsverdien av SPU auka med 227,1 milliardar kroner, frå 3 080,9 milliardar kroner ved utgangen av 2010 til 3307,9 milliardar kroner ved utgangen av 2011. Overskotet auka verdien av fondet med 363,7 milliardar kroner, medan andre tilhøve minka kapitalen med 136,6 milliardar kroner. Av dette auka netto valutakursvinst kapitalen i fondet med 49,2 milliardar kroner, medan realiserte og urealiserte tap reduserte kapitalen i fondet med 185,8 milliardar kroner.</p>
-    <p>Frå utgangen av 2010 til utgangen av 2011 minka kapitalen i Statens pensjonsfond Noreg med 5,4 milliardar kroner, frå 134,9 milliardar kroner til 129,5 milliardar kroner. Endringa kjem av netto renteinntekter og utbyte på 6,0 milliardar kroner og 11,4 milliardar kroner i samla netto realiserte og urealiserte tap på aksje- og renteplasseringane.</p>
-    <p>
-      <em type="italic">Rekneskap, saldert og nysaldert budsjett for budsjettåret 2011 </em>
-    </p>
-    <p>(tal i mill. kroner)</p>
-    <p>Saldert budsjett (desember 2010)</p>
-    <p>Nysaldert budsjett(desember 2011)</p>
-    <p>Rekneskap (april 2012)</p>
-    <p>
-      <em type="italic">1. </em>
-    </p>
-    <p>
-      <em type="italic">Statsbudsjettet </em>
-    </p>
-    <p>Inntekter i alt</p>
-    <p>1 113 185</p>
-    <p>1 218 699</p>
-    <p>1 223 525</p>
-    <p>A.1</p>
-    <p>Inntekter frå petroleumsverksemda</p>
-    <p>313 018</p>
-    <p>373 493</p>
-    <p>372 242</p>
-    <p>A.2</p>
-    <p>Inntekter utanom petroleumsverksemda</p>
-    <p>800 167</p>
-    <p>845 206</p>
-    <p>851 283</p>
-    <p>Utgifter i alt</p>
-    <p>960 149</p>
-    <p>950 365</p>
-    <p>952 121</p>
-    <p>B.1</p>
-    <p>Utgifter til petroleumsverksemda</p>
-    <p>25 011</p>
-    <p>21 002</p>
-    <p>21 439</p>
-    <p>B.2</p>
-    <p>Utgifter utanom petroleumsverksemda</p>
-    <p>935 138</p>
-    <p>929 363</p>
-    <p>930 682</p>
-    <p>Oljekorrigert overskot i statsbudsjettet (A.2-B.2)</p>
-    <p>-134 971</p>
-    <p>-84 158</p>
-    <p>-79 399</p>
-    <p>Overført frå Statens pensjonsfond utland</p>
-    <p>134 971</p>
-    <p>84 158</p>
-    <p>84 158</p>
-    <p>Overskot i statsbudsjettet før lånetransaksjonar</p>
-    <p>4 758</p>
-    <p>
-      <em type="italic">2. </em>
-    </p>
-    <p>
-      <em type="italic">Statens pensjonsfond </em>
-    </p>
-    <p>Netto kontantstraum frå petroleumsverksemda i statsbudsjettet (A.1-B.1), vert overført til Statens pensjonsfond utland</p>
-    <p>288 007</p>
-    <p>352 491</p>
-    <p>350 804</p>
-    <p>Overført frå Statens pensjonsfond utland til statsbudsjettet</p>
-    <p>134 971</p>
-    <p>84 158</p>
-    <p>84 158</p>
-    <p>Renteinntekter og utbyte i fondet</p>
-    <p>113 100</p>
-    <p>104 200</p>
-    <p>103 004</p>
-    <p>Overskot i Statens pensjonsfond</p>
-    <p>266 136</p>
-    <p>372 534</p>
-    <p>369 650</p>
-    <p>
-      <em type="italic">3. </em>
-    </p>
-    <p>
-      <em type="italic">Statsbudsjettet og Statens pensjonsfond </em>
-    </p>
-    <p>Samla overskot</p>
-    <p>266 136</p>
-    <p>372 534</p>
-    <p>374 408</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>2011 stáhtarehketdoallu ovddiduvvon - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>771</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/statsrekneskapen-for-2011-lagt-fram.html?id=680308</origFileName><parallel_text xml:lang="sme" location="2011-stahtarehketdoallu-ovddiduvvon_id_680308.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Statsrekneskapen for 2011 lagt fram - regjeringen.no</p>
+<p><em type="italic">Det oljekorrigerte underskotet i statsrekneskapen for 2011 vart 79,4 milliardar kroner. Det er 4,8 milliardar kroner mindre enn i nysaldert budsjett, vedteke i desember 2011. Dei samla inntektene vart 6,1 milliardar kroner høgare, medan dei samla utgiftene vart 1,3 milliardar kroner høgare enn i nysaldert budsjett. </em></p>
+<p>Det er overført 84,2 milliardar kroner frå Statens pensjonsfond utland (SPU) til statsbudsjettet. Det svarer til det oljekorrigerte underskotet i nysaldert budsjett, vedteke av Stortinget i desember 2011. I rekneskapen vart det oljekorrigerte underskotet 79,4 milliardar kroner, og statsrekneskapen vert såleis gjort opp med eit overskot på 4,8 milliardar kroner.</p>
+<p>Samanlikna med saldert budsjett for 2011(vedteke i Stortinget desember 2010) vart det oljekorrigerte underskotet 55,6 milliardar kroner mindre. Inntektene vart 51,1 milliardar kroner høgare, medan utgiftene vart 4,5 milliardar kroner mindre . Om lag 40,0 milliardar kroner av inntektsauken er høgare skatte- og avgiftsinntekter, 4,1 milliardar kroner er auka rente- og utbyteinntekter og om lag 6,4 milliardar kroner er auka inntekter under departementa. Utgiftsnedgangen kjem mellom anna av lågare renteutgifter og utgifter til dagpengar under folketrygda. Ein reknar no den reelle, underliggjande utgiftsveksten frå rekneskapen 2010 til rekneskapen 2011 til å vera på 1,7 prosent.</p>
+<p>Unytta løyving på budsjettpostar merkte <span type="quote">«kan overførast»</span> og inntil 5 prosent av unytta løyving på driftspostar kan overførast til neste budsjettermin. Det er samla overført 44,4 milliardar kroner til 2012. Av dette gjeld 33,3 milliardar kroner den særskilde løyvinga av <em type="italic">lån til mellombels statleg eksportfinansieringsordning </em>vedteken i desember 2011. Utanom denne posten er det overført 11,1 milliardar kroner til 2012. Dette er ein auke på 0,3 milliardar kroner frå året før. </p>
+<p>Bruken av petroleumsinntekter, målt ved det strukturelle, oljekorrigerte underskotet, er no rekna til 94,1 milliardar kroner i 2011. Det er om lag 34 milliardar kroner mindre enn anslaget i Nasjonalbudsjettet 2011 og 4,9 milliardar kroner mindre enn rekna i nysalderinga (vedteke i Stortinget desember 2011). Venta realavkastning av SPU i 2011 er rekna til 123,2 milliardar kroner, svarande til 4 prosent av fondet ved inngangen til året. Bruken av petroleumsinntekter vart dermed om lag 29 milliardar kroner mindre enn venta realavkastning av SPU. Det strukturelle, oljekorrigerte underskotet kjem fram ved at den oljekorrigerte budsjettbalansen mellom anna vert korrigert for verknaden av konjunkturane på skatteinntektene i statsbudsjettet.</p>
+<p>Statsrekneskapen syner at netto inntekter frå oljeverksemda vart 350,8 milliardar kroner. Beløpet vart overført SPU, medan det i samsvar med nysaldert budsjett vart ført tilbake 84,2 milliardar kroner til statskassa. Netto renteinntekter og utbyte i Statens pensjonsfond vart samla 103,0 milliardar kroner med 97,0 milliardar kroner i SPU og 6,0 milliardar kroner i Statens pensjonsfond Noreg. Overskotet i Statens pensjonsfond vart dermed 369,7 milliardar kroner. Av dette er overskotet i SPU knapt 363,7 milliardar kroner. Det samla overskotet i statsbudsjettet (4,8 milliardar kroner) og Statens pensjonsfond (369,7 milliardar kroner) vart 374,4 milliardar kroner.</p>
+<p>Marknadsverdien av SPU auka med 227,1 milliardar kroner, frå 3 080,9 milliardar kroner ved utgangen av 2010 til 3307,9 milliardar kroner ved utgangen av 2011. Overskotet auka verdien av fondet med 363,7 milliardar kroner, medan andre tilhøve minka kapitalen med 136,6 milliardar kroner. Av dette auka netto valutakursvinst kapitalen i fondet med 49,2 milliardar kroner, medan realiserte og urealiserte tap reduserte kapitalen i fondet med 185,8 milliardar kroner.</p>
+<p>Frå utgangen av 2010 til utgangen av 2011 minka kapitalen i Statens pensjonsfond Noreg med 5,4 milliardar kroner, frå 134,9 milliardar kroner til 129,5 milliardar kroner. Endringa kjem av netto renteinntekter og utbyte på 6,0 milliardar kroner og 11,4 milliardar kroner i samla netto realiserte og urealiserte tap på aksje- og renteplasseringane.</p>
+<p><em type="italic">Rekneskap, saldert og nysaldert budsjett for budsjettåret 2011 </em></p>
+<p>(tal i mill. kroner)</p>
+<p>Saldert budsjett (desember 2010)</p>
+<p>Nysaldert budsjett(desember 2011)</p>
+<p>Rekneskap (april 2012)</p>
+<p><em type="italic">1. </em></p>
+<p><em type="italic">Statsbudsjettet </em></p>
+<p>Inntekter i alt</p>
+<p>1 113 185</p>
+<p>1 218 699</p>
+<p>1 223 525</p>
+<p>A.1</p>
+<p>Inntekter frå petroleumsverksemda</p>
+<p>313 018</p>
+<p>373 493</p>
+<p>372 242</p>
+<p>A.2</p>
+<p>Inntekter utanom petroleumsverksemda</p>
+<p>800 167</p>
+<p>845 206</p>
+<p>851 283</p>
+<p>Utgifter i alt</p>
+<p>960 149</p>
+<p>950 365</p>
+<p>952 121</p>
+<p>B.1</p>
+<p>Utgifter til petroleumsverksemda</p>
+<p>25 011</p>
+<p>21 002</p>
+<p>21 439</p>
+<p>B.2</p>
+<p>Utgifter utanom petroleumsverksemda</p>
+<p>935 138</p>
+<p>929 363</p>
+<p>930 682</p>
+<p>Oljekorrigert overskot i statsbudsjettet (A.2-B.2)</p>
+<p>-134 971</p>
+<p>-84 158</p>
+<p>-79 399</p>
+<p>Overført frå Statens pensjonsfond utland</p>
+<p>134 971</p>
+<p>84 158</p>
+<p>84 158</p>
+<p>Overskot i statsbudsjettet før lånetransaksjonar</p>
+<p>4 758</p>
+<p><em type="italic">2. </em></p>
+<p><em type="italic">Statens pensjonsfond </em></p>
+<p>Netto kontantstraum frå petroleumsverksemda i statsbudsjettet (A.1-B.1), vert overført til Statens pensjonsfond utland</p>
+<p>288 007</p>
+<p>352 491</p>
+<p>350 804</p>
+<p>Overført frå Statens pensjonsfond utland til statsbudsjettet</p>
+<p>134 971</p>
+<p>84 158</p>
+<p>84 158</p>
+<p>Renteinntekter og utbyte i fondet</p>
+<p>113 100</p>
+<p>104 200</p>
+<p>103 004</p>
+<p>Overskot i Statens pensjonsfond</p>
+<p>266 136</p>
+<p>372 534</p>
+<p>369 650</p>
+<p><em type="italic">3. </em></p>
+<p><em type="italic">Statsbudsjettet og Statens pensjonsfond </em></p>
+<p>Samla overskot</p>
+<p>266 136</p>
+<p>372 534</p>
+<p>374 408</p>
+</body></document>

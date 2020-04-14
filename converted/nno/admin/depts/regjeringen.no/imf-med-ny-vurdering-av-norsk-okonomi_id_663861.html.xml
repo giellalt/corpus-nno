@@ -1,43 +1,12 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>IMF ođđa norgga ekonomiija árvvoštallan - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>418</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2011/imf-med-ny-vurdering-av-norsk-okonomi.html?id=663861</origFileName>
-    <parallel_text xml:lang="nob" location="imf-med-ny-vurdering-av-norsk-okonomi_id_663861.html"/>
-    <parallel_text xml:lang="sme" location="imf-oa-norgga-ekonomiija-arvvotallan_id_663861.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>IMF med ny vurdering av norsk økonomi - regjeringen.no</p>
-    <p>
-      <em type="italic">Ein delegasjon frå Det internasjonale valutafondet, IMF, overleverte i dag ei fråsegn om norsk økonomi og økonomisk politikk. – Fråsegna frå IMF er eit viktig innspel i den økonomiske og politiske debatten i Noreg. Eg er glad for at IMF stør hovudlinene i den makroøkonomiske politikken til Regjeringa, seier finansminister Sigbjørn Johnsen. </em>
-    </p>
-    <p>IMF-delegasjonen konkluderer med at norsk økonomi klarar seg godt, trass i uroa i internasjonal økonomi. Produksjonen er no høgare enn før finanskrisa i 2008, og arbeidsløysa er låg. Framover ventar delegasjonen fortsett moderat vekst i fastlandsøkonomien, i hovudsak understøtta av innanlandsk etterspurnad. I fråsegna legg IMF vekt på at Noreg er betre rusta enn mange andre europeiske land til å handtere forsterka uro i eurosona. Økonomien er likevel sårbar dersom uroa fører til tap av tillit, lågare eksportetterspurnad, reduserte oljeprisar eller til finan sieringsproblem for banksektoren.</p>
-    <p>- <em type="italic">Noreg er ikkje isolert frå det som skjer i resten av verda. Det beste vernet vårt er å halde orden i eige hus. Eg er samd i IMF i at ein stram finanspolitikk vil verne konkurranseevna, og gje pengepolitikken rom til å vere eit førstelineforsvar dersom situasjonen forverrar seg internasjonalt </em>, seier Johnsen. </p>
-    <p>I fråsegna peiker IMF-delegasjonen på risikoen som er knytt til høge bustadprisar og eit høgt gjeldsnivå i norske hushald. IMF viser til at ein bør bruke makroverkemiddel for å redusere slik risiko, og peikar mellom anna på Finanstilsynet sine retningsliner for bustadlån, høgare risikovekter for utlån til bustad, og styrking av kapitalen i bankane gjennom tilbakehald av utbyte og lønspolitikk. IMF gjev òg råd om korleis ein kan innrette det institusjonelle rammeverket for makroovervaking i Noreg.</p>
-    <p>- <em type="italic">Det er viktig å styrke overvakinga av finanssystemet som heilskap for å bidra til finansiell stabilitet. Finansdepartementet tek sikte på å formalisere arbeidet med makroovervaking i Noreg i løpet av første halvår 2012 </em>, seier Johnsen. </p>
-    <p>IMF-delegasjonen stør innrettinga av finanspolitikken som Regjeringa har lagt fram i statsbudsjettet for 2012. I denne vurderinga har delegasjonen lagt vekt på det internasjonale risikobildet, og føresett bruk av makroverkemiddel. Delegasjonen har òg merkt seg at Noreg har langsiktige utfordringar i finanspolitikken, som følgje av auka utgifter til helse, pensjon og uføretrygd. Dette understrekar behovet for vidare reform av trygdesystemet for å støtte insentiva til arbeid.</p>
-    <p>På nyåret vil delegasjonen utarbeide ein meir omfattande rapport som sidan vil bli diskutert i styret i IMF.</p>
-    <p>________________________</p>
-    <p>Pressekonferansen kan òg sjåast på: Nett-TV på regjeringa.no</p>
-    <p>Norway 2011 article IV consultation: Concluding statement of the IMF mission</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>IMF ođđa norgga ekonomiija árvvoštallan - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2011</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>418</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2011/imf-med-ny-vurdering-av-norsk-okonomi.html?id=663861</origFileName><parallel_text xml:lang="nob" location="imf-med-ny-vurdering-av-norsk-okonomi_id_663861.html"/><parallel_text xml:lang="sme" location="imf-oa-norgga-ekonomiija-arvvotallan_id_663861.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>IMF med ny vurdering av norsk økonomi - regjeringen.no</p>
+<p><em type="italic">Ein delegasjon frå Det internasjonale valutafondet, IMF, overleverte i dag ei fråsegn om norsk økonomi og økonomisk politikk. – Fråsegna frå IMF er eit viktig innspel i den økonomiske og politiske debatten i Noreg. Eg er glad for at IMF stør hovudlinene i den makroøkonomiske politikken til Regjeringa, seier finansminister Sigbjørn Johnsen. </em></p>
+<p>IMF-delegasjonen konkluderer med at norsk økonomi klarar seg godt, trass i uroa i internasjonal økonomi. Produksjonen er no høgare enn før finanskrisa i 2008, og arbeidsløysa er låg. Framover ventar delegasjonen fortsett moderat vekst i fastlandsøkonomien, i hovudsak understøtta av innanlandsk etterspurnad. I fråsegna legg IMF vekt på at Noreg er betre rusta enn mange andre europeiske land til å handtere forsterka uro i eurosona. Økonomien er likevel sårbar dersom uroa fører til tap av tillit, lågare eksportetterspurnad, reduserte oljeprisar eller til finan sieringsproblem for banksektoren.</p>
+<p>- <em type="italic">Noreg er ikkje isolert frå det som skjer i resten av verda. Det beste vernet vårt er å halde orden i eige hus. Eg er samd i IMF i at ein stram finanspolitikk vil verne konkurranseevna, og gje pengepolitikken rom til å vere eit førstelineforsvar dersom situasjonen forverrar seg internasjonalt </em>, seier Johnsen. </p>
+<p>I fråsegna peiker IMF-delegasjonen på risikoen som er knytt til høge bustadprisar og eit høgt gjeldsnivå i norske hushald. IMF viser til at ein bør bruke makroverkemiddel for å redusere slik risiko, og peikar mellom anna på Finanstilsynet sine retningsliner for bustadlån, høgare risikovekter for utlån til bustad, og styrking av kapitalen i bankane gjennom tilbakehald av utbyte og lønspolitikk. IMF gjev òg råd om korleis ein kan innrette det institusjonelle rammeverket for makroovervaking i Noreg.</p>
+<p>- <em type="italic">Det er viktig å styrke overvakinga av finanssystemet som heilskap for å bidra til finansiell stabilitet. Finansdepartementet tek sikte på å formalisere arbeidet med makroovervaking i Noreg i løpet av første halvår 2012 </em>, seier Johnsen. </p>
+<p>IMF-delegasjonen stør innrettinga av finanspolitikken som Regjeringa har lagt fram i statsbudsjettet for 2012. I denne vurderinga har delegasjonen lagt vekt på det internasjonale risikobildet, og føresett bruk av makroverkemiddel. Delegasjonen har òg merkt seg at Noreg har langsiktige utfordringar i finanspolitikken, som følgje av auka utgifter til helse, pensjon og uføretrygd. Dette understrekar behovet for vidare reform av trygdesystemet for å støtte insentiva til arbeid.</p>
+<p>På nyåret vil delegasjonen utarbeide ein meir omfattande rapport som sidan vil bli diskutert i styret i IMF.</p>
+<p>________________________</p>
+<p>Pressekonferansen kan òg sjåast på: Nett-TV på regjeringa.no</p>
+<p>Norway 2011 article IV consultation: Concluding statement of the IMF mission</p>
+</body></document>

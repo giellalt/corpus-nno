@@ -1,64 +1,33 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Avslutta i Kristiansand  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>648</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=137052</origFileName>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=137052_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title" xml:lang="nob">Avslutta i Kristiansand</p>
-    <p>Hans Majestet Kong Harald og Hennar Majestet Dronning Sonja avslutta jubileumsreisa si i dag. Det skjedde i heimbyen til Kronprinsessa, Kristiansand.</p>
-    <p xml:lang="koi">29.06.2016</p>
-    <p>Jubileumsreisa starta i Tromsø 18. juni. Etter det har Kongeskipet segla sørover og lagt til i Bodø, Trondheim, Bergen, Stavanger – og no Kristiansand. Alle stader har byane invitert på folkefest, og Kongeparet har invitert gjester frå kvart fylke til hagefest.</p>
-    <p type="title" xml:lang="nob">1300 meter folkefest</p>
-    <p>Kristiansand inviterte på ein 1300 meter lang folkefest i dag. Utgangspunktet var kulturhuset Kjelda, og langs ruta stod 400 barn og vaksne klare for å gje Kongepar og Kronprinspar matglede, kulturglede og idrettsglede.</p>
-    <p>Ibsens dikt om Terje Vigen opna arrangementet – framført med musikk, dans og resitasjon. Deretter bar det over til Odderøya til musikk frå studentorkesteret <span type="quote" xml:lang="deu">"Blæsen"</span>, som hadde teke oppstilling på brua.</p>
-    <p>Kongefamilien fekk sjå barnekunst, opplevde dans ved Kjell Nupens store krukke i Nupen-parken og song og musikk frå det multikulturelle kunstprosjektet Fargespill, Stinta skolekorps og Kristiansand Spel- og Dansarlag.</p>
-    <p>Dei kongelige fekk òg høve til å smake og lære om lokal mat på matmarknaden på Tresse.</p>
-    <p type="title">Hagefest ved Myren gard</p>
-    <p>I ettermiddag var 300 gjester frå Sørlandet bedne på hagefest ved Myren gard, dit Kongen og Dronninga kom med hest og kjerre etter å ha vorte møtte på bryggja med song av Eldbjørg Rysstad.</p>
-    <p>I kvar Jubileumsby har ei ung stemme vorte utfordra til å halde tale om sitt framtidshåp for Noreg, og i Kristiansand var turen kommen til 18 år gamle Marthe Næss Thomassen. Dronning Sonja summerte opp nokre av temaa dei unge har vore opptekne av i desse talane, og konkluderte med at det står bra til:</p>
-    <p>
-      <em type="italic">– Etter det vi har høyrt og erfart, gjev dette oss tru på at dei unge har visjonar, kunnskap og vilje og møter godt rusta til dei utfordringane som måtte komme. Landet vårt vil bli godt teke vare på også i framtida! </em>
-    </p>
-    <p>Dronninga summerte òg opp nokre av dei mange inntrykka frå Jubileumsreisa:</p>
-    <p>
-      <em type="italic">– Vi er overvelda. Ei eventyrleg reise langs den lange, vakre kysten vår er snart tilbakelagd. Enda ein gong har Kongen, Kronprinsparet og eg fått oppleve det beste av Noreg, slik det kjem fram i alt sitt mangfald når ein reiser frå nord til sør. Det er ei reise i naturopplevingar og menneskemøte som byr på store variasjonar i landskap og lynne! Denne spennvidda i det norske anno 2016 er det som er så fascinerande. </em>
-    </p>
-    <p>
-      <em type="italic">– Vi er stadig i endring som nasjon. Fjella, fjordane, skjergarden – gjensynet med dette bestandige som kjenneteiknar den lange kystlinja til landet vårt – vekkjer alltid sterke kjensler hos oss. Ei kjensle av djup takksemd. For eit land! </em>
-    </p>
-    <p>Dronning Sonja takka alle som hadde vore med og gjort Jubileumsreisa til ei slik oppleving. Dronninga gav òg ein takk til alle som hadde bidrege under folkefesten i Kristiansand – og eit nikk til Quartfestivalen:</p>
-    <p>– <em type="italic">Folkefesten i sentrum i føremiddag var ei stor oppleving! Hjarteleg takk til alle som bidrog til det flotte programmet. Det viste verkeleg mangfaldet i fødebyen til vår kjære svigerdotter! Spesielt festleg var det at Quartfestivalen – som òg Kongen og eg – har 25-årsjubileum i år. For utan Quartfestivalen er det ikkje godt å seie kven som hadde vore Kronprinsesse av Noreg i dag!? </em></p>
-    <p>Koret Kristiansand Solistensemble danna ein 12 stemmer sterk flash mob og song mens gjestene kunne glede seg over kortreist mat frå buene omkring.</p>
-    <p>Ei musikalsk overrasking frå Kristiansand kommune i form av Secret Garden spelte, før Kong Harald og Dronning Sonja, Kronprins Haakon og Kronprinsesse Mette-Marit tok avskjed og gjekk i sjaluppen. Lettbåten førte dei tilbake til Kongeskipet.</p>
-    <p>Ei hendingsrik jubileumsreise er over.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem">Jubileumsreisen: Tale i Kristiansand (Tale)</p>
-      <p type="listitem" xml:lang="fin">Jubileumsreisen 2016 (Fotoalbum)</p>
-      <p type="listitem" xml:lang="nob">Kongepar i 25 år (Seksjonstekst)</p>
-      <p type="listitem" xml:lang="nob">Startet Jubileumsreisen i Tromsø (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Feiring i Bodø (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Gjenopplevde signingen (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Jubilerte i Bergen (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Jubileumsreisen i Stavanger (Nyhet)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Avslutta i Kristiansand  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>647</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=137052</origFileName><parallel_text xml:lang="sme" location="nyhet.html_tid=137052_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title" xml:lang="nob">Avslutta i Kristiansand</p>
+<p>Hans Majestet Kong Harald og Hennar Majestet Dronning Sonja avslutta jubileumsreisa si i dag. Det skjedde i heimbyen til Kronprinsessa, Kristiansand.</p>
+<p xml:lang="vep">29.06.2016</p>
+<p>Jubileumsreisa starta i Tromsø 18. juni. Etter det har Kongeskipet segla sørover og lagt til i Bodø, Trondheim, Bergen, Stavanger – og no Kristiansand. Alle stader har byane invitert på folkefest, og Kongeparet har invitert gjester frå kvart fylke til hagefest.</p>
+<p type="title" xml:lang="nob">1300 meter folkefest</p>
+<p>Kristiansand inviterte på ein 1300 meter lang folkefest i dag. Utgangspunktet var kulturhuset Kjelda, og langs ruta stod 400 barn og vaksne klare for å gje Kongepar og Kronprinspar matglede, kulturglede og idrettsglede.</p>
+<p>Ibsens dikt om Terje Vigen opna arrangementet – framført med musikk, dans og resitasjon. Deretter bar det over til Odderøya til musikk frå studentorkesteret <span type="quote" xml:lang="deu">"Blæsen"</span>, som hadde teke oppstilling på brua.</p>
+<p>Kongefamilien fekk sjå barnekunst, opplevde dans ved Kjell Nupens store krukke i Nupen-parken og song og musikk frå det multikulturelle kunstprosjektet Fargespill, Stinta skolekorps og Kristiansand Spel- og Dansarlag.</p>
+<p>Dei kongelige fekk òg høve til å smake og lære om lokal mat på matmarknaden på Tresse.</p>
+<p type="title">Hagefest ved Myren gard</p>
+<p>I ettermiddag var 300 gjester frå Sørlandet bedne på hagefest ved Myren gard, dit Kongen og Dronninga kom med hest og kjerre etter å ha vorte møtte på bryggja med song av Eldbjørg Rysstad.</p>
+<p>I kvar Jubileumsby har ei ung stemme vorte utfordra til å halde tale om sitt framtidshåp for Noreg, og i Kristiansand var turen kommen til 18 år gamle Marthe Næss Thomassen. Dronning Sonja summerte opp nokre av temaa dei unge har vore opptekne av i desse talane, og konkluderte med at det står bra til:</p>
+<p><em type="italic">– Etter det vi har høyrt og erfart, gjev dette oss tru på at dei unge har visjonar, kunnskap og vilje og møter godt rusta til dei utfordringane som måtte komme. Landet vårt vil bli godt teke vare på også i framtida! </em></p>
+<p>Dronninga summerte òg opp nokre av dei mange inntrykka frå Jubileumsreisa:</p>
+<p><em type="italic">– Vi er overvelda. Ei eventyrleg reise langs den lange, vakre kysten vår er snart tilbakelagd. Enda ein gong har Kongen, Kronprinsparet og eg fått oppleve det beste av Noreg, slik det kjem fram i alt sitt mangfald når ein reiser frå nord til sør. Det er ei reise i naturopplevingar og menneskemøte som byr på store variasjonar i landskap og lynne! Denne spennvidda i det norske anno 2016 er det som er så fascinerande. </em></p>
+<p><em type="italic">– Vi er stadig i endring som nasjon. Fjella, fjordane, skjergarden – gjensynet med dette bestandige som kjenneteiknar den lange kystlinja til landet vårt – vekkjer alltid sterke kjensler hos oss. Ei kjensle av djup takksemd. For eit land! </em></p>
+<p>Dronning Sonja takka alle som hadde vore med og gjort Jubileumsreisa til ei slik oppleving. Dronninga gav òg ein takk til alle som hadde bidrege under folkefesten i Kristiansand – og eit nikk til Quartfestivalen:</p>
+<p>– <em type="italic">Folkefesten i sentrum i føremiddag var ei stor oppleving! Hjarteleg takk til alle som bidrog til det flotte programmet. Det viste verkeleg mangfaldet i fødebyen til vår kjære svigerdotter! Spesielt festleg var det at Quartfestivalen – som òg Kongen og eg – har 25-årsjubileum i år. For utan Quartfestivalen er det ikkje godt å seie kven som hadde vore Kronprinsesse av Noreg i dag!? </em></p>
+<p>Koret Kristiansand Solistensemble danna ein 12 stemmer sterk flash mob og song mens gjestene kunne glede seg over kortreist mat frå buene omkring.</p>
+<p>Ei musikalsk overrasking frå Kristiansand kommune i form av Secret Garden spelte, før Kong Harald og Dronning Sonja, Kronprins Haakon og Kronprinsesse Mette-Marit tok avskjed og gjekk i sjaluppen. Lettbåten førte dei tilbake til Kongeskipet.</p>
+<p>Ei hendingsrik jubileumsreise er over.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem">Jubileumsreisen: Tale i Kristiansand (Tale)</p>
+<p type="listitem" xml:lang="fin">Jubileumsreisen 2016 (Fotoalbum)</p>
+<p type="listitem" xml:lang="nob">Kongepar i 25 år (Seksjonstekst)</p>
+<p type="listitem" xml:lang="nob">Startet Jubileumsreisen i Tromsø (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Feiring i Bodø (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Gjenopplevde signingen (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Jubilerte i Bergen (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Jubileumsreisen i Stavanger (Nyhet)</p>
+</list></body></document>

@@ -1,45 +1,12 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Davviriikkalaš ráđi ođđa mánáid- ja nuoraidgirjjálašvuođa bálkkašupmi - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/ny-nordisk-rads-pris-for-barne--og-ungdo.html?id=706770</origFileName>
-    <parallel_text xml:lang="sme" location="davviriikkala-rai-oa-manaid--ja-nuoraidg_id_706770.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Ny Nordisk Råds pris for barne- og ungdomslitteratur - regjeringen.no</p>
-    <p>
-      <em type="italic">Dei nordiske kulturministrane (Foto: Magnus Fröderberg/norden.org) </em>
-    </p>
-    <p>Nordisk råd vedtok på møte i Helsinki 1. november 2012 å oppretta ein Nordisk råds pris for barne- og ungdomslitteratur. Prisen skal delast ut for fyrste gong i 2013 på Nordisk råd sin sesjon i Oslo.</p>
-    <p>– Eg er glad for at Nordisk Råd har gått inn for å etablera ein eigen pris for barne- og ungdomslitteraturen. I 50 år har Nordisk råds litteraturpris bidratt til å gje merksemd til nordiske forfattarar, men han har aldri vore delt ut til ein barne- og ungdomsforfattar.</p>
-    <p>Barn og unge er minst like viktige lesarar som vaksne. Den nordiske barne- og ungdomslitteraturen held høg kvalitet. Prisen kan vera med på å lyfta han enda høgare, seier kulturminister Hadia Tajik.</p>
-    <p>Alle dei nordiske kulturministrane har samarbeidd for å oppretta prisen, og heile tre norske kulturministrar har vore med på å få han realisert. Ideen kom opphavleg frå tidlegare kulturminister Valgjerd Svarstad Haugland. Førre kulturminister Anniken Huitfeldt tok ideen og arbeidet opp att. No har kulturminister Hadia Tajik fullført arbeidet.</p>
-    <p>I tillegg til ein eigen Nordisk råds pris for barne- og ungdomslitteratur har kulturministrane i Norden blitt samde om eit lyft for den nordiske barne- og ungdomslitteraturen. Dette skal gjerast ved å gje auka støtte til omsetjing, etablering av møteplassar og nettverk for forlag, omsetjarar, forskarar og formidlarar, forfattarskule for unge og møte mellom barn og unge og forfattarar.</p>
-    <p>Sjå også pressemelding frå Nordisk Råd</p>
-    <p xml:lang="nob">
-      <em type="italic">Ny strategi for det nordiske kultursamarbeidet </em>
-    </p>
-    <p>Dei nordiske kulturministrane vedtok òg ein ny og langsiktig strategi for det nordiske kultursamarbeidet frå 2013 til 2020. Kulturministrane ønskjer eit vitalt kulturliv i Norden. Strategien er bygd rundt fem overordna tema: Det berekraftige Norden, det kreative Norden, det interkulturelle Norden, det unge Norden og det digitale Norden.</p>
-    <p>Sjå eiga pressemelding</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Davviriikkalaš ráđi ođđa mánáid- ja nuoraidgirjjálašvuođa bálkkašupmi - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/ny-nordisk-rads-pris-for-barne--og-ungdo.html?id=706770</origFileName><parallel_text xml:lang="sme" location="davviriikkala-rai-oa-manaid--ja-nuoraidg_id_706770.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Ny Nordisk Råds pris for barne- og ungdomslitteratur - regjeringen.no</p>
+<p><em type="italic">Dei nordiske kulturministrane (Foto: Magnus Fröderberg/norden.org) </em></p>
+<p>Nordisk råd vedtok på møte i Helsinki 1. november 2012 å oppretta ein Nordisk råds pris for barne- og ungdomslitteratur. Prisen skal delast ut for fyrste gong i 2013 på Nordisk råd sin sesjon i Oslo.</p>
+<p>– Eg er glad for at Nordisk Råd har gått inn for å etablera ein eigen pris for barne- og ungdomslitteraturen. I 50 år har Nordisk råds litteraturpris bidratt til å gje merksemd til nordiske forfattarar, men han har aldri vore delt ut til ein barne- og ungdomsforfattar.</p>
+<p>Barn og unge er minst like viktige lesarar som vaksne. Den nordiske barne- og ungdomslitteraturen held høg kvalitet. Prisen kan vera med på å lyfta han enda høgare, seier kulturminister Hadia Tajik.</p>
+<p>Alle dei nordiske kulturministrane har samarbeidd for å oppretta prisen, og heile tre norske kulturministrar har vore med på å få han realisert. Ideen kom opphavleg frå tidlegare kulturminister Valgjerd Svarstad Haugland. Førre kulturminister Anniken Huitfeldt tok ideen og arbeidet opp att. No har kulturminister Hadia Tajik fullført arbeidet.</p>
+<p>I tillegg til ein eigen Nordisk råds pris for barne- og ungdomslitteratur har kulturministrane i Norden blitt samde om eit lyft for den nordiske barne- og ungdomslitteraturen. Dette skal gjerast ved å gje auka støtte til omsetjing, etablering av møteplassar og nettverk for forlag, omsetjarar, forskarar og formidlarar, forfattarskule for unge og møte mellom barn og unge og forfattarar.</p>
+<p>Sjå også pressemelding frå Nordisk Råd</p>
+<p xml:lang="nob"><em type="italic">Ny strategi for det nordiske kultursamarbeidet </em></p>
+<p>Dei nordiske kulturministrane vedtok òg ein ny og langsiktig strategi for det nordiske kultursamarbeidet frå 2013 til 2020. Kulturministrane ønskjer eit vitalt kulturliv i Norden. Strategien er bygd rundt fem overordna tema: Det berekraftige Norden, det kreative Norden, det interkulturelle Norden, det unge Norden og det digitale Norden.</p>
+<p>Sjå eiga pressemelding</p>
+</body></document>

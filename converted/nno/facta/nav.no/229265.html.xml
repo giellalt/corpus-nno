@@ -1,148 +1,107 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>NAV - Foreldrepenger til far ved fødsel og adopsjon - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>2151</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Svangerskap,+fødsel+og+adopsjon/Foreldrepenger+til+far+ved+fødsel+og+adopsjon/Foreldrepenger+til+far+ved+fødsel+og+adopsjon/229265.cms</origFileName>
-    <parallel_text xml:lang="eng" location="229272.html"/>
-    <parallel_text xml:lang="nob" location="foreldrepenger_til_far_ved_fodsel_og_adopsjon.html"/>
-    <parallel_text xml:lang="sme" location="229273.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Foreldrepengar til far ved fødsel og adopsjon</p>
-    <p>Som far kan du ha rett til foreldrepengar dersom du har hatt pensjonsgivande inntekt i minst seks av dei siste ti månadene før stønadsperioden tek til.</p>
-    <p>Folketrygdlova er endra frå 1. juli 2009. Nedanfor omtaler vi dei reglane som gjeld frå 1. juli 2009. Du finn meir informasjon om reglane som gjaldt før 1. juli 2009, under <span type="quote">”Foreldrepengar ved fødsel”</span> og <span type="quote">”Foreldrepengar ved adopsjon”</span>.</p>
-    <p type="title">Kor lenge kan du få foreldrepengar?</p>
-    <p>Når begge foreldra har rett til foreldrepengar, er delar av den samla stønadsperioden øyremerkte mora, delar er øyremerkte deg som far, og delar er til valfri fordeling mellom dykk (felles periode). Nedanfor er det først og fremst dine rettar som far som blir omtalte.</p>
-    <p type="title">Stønadsperioden når både mor og far har rett til foreldrepengar</p>
-    <p>Når de får foreldrepengar ved fødsel, kan de anten få 100 prosent foreldrepengar i til saman 46 veker eller 80 prosent foreldrepengar i til saman 56 veker. Ved adopsjon er stønadsperioden høvesvis 43 og 53 veker. Når begge foreldra har rett til foreldrepengar, er 3 veker før og 6 veker etter fødselen øyremerkte mor, 10 veker er øyremerkte far ( fedrekvote/pappapermisjon ), og 27/37 veker er til valfri fordeling mellom foreldra (fellesperioden). Det vil seie at du som far maksimalt kan få 37/47 veker med foreldrepengar ved fødsel. Ved adopsjon er ingen veker øyremerkte mor, men 10 veker er øyremerkte far (fedrekvote). Fellesperioden er 33/43 veker. Du som far kan då maksimalt få 43/53 veker ved adopsjon (inkludert fedrekvoten).</p>
-    <p>Dersom mora før fødselen/adopsjonen har arbeidd mindre enn halv stilling, har du som far ikkje rett til fedrekvote. Det betyr at ingen veker er øyremerkte deg, men du kan nytte den felles perioden, som er 37/47 veker ved fødsel og 43/53 veker ved adopsjon.</p>
-    <p>Dekningsgraden (100 prosent eller 80 prosent) gjeld for heile stønadsperioden. Mor og far må derfor velje same dekningsgraden.</p>
-    <p>Stønaden blir utbetalt for fem dagar i veka. Det blir dermed ikkje utbetalt foreldrepengar for laurdagar og søndagar.</p>
-    <p>Du må gjere deg nytte av retten til foreldrepengar - både fedrekvoten og den felles perioden - innan barnet fyller tre år (ved fødsel), eller innan tre år etter omsorgsovertakinga (ved adopsjon).</p>
-    <p>Du som far kan òg opparbeide deg rett til foreldrepengar mens mor får foreldrepengar.</p>
-    <p type="title">Stønadsperioden når berre du som far har rett til foreldrepengar</p>
-    <p>Du kan få foreldrepengar i opptil 37 veker med 100 prosent dekningsgrad, og 47 veker med 80 prosent dekningsgrad, ved fødsel og adopsjon. Dekningsgraden gjeld for heile perioden. Du har ikkje rett til fedrekvote når mor ikkje har rett til foreldrepengar.</p>
-    <p>Du kan tidlegast starte perioden med foreldrepengar seks veker etter fødselen. Når det gjeld foreldrepengar ved adopsjon, kan du ta til når du vil. For å få nytta alle vekene du har rett til, må du seinast begynne på perioden med foreldrepengar seks veker etter fødselen eller adopsjonen.</p>
-    <p>Det blir stilt spesielle krav til mor når du skal ta ut foreldrepengar som ikkje er fedrekvote, jf. avsnittet nedanfor som heiter ”Kva gjer mor når du som far får foreldrepengar som ikkje er fedrekvote?”.</p>
-    <p type="title">Stønadsperioden når du som far er åleine om omsorga for barnet</p>
-    <p>Dersom du er åleine om omsorga for barnet, kan du få foreldrepengar i opptil 43 veker med 100 prosent dekningsgrad, og 53 veker med 80 prosent dekningsgrad. Det gjeld både ved fødsel og adopsjon. Dekningsgraden gjeld for heile perioden. Dersom mor har fått foreldrepengar før du blir åleine om omsorga, kan du få foreldrepengar for perioden som står att.</p>
-    <p type="title">Blir stønadsperioden lengre ved fleirbarnsfødsel og adopsjon av fleire barn samtidig?</p>
-    <p>Dersom de får meir enn eitt barn, blir stønadsperioden forlengd med fem/sju veker per barn. Dersom de begge har rett til foreldrepengar, blir vekene lagde til fellesperioden. Når det berre er du som har rett til foreldrepengar, blir perioden din forlengd med fem/sju veker.</p>
-    <p type="title">Har du rett til foreldrepengar dersom mor er åleine om omsorga for barnet?</p>
-    <p>Du kan avtale med mor at du kan avvikle delar av foreldrepengeperioden (fedrekvoten inkludert).</p>
-    <p type="title">Kva gjer mor når du som far får foreldrepengar som ikkje er fedrekvote (pappapermisjon)?</p>
-    <p>Det blir stilt krav til mor når du skal ha foreldrepengar som ikkje er fedrekvote. Kor mykje du kan få i foreldrepengar, er avhengig av kva mor gjer, og om ho gjer det på heiltid eller deltid.</p>
-    <p>Når du skal ha foreldrepengar som ikkje er fedrekvote, må mor gjere eitt av følgjande:</p>
-    <list>
-      <p type="listitem">Arbeide heilt eller delvis</p>
-      <p type="listitem">Ta godkjend utdanning på heiltid</p>
-      <p type="listitem">Ta godkjend utdanning i kombinasjon med arbeid, som til saman blir heiltid</p>
-      <p type="listitem">Vere heilt avhengig av hjelp til å ta seg av barnet på grunn av sjukdom eller skade, eller vere innlagd i helseinstitusjon</p>
-      <p type="listitem">Delta i introduksjonsprogrammet for innvandrarar som nyleg er komne</p>
-      <p type="listitem">Delta i kvalifiseringsprogrammet for personar med vesentleg nedsett arbeids- og inntektsevne</p>
-    </list>
-    <p>Dersom mor etter fødselen/omsorgsovertakinga arbeider minst 75 prosent av full arbeidstid, kan du få foreldrepengar som er berekna ut ifrå at mor arbeider full tid. Arbeider mor mindre enn 75 prosent av full arbeidstid, blir foreldrepengane dine reduserte tilsvarande reduksjonen i arbeidstida til mora.</p>
-    <p>Ønskjer du å arbeide fulltid for å utsetje din del av stønadsperioden, er det eit vilkår at også mor arbeider eller studerer på fulltid. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
-    <p>Dersom ingen av punkta ovanfor er oppfylte, har du ikkje rett til foreldrepengar utover eventuelt fedrekvoten.</p>
-    <p type="title">Korleis kan du gjere deg nytte av fedrekvoten?</p>
-    <p>Du har rett til fedrekvote når både du og mor har krav på foreldrepengar, og mor i tillegg har opparbeidd seg rett til foreldrepengar i ei 50 prosent stilling eller meir. Du kan òg opparbeide deg rett til fedrekvote mens mor får foreldrepengar.</p>
-    <p>Fedrekvoten kan du ta ut når som helst i stønadsperioden. Du kan likevel ikkje ta ut fedrekvote dei første seks vekene etter ein fødsel. Desse vekene er av medisinske grunnar øyremerkte mora. Du kan ta ut fedrekvoten samanhengande eller velje fleksibelt uttak (foreldrepengar i kombinasjon med arbeid).</p>
-    <p>Du må ta ut fedrekvoten innan barnet fyller tre år (ved fødsel), eller innan tre år etter tidspunktet for omsorgsovertakinga (ved adopsjon).</p>
-    <p>Dersom du ønskjer å utsetje fedrekvoten, må du søkje om det før den siste stønadsdagen i den felles perioden.</p>
-    <p type="title">Kva gjer mor når du som far får foreldrepengar som er fedrekvote?</p>
-    <p>Når du tek ut fedrekvoten, kan mor velje om ho vil gå ut i inntektsgivande arbeid eller ikkje. Når du nyttar fedrekvoten, kan de samla ta ut opptil 150 prosent foreldrepengar. Det er då ein føresetnad at mor arbeider minst 50 prosent.</p>
-    <p type="title">Kva om du blir sjuk?</p>
-    <p>Dersom du på grunn av eigen sjukdom er heilt avhengig av hjelp for å ta deg av barnet, kan du søkje NAV om å få utsett uttaket av foreldrepengane/fedrekvoten. I slike tilfelle kan du og mor òg søkje om at mor skal overta foreldrepengane/fedrekvoten. Ein føresetnad her er at mor har rett til foreldrepengar.</p>
-    <p type="title">Kva skjer med stønadsperioden dersom du får eit barn til?</p>
-    <p>Dersom uttaket av foreldrepengar for det første barnet ikkje er avslutta når ein ny stønadsperiode begynner, fell den attverande stønadsperioden for det første barnet bort. Det gjeld òg fedrekvoten.</p>
-    <p type="title">Når kan du utsetje perioden med foreldrepengar?</p>
-    <p>Både fedrekvoten og den felles perioden med foreldrepengar kan utsetjast dersom</p>
-    <list>
-      <p type="listitem">du er i fulltidsarbeid</p>
-      <p type="listitem">du har lovbestemt ferie, det vil seie 21 arbeidsdagar (tariffavtalt ferie blir ikkje rekna med)</p>
-      <p type="listitem">du på grunn av sjukdom er heilt avhengig av hjelp for å ta deg av barnet</p>
-      <p type="listitem">du eller barnet er innlagde i helseinstitusjon</p>
-    </list>
-    <p>Når du ønskjer å utsetje uttaket fordi du er i full jobb, må du levere ein kopi av ein skriftleg avtale med arbeidsgivaren din til NAV dersom du er i lønna arbeid. Dersom du er sjølvstendig næringsdrivande eller frilansar, må du inngå ein avtale med NAV.</p>
-    <p type="title">Kan du kombinere arbeid med foreldrepengar?</p>
-    <p>Du kan kombinere foreldrepengar/fedrekvoten med arbeid på to måtar:</p>
-    <list>
-      <p type="listitem">Du kan utsetje perioden med foreldrepengar.</p>
-      <p type="listitem">Du kan ta delvis uttak av foreldrepengar i kombinasjon med delvis arbeid (gradert uttak).</p>
-    </list>
-    <p type="title">Du kan utsetje uttaket av foreldrepengar/fedrekvote på grunn av fulltidsarbeid</p>
-    <p>Du kan utsetje perioden med foreldrepengar ved å arbeide i ei 100 prosent stilling. Dersom du ønskjer å utsetje foreldrepengeperioden i meir enn 14 dagar, må ein av dykk på førehand ha teke ut minst seks veker med foreldrepengar. Ønskjer du å arbeide fulltid for å utsetje perioden med foreldrepengar som ikkje er fedrekvote, er det eit vilkår at også mor arbeider eller tek godkjend utdanning på heiltid. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
-    <p type="title">Du kan ta ut graderte foreldrepengar</p>
-    <p>Du kan kombinere delvis arbeid med delvis uttak av foreldrepengar/fedrekvote. Graderte foreldrepengar utgjer differansen mellom ei deltidsstilling og ei 100 prosent stilling. Uttaket av foreldrepengar blir redusert i forhold til omfanget av arbeidet, slik at uttaket blir fordelt ut over eit lengre tidsrom. Det samla beløpet du får utbetalt, er det same som om du vel fullt uttak av foreldrepengar. Det er inga nedre eller øvre grense for kor mykje/lite du kan arbeide, eller kor lenge du kan gjere deg nytte av dette. Graderte foreldrepengar kan de ta ut samtidig eller kvar for dykk. Ved samtidig uttak kan ikkje foreldrepengane utgjere meir enn 100 prosent til saman. Dersom du ønskjer å dels arbeide (arbeide deltid) og dels få foreldrepengar som ikkje er fedrekvote, er det eit vilkår at også mor arbeider tilsvarande den prosentdelen som du ønskjer å få i foreldrepengar. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
-    <p type="title">Kor lenge kan du kombinere foreldrepengar/fedrekvote med arbeid?</p>
-    <p>Du kan nytte denne ordninga opptil tre år etter fødselen eller omsorgsovertakinga.</p>
-    <p type="title">Korleis søkjer du om foreldrepengar/fedrekvote?</p>
-    <p>Du må søkje skriftleg om foreldrepengar. Det gjeld sjølv om du får full lønn frå arbeidsgivaren din i stønadsperioden. Du søkjer om foreldrepengar/fedrekvote på blanketten Krav om yting ved fødsel og adopsjon, som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden om foreldrepengar. For at NAV skal kunne rekne ut kva du skal få, er det i tillegg nødvendig at arbeidsgivaren din fyller ut blanketten <span type="quote">”Inntekts- og skatteopplysningar for arbeidstakar”</span>.</p>
-    <p>Arbeidsgivaren din kan søkje om refusjon frå folketrygda dersom han betaler ut full lønn til deg i permisjonstida. Det gjer han ved å krysse av på inntekts- og skatteopplysningsblanketten for at han krev foreldrepengane utbetalte til seg. Du som arbeidstakar må likevel sende eigen søknad om foreldrepengar for at arbeidsgivaren din skal få refusjon.</p>
-    <p>Du får ikkje ytingar for lengre tid tilbake enn tre månader før tidspunktet du søkte på. Det blir rekna frå tidspunktet for den sist framsette søknaden frå deg eller arbeidsgivaren din. Søkjer ein av dykk seinare, blir utbetalingsperioden forkorta tilsvarande.</p>
-    <p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
-    <p type="title">Korleis søkjer du om å kombinere foreldrepengar med arbeid?</p>
-    <p>Du må søkje skriftleg. Du må levere ein skriftleg avtale mellom deg og arbeidsgivaren din om kor mykje du skal arbeide (stillingsprosenten), og kva periode du skal arbeide, for å utsetje eller gradere uttaket av foreldrepengane. Du kan nytte blanketten Avtale om gradert uttak / utsetjing av foreldrepengar, som du finn under Skjema og vedlegg. Her finn du òg informasjon om nødvendig dokumentasjon som du må leggje ved søknaden om foreldrepengar.</p>
-    <p>Dersom du er sjølvstendig næringsdrivande, gjer du ein avtale med NAV om kor mykje og kor lenge du skal arbeide. Du kan nytte blanketten Avtale om gradert uttak / utsetjing av foreldrepengar, som du finn under Skjema og vedlegg. Her finn du òg informasjon om nødvendig dokumentasjon som du må leggje ved søknaden om foreldrepengar.</p>
-    <p>Det er viktig at du søkjer i god tid før du begynner å arbeide, for å unngå å miste stønadsdagar. Dersom du skal utsetje fedrekvoten, må du hugse å søkje om det før siste stønadsdagen av den felles perioden for deg og mora til barnet. Søkjer du seinare enn den datoen, mister du stønadsdagar.</p>
-    <p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
-    <p type="title">Kan du som far få eingongsstønad ved fødsel og adopsjon?</p>
-    <p>Dersom du ikkje har rett til foreldrepengar, kan du få eingongsstønad</p>
-    <list>
-      <p type="listitem">for kvart barn du adopterer åleine</p>
-      <p type="listitem">når du får foreldreansvar fordi den andre forelderen døyr</p>
-      <p type="listitem">når du får tildelt foreldreansvar etter barnelova §§ 38 og 63</p>
-      <p type="listitem">når du innan 53 veker etter fødselen eller omsorgsovertakinga har overteke omsorga for barnet med sikte på å ta over foreldreansvaret åleine etter barnelova.</p>
-    </list>
-    <p type="title">Utbetalingsdatoar</p>
-    <p type="title">Foreldre- og svangerskapspengar</p>
-    <p>Datoane gjeld for 2010.</p>
-    <p>Jan.</p>
-    <p>Feb.</p>
-    <p>Mar.</p>
-    <p>Apr.</p>
-    <p>Mai</p>
-    <p>Jun.</p>
-    <p>Jul.</p>
-    <p>Aug.</p>
-    <p>Sep.</p>
-    <p>Okt.</p>
-    <p>Nov.</p>
-    <p>Des.</p>
-    <p>13.*, 25., 27. og 29.</p>
-    <p>3.*, 15.*, 24. og 25.</p>
-    <p>1.*, 3.*, 15.*, 24., 26. og 31.</p>
-    <p>8.*, 14.*, 23., 28. og 30.</p>
-    <p>5.*, 14.*, 25. og 28.</p>
-    <p>1.*, 3.*, 15.*, 23., 25. og 30.</p>
-    <p>5.*, 14.*, 23., 28. og 30</p>
-    <p>4.*, 13.*, 25. og 27.</p>
-    <p>1.*, 3.*, 15.*, 23., 28. og 30.</p>
-    <p>5.*, 13.*, 25., 27. og 29.</p>
-    <p>3.*, 15.*, 24. og 26.</p>
-    <p>1.*, 3.*, 9.*, 15., 17., 21. og 23.</p>
-    <p>Utbetalingsdatoane på sjukepengar og foreldre- og svangerskapspengar som er merkte med *, gjeld utbetaling for føregåande månad.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>NAV - Foreldrepenger til far ved fødsel og adopsjon - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>2151</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Svangerskap,+fødsel+og+adopsjon/Foreldrepenger+til+far+ved+fødsel+og+adopsjon/Foreldrepenger+til+far+ved+fødsel+og+adopsjon/229265.cms</origFileName><parallel_text xml:lang="eng" location="229272.html"/><parallel_text xml:lang="nob" location="foreldrepenger_til_far_ved_fodsel_og_adopsjon.html"/><parallel_text xml:lang="sme" location="229273.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Foreldrepengar til far ved fødsel og adopsjon</p>
+<p>Som far kan du ha rett til foreldrepengar dersom du har hatt pensjonsgivande inntekt i minst seks av dei siste ti månadene før stønadsperioden tek til.</p>
+<p>Folketrygdlova er endra frå 1. juli 2009. Nedanfor omtaler vi dei reglane som gjeld frå 1. juli 2009. Du finn meir informasjon om reglane som gjaldt før 1. juli 2009, under <span type="quote">”Foreldrepengar ved fødsel”</span> og <span type="quote">”Foreldrepengar ved adopsjon”</span>.</p>
+<p type="title">Kor lenge kan du få foreldrepengar?</p>
+<p>Når begge foreldra har rett til foreldrepengar, er delar av den samla stønadsperioden øyremerkte mora, delar er øyremerkte deg som far, og delar er til valfri fordeling mellom dykk (felles periode). Nedanfor er det først og fremst dine rettar som far som blir omtalte.</p>
+<p type="title">Stønadsperioden når både mor og far har rett til foreldrepengar</p>
+<p>Når de får foreldrepengar ved fødsel, kan de anten få 100 prosent foreldrepengar i til saman 46 veker eller 80 prosent foreldrepengar i til saman 56 veker. Ved adopsjon er stønadsperioden høvesvis 43 og 53 veker. Når begge foreldra har rett til foreldrepengar, er 3 veker før og 6 veker etter fødselen øyremerkte mor, 10 veker er øyremerkte far ( fedrekvote/pappapermisjon ), og 27/37 veker er til valfri fordeling mellom foreldra (fellesperioden). Det vil seie at du som far maksimalt kan få 37/47 veker med foreldrepengar ved fødsel. Ved adopsjon er ingen veker øyremerkte mor, men 10 veker er øyremerkte far (fedrekvote). Fellesperioden er 33/43 veker. Du som far kan då maksimalt få 43/53 veker ved adopsjon (inkludert fedrekvoten).</p>
+<p>Dersom mora før fødselen/adopsjonen har arbeidd mindre enn halv stilling, har du som far ikkje rett til fedrekvote. Det betyr at ingen veker er øyremerkte deg, men du kan nytte den felles perioden, som er 37/47 veker ved fødsel og 43/53 veker ved adopsjon.</p>
+<p>Dekningsgraden (100 prosent eller 80 prosent) gjeld for heile stønadsperioden. Mor og far må derfor velje same dekningsgraden.</p>
+<p>Stønaden blir utbetalt for fem dagar i veka. Det blir dermed ikkje utbetalt foreldrepengar for laurdagar og søndagar.</p>
+<p>Du må gjere deg nytte av retten til foreldrepengar - både fedrekvoten og den felles perioden - innan barnet fyller tre år (ved fødsel), eller innan tre år etter omsorgsovertakinga (ved adopsjon).</p>
+<p>Du som far kan òg opparbeide deg rett til foreldrepengar mens mor får foreldrepengar.</p>
+<p type="title">Stønadsperioden når berre du som far har rett til foreldrepengar</p>
+<p>Du kan få foreldrepengar i opptil 37 veker med 100 prosent dekningsgrad, og 47 veker med 80 prosent dekningsgrad, ved fødsel og adopsjon. Dekningsgraden gjeld for heile perioden. Du har ikkje rett til fedrekvote når mor ikkje har rett til foreldrepengar.</p>
+<p>Du kan tidlegast starte perioden med foreldrepengar seks veker etter fødselen. Når det gjeld foreldrepengar ved adopsjon, kan du ta til når du vil. For å få nytta alle vekene du har rett til, må du seinast begynne på perioden med foreldrepengar seks veker etter fødselen eller adopsjonen.</p>
+<p>Det blir stilt spesielle krav til mor når du skal ta ut foreldrepengar som ikkje er fedrekvote, jf. avsnittet nedanfor som heiter ”Kva gjer mor når du som far får foreldrepengar som ikkje er fedrekvote?”.</p>
+<p type="title">Stønadsperioden når du som far er åleine om omsorga for barnet</p>
+<p>Dersom du er åleine om omsorga for barnet, kan du få foreldrepengar i opptil 43 veker med 100 prosent dekningsgrad, og 53 veker med 80 prosent dekningsgrad. Det gjeld både ved fødsel og adopsjon. Dekningsgraden gjeld for heile perioden. Dersom mor har fått foreldrepengar før du blir åleine om omsorga, kan du få foreldrepengar for perioden som står att.</p>
+<p type="title">Blir stønadsperioden lengre ved fleirbarnsfødsel og adopsjon av fleire barn samtidig?</p>
+<p>Dersom de får meir enn eitt barn, blir stønadsperioden forlengd med fem/sju veker per barn. Dersom de begge har rett til foreldrepengar, blir vekene lagde til fellesperioden. Når det berre er du som har rett til foreldrepengar, blir perioden din forlengd med fem/sju veker.</p>
+<p type="title">Har du rett til foreldrepengar dersom mor er åleine om omsorga for barnet?</p>
+<p>Du kan avtale med mor at du kan avvikle delar av foreldrepengeperioden (fedrekvoten inkludert).</p>
+<p type="title">Kva gjer mor når du som far får foreldrepengar som ikkje er fedrekvote (pappapermisjon)?</p>
+<p>Det blir stilt krav til mor når du skal ha foreldrepengar som ikkje er fedrekvote. Kor mykje du kan få i foreldrepengar, er avhengig av kva mor gjer, og om ho gjer det på heiltid eller deltid.</p>
+<p>Når du skal ha foreldrepengar som ikkje er fedrekvote, må mor gjere eitt av følgjande:</p>
+<list><p type="listitem">Arbeide heilt eller delvis</p>
+<p type="listitem">Ta godkjend utdanning på heiltid</p>
+<p type="listitem">Ta godkjend utdanning i kombinasjon med arbeid, som til saman blir heiltid</p>
+<p type="listitem">Vere heilt avhengig av hjelp til å ta seg av barnet på grunn av sjukdom eller skade, eller vere innlagd i helseinstitusjon</p>
+<p type="listitem">Delta i introduksjonsprogrammet for innvandrarar som nyleg er komne</p>
+<p type="listitem">Delta i kvalifiseringsprogrammet for personar med vesentleg nedsett arbeids- og inntektsevne</p>
+</list><p>Dersom mor etter fødselen/omsorgsovertakinga arbeider minst 75 prosent av full arbeidstid, kan du få foreldrepengar som er berekna ut ifrå at mor arbeider full tid. Arbeider mor mindre enn 75 prosent av full arbeidstid, blir foreldrepengane dine reduserte tilsvarande reduksjonen i arbeidstida til mora.</p>
+<p>Ønskjer du å arbeide fulltid for å utsetje din del av stønadsperioden, er det eit vilkår at også mor arbeider eller studerer på fulltid. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
+<p>Dersom ingen av punkta ovanfor er oppfylte, har du ikkje rett til foreldrepengar utover eventuelt fedrekvoten.</p>
+<p type="title">Korleis kan du gjere deg nytte av fedrekvoten?</p>
+<p>Du har rett til fedrekvote når både du og mor har krav på foreldrepengar, og mor i tillegg har opparbeidd seg rett til foreldrepengar i ei 50 prosent stilling eller meir. Du kan òg opparbeide deg rett til fedrekvote mens mor får foreldrepengar.</p>
+<p>Fedrekvoten kan du ta ut når som helst i stønadsperioden. Du kan likevel ikkje ta ut fedrekvote dei første seks vekene etter ein fødsel. Desse vekene er av medisinske grunnar øyremerkte mora. Du kan ta ut fedrekvoten samanhengande eller velje fleksibelt uttak (foreldrepengar i kombinasjon med arbeid).</p>
+<p>Du må ta ut fedrekvoten innan barnet fyller tre år (ved fødsel), eller innan tre år etter tidspunktet for omsorgsovertakinga (ved adopsjon).</p>
+<p>Dersom du ønskjer å utsetje fedrekvoten, må du søkje om det før den siste stønadsdagen i den felles perioden.</p>
+<p type="title">Kva gjer mor når du som far får foreldrepengar som er fedrekvote?</p>
+<p>Når du tek ut fedrekvoten, kan mor velje om ho vil gå ut i inntektsgivande arbeid eller ikkje. Når du nyttar fedrekvoten, kan de samla ta ut opptil 150 prosent foreldrepengar. Det er då ein føresetnad at mor arbeider minst 50 prosent.</p>
+<p type="title">Kva om du blir sjuk?</p>
+<p>Dersom du på grunn av eigen sjukdom er heilt avhengig av hjelp for å ta deg av barnet, kan du søkje NAV om å få utsett uttaket av foreldrepengane/fedrekvoten. I slike tilfelle kan du og mor òg søkje om at mor skal overta foreldrepengane/fedrekvoten. Ein føresetnad her er at mor har rett til foreldrepengar.</p>
+<p type="title">Kva skjer med stønadsperioden dersom du får eit barn til?</p>
+<p>Dersom uttaket av foreldrepengar for det første barnet ikkje er avslutta når ein ny stønadsperiode begynner, fell den attverande stønadsperioden for det første barnet bort. Det gjeld òg fedrekvoten.</p>
+<p type="title">Når kan du utsetje perioden med foreldrepengar?</p>
+<p>Både fedrekvoten og den felles perioden med foreldrepengar kan utsetjast dersom</p>
+<list><p type="listitem">du er i fulltidsarbeid</p>
+<p type="listitem">du har lovbestemt ferie, det vil seie 21 arbeidsdagar (tariffavtalt ferie blir ikkje rekna med)</p>
+<p type="listitem">du på grunn av sjukdom er heilt avhengig av hjelp for å ta deg av barnet</p>
+<p type="listitem">du eller barnet er innlagde i helseinstitusjon</p>
+</list><p>Når du ønskjer å utsetje uttaket fordi du er i full jobb, må du levere ein kopi av ein skriftleg avtale med arbeidsgivaren din til NAV dersom du er i lønna arbeid. Dersom du er sjølvstendig næringsdrivande eller frilansar, må du inngå ein avtale med NAV.</p>
+<p type="title">Kan du kombinere arbeid med foreldrepengar?</p>
+<p>Du kan kombinere foreldrepengar/fedrekvoten med arbeid på to måtar:</p>
+<list><p type="listitem">Du kan utsetje perioden med foreldrepengar.</p>
+<p type="listitem">Du kan ta delvis uttak av foreldrepengar i kombinasjon med delvis arbeid (gradert uttak).</p>
+</list><p type="title">Du kan utsetje uttaket av foreldrepengar/fedrekvote på grunn av fulltidsarbeid</p>
+<p>Du kan utsetje perioden med foreldrepengar ved å arbeide i ei 100 prosent stilling. Dersom du ønskjer å utsetje foreldrepengeperioden i meir enn 14 dagar, må ein av dykk på førehand ha teke ut minst seks veker med foreldrepengar. Ønskjer du å arbeide fulltid for å utsetje perioden med foreldrepengar som ikkje er fedrekvote, er det eit vilkår at også mor arbeider eller tek godkjend utdanning på heiltid. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
+<p type="title">Du kan ta ut graderte foreldrepengar</p>
+<p>Du kan kombinere delvis arbeid med delvis uttak av foreldrepengar/fedrekvote. Graderte foreldrepengar utgjer differansen mellom ei deltidsstilling og ei 100 prosent stilling. Uttaket av foreldrepengar blir redusert i forhold til omfanget av arbeidet, slik at uttaket blir fordelt ut over eit lengre tidsrom. Det samla beløpet du får utbetalt, er det same som om du vel fullt uttak av foreldrepengar. Det er inga nedre eller øvre grense for kor mykje/lite du kan arbeide, eller kor lenge du kan gjere deg nytte av dette. Graderte foreldrepengar kan de ta ut samtidig eller kvar for dykk. Ved samtidig uttak kan ikkje foreldrepengane utgjere meir enn 100 prosent til saman. Dersom du ønskjer å dels arbeide (arbeide deltid) og dels få foreldrepengar som ikkje er fedrekvote, er det eit vilkår at også mor arbeider tilsvarande den prosentdelen som du ønskjer å få i foreldrepengar. Det gjeld sjølv om mor ikkje har rett til foreldrepengar.</p>
+<p type="title">Kor lenge kan du kombinere foreldrepengar/fedrekvote med arbeid?</p>
+<p>Du kan nytte denne ordninga opptil tre år etter fødselen eller omsorgsovertakinga.</p>
+<p type="title">Korleis søkjer du om foreldrepengar/fedrekvote?</p>
+<p>Du må søkje skriftleg om foreldrepengar. Det gjeld sjølv om du får full lønn frå arbeidsgivaren din i stønadsperioden. Du søkjer om foreldrepengar/fedrekvote på blanketten Krav om yting ved fødsel og adopsjon, som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden om foreldrepengar. For at NAV skal kunne rekne ut kva du skal få, er det i tillegg nødvendig at arbeidsgivaren din fyller ut blanketten <span type="quote">”Inntekts- og skatteopplysningar for arbeidstakar”</span>.</p>
+<p>Arbeidsgivaren din kan søkje om refusjon frå folketrygda dersom han betaler ut full lønn til deg i permisjonstida. Det gjer han ved å krysse av på inntekts- og skatteopplysningsblanketten for at han krev foreldrepengane utbetalte til seg. Du som arbeidstakar må likevel sende eigen søknad om foreldrepengar for at arbeidsgivaren din skal få refusjon.</p>
+<p>Du får ikkje ytingar for lengre tid tilbake enn tre månader før tidspunktet du søkte på. Det blir rekna frå tidspunktet for den sist framsette søknaden frå deg eller arbeidsgivaren din. Søkjer ein av dykk seinare, blir utbetalingsperioden forkorta tilsvarande.</p>
+<p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
+<p type="title">Korleis søkjer du om å kombinere foreldrepengar med arbeid?</p>
+<p>Du må søkje skriftleg. Du må levere ein skriftleg avtale mellom deg og arbeidsgivaren din om kor mykje du skal arbeide (stillingsprosenten), og kva periode du skal arbeide, for å utsetje eller gradere uttaket av foreldrepengane. Du kan nytte blanketten Avtale om gradert uttak / utsetjing av foreldrepengar, som du finn under Skjema og vedlegg. Her finn du òg informasjon om nødvendig dokumentasjon som du må leggje ved søknaden om foreldrepengar.</p>
+<p>Dersom du er sjølvstendig næringsdrivande, gjer du ein avtale med NAV om kor mykje og kor lenge du skal arbeide. Du kan nytte blanketten Avtale om gradert uttak / utsetjing av foreldrepengar, som du finn under Skjema og vedlegg. Her finn du òg informasjon om nødvendig dokumentasjon som du må leggje ved søknaden om foreldrepengar.</p>
+<p>Det er viktig at du søkjer i god tid før du begynner å arbeide, for å unngå å miste stønadsdagar. Dersom du skal utsetje fedrekvoten, må du hugse å søkje om det før siste stønadsdagen av den felles perioden for deg og mora til barnet. Søkjer du seinare enn den datoen, mister du stønadsdagar.</p>
+<p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
+<p type="title">Kan du som far få eingongsstønad ved fødsel og adopsjon?</p>
+<p>Dersom du ikkje har rett til foreldrepengar, kan du få eingongsstønad</p>
+<list><p type="listitem">for kvart barn du adopterer åleine</p>
+<p type="listitem">når du får foreldreansvar fordi den andre forelderen døyr</p>
+<p type="listitem">når du får tildelt foreldreansvar etter barnelova §§ 38 og 63</p>
+<p type="listitem">når du innan 53 veker etter fødselen eller omsorgsovertakinga har overteke omsorga for barnet med sikte på å ta over foreldreansvaret åleine etter barnelova.</p>
+</list><p type="title">Utbetalingsdatoar</p>
+<p type="title">Foreldre- og svangerskapspengar</p>
+<p>Datoane gjeld for 2010.</p>
+<p>Jan.</p>
+<p>Feb.</p>
+<p>Mar.</p>
+<p>Apr.</p>
+<p>Mai</p>
+<p>Jun.</p>
+<p>Jul.</p>
+<p>Aug.</p>
+<p>Sep.</p>
+<p>Okt.</p>
+<p>Nov.</p>
+<p>Des.</p>
+<p>13.*, 25., 27. og 29.</p>
+<p>3.*, 15.*, 24. og 25.</p>
+<p>1.*, 3.*, 15.*, 24., 26. og 31.</p>
+<p>8.*, 14.*, 23., 28. og 30.</p>
+<p>5.*, 14.*, 25. og 28.</p>
+<p>1.*, 3.*, 15.*, 23., 25. og 30.</p>
+<p>5.*, 14.*, 23., 28. og 30</p>
+<p>4.*, 13.*, 25. og 27.</p>
+<p>1.*, 3.*, 15.*, 23., 28. og 30.</p>
+<p>5.*, 13.*, 25., 27. og 29.</p>
+<p>3.*, 15.*, 24. og 26.</p>
+<p>1.*, 3.*, 9.*, 15., 17., 21. og 23.</p>
+<p>Utbetalingsdatoane på sjukepengar og foreldre- og svangerskapspengar som er merkte med *, gjeld utbetaling for føregåande månad.</p>
+</body></document>

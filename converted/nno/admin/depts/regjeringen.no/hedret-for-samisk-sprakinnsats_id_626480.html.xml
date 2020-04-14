@@ -1,37 +1,7 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Bálkkašupmi sámegiela áŋgiruššama ovddas - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>327</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/aktuelt/nyheiter/2010/hedret-for-samisk-sprakinnsats.html?id=626480</origFileName>
-    <parallel_text xml:lang="sme" location="balkkaupmi-samegiela-agiruama-ovddas_id_626480.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hedret for samisk språkinnsats - regjeringen.no</p>
-    <p>
-      <em type="italic">Den samiske språkprisen Gollegiella har blitt tildelt Máret Sara fra Porsanger og Lajla Mattson Magga fra Jämtland i Sverige, for deres innsats for henholdsvis nordsamisk og sørsamisk språk. Prisen ble delt ut av landsbygdsminister Eskil Erlandsson under det nordiske minister- og sametingspresidentmøtet i Stockholm denne uken. </em>
-    </p>
-    <p>Máret Sara har utdannelse i samisk fra Universitetet i Oslo. Hun har drevet utviklingsarbeid for det nordsamiske språket på mange fronter, både som pedagog, journalist og forfatter. Hun har gitt ut flere lærebøker, rim- og reglebøker for barn og også bøker med samiske ordspråk. Sara har også vært aktiv både i foreningsliv og i politisk arbeid. - Máret Sara er en person som har våget å gå sine egne veier. Hennes brede arbeid med det samiske språket gjør henne til en verdig vinner, heter det i bedømningskomiteens begrunnelse.</p>
-    <p>Lajla Mattson Magga har vært opptatt av å bevare, lære bort og utvikle det sørsamiske språket både privat og yrkesmessig. Hun er utdannet lærer og har studert sørsamisk på universitetetsnivå. Magga er spesielt kjent for å ha utviklet sørsamiske ordbøker i samarbeid med professor Knut Bergsland, men har også utgitt både skjønnlitteratur og faglige bøker, i tillegg til oversettinger og innsamling av språkmateriale. - Lajla Mattson Magga har bidratt med et gedigent engasjement for det sørsamiske språkarbeidet, hun er en viktig språkinspirator og en verdig vinner av Gollegiella, sier bedømningskomiteen.</p>
-    <p>- Jeg gratulerer begge prisvinnerne med en vel fortjent språkpris! Ildsjeler som dette er helt nødvendig for at vi skal kunne greie å bevare og utvikle de samiske språkene, sier fornyings-, administrasjons. og kirkeminister Rigmor Aasrud.</p>
-    <p>Den samiske språkprisen Gollegiella – gullspråk – ble opprettet av sameministrene og sametingspresidentene i Finland, Sverige og Norge i 2003. Prisen er på 12 500 euro, og deles ut annet hvert år til enkeltpersoner, grupper, organisasjoner eller institusjoner som har gjort en verdifull innsats for fremme av samisk språk. Prisen kan deles ut til vinnere fra Finland, Sverige, Russland og Norge.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Bálkkašupmi sámegiela áŋgiruššama ovddas - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>327</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/aktuelt/nyheiter/2010/hedret-for-samisk-sprakinnsats.html?id=626480</origFileName><parallel_text xml:lang="sme" location="balkkaupmi-samegiela-agiruama-ovddas_id_626480.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hedret for samisk språkinnsats - regjeringen.no</p>
+<p><em type="italic">Den samiske språkprisen Gollegiella har blitt tildelt Máret Sara fra Porsanger og Lajla Mattson Magga fra Jämtland i Sverige, for deres innsats for henholdsvis nordsamisk og sørsamisk språk. Prisen ble delt ut av landsbygdsminister Eskil Erlandsson under det nordiske minister- og sametingspresidentmøtet i Stockholm denne uken. </em></p>
+<p>Máret Sara har utdannelse i samisk fra Universitetet i Oslo. Hun har drevet utviklingsarbeid for det nordsamiske språket på mange fronter, både som pedagog, journalist og forfatter. Hun har gitt ut flere lærebøker, rim- og reglebøker for barn og også bøker med samiske ordspråk. Sara har også vært aktiv både i foreningsliv og i politisk arbeid. - Máret Sara er en person som har våget å gå sine egne veier. Hennes brede arbeid med det samiske språket gjør henne til en verdig vinner, heter det i bedømningskomiteens begrunnelse.</p>
+<p>Lajla Mattson Magga har vært opptatt av å bevare, lære bort og utvikle det sørsamiske språket både privat og yrkesmessig. Hun er utdannet lærer og har studert sørsamisk på universitetetsnivå. Magga er spesielt kjent for å ha utviklet sørsamiske ordbøker i samarbeid med professor Knut Bergsland, men har også utgitt både skjønnlitteratur og faglige bøker, i tillegg til oversettinger og innsamling av språkmateriale. - Lajla Mattson Magga har bidratt med et gedigent engasjement for det sørsamiske språkarbeidet, hun er en viktig språkinspirator og en verdig vinner av Gollegiella, sier bedømningskomiteen.</p>
+<p>- Jeg gratulerer begge prisvinnerne med en vel fortjent språkpris! Ildsjeler som dette er helt nødvendig for at vi skal kunne greie å bevare og utvikle de samiske språkene, sier fornyings-, administrasjons. og kirkeminister Rigmor Aasrud.</p>
+<p>Den samiske språkprisen Gollegiella – gullspråk – ble opprettet av sameministrene og sametingspresidentene i Finland, Sverige og Norge i 2003. Prisen er på 12 500 euro, og deles ut annet hvert år til enkeltpersoner, grupper, organisasjoner eller institusjoner som har gjort en verdifull innsats for fremme av samisk språk. Prisen kan deles ut til vinnere fra Finland, Sverige, Russland og Norge.</p>
+</body></document>

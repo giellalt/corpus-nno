@@ -1,82 +1,43 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>2,68 miljárdda kruvnnu biire- ja guovlopolitihkkii - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>957</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/krd/pressesenter/Pressemeldingar/2011/komm-pressemelding-1.html?id=657051</origFileName>
-    <parallel_text xml:lang="eng" location="nok-268-billion-to-rural-and-regional-po_id_657051.html"/>
-    <parallel_text xml:lang="sme" location="268-miljardda-kruvnnu-biire--ja-guovlopo_id_657051.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>2,68 milliardar kroner til distrikts- og regionalpolitikken - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa foreslår å løyve om lag 2,68 milliardar kroner til distrikts- og regionalpolitikken i 2012. Under den raudgrøne regjeringa er det løyvd om lag 18 milliardar kroner til distrikts- og regionalutvikling. </em>
-    </p>
-    <p>I lys av budsjettsituasjonen er løyvinga til dei særskilde distrikts- og regionalpolitiske verkemidla under Kommunal- og regionaldepartementet reduserte med om lag 92 millionar kroner frå 2011. Held vi kompensasjon for auka arbeidsgjevaravgift utanom, er løyvinga til distrikts- og regionalpolitikken 718 millionar kroner høgare i 2012 enn kva ho var i 2005. Dette er ein nominell vekst på 53,6 prosent.</p>
-    <p>- Dette syner at me held oppe innsatsen for å utvikle arbeidsplassar og attraktive lokalsamfunn i heile landet, seier kommunal- og regionalminister Liv Signe Navarsete.</p>
-    <p>Gjennom distrikts- og regionalpolitikken ynskjer regjeringa å ta ressursane i heile landet i bruk, og bidra til verdiskaping, arbeidsplassar og velferd der folk bur.</p>
-    <p>Fylkeskommunane forvaltar rundt 2,2 milliardar kroner, eller vel 80 prosent, av dei særskilde midlane til distrikts- og regionalpolitikken. Då er kompenasjonsmidlane for auka arbeidsgjevaravgift tekne med.</p>
-    <p>Rapportane frå fylkeskommunane for 2010 viser at fylkeskommunane fordelte 56 prosent av midlane til næringsutvikling, 20,5 prosent til å skape god lokal og regional kompetanse og infrastruktur og 16,5 prosent målet om å utvikle attraktive lokalsamfunn.</p>
-    <p>- Fylkeskommunane gjer eit i viktig arbeid for å nå dei nasjonale måla for distrikts- og regionalpolitikken, seier Navarsete.</p>
-    <p type="title">Tiltak i statsbudsjettet for 2012:</p>
-    <p type="title">Næringsutvikling og entreprenørskap</p>
-    <list>
-      <p type="listitem"><em type="italic">Kommunale og regionale næringsfond: </em>Regjeringa gjer framlegg om at Kommunal- og regionaldepartementet vidarefører den store satsinga på kommunale og regionale næringsfond med ei løyving på 225 millionar kroner i 2012. Næringsfonda skal gjere kommunar og regionar betre rusta til å legge til rette for verdiskaping og sysselsetting. </p>
-      <p type="listitem"><em type="italic">Næringshageprogrammet: </em>SIVA har starta opp nytt næringshageprogram hausten 2011. Regjeringa gjer framlegg om at Kommunal- og regionaldepartementet gir 40 millionar kroner til programmet i 2012, ein auke frå 2011 og ei dobling frå 2010. Programmet skal bidra til å utvikle nye arbeidsplassar innan kunnskapsbaserte næringar i distrikta. Les eiga pressemelding om næringshageprogrammet. </p>
-      <p type="listitem"><em type="italic">Satsing på entreprenørskap blant unge i distrikta: </em>Regjeringa gjer framlegg om å auke tilskotet til Ungt Entreprenørskap over Kommunal- og regionaldepartementet sitt budsjett, med 2 millionar kroner til 13 millionar kroner. I tillegg gjer regjeringa framlegg om å auke den ekstraordinære satsinga på entreprenørskap blant unge i Nord-Noreg, som går gjennom Innovasjon Noreg, med 1 million kroner til 5 millionar kroner. Les eiga pressemelding om entreprenørskap blant unge i distrikta. </p>
-      <p type="listitem"><em type="italic">Verdiskapingsprogram for lokale og regionale parkar: </em>Regjeringa gjer framlegg om å løyve 10 millionar kroner til ei ny ordning for å auke næringsutvikling og verdiskaping i særskilde område med potensial for dette. Områda som kan få støtte må gi ei sams tilhøyre for dei som bur og har aktivitet i området. Verdiar skal utviklast gjennom å gjere bruk av natur- og kulturverdiar som ressurs på berekraftig vis. Les eiga pressemelding om verdiskapingsprogram for lokale og regionale parkar. </p>
-    </list>
-    <p type="title">Attraktive lokalsamfunn og gode tenester</p>
-    <list>
-      <p type="listitem"><em type="italic">Styrking av MERKUR-programmet og utviklings- og investeringsstøtta til utkantbutikkar </em>: Det er sett av 47,2 millionar kroner til desse tiltaka i 2012. Dette er ein auke på heile 21,2 millionar kroner, som blant anna skal nyttast til å utvide ordninga ved å styrke drivstofftilgangen i distrikta. Noko av midlane skal òg nyttast til å utvikle nye konsept for korleis dagligvarebutikkar kan styrke si stilling som sentral tenesteleverandør, til dømes som sosial arena for innbyggjarane. Dermed ønskjer departementet å o modernisere og styrke nærbutikkar, som viktige tenesteleverandørar i distrikta. o styrke tilgangen til drivstoff i distrikta. o ruste opp eksisterande anlegg i tilknyting til dagligvarebutikkar. </p>
-    </list>
-    <p>Les eiga pressemeldingom drivstofftilgangen i distrikta.</p>
-    <list>
-      <p type="listitem"><em type="italic">Bulyst: </em>Regjeringa gjer framlegg om å løyve 42 millionar kroner til tilskotsordninga Bulyst. Programmet skal støtte opp om lokale og regionale utviklingsprosjekt, som fremjer bulyst i heile landet, og skaffe ny kunnskap om kva som skapar bulyst. 10 millionar av midlane er reserverte til prosjekt som har fått støtte i 2011, for å sikre eit langsiktig perspektiv på arbeidet. </p>
-      <p type="listitem"><em type="italic">Nytt tilskot for bustadetablering i Distrikts- Noreg: </em>Regjeringa foreslår å løyve 20 millionar kroner til eit tilskot som skal stimulere til auka tilbod av ulike typar bustader i kommunar med små og usikre bustadmarknader og/eller mangel på bustader. Eit av måla er å gjere det lettare å rekruttera arbeidskraft. Målet er å bidra til å utvikle attraktive lokalsamfunn. Tilskottet er ei ordning for utvalde kommunar. Les eiga pressemelding om nytt tilskot for bustadetablering i Distrikts-Noreg. </p>
-      <p type="listitem"><em type="italic">Lokal samfunnsutvikling i kommunane (LUK): </em>Regjeringa gjer framlegg om å løyve 30 millionar kroner til tiltaket i 2012. Satsinga, som fylkeskommunane har ansvar for å sette ut i livet, skal utvikle kommunane sitt arbeid med å planlegge, mobilisere, samarbeide og gjennomføre utviklingstiltak, for på det viset å bidra til meir attraktive lokalsamfunn. </p>
-    </list>
-    <p type="title">Fylkesvise artiklar - dei regionale utviklingmidla for 2012</p>
-    <list>
-      <p type="listitem">17.4 millionar til regional utvikling i Akershus</p>
-      <p type="listitem">33 millionar til regional utvikling i Aust-Agder</p>
-      <p type="listitem">32,5 millionar til regional utvikling i Buskerud</p>
-      <p type="listitem">131 millionar til regional utvikling i Finnmark ( Sámegiella )</p>
-      <p type="listitem">80 millionar til regional utvikling i Hedmark</p>
-      <p type="listitem">74 millionar til regional utvikling i Hordaland</p>
-      <p type="listitem">126 millionar til regional utvikling i Møre og Romsdal</p>
-      <p type="listitem">256 millionar til regional utvilling i Nordland ( Sámegiella )</p>
-      <p type="listitem">107 millionar til regional utvikling i Nord-Trøndelag</p>
-      <p type="listitem">74 millionar til regional utvikling i Oppland</p>
-      <p type="listitem">11,5 millionar til regional utvikling i Oslo</p>
-      <p type="listitem">32 millionar til regional utvikling i Rogaland</p>
-      <p type="listitem">97 millionar til regional utvikling i Sogn og Fjordane</p>
-      <p type="listitem">84 millionar til regional utvikling i Sør-Trøndelag</p>
-      <p type="listitem">60 millionar til regional utvikling i Telemark</p>
-      <p type="listitem">174 millionar til regional utvikling i Troms ( Sámegiella )</p>
-      <p type="listitem">35 millionar til regional utvikling i Vest-Agder</p>
-      <p type="listitem">11,5 millionar til regional utvikling i Vestfold</p>
-      <p type="listitem">21 millionar til regional utvikling i Østfold</p>
-    </list>
-    <p type="listitem">Gå til Kommunal- og regionaldepartementet si samleside for statsbudsjettet 2012.</p>
-    <p>Kommunal- og regionaldepartementet sin pressetelefon: 22 24 25 00.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>2,68 miljárdda kruvnnu biire- ja guovlopolitihkkii - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/></author><year>2011</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>957</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/krd/pressesenter/Pressemeldingar/2011/komm-pressemelding-1.html?id=657051</origFileName><parallel_text xml:lang="eng" location="nok-268-billion-to-rural-and-regional-po_id_657051.html"/><parallel_text xml:lang="sme" location="268-miljardda-kruvnnu-biire--ja-guovlopo_id_657051.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>2,68 milliardar kroner til distrikts- og regionalpolitikken - regjeringen.no</p>
+<p><em type="italic">Regjeringa foreslår å løyve om lag 2,68 milliardar kroner til distrikts- og regionalpolitikken i 2012. Under den raudgrøne regjeringa er det løyvd om lag 18 milliardar kroner til distrikts- og regionalutvikling. </em></p>
+<p>I lys av budsjettsituasjonen er løyvinga til dei særskilde distrikts- og regionalpolitiske verkemidla under Kommunal- og regionaldepartementet reduserte med om lag 92 millionar kroner frå 2011. Held vi kompensasjon for auka arbeidsgjevaravgift utanom, er løyvinga til distrikts- og regionalpolitikken 718 millionar kroner høgare i 2012 enn kva ho var i 2005. Dette er ein nominell vekst på 53,6 prosent.</p>
+<p>- Dette syner at me held oppe innsatsen for å utvikle arbeidsplassar og attraktive lokalsamfunn i heile landet, seier kommunal- og regionalminister Liv Signe Navarsete.</p>
+<p>Gjennom distrikts- og regionalpolitikken ynskjer regjeringa å ta ressursane i heile landet i bruk, og bidra til verdiskaping, arbeidsplassar og velferd der folk bur.</p>
+<p>Fylkeskommunane forvaltar rundt 2,2 milliardar kroner, eller vel 80 prosent, av dei særskilde midlane til distrikts- og regionalpolitikken. Då er kompenasjonsmidlane for auka arbeidsgjevaravgift tekne med.</p>
+<p>Rapportane frå fylkeskommunane for 2010 viser at fylkeskommunane fordelte 56 prosent av midlane til næringsutvikling, 20,5 prosent til å skape god lokal og regional kompetanse og infrastruktur og 16,5 prosent målet om å utvikle attraktive lokalsamfunn.</p>
+<p>- Fylkeskommunane gjer eit i viktig arbeid for å nå dei nasjonale måla for distrikts- og regionalpolitikken, seier Navarsete.</p>
+<p type="title">Tiltak i statsbudsjettet for 2012:</p>
+<p type="title">Næringsutvikling og entreprenørskap</p>
+<list><p type="listitem"><em type="italic">Kommunale og regionale næringsfond: </em>Regjeringa gjer framlegg om at Kommunal- og regionaldepartementet vidarefører den store satsinga på kommunale og regionale næringsfond med ei løyving på 225 millionar kroner i 2012. Næringsfonda skal gjere kommunar og regionar betre rusta til å legge til rette for verdiskaping og sysselsetting. </p>
+<p type="listitem"><em type="italic">Næringshageprogrammet: </em>SIVA har starta opp nytt næringshageprogram hausten 2011. Regjeringa gjer framlegg om at Kommunal- og regionaldepartementet gir 40 millionar kroner til programmet i 2012, ein auke frå 2011 og ei dobling frå 2010. Programmet skal bidra til å utvikle nye arbeidsplassar innan kunnskapsbaserte næringar i distrikta. Les eiga pressemelding om næringshageprogrammet. </p>
+<p type="listitem"><em type="italic">Satsing på entreprenørskap blant unge i distrikta: </em>Regjeringa gjer framlegg om å auke tilskotet til Ungt Entreprenørskap over Kommunal- og regionaldepartementet sitt budsjett, med 2 millionar kroner til 13 millionar kroner. I tillegg gjer regjeringa framlegg om å auke den ekstraordinære satsinga på entreprenørskap blant unge i Nord-Noreg, som går gjennom Innovasjon Noreg, med 1 million kroner til 5 millionar kroner. Les eiga pressemelding om entreprenørskap blant unge i distrikta. </p>
+<p type="listitem"><em type="italic">Verdiskapingsprogram for lokale og regionale parkar: </em>Regjeringa gjer framlegg om å løyve 10 millionar kroner til ei ny ordning for å auke næringsutvikling og verdiskaping i særskilde område med potensial for dette. Områda som kan få støtte må gi ei sams tilhøyre for dei som bur og har aktivitet i området. Verdiar skal utviklast gjennom å gjere bruk av natur- og kulturverdiar som ressurs på berekraftig vis. Les eiga pressemelding om verdiskapingsprogram for lokale og regionale parkar. </p>
+</list><p type="title">Attraktive lokalsamfunn og gode tenester</p>
+<list><p type="listitem"><em type="italic">Styrking av MERKUR-programmet og utviklings- og investeringsstøtta til utkantbutikkar </em>: Det er sett av 47,2 millionar kroner til desse tiltaka i 2012. Dette er ein auke på heile 21,2 millionar kroner, som blant anna skal nyttast til å utvide ordninga ved å styrke drivstofftilgangen i distrikta. Noko av midlane skal òg nyttast til å utvikle nye konsept for korleis dagligvarebutikkar kan styrke si stilling som sentral tenesteleverandør, til dømes som sosial arena for innbyggjarane. Dermed ønskjer departementet å o modernisere og styrke nærbutikkar, som viktige tenesteleverandørar i distrikta. o styrke tilgangen til drivstoff i distrikta. o ruste opp eksisterande anlegg i tilknyting til dagligvarebutikkar. </p>
+</list><p>Les eiga pressemeldingom drivstofftilgangen i distrikta.</p>
+<list><p type="listitem"><em type="italic">Bulyst: </em>Regjeringa gjer framlegg om å løyve 42 millionar kroner til tilskotsordninga Bulyst. Programmet skal støtte opp om lokale og regionale utviklingsprosjekt, som fremjer bulyst i heile landet, og skaffe ny kunnskap om kva som skapar bulyst. 10 millionar av midlane er reserverte til prosjekt som har fått støtte i 2011, for å sikre eit langsiktig perspektiv på arbeidet. </p>
+<p type="listitem"><em type="italic">Nytt tilskot for bustadetablering i Distrikts- Noreg: </em>Regjeringa foreslår å løyve 20 millionar kroner til eit tilskot som skal stimulere til auka tilbod av ulike typar bustader i kommunar med små og usikre bustadmarknader og/eller mangel på bustader. Eit av måla er å gjere det lettare å rekruttera arbeidskraft. Målet er å bidra til å utvikle attraktive lokalsamfunn. Tilskottet er ei ordning for utvalde kommunar. Les eiga pressemelding om nytt tilskot for bustadetablering i Distrikts-Noreg. </p>
+<p type="listitem"><em type="italic">Lokal samfunnsutvikling i kommunane (LUK): </em>Regjeringa gjer framlegg om å løyve 30 millionar kroner til tiltaket i 2012. Satsinga, som fylkeskommunane har ansvar for å sette ut i livet, skal utvikle kommunane sitt arbeid med å planlegge, mobilisere, samarbeide og gjennomføre utviklingstiltak, for på det viset å bidra til meir attraktive lokalsamfunn. </p>
+</list><p type="title">Fylkesvise artiklar - dei regionale utviklingmidla for 2012</p>
+<list><p type="listitem">17.4 millionar til regional utvikling i Akershus</p>
+<p type="listitem">33 millionar til regional utvikling i Aust-Agder</p>
+<p type="listitem">32,5 millionar til regional utvikling i Buskerud</p>
+<p type="listitem">131 millionar til regional utvikling i Finnmark ( Sámegiella )</p>
+<p type="listitem">80 millionar til regional utvikling i Hedmark</p>
+<p type="listitem">74 millionar til regional utvikling i Hordaland</p>
+<p type="listitem">126 millionar til regional utvikling i Møre og Romsdal</p>
+<p type="listitem">256 millionar til regional utvilling i Nordland ( Sámegiella )</p>
+<p type="listitem">107 millionar til regional utvikling i Nord-Trøndelag</p>
+<p type="listitem">74 millionar til regional utvikling i Oppland</p>
+<p type="listitem">11,5 millionar til regional utvikling i Oslo</p>
+<p type="listitem">32 millionar til regional utvikling i Rogaland</p>
+<p type="listitem">97 millionar til regional utvikling i Sogn og Fjordane</p>
+<p type="listitem">84 millionar til regional utvikling i Sør-Trøndelag</p>
+<p type="listitem">60 millionar til regional utvikling i Telemark</p>
+<p type="listitem">174 millionar til regional utvikling i Troms ( Sámegiella )</p>
+<p type="listitem">35 millionar til regional utvikling i Vest-Agder</p>
+<p type="listitem">11,5 millionar til regional utvikling i Vestfold</p>
+<p type="listitem">21 millionar til regional utvikling i Østfold</p>
+</list><p type="listitem">Gå til Kommunal- og regionaldepartementet si samleside for statsbudsjettet 2012.</p>
+<p>Kommunal- og regionaldepartementet sin pressetelefon: 22 24 25 00.</p>
+</body></document>

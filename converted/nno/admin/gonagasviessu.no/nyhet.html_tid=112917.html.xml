@@ -1,46 +1,18 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Dronninga sine inntrykk frå Noreg  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>271</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=112917</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=112917.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=112917_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title">Dronninga sine inntrykk frå Noreg</p>
-    <p>I kveld heldt Hennar Majestet Dronning Sonja biletkåseriet <span type="quote" xml:lang="eng">"Impressions of Norway"</span> for Hans Majestet Kongen og 200 representantar frå norsk og utanlandsk reiselivsbransje. Foredraget byggjer på Dronninga sine eigne bilete og opplevingar av norsk natur.</p>
-    <p xml:lang="koi">27.11.2012</p>
-    <p>Dronning Sonja har gjennom mange år utforska Noreg på kryss og tvers, til fots og på ski og til alle årstider. Ho er òg ein ivrig fotograf. I kveld delte ho nokre av opplevingane sine.</p>
-    <p>Reisa gjekk frå Lillehammer og Oslo, via Finse og Hardanger, til Lofoten. Dronninga viste fram landet gjennom alle fire årstider og i både godt og mindre godt vêr for reiselivsrepresentantar frå ti ulike land.</p>
-    <p>Innovasjon Noreg stod bak arrangementet i Nobels Fredssenter, der også årets Reiselivspris vart delt ut.</p>
-    <p type="title" xml:lang="fin">Reiselivsprisen 2012</p>
-    <p>Kvart år kårar Innovasjon Noreg årets reiselivsbedrift. Reiselivsprisen går til den bedrifta som har introdusert ei ny og innovativ reiselivsoppleving eller vidareutvikla ei eksisterande. Opplevinga skal ha ein positiv innverknad på Noreg som reisemål.</p>
-    <p>Dei nominerte i år var</p>
-    <list>
-      <p type="listitem">Høgt og lågt aktivitetspark AS, som tilbyr apparat i tre og løyper med ulik vanskegrad. Alle aktivitetane er tilrettelagde på ein berekraftig måte, slik at dei ikkje øydelegg eller gjer skade på omgjevnadene</p>
-      <p type="listitem">XXLofoten AS, som organiserer små og store events, kongressar og konferansar, opplevingar og nesten alle former for utandørsaktivitetar i Lofoten</p>
-      <p type="listitem">Skistar Norge AS, som gjennom skiferieopplevingane sine har sørgd for at Trysil og Hemsedal er sterke internasjonale alpindestinasjonar</p>
-    </list>
-    <p>Etter ein videopresentasjon av dei tre nominerte annonserte Innovasjon Noreg vinnaren, og Dronning Sonja kunne gratulere XXLofoten som Årets reiselivsbedrift.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem">Innovasjonnorge.no</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Dronninga sine inntrykk frå Noreg  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>270</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=112917</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=112917.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=112917_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Dronninga sine inntrykk frå Noreg</p>
+<p>I kveld heldt Hennar Majestet Dronning Sonja biletkåseriet <span type="quote" xml:lang="eng">"Impressions of Norway"</span> for Hans Majestet Kongen og 200 representantar frå norsk og utanlandsk reiselivsbransje. Foredraget byggjer på Dronninga sine eigne bilete og opplevingar av norsk natur.</p>
+<p xml:lang="vep">27.11.2012</p>
+<p>Dronning Sonja har gjennom mange år utforska Noreg på kryss og tvers, til fots og på ski og til alle årstider. Ho er òg ein ivrig fotograf. I kveld delte ho nokre av opplevingane sine.</p>
+<p>Reisa gjekk frå Lillehammer og Oslo, via Finse og Hardanger, til Lofoten. Dronninga viste fram landet gjennom alle fire årstider og i både godt og mindre godt vêr for reiselivsrepresentantar frå ti ulike land.</p>
+<p>Innovasjon Noreg stod bak arrangementet i Nobels Fredssenter, der også årets Reiselivspris vart delt ut.</p>
+<p type="title" xml:lang="fin">Reiselivsprisen 2012</p>
+<p>Kvart år kårar Innovasjon Noreg årets reiselivsbedrift. Reiselivsprisen går til den bedrifta som har introdusert ei ny og innovativ reiselivsoppleving eller vidareutvikla ei eksisterande. Opplevinga skal ha ein positiv innverknad på Noreg som reisemål.</p>
+<p>Dei nominerte i år var</p>
+<list><p type="listitem">Høgt og lågt aktivitetspark AS, som tilbyr apparat i tre og løyper med ulik vanskegrad. Alle aktivitetane er tilrettelagde på ein berekraftig måte, slik at dei ikkje øydelegg eller gjer skade på omgjevnadene</p>
+<p type="listitem">XXLofoten AS, som organiserer små og store events, kongressar og konferansar, opplevingar og nesten alle former for utandørsaktivitetar i Lofoten</p>
+<p type="listitem">Skistar Norge AS, som gjennom skiferieopplevingane sine har sørgd for at Trysil og Hemsedal er sterke internasjonale alpindestinasjonar</p>
+</list><p>Etter ein videopresentasjon av dei tre nominerte annonserte Innovasjon Noreg vinnaren, og Dronning Sonja kunne gratulere XXLofoten som Årets reiselivsbedrift.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem">Innovasjonnorge.no</p>
+</list></body></document>

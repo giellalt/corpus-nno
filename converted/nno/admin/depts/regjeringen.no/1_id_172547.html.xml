@@ -1,40 +1,13 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>468</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.regjeringen.no/nn/dep/aid/dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20022003/otprp-nr-34-2002-2003-/1.html?id=172547</origFileName>
-    <parallel_text xml:lang="sme" location="1_id_172556.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>1 Innleiing og samandrag - regjeringen.no</p>
-    <p>Ot.prp. nr. 34 (2002-2003)</p>
-    <p type="title">Om lov om endring i samelova m.m.</p>
-    <p type="title">1 Innleiing og samandrag</p>
-    <p>I lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger er det bestemt at det på eller frå offentlege bygningar og eigendommar i kommunen eller bygningar eller eigendommar som hovudsakleg blir nytta av kommunale institusjonar, berre må nyttast det norske flagget eller by-, herads- eller fylkesflagg godkjent av Kongen. Regjeringa har i St.meld nr. 33 (2001-2002) varsla at ein ville vurdere om lova burde endrast i samsvar med gjeldande praksis for bruken av det samiske flagget.</p>
-    <p>Det samiske flagget blei godkjent av den 13. Nordiske samekonferansen i Åre 15. august 1986. Kunstnaren Astrid Båhl har teikna flagget. Hovudmotivet er henta frå runebomma, og diktet <span type="quote">«Beaivvi bártnit»</span> av sørsamen Anders Fjellner (1795-1876). Fjellner framstiller samane som son og dotter av sola. Sirklane i flagget føresteller sola (raud) og månen (blå). Flagget har fargane raudt (pantone 485 C), grønt (pantone 356 C), gult (pantone 116 C) og blått (pantone 286 C).</p>
-    <p>Det samiske flagget er eit samlande symbol for samar på tvers av landegrensene, og blir i dag brukt av bl.a. av Sametinga i Noreg, Sverige og Finland, fylkeskommunar, kommunar, organisasjonar, nokre statlege institusjonar og i privat samanheng. Flagget blir brukt ved offisielle nasjonale flaggdagar, samiske flaggdagar og høgtidelege høve.</p>
-    <p>I vedtaket frå samekonferansen er det bestemt at bruken av det samiske flagget skal følgje reglane for flagging i dei respektive landa, og at flagget kan brukast som andre nasjonalflagg i spesielle høgtidelege samanhengar.</p>
-    <p>Utanriksdepartementet fastsette førebels reglar for bruk av det samiske flagget før opninga av det første Sametinget i 1989. Reglane gjeld i realiteten berre rangering av flagget. Reglane blei seinare justert i 1990, og lyder:</p>
-    <p><span type="quote">«Samenes flagg rangerer etter nasjonalflagget. Det bør gå foran fylkes- og tilsvarende flagg, fordi det er et symbol for en gruppe som nasjonalt når utover et enkelt fylke. Samenes flagg rangerer på linje med Den norske Kirkes flagg, de konkrete omstendigheter ved arrangementet vil avgjøre hvilket flagg som rangerer først. For øvrig ønsker man å benevne flagget «samenes flagg»</span>, og ikke ved det mer uspesifiserte <span type="quote">«sameflagget»</span>, fordi det her dreier seg om et felles flagg for samene i de tre nordiske land, Norge, Finland og Sverige. Et slikt flagg vil ikke ha helt den samme stilling som et flagg for samene bare i Norge. Man vil også inntil videre la samenes flagg rangere etter flagg som Grønland, Færøyene og Åland.»</p>
-    <p>Det er vidare tilrådd at flagget skal handsamast med respekt og at det skal praktiserast ei restriktiv linje i kommersiell samanheng.</p>
-    <p>Kommunal- og regionaldepartementet fremmar med dette forslag om å heimle bruken av det samiske flagget i det norske lovverket. Forslaget gjer det nødvendig å endre lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>468</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.regjeringen.no/nn/dep/aid/dokument/proposisjonar-og-meldingar/Odelstingsproposisjonar/20022003/otprp-nr-34-2002-2003-/1.html?id=172547</origFileName><parallel_text xml:lang="sme" location="1_id_172556.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>1 Innleiing og samandrag - regjeringen.no</p>
+<p>Ot.prp. nr. 34 (2002-2003)</p>
+<p type="title">Om lov om endring i samelova m.m.</p>
+<p type="title">1 Innleiing og samandrag</p>
+<p>I lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger er det bestemt at det på eller frå offentlege bygningar og eigendommar i kommunen eller bygningar eller eigendommar som hovudsakleg blir nytta av kommunale institusjonar, berre må nyttast det norske flagget eller by-, herads- eller fylkesflagg godkjent av Kongen. Regjeringa har i St.meld nr. 33 (2001-2002) varsla at ein ville vurdere om lova burde endrast i samsvar med gjeldande praksis for bruken av det samiske flagget.</p>
+<p>Det samiske flagget blei godkjent av den 13. Nordiske samekonferansen i Åre 15. august 1986. Kunstnaren Astrid Båhl har teikna flagget. Hovudmotivet er henta frå runebomma, og diktet <span type="quote">«Beaivvi bártnit»</span> av sørsamen Anders Fjellner (1795-1876). Fjellner framstiller samane som son og dotter av sola. Sirklane i flagget føresteller sola (raud) og månen (blå). Flagget har fargane raudt (pantone 485 C), grønt (pantone 356 C), gult (pantone 116 C) og blått (pantone 286 C).</p>
+<p>Det samiske flagget er eit samlande symbol for samar på tvers av landegrensene, og blir i dag brukt av bl.a. av Sametinga i Noreg, Sverige og Finland, fylkeskommunar, kommunar, organisasjonar, nokre statlege institusjonar og i privat samanheng. Flagget blir brukt ved offisielle nasjonale flaggdagar, samiske flaggdagar og høgtidelege høve.</p>
+<p>I vedtaket frå samekonferansen er det bestemt at bruken av det samiske flagget skal følgje reglane for flagging i dei respektive landa, og at flagget kan brukast som andre nasjonalflagg i spesielle høgtidelege samanhengar.</p>
+<p>Utanriksdepartementet fastsette førebels reglar for bruk av det samiske flagget før opninga av det første Sametinget i 1989. Reglane gjeld i realiteten berre rangering av flagget. Reglane blei seinare justert i 1990, og lyder:</p>
+<p><span type="quote">«Samenes flagg rangerer etter nasjonalflagget. Det bør gå foran fylkes- og tilsvarende flagg, fordi det er et symbol for en gruppe som nasjonalt når utover et enkelt fylke. Samenes flagg rangerer på linje med Den norske Kirkes flagg, de konkrete omstendigheter ved arrangementet vil avgjøre hvilket flagg som rangerer først. For øvrig ønsker man å benevne flagget «samenes flagg»</span>, og ikke ved det mer uspesifiserte <span type="quote">«sameflagget»</span>, fordi det her dreier seg om et felles flagg for samene i de tre nordiske land, Norge, Finland og Sverige. Et slikt flagg vil ikke ha helt den samme stilling som et flagg for samene bare i Norge. Man vil også inntil videre la samenes flagg rangere etter flagg som Grønland, Færøyene og Åland.»</p>
+<p>Det er vidare tilrådd at flagget skal handsamast med respekt og at det skal praktiserast ei restriktiv linje i kommersiell samanheng.</p>
+<p>Kommunal- og regionaldepartementet fremmar med dette forslag om å heimle bruken av det samiske flagget i det norske lovverket. Forslaget gjer det nødvendig å endre lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger.</p>
+</body></document>

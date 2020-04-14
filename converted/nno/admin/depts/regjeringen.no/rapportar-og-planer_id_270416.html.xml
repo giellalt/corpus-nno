@@ -1,65 +1,32 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Raporttat ja plánat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>305</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/aid/dokument/rapportar-og-planer.html?id=270416</origFileName>
-    <parallel_text xml:lang="nob" location="rapporter_planer_id_270416.html"/>
-    <parallel_text xml:lang="sme" location="raporttat-ja-planat_id_270416.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Rapportar og planar - regjeringen.no</p>
-    <p>Under rapportar og planar finn du eit oversyn over utvalde rapportar og planar som er utgjeven av eller overlevert til Arbeidsdepartementet.</p>
-    <p type="title">Tiltak for å bedre NAVs virkemåte</p>
-    <p>[24.06.2010]</p>
-    <p>Sluttrapport fra ekspertgruppa som vurderer oppgave- og ansvarsdelingen i NAV.</p>
-    <p type="title">Etter inntektsoppgjørene 2010</p>
-    <p>[21.06.2010]</p>
-    <p>Oppsummering av lønnsoppgjørene og statistikk for lønn og lønnsfordeling. Rapport fra Det tekniske beregningsutvalget for inntektsoppgjørene.</p>
-    <p type="title">Med rett til å varsle ...men hjelper det, og er det lurt?</p>
-    <p>[10.06.2010]</p>
-    <p>En evaluering av varslingsreglene. Forfatter: Sissel C. Trygstad. Fafo-rapport 2010:18.</p>
-    <p type="title">Handlingsplan for oppfølging av IA-avtalen og protokoll for å forebygge og redusere sykefraværet og styrke inkluderingen</p>
-    <p>[25.05.2010]</p>
-    <p type="title">NAVs organisasjon og virkemåte Delrapport 1</p>
-    <p>[30.04.2010]</p>
-    <p>Delrapport fra Ekspertgruppe som vurderer oppgave og ansvarsfordelingen i Arbeids- og velferdsetaten (NAV). Rapporten beskriver dagens arbeidsdeling og samhandling mellom NAV-kontor og forvaltningsenheter, samt erfaringene med de løsningene som er valgt, så langt.</p>
-    <p type="title">Utredning av hvordan tilbud innenfor høyere utdanning kan bidra til å dekke langsiktig kompetansebehov i Arbeids- og velferdsforvaltningen</p>
-    <p>[29.03.2010]</p>
-    <p>Sluttrapport fra Rambøll for utredning av hvordan tilbud innenfor høyere utdanning kan bidra til å dekke langsiktig kompetansebehov i arbeids- og velferdsforvaltningen.</p>
-    <p type="title">Om grunnlaget for inntektsoppgjørene 2010</p>
-    <p>[29.03.2010]</p>
-    <p>Rapport fra Det tekniske beregningsutvalget for inntektsoppgjørene (TBU).</p>
-    <p type="title">Innvandreres arbeidsforhold</p>
-    <p>[02.03.2010]</p>
-    <p>Rapport fra Rambøll som gjennomgår kunnskapsstatus om innvandreres arbeidsforhold basert på foreliggende norsk, og i noen grad nordisk, litteratur. Rapporten sammenstiller også foreliggende statistiske data og data fra større undersøkelser. Kunnskapsstatusen peker også på videre kunnskapsbehov som p.t. ikke er tilstrekkelig dekket.</p>
-    <p type="title">Effekter av lovreguleringer av stillingsvern og arbeidstid</p>
-    <p>[22.02.2010]</p>
-    <p>Rapport fra Econ med oversikt over forskning og kunnskap om effekter av arbeidslivsreguleringer og forslag til hvordan videre forskning om emnet bør legges opp. Prosjektet er begrenset til reguleringer knyttet til stillingsvern og generelle regler om maksimal arbeidstid.</p>
-    <p type="title">Tiltak for reduksjon i sykefravær: Aktiviserings‐og nærværsreform</p>
-    <p>[03.02.2010]</p>
-    <p>Ekspertgrupperapport til Arbeidsdepartementet 01.02.10 ifølge mandat av 27.11.09.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Raporttat ja plánat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>305</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/aid/dokument/rapportar-og-planer.html?id=270416</origFileName><parallel_text xml:lang="nob" location="rapporter_planer_id_270416.html"/><parallel_text xml:lang="sme" location="raporttat-ja-planat_id_270416.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rapportar og planar - regjeringen.no</p>
+<p>Under rapportar og planar finn du eit oversyn over utvalde rapportar og planar som er utgjeven av eller overlevert til Arbeidsdepartementet.</p>
+<p type="title">Tiltak for å bedre NAVs virkemåte</p>
+<p>[24.06.2010]</p>
+<p>Sluttrapport fra ekspertgruppa som vurderer oppgave- og ansvarsdelingen i NAV.</p>
+<p type="title">Etter inntektsoppgjørene 2010</p>
+<p>[21.06.2010]</p>
+<p>Oppsummering av lønnsoppgjørene og statistikk for lønn og lønnsfordeling. Rapport fra Det tekniske beregningsutvalget for inntektsoppgjørene.</p>
+<p type="title">Med rett til å varsle ...men hjelper det, og er det lurt?</p>
+<p>[10.06.2010]</p>
+<p>En evaluering av varslingsreglene. Forfatter: Sissel C. Trygstad. Fafo-rapport 2010:18.</p>
+<p type="title">Handlingsplan for oppfølging av IA-avtalen og protokoll for å forebygge og redusere sykefraværet og styrke inkluderingen</p>
+<p>[25.05.2010]</p>
+<p type="title">NAVs organisasjon og virkemåte Delrapport 1</p>
+<p>[30.04.2010]</p>
+<p>Delrapport fra Ekspertgruppe som vurderer oppgave og ansvarsfordelingen i Arbeids- og velferdsetaten (NAV). Rapporten beskriver dagens arbeidsdeling og samhandling mellom NAV-kontor og forvaltningsenheter, samt erfaringene med de løsningene som er valgt, så langt.</p>
+<p type="title">Utredning av hvordan tilbud innenfor høyere utdanning kan bidra til å dekke langsiktig kompetansebehov i Arbeids- og velferdsforvaltningen</p>
+<p>[29.03.2010]</p>
+<p>Sluttrapport fra Rambøll for utredning av hvordan tilbud innenfor høyere utdanning kan bidra til å dekke langsiktig kompetansebehov i arbeids- og velferdsforvaltningen.</p>
+<p type="title">Om grunnlaget for inntektsoppgjørene 2010</p>
+<p>[29.03.2010]</p>
+<p>Rapport fra Det tekniske beregningsutvalget for inntektsoppgjørene (TBU).</p>
+<p type="title">Innvandreres arbeidsforhold</p>
+<p>[02.03.2010]</p>
+<p>Rapport fra Rambøll som gjennomgår kunnskapsstatus om innvandreres arbeidsforhold basert på foreliggende norsk, og i noen grad nordisk, litteratur. Rapporten sammenstiller også foreliggende statistiske data og data fra større undersøkelser. Kunnskapsstatusen peker også på videre kunnskapsbehov som p.t. ikke er tilstrekkelig dekket.</p>
+<p type="title">Effekter av lovreguleringer av stillingsvern og arbeidstid</p>
+<p>[22.02.2010]</p>
+<p>Rapport fra Econ med oversikt over forskning og kunnskap om effekter av arbeidslivsreguleringer og forslag til hvordan videre forskning om emnet bør legges opp. Prosjektet er begrenset til reguleringer knyttet til stillingsvern og generelle regler om maksimal arbeidstid.</p>
+<p type="title">Tiltak for reduksjon i sykefravær: Aktiviserings‐og nærværsreform</p>
+<p>[03.02.2010]</p>
+<p>Ekspertgrupperapport til Arbeidsdepartementet 01.02.10 ifølge mandat av 27.11.09.</p>
+</body></document>

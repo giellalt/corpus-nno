@@ -1,49 +1,16 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>NAV - Tilskudd til flytting - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>291</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Tilskudd+til+flytting/Tilskudd+til+flytting/805322308.cms</origFileName>
-    <parallel_text xml:lang="eng" location="805369541.html"/>
-    <parallel_text xml:lang="nob" location="1042.html"/>
-    <parallel_text xml:lang="sme" location="229551.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Tilskot til flytting</p>
-    <p>Du kan få tilskot til å dekkje flytteutgifter dersom du må flytte for å komme i arbeid.</p>
-    <p type="title">Kven kan få tilskot til flytting?</p>
-    <p>Dersom du er einsleg mor eller far og må flytte for å komme i arbeid, kan du ha rett til tilskot til flytting. Du må leggje fram opplysningar som viser at du ikkje kan få høveleg arbeid på bustaden, eller at arbeid på bustaden ikkje kan komme i gang fordi du manglar tilsynsordning for barnet. Du må òg dokumentere at du har eit konkret arbeidstilbod på tilflyttingsstaden. Du vil ikkje ha rett til tilskot til flytting dersom andre, til dømes arbeidsgivaren din, dekkjer utgiftene.</p>
-    <p type="title">Kva kan du få?</p>
-    <p>Tilskotet kan bli gitt når du har rett til overgangsstønad, eller innan seks månader etter at overgangsstønaden har falle bort. Tilskotet kan dekkje både reise- og flytteutgifter og vil variere avhengig av flyttemengd, flyttelengd og anna.</p>
-    <p>Flyttetilskotet skal dekkjast etter rimelegaste alternativ. Du må derfor innhente minst to tilbod.</p>
-    <p>Tilskot til flytting blir utbetalt som eingongsbeløp og er ei skattefri yting.</p>
-    <p type="title">Korleis søkjer du om tilskot til flytting?</p>
-    <p>Du søkjer på blanketten <span type="quote">”Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til einsleg mor/far”</span>, som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden om tilskot til flytting.</p>
-    <p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
-    <p type="title">Vedtak</p>
-    <p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
-    <p type="title">Hvis du flytter til utlandet</p>
-    <p>Du skal alltid melde frå til NAV-kontoret ditt dersom du flytter til eller skal opphalde deg mellombels i utlandet. Du kan lese meir om opphald i utlandet under Internasjonalt i menyen til høgre.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>NAV - Tilskudd til flytting - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>291</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Tilskudd+til+flytting/Tilskudd+til+flytting/805322308.cms</origFileName><parallel_text xml:lang="eng" location="805369541.html"/><parallel_text xml:lang="nob" location="1042.html"/><parallel_text xml:lang="sme" location="229551.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Tilskot til flytting</p>
+<p>Du kan få tilskot til å dekkje flytteutgifter dersom du må flytte for å komme i arbeid.</p>
+<p type="title">Kven kan få tilskot til flytting?</p>
+<p>Dersom du er einsleg mor eller far og må flytte for å komme i arbeid, kan du ha rett til tilskot til flytting. Du må leggje fram opplysningar som viser at du ikkje kan få høveleg arbeid på bustaden, eller at arbeid på bustaden ikkje kan komme i gang fordi du manglar tilsynsordning for barnet. Du må òg dokumentere at du har eit konkret arbeidstilbod på tilflyttingsstaden. Du vil ikkje ha rett til tilskot til flytting dersom andre, til dømes arbeidsgivaren din, dekkjer utgiftene.</p>
+<p type="title">Kva kan du få?</p>
+<p>Tilskotet kan bli gitt når du har rett til overgangsstønad, eller innan seks månader etter at overgangsstønaden har falle bort. Tilskotet kan dekkje både reise- og flytteutgifter og vil variere avhengig av flyttemengd, flyttelengd og anna.</p>
+<p>Flyttetilskotet skal dekkjast etter rimelegaste alternativ. Du må derfor innhente minst to tilbod.</p>
+<p>Tilskot til flytting blir utbetalt som eingongsbeløp og er ei skattefri yting.</p>
+<p type="title">Korleis søkjer du om tilskot til flytting?</p>
+<p>Du søkjer på blanketten <span type="quote">”Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til einsleg mor/far”</span>, som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden om tilskot til flytting.</p>
+<p>Søknaden sender eller leverer du til NAV-kontoret ditt.</p>
+<p type="title">Vedtak</p>
+<p>Du får først eit varsel om saksbehandlingstida. Når saka er ferdigbehandla, får du ei skriftleg melding om vedtaket.</p>
+<p type="title">Hvis du flytter til utlandet</p>
+<p>Du skal alltid melde frå til NAV-kontoret ditt dersom du flytter til eller skal opphalde deg mellombels i utlandet. Du kan lese meir om opphald i utlandet under Internasjonalt i menyen til høgre.</p>
+</body></document>

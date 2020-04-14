@@ -1,122 +1,79 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>NAV - Barnetrygd - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>748</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Barnetrygd/Barnetrygd/805322312.cms</origFileName>
-    <parallel_text xml:lang="eng" location="212728.html"/>
-    <parallel_text xml:lang="nob" location="barnetrygd.html"/>
-    <parallel_text xml:lang="sme" location="barnetrygd.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Barnetrygd</p>
-    <p>Barnetrygd er ein stønad som blir gitt for alle barn under 18 år som er busette i Noreg. Barnetrygda skal bidra til å dekkje utgifter ved å ha barn. Dersom du er einsleg forsørgjar, kan du få barnetrygd for eitt barn meir enn du faktisk bur saman med (utvida barnetrygd).</p>
-    <p type="title">Kven kan få barnetrygd?</p>
-    <list>
-      <p type="listitem">Mora eller faren til barnet kan få barnetrygd. Dersom foreldra har inngått avtale om delt bustad for barnet, kan barnetrygda delast likt mellom dei.</p>
-      <p type="listitem">Fosterforeldre, ein annan omsorgsperson eller ein barnevernsinstitusjon kan få barnetrygd dersom barnet bur der fast (utover tre månader).</p>
-    </list>
-    <p>Dersom du skal få barnetrygd, må barnet ditt vere busett i Noreg. Dersom barnet ditt oppheld seg i Noreg i minst tolv månader samanhengande, blir det i regelen rekna som busett. Det finst unntak frå denne regelen. Du kan lese meir om barnetrygd ved opphald i EØS-land under <span type="quote">”Internasjonalt”</span> i menyen til høgre.</p>
-    <p type="title">Kven kan få utvida barnetrygd?</p>
-    <p>Utvida barnetrygd er barnetrygd for eitt barn meir enn du faktisk bur saman med. Du kan få utvida barnetrygd dersom du bur åleine med barn og</p>
-    <list>
-      <p type="listitem">er separert, skild eller attlevande ektefelle</p>
-      <p type="listitem">er ugift og ikkje lever saman med den andre forelderen (det må liggje føre meklingsattest ved samlivsbrot mellom sambuarar som har felles barn under 16 år)</p>
-      <p type="listitem">har vore faktisk separert i minst seks månader utan separasjonsløyve eller dom</p>
-      <p type="listitem">har ein ektefelle/sambuar som sit i fengsel med vilkårslaus straff på minst seks månader, eller som har vore i varetekt i minst seks månader</p>
-      <p type="listitem">har ein ektefelle/sambuar som har vore forsvunnen i minst seks månader</p>
-    </list>
-    <p>Utvida barnetrygd fell bort dersom du</p>
-    <list>
-      <p type="listitem">gifter deg</p>
-      <p type="listitem">har vore sambuar med nokon du ikkje har felles barn med, i tolv månader</p>
-    </list>
-    <p type="title">Når du flytter til utlandet</p>
-    <p>Dersom du har eit mellombels opphald i utlandet saman med barnet, kan du få barnetrygd sidan barnet då framleis blir rekna som busett i Noreg. Barnet blir som hovudregel ikkje lenger rekna som busett i Noreg dersom det skal opphalde seg i utlandet i meir enn seks månader, eller dersom det oppheld seg i utlandet i til saman meir enn seks månader per år i to eller fleire år etter kvarandre. Unntaket er dersom barnet og den/dei som barnet bur saman med under opphaldet, er pliktige eller frivillige medlemmer i folketrygda. Meir om barnetrygd ved utanlandsopphald under <span type="quote">”Internasjonalt”</span> i menyen til høgre.</p>
-    <p type="title">Kva kan du få i barnetrygd?</p>
-    <p>Du kan få</p>
-    <list>
-      <p type="listitem">ordinær barnetrygd, som er eit fast beløp per barn</p>
-      <p type="listitem">finnmarkstillegg dersom du bur og oppheld deg i Finnmark eller ein av kommunane Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy eller Storfjord i Nord-Troms</p>
-      <p type="listitem">svalbardtillegg dersom du er busett på Svalbard</p>
-      <p type="listitem">utvida barnetrygd</p>
-      <p type="listitem">småbarnstillegg, som er eit tillegg til barnetrygda for einslege forsørgjarar som har barn mellom null og tre år, og som får utvida barnetrygd og full overgangsstønad</p>
-    </list>
-    <p type="title">Kor lenge kan du få barnetrygd?</p>
-    <p>Du kan få barnetrygd frå månaden etter at barnet er født, eller frå månaden etter at vilkåra er oppfylte, dersom retten til barnetrygd oppstår på eit seinare tidspunkt. Barnetrygda blir utbetalt til og med månaden før barnet fyller 18 år.</p>
-    <p>Barnetrygda kan etterbetalast for opptil tre år frå søknadstidspunktet dersom vilkåra har vore oppfylte.</p>
-    <p type="title">Korleis søkjer du om barnetrygd?</p>
-    <p>Du treng som hovudregel ikkje å søkje om barnetrygd. Dersom barnet blir født i Noreg, skal mora automatisk få vedtak frå NAV om utbetaling av barnetrygd om lag to månader etter fødselen. Ønskjer du utbetaling til far, må du gi beskjed om det til NAV-kontoret ditt.</p>
-    <p>De må likevel søkje om barnetrygd når</p>
-    <list>
-      <p type="listitem">mora ikkje er registrert som busett i Noreg</p>
-      <p type="listitem">barnet er eldre enn seks månader når retten til barnetrygd tek til å gjelde</p>
-      <p type="listitem">du kan ha rett til utvida barnetrygd</p>
-      <p type="listitem">foreldra skriftleg har avtalt delt bustad for barnet og ønskjer delt utbetaling</p>
-      <p type="listitem">barnetrygda skal vurderast etter reglane i EØS-avtalen eller andre trygdeavtalar</p>
-    </list>
-    <p>Du søkjer ved å fylle ut søknadsblanketten ” Søknad om barnetrygd ” som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden.</p>
-    <p>Søknaden leverer eller sender du til NAV-kontoret ditt.</p>
-    <p type="title">Satsar</p>
-    <p type="title">Barnetrygd</p>
-    <p>Satsar</p>
-    <p>Beløp per månad</p>
-    <p>Ordinær sats per barn:</p>
-    <p>970 kr.</p>
-    <p>Finnmarkstillegget per barn:</p>
-    <p>320 kr.</p>
-    <p>Småbarnstillegg til einsleg forsørgjar:</p>
-    <p>660 kr.</p>
-    <p>Utvida barnetrygd til einsleg forsørgjar:</p>
-    <p>970 kr.</p>
-    <p>Barnetrygda er skattefri og blir utbetalt ein gong per månad.</p>
-    <p type="title">Utbetalingsdatoar</p>
-    <p type="title">Barnetrygd</p>
-    <p>Datoene gjelder for 2010.</p>
-    <p>Jan</p>
-    <p>Feb</p>
-    <p>Mar</p>
-    <p>Apr</p>
-    <p>Mai</p>
-    <p>Jun</p>
-    <p>Jul</p>
-    <p>Aug</p>
-    <p>Sept</p>
-    <p>Okt</p>
-    <p>Nov</p>
-    <p>Des</p>
-    <p>29.</p>
-    <p>26.</p>
-    <p>31.</p>
-    <p>30.</p>
-    <p>31.</p>
-    <p>30.</p>
-    <p>30.</p>
-    <p>31.</p>
-    <p>30.</p>
-    <p>29.</p>
-    <p>30.</p>
-    <p>17.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>NAV - Barnetrygd - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>748</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Barnetrygd/Barnetrygd/805322312.cms</origFileName><parallel_text xml:lang="eng" location="212728.html"/><parallel_text xml:lang="nob" location="barnetrygd.html"/><parallel_text xml:lang="sme" location="barnetrygd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Barnetrygd</p>
+<p>Barnetrygd er ein stønad som blir gitt for alle barn under 18 år som er busette i Noreg. Barnetrygda skal bidra til å dekkje utgifter ved å ha barn. Dersom du er einsleg forsørgjar, kan du få barnetrygd for eitt barn meir enn du faktisk bur saman med (utvida barnetrygd).</p>
+<p type="title">Kven kan få barnetrygd?</p>
+<list><p type="listitem">Mora eller faren til barnet kan få barnetrygd. Dersom foreldra har inngått avtale om delt bustad for barnet, kan barnetrygda delast likt mellom dei.</p>
+<p type="listitem">Fosterforeldre, ein annan omsorgsperson eller ein barnevernsinstitusjon kan få barnetrygd dersom barnet bur der fast (utover tre månader).</p>
+</list><p>Dersom du skal få barnetrygd, må barnet ditt vere busett i Noreg. Dersom barnet ditt oppheld seg i Noreg i minst tolv månader samanhengande, blir det i regelen rekna som busett. Det finst unntak frå denne regelen. Du kan lese meir om barnetrygd ved opphald i EØS-land under <span type="quote">”Internasjonalt”</span> i menyen til høgre.</p>
+<p type="title">Kven kan få utvida barnetrygd?</p>
+<p>Utvida barnetrygd er barnetrygd for eitt barn meir enn du faktisk bur saman med. Du kan få utvida barnetrygd dersom du bur åleine med barn og</p>
+<list><p type="listitem">er separert, skild eller attlevande ektefelle</p>
+<p type="listitem">er ugift og ikkje lever saman med den andre forelderen (det må liggje føre meklingsattest ved samlivsbrot mellom sambuarar som har felles barn under 16 år)</p>
+<p type="listitem">har vore faktisk separert i minst seks månader utan separasjonsløyve eller dom</p>
+<p type="listitem">har ein ektefelle/sambuar som sit i fengsel med vilkårslaus straff på minst seks månader, eller som har vore i varetekt i minst seks månader</p>
+<p type="listitem">har ein ektefelle/sambuar som har vore forsvunnen i minst seks månader</p>
+</list><p>Utvida barnetrygd fell bort dersom du</p>
+<list><p type="listitem">gifter deg</p>
+<p type="listitem">har vore sambuar med nokon du ikkje har felles barn med, i tolv månader</p>
+</list><p type="title">Når du flytter til utlandet</p>
+<p>Dersom du har eit mellombels opphald i utlandet saman med barnet, kan du få barnetrygd sidan barnet då framleis blir rekna som busett i Noreg. Barnet blir som hovudregel ikkje lenger rekna som busett i Noreg dersom det skal opphalde seg i utlandet i meir enn seks månader, eller dersom det oppheld seg i utlandet i til saman meir enn seks månader per år i to eller fleire år etter kvarandre. Unntaket er dersom barnet og den/dei som barnet bur saman med under opphaldet, er pliktige eller frivillige medlemmer i folketrygda. Meir om barnetrygd ved utanlandsopphald under <span type="quote">”Internasjonalt”</span> i menyen til høgre.</p>
+<p type="title">Kva kan du få i barnetrygd?</p>
+<p>Du kan få</p>
+<list><p type="listitem">ordinær barnetrygd, som er eit fast beløp per barn</p>
+<p type="listitem">finnmarkstillegg dersom du bur og oppheld deg i Finnmark eller ein av kommunane Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy eller Storfjord i Nord-Troms</p>
+<p type="listitem">svalbardtillegg dersom du er busett på Svalbard</p>
+<p type="listitem">utvida barnetrygd</p>
+<p type="listitem">småbarnstillegg, som er eit tillegg til barnetrygda for einslege forsørgjarar som har barn mellom null og tre år, og som får utvida barnetrygd og full overgangsstønad</p>
+</list><p type="title">Kor lenge kan du få barnetrygd?</p>
+<p>Du kan få barnetrygd frå månaden etter at barnet er født, eller frå månaden etter at vilkåra er oppfylte, dersom retten til barnetrygd oppstår på eit seinare tidspunkt. Barnetrygda blir utbetalt til og med månaden før barnet fyller 18 år.</p>
+<p>Barnetrygda kan etterbetalast for opptil tre år frå søknadstidspunktet dersom vilkåra har vore oppfylte.</p>
+<p type="title">Korleis søkjer du om barnetrygd?</p>
+<p>Du treng som hovudregel ikkje å søkje om barnetrygd. Dersom barnet blir født i Noreg, skal mora automatisk få vedtak frå NAV om utbetaling av barnetrygd om lag to månader etter fødselen. Ønskjer du utbetaling til far, må du gi beskjed om det til NAV-kontoret ditt.</p>
+<p>De må likevel søkje om barnetrygd når</p>
+<list><p type="listitem">mora ikkje er registrert som busett i Noreg</p>
+<p type="listitem">barnet er eldre enn seks månader når retten til barnetrygd tek til å gjelde</p>
+<p type="listitem">du kan ha rett til utvida barnetrygd</p>
+<p type="listitem">foreldra skriftleg har avtalt delt bustad for barnet og ønskjer delt utbetaling</p>
+<p type="listitem">barnetrygda skal vurderast etter reglane i EØS-avtalen eller andre trygdeavtalar</p>
+</list><p>Du søkjer ved å fylle ut søknadsblanketten ” Søknad om barnetrygd ” som du finn under Skjema og vedlegg i menyen til høgre. Her finn du òg informasjon om kva vedlegg/dokumentasjon du må leggje ved søknaden.</p>
+<p>Søknaden leverer eller sender du til NAV-kontoret ditt.</p>
+<p type="title">Satsar</p>
+<p type="title">Barnetrygd</p>
+<p>Satsar</p>
+<p>Beløp per månad</p>
+<p>Ordinær sats per barn:</p>
+<p>970 kr.</p>
+<p>Finnmarkstillegget per barn:</p>
+<p>320 kr.</p>
+<p>Småbarnstillegg til einsleg forsørgjar:</p>
+<p>660 kr.</p>
+<p>Utvida barnetrygd til einsleg forsørgjar:</p>
+<p>970 kr.</p>
+<p>Barnetrygda er skattefri og blir utbetalt ein gong per månad.</p>
+<p type="title">Utbetalingsdatoar</p>
+<p type="title">Barnetrygd</p>
+<p>Datoene gjelder for 2010.</p>
+<p>Jan</p>
+<p>Feb</p>
+<p>Mar</p>
+<p>Apr</p>
+<p>Mai</p>
+<p>Jun</p>
+<p>Jul</p>
+<p>Aug</p>
+<p>Sept</p>
+<p>Okt</p>
+<p>Nov</p>
+<p>Des</p>
+<p>29.</p>
+<p>26.</p>
+<p>31.</p>
+<p>30.</p>
+<p>31.</p>
+<p>30.</p>
+<p>30.</p>
+<p>31.</p>
+<p>30.</p>
+<p>29.</p>
+<p>30.</p>
+<p>17.</p>
+</body></document>

@@ -1,75 +1,42 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Vuollásaš ásahusat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>439</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/om-departementet/Underliggjande-etatar.html?id=115196</origFileName>
-    <parallel_text xml:lang="nob" location="underliggende-etater_id_115196.html"/>
-    <parallel_text xml:lang="sme" location="vuollasa-asahusat_id_115196.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Underliggjande etatar - regjeringen.no</p>
-    <p type="title">Bispedømmerådene</p>
-    <p>Bispedømmerådene utgjør samlet Kirkemøtets medlemmer. I hvert av de elleve bispedømmene er det et bispedømmeråd. Flertallet av medlemmene i rådene velges av menighetsrådene i bispedømmet.</p>
-    <p type="title">Datatilsynet</p>
-    <p>Datatilsynet er opprettet for å påse at personopplysningsloven blir fulgt. Formålet med loven er å verne den enkelte mot krenking av personvernet gjennom bruk av personopplysninger.</p>
-    <p>Nettsida til Datatilsynet</p>
-    <p type="title">Departementenes servicesenter (DSS)</p>
-    <p>Departementenes servicesenter har som mål å være et kompetent og effektivt administrativt verktøy for regjeringen og departementene.</p>
-    <p>Nettsida til Departementenes servicesenter (DSS)</p>
-    <p type="title">Det praktisk-teologiske seminar</p>
-    <p>Det praktisk-teologiske seminar skal gi prestekandidater, prester og andre teoretisk og praktisk utdanning på høgskolenivå for tjeneste i Den norske kirke, samt drive forskning og utviklingsarbeid innenfor sine fagområder.</p>
-    <p>Nettsida til Det praktisk-teologiske seminar</p>
-    <p type="title">Direktoratet for forvaltning og IKT</p>
-    <p>Direktoratet for forvaltning og IKT (DIFI) skal bidra til å styrke regjeringens arbeid med å fornye offentlig sektor og gjøre den effektiv og enklere tilgjengelig. DIFI skal også medvirke til at staten er organisert og ledet på en god måte, med nødvendig samordning på tvers av sektorer.</p>
-    <p>Nettsida til Direktoratet for forvaltning og IKT</p>
-    <p type="title">Fylkesmannsembetene</p>
-    <p>Fylkesmannen er statens representant i fylket. Fylkesmannen har viktige styrings- og rettledningsoppgaver overfor kommunene og skal føre tilsyn med den kommunale forvaltningen og den kommunale økonomien, bl.a. etter kommuneloven.</p>
-    <p>Nettsida til Fylkesmannsembetene</p>
-    <p type="title">Gáldu - Kompetansesenteret for urfolks rettigheter</p>
-    <p>Kompetansesenteret for urfolks rettigheter har til formål å øke kunnskapen om og forståelsen for urfolksrettigheter og samiske rettigheter.</p>
-    <p>Nettsida til Gáldu - Kompetansesenteret for urfolks rettigheter</p>
-    <p type="title">Internasjonalt reindriftssenter</p>
-    <p>Virksomheten skal skaffe til veie relevant kunnskap om tamreindriften i verden, formidle informasjon, dokumentasjon og forhold som har betydning for reindriftens vilkår, kultur og økologi, herunder forskningsresultater og tradisjonskunnskaper fra reindriften. Virksomheten skal også utvikle kommunikasjon og nettverksbygging mellom de forskjellige reindriftsfolkene i de cirkumpolare områdene.</p>
-    <p>Nettsida til Internasjonalt reindriftssenter</p>
-    <p type="title">Konkurransetilsynet</p>
-    <p>Konkurransetilsynets hovedoppgave er å håndheve konkurranseloven. Bedrifter har plikt til å melde fusjoner og oppkjøp til Konkurransetilsynet, og tilsynet kan gripe inn mot oppkjøp og fusjoner som begrenser konkurransen vesentlig.</p>
-    <p>Nettsida til Konkurransetilsynet</p>
-    <p type="title">Kyrkjerådet</p>
-    <p>Nettsida til Kyrkjerådet</p>
-    <p type="title">Nidaros Domkirkes Restaureringsarbeider</p>
-    <p>Nidaros Domkirkes Restaureringsarbeider (NDR) har som hovedmål å bevare, formidle og utvikle Nidaros Domkirke og Erkebispegården som levende kulturminner og kirkelige byggverk.</p>
-    <p>Nettsida til Nidaros Domkirkes Restaureringsarbeider</p>
-    <p type="title">Opplysningsvesenets fond</p>
-    <p>Opplysningsvesenets fond er en av landets største grunneiere og er blant annet eier av mange prestegårder, presteboliger, festetomter og store skogarealer.</p>
-    <p>Nettsida til Opplysningsvesenets fond</p>
-    <p type="title">Personvernnemnda</p>
-    <p>Personvernnemnda er klageorgan for vedtak fattet av Datatilsynet. Personvernnemnda skal behandle klager på vedtak som Datatilsynet fatter i medhold av personopplysningsloven og enkelte andre lover.</p>
-    <p>Nettsida til Personvernnemnda</p>
-    <p type="title">Statsbygg</p>
-    <p>Statsbygg er statens sentrale rådgiver i bygge- og eiendomssaker, byggherre, eiendomsforvalter og eiendomsutvikler.</p>
-    <p>Nettsida til Statsbygg</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Vuollásaš ásahusat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>439</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/om-departementet/Underliggjande-etatar.html?id=115196</origFileName><parallel_text xml:lang="nob" location="underliggende-etater_id_115196.html"/><parallel_text xml:lang="sme" location="vuollasa-asahusat_id_115196.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Underliggjande etatar - regjeringen.no</p>
+<p type="title">Bispedømmerådene</p>
+<p>Bispedømmerådene utgjør samlet Kirkemøtets medlemmer. I hvert av de elleve bispedømmene er det et bispedømmeråd. Flertallet av medlemmene i rådene velges av menighetsrådene i bispedømmet.</p>
+<p type="title">Datatilsynet</p>
+<p>Datatilsynet er opprettet for å påse at personopplysningsloven blir fulgt. Formålet med loven er å verne den enkelte mot krenking av personvernet gjennom bruk av personopplysninger.</p>
+<p>Nettsida til Datatilsynet</p>
+<p type="title">Departementenes servicesenter (DSS)</p>
+<p>Departementenes servicesenter har som mål å være et kompetent og effektivt administrativt verktøy for regjeringen og departementene.</p>
+<p>Nettsida til Departementenes servicesenter (DSS)</p>
+<p type="title">Det praktisk-teologiske seminar</p>
+<p>Det praktisk-teologiske seminar skal gi prestekandidater, prester og andre teoretisk og praktisk utdanning på høgskolenivå for tjeneste i Den norske kirke, samt drive forskning og utviklingsarbeid innenfor sine fagområder.</p>
+<p>Nettsida til Det praktisk-teologiske seminar</p>
+<p type="title">Direktoratet for forvaltning og IKT</p>
+<p>Direktoratet for forvaltning og IKT (DIFI) skal bidra til å styrke regjeringens arbeid med å fornye offentlig sektor og gjøre den effektiv og enklere tilgjengelig. DIFI skal også medvirke til at staten er organisert og ledet på en god måte, med nødvendig samordning på tvers av sektorer.</p>
+<p>Nettsida til Direktoratet for forvaltning og IKT</p>
+<p type="title">Fylkesmannsembetene</p>
+<p>Fylkesmannen er statens representant i fylket. Fylkesmannen har viktige styrings- og rettledningsoppgaver overfor kommunene og skal føre tilsyn med den kommunale forvaltningen og den kommunale økonomien, bl.a. etter kommuneloven.</p>
+<p>Nettsida til Fylkesmannsembetene</p>
+<p type="title">Gáldu - Kompetansesenteret for urfolks rettigheter</p>
+<p>Kompetansesenteret for urfolks rettigheter har til formål å øke kunnskapen om og forståelsen for urfolksrettigheter og samiske rettigheter.</p>
+<p>Nettsida til Gáldu - Kompetansesenteret for urfolks rettigheter</p>
+<p type="title">Internasjonalt reindriftssenter</p>
+<p>Virksomheten skal skaffe til veie relevant kunnskap om tamreindriften i verden, formidle informasjon, dokumentasjon og forhold som har betydning for reindriftens vilkår, kultur og økologi, herunder forskningsresultater og tradisjonskunnskaper fra reindriften. Virksomheten skal også utvikle kommunikasjon og nettverksbygging mellom de forskjellige reindriftsfolkene i de cirkumpolare områdene.</p>
+<p>Nettsida til Internasjonalt reindriftssenter</p>
+<p type="title">Konkurransetilsynet</p>
+<p>Konkurransetilsynets hovedoppgave er å håndheve konkurranseloven. Bedrifter har plikt til å melde fusjoner og oppkjøp til Konkurransetilsynet, og tilsynet kan gripe inn mot oppkjøp og fusjoner som begrenser konkurransen vesentlig.</p>
+<p>Nettsida til Konkurransetilsynet</p>
+<p type="title">Kyrkjerådet</p>
+<p>Nettsida til Kyrkjerådet</p>
+<p type="title">Nidaros Domkirkes Restaureringsarbeider</p>
+<p>Nidaros Domkirkes Restaureringsarbeider (NDR) har som hovedmål å bevare, formidle og utvikle Nidaros Domkirke og Erkebispegården som levende kulturminner og kirkelige byggverk.</p>
+<p>Nettsida til Nidaros Domkirkes Restaureringsarbeider</p>
+<p type="title">Opplysningsvesenets fond</p>
+<p>Opplysningsvesenets fond er en av landets største grunneiere og er blant annet eier av mange prestegårder, presteboliger, festetomter og store skogarealer.</p>
+<p>Nettsida til Opplysningsvesenets fond</p>
+<p type="title">Personvernnemnda</p>
+<p>Personvernnemnda er klageorgan for vedtak fattet av Datatilsynet. Personvernnemnda skal behandle klager på vedtak som Datatilsynet fatter i medhold av personopplysningsloven og enkelte andre lover.</p>
+<p>Nettsida til Personvernnemnda</p>
+<p type="title">Statsbygg</p>
+<p>Statsbygg er statens sentrale rådgiver i bygge- og eiendomssaker, byggherre, eiendomsforvalter og eiendomsutvikler.</p>
+<p>Nettsida til Statsbygg</p>
+</body></document>

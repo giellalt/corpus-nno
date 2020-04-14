@@ -1,43 +1,7 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Dál don beasat diehtit maid hálddahus bargá - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>280</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/No-kan-du-kike-forvaltninga-i-korta.html?id=605000</origFileName>
-    <parallel_text xml:lang="eng" location="every-citizen-now-able-to-look-public-authorities-in-the-cards_id_605000.html"/>
-    <parallel_text xml:lang="nob" location="na-kan-du-kikke-forvaltningen-i-kortene_id_605000.html"/>
-    <parallel_text xml:lang="sme" location="dal-don-beasat-diehtit-maid-halddahus-barga_id_605000.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>No kan du kike forvaltninga i korta - regjeringen.no</p>
-    <p>
-      <em type="italic">Offentleg elektronisk postjournal (OEP) er lansert som den første av sitt slag i verda. – Frå og med i dag kan alle no tinge innsyn i dokumenta i sentralforvaltninga. Før var det berre journalistar som kunne gjere dette. OEP er openheit og demokrati i praksis, seier fornyingsminister Rigmor Aasrud. </em>
-    </p>
-    <p>Alle dokument som blir sende til og frå departement, direktorat og statlege etatar blir journalførte. På OEP.er det no mogleg å bla og søkje i postjournalane. Finn du noko interessant, kan du enkelt tinge innsyn i dokumentet.</p>
-    <p>- Openheit føreset tilgjengelegheit. Med OEP kan både ekspertar og nybegynnarar på enkel måte skaffe seg oversikt og innblikk i statsforvaltninga. Vi har gjennom fleire år sett kor viktig tilgang til postjournalar er for pressa når det gjeld kritisk journalistikk. Eg håper OEP blir eit verktøy for demokrati og innbyggjarmedverknad, seier fornyingsminister Aasrud.</p>
-    <p>Også tidlegare har det vore mogleg for alle å tinge innsyn i offentlege dokument, men det føresette at ein kjende til ei bestemt sak. Berre journalistar har hatt ei generell oversikt over kva saker som blir sende til og frå for eksempel departementa. - Med OEP får alle den tilgangen som før berre galdt for journalistar, dessutan gjer no fleire verksemder enn før postjournalane sine tilgjengelege, seier statsråden. Ved lansering 18. mai 2010 er alle departementa, Statsministerens kontor og fleire statlege verksemder med i OEP. Fleire verksemder vil bli fasa inn etter kvart som desse er klare til å delta. Direktoratet for forvaltning og IKT (Difi) har forvaltnings- og administrasjonsansvaret for tenesta. Fornyings-, administrasjons- og kyrkjedepartementet har hatt ansvaret for utviklinga av OEP.</p>
-    <p>Les meir og ta i bruk OEP på www.OEP.no</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Dál don beasat diehtit maid hálddahus bargá - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>280</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2010/No-kan-du-kike-forvaltninga-i-korta.html?id=605000</origFileName><parallel_text xml:lang="eng" location="every-citizen-now-able-to-look-public-authorities-in-the-cards_id_605000.html"/><parallel_text xml:lang="nob" location="na-kan-du-kikke-forvaltningen-i-kortene_id_605000.html"/><parallel_text xml:lang="sme" location="dal-don-beasat-diehtit-maid-halddahus-barga_id_605000.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>No kan du kike forvaltninga i korta - regjeringen.no</p>
+<p><em type="italic">Offentleg elektronisk postjournal (OEP) er lansert som den første av sitt slag i verda. – Frå og med i dag kan alle no tinge innsyn i dokumenta i sentralforvaltninga. Før var det berre journalistar som kunne gjere dette. OEP er openheit og demokrati i praksis, seier fornyingsminister Rigmor Aasrud. </em></p>
+<p>Alle dokument som blir sende til og frå departement, direktorat og statlege etatar blir journalførte. På OEP.er det no mogleg å bla og søkje i postjournalane. Finn du noko interessant, kan du enkelt tinge innsyn i dokumentet.</p>
+<p>- Openheit føreset tilgjengelegheit. Med OEP kan både ekspertar og nybegynnarar på enkel måte skaffe seg oversikt og innblikk i statsforvaltninga. Vi har gjennom fleire år sett kor viktig tilgang til postjournalar er for pressa når det gjeld kritisk journalistikk. Eg håper OEP blir eit verktøy for demokrati og innbyggjarmedverknad, seier fornyingsminister Aasrud.</p>
+<p>Også tidlegare har det vore mogleg for alle å tinge innsyn i offentlege dokument, men det føresette at ein kjende til ei bestemt sak. Berre journalistar har hatt ei generell oversikt over kva saker som blir sende til og frå for eksempel departementa. - Med OEP får alle den tilgangen som før berre galdt for journalistar, dessutan gjer no fleire verksemder enn før postjournalane sine tilgjengelege, seier statsråden. Ved lansering 18. mai 2010 er alle departementa, Statsministerens kontor og fleire statlege verksemder med i OEP. Fleire verksemder vil bli fasa inn etter kvart som desse er klare til å delta. Direktoratet for forvaltning og IKT (Difi) har forvaltnings- og administrasjonsansvaret for tenesta. Fornyings-, administrasjons- og kyrkjedepartementet har hatt ansvaret for utviklinga av OEP.</p>
+<p>Les meir og ta i bruk OEP på www.OEP.no</p>
+</body></document>

@@ -1,50 +1,22 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Kronprinsen i St. Petersburg  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>348</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=119864</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=119864.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=119864_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title" xml:lang="nob">Kronprinsen i St. Petersburg</p>
-    <p>I dag innleidde H.K.H. Kronprins Haakon eit tre dagar langt offisielt besøk til Russland. Kronprinsen skal blant anna fremje norsk næringslivssatsing i St. Petersburg og Leningrad fylke.</p>
-    <p xml:lang="koi">25.02.2014</p>
-    <p>Med på reisa er statssekretær Dilek Ayhan frå Nærings- og fiskeridepartementet, statssekretær Kåre Fostervold frå Olje- og energidepartementet og statssekretær Bård Glad Pedersen frå Utanriksdepartementet.</p>
-    <p type="title" xml:lang="nob">Generalkonsulatet i St. Petersburg</p>
-    <p>Etter at han kom fram i dag, var Kronprinsen til stades på ei markering av dei nye lokala til det norske generalkonsulatet i St. Petersburg. Generalkonsulatet flytta inn i slutten av mai 2013 og husar ti tilsette – fem norske og fem russiske medarbeidarar. Etter markeringa vart det ei kort omvising i lokala.</p>
-    <p>Fleire større norske bedrifter har etablert seg i området. Kronprins Haakon besøkjer to av dei under besøket: målingprodusenten Jotun og FMC Technologies, som er verdas største leverandør til olje- og gassproduksjon på havbotnen.</p>
-    <p type="title">Diplomatisk samband</p>
-    <p>Generalkonsulatet dekkjer St. Petersburg, Novgorod fylke, Pskov fylke og Republikken Karelia, som alle hadde representantar til stades under markeringa. Embetsområdet utgjer 370 000 kvadratkilometer, som er på storleik med Noreg, og har eit folketal på rundt ni millionar.</p>
-    <p>Diplomatisk samband mellom Noreg og Russland vart etablert i 1905, og fram til 1918 hadde Noreg en legasjon i St. Petersburg. Det diplomatiske sambandet mellom Noreg og Sovjetunionen vart teke opp att i 1924 med eit konsulat i Leningrad, som byen heitte den gongen. Men i 1938 vart generalkonsulatet nedlagt – for å bli opna att 45 år seinare, i 1993.</p>
-    <p type="title">Vindauget mot vest</p>
-    <p>St. Petersburg vart grunnlagd av Peter den store i 1703 som hans <span type="quote">«vindauge mot vest»</span>. Byen har rundt fem millionar menneske og er eit viktig industrielt og økonomisk senter. Her ligg sentrale russiske forskings- og utdanningsinstitusjonar.</p>
-    <p>St. Petersburg er ikkje minst kjend for den rike historia og kulturarven. Museet Eremitasjen er verdskjent med si enorme samling fordelt over seks bygningar, blant dei Vinterpalasset.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Åpnet Jotuns nye fabrikk (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Besøk til FMC Technologies (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Statsbesøk fra Russland (Nyhet)</p>
-      <p type="listitem" xml:lang="nob">Russland 2003 (Artikkel)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Generalkonsulatet i St. Petersburg</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Kronprinsen i St. Petersburg  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>347</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=119864</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=119864.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=119864_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title" xml:lang="nob">Kronprinsen i St. Petersburg</p>
+<p>I dag innleidde H.K.H. Kronprins Haakon eit tre dagar langt offisielt besøk til Russland. Kronprinsen skal blant anna fremje norsk næringslivssatsing i St. Petersburg og Leningrad fylke.</p>
+<p xml:lang="vep">25.02.2014</p>
+<p>Med på reisa er statssekretær Dilek Ayhan frå Nærings- og fiskeridepartementet, statssekretær Kåre Fostervold frå Olje- og energidepartementet og statssekretær Bård Glad Pedersen frå Utanriksdepartementet.</p>
+<p type="title" xml:lang="nob">Generalkonsulatet i St. Petersburg</p>
+<p>Etter at han kom fram i dag, var Kronprinsen til stades på ei markering av dei nye lokala til det norske generalkonsulatet i St. Petersburg. Generalkonsulatet flytta inn i slutten av mai 2013 og husar ti tilsette – fem norske og fem russiske medarbeidarar. Etter markeringa vart det ei kort omvising i lokala.</p>
+<p>Fleire større norske bedrifter har etablert seg i området. Kronprins Haakon besøkjer to av dei under besøket: målingprodusenten Jotun og FMC Technologies, som er verdas største leverandør til olje- og gassproduksjon på havbotnen.</p>
+<p type="title">Diplomatisk samband</p>
+<p>Generalkonsulatet dekkjer St. Petersburg, Novgorod fylke, Pskov fylke og Republikken Karelia, som alle hadde representantar til stades under markeringa. Embetsområdet utgjer 370 000 kvadratkilometer, som er på storleik med Noreg, og har eit folketal på rundt ni millionar.</p>
+<p>Diplomatisk samband mellom Noreg og Russland vart etablert i 1905, og fram til 1918 hadde Noreg en legasjon i St. Petersburg. Det diplomatiske sambandet mellom Noreg og Sovjetunionen vart teke opp att i 1924 med eit konsulat i Leningrad, som byen heitte den gongen. Men i 1938 vart generalkonsulatet nedlagt – for å bli opna att 45 år seinare, i 1993.</p>
+<p type="title">Vindauget mot vest</p>
+<p>St. Petersburg vart grunnlagd av Peter den store i 1703 som hans <span type="quote">«vindauge mot vest»</span>. Byen har rundt fem millionar menneske og er eit viktig industrielt og økonomisk senter. Her ligg sentrale russiske forskings- og utdanningsinstitusjonar.</p>
+<p>St. Petersburg er ikkje minst kjend for den rike historia og kulturarven. Museet Eremitasjen er verdskjent med si enorme samling fordelt over seks bygningar, blant dei Vinterpalasset.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="nob">Åpnet Jotuns nye fabrikk (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Besøk til FMC Technologies (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Statsbesøk fra Russland (Nyhet)</p>
+<p type="listitem" xml:lang="nob">Russland 2003 (Artikkel)</p>
+</list><list><p type="listitem" xml:lang="nob">Generalkonsulatet i St. Petersburg</p>
+</list></body></document>

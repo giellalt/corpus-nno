@@ -1,36 +1,8 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Stivrenjoavku nammaduvvo árvalit muitobácciid suoidnemánu 22.b. fallehemiid oktavuođas - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>134</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/styringsgruppe-for-oppforing-av-minnesme.html?id=669328</origFileName>
-    <parallel_text xml:lang="sme" location="stivrenjoavku-nammaduvvo-arvalit-muitoba_id_669328.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Styringsgruppe for oppføring av minnesmerke etter angrepa 22. juli - regjeringen.no</p>
-    <p>Regjeringa har nedsett ei styringsgruppe som skal utgreie og foreslå utforming av minnesmerke etter angrepa 22. juli.</p>
-    <p>Styringsgruppa blir leidd av Åse Kleveland. Dei andre i gruppa representerer ulike involverte. Gruppa består elles av:</p>
-    <p>Kristin Berge, Kulturdepartementet Ingrid Vad Nilsen, Fornyings-, administrasjons-, og kyrkjedepartementet John Hestnes, lokal støttegruppe for 22. juli i Regjeringskvartalet Tonje Brenna, AUF Trond H Blattmann, Nasjonal støttegruppe etter 22. juli-hendingane.</p>
-    <p>Styringsgruppa skal fremje forslag til utforming og plassering av minnesmerka og skal leggje fram innstillinga si til Kulturdepartementet innan 1. april 2012.</p>
-    <p>Kunst i offentlege rom (KORO) vil vere involvert i dette arbeidet.</p>
-    <p>Regjeringa har avgjort at det skal vere to minnesmerke etter 22. juli, både i Oslo og ved Utøya. Minnesmerka skal heidre omkomne, overlevande, hjelpemannskap og frivillige.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Stivrenjoavku nammaduvvo árvalit muitobácciid suoidnemánu 22.b. fallehemiid oktavuođas - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>134</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/styringsgruppe-for-oppforing-av-minnesme.html?id=669328</origFileName><parallel_text xml:lang="sme" location="stivrenjoavku-nammaduvvo-arvalit-muitoba_id_669328.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Styringsgruppe for oppføring av minnesmerke etter angrepa 22. juli - regjeringen.no</p>
+<p>Regjeringa har nedsett ei styringsgruppe som skal utgreie og foreslå utforming av minnesmerke etter angrepa 22. juli.</p>
+<p>Styringsgruppa blir leidd av Åse Kleveland. Dei andre i gruppa representerer ulike involverte. Gruppa består elles av:</p>
+<p>Kristin Berge, Kulturdepartementet Ingrid Vad Nilsen, Fornyings-, administrasjons-, og kyrkjedepartementet John Hestnes, lokal støttegruppe for 22. juli i Regjeringskvartalet Tonje Brenna, AUF Trond H Blattmann, Nasjonal støttegruppe etter 22. juli-hendingane.</p>
+<p>Styringsgruppa skal fremje forslag til utforming og plassering av minnesmerka og skal leggje fram innstillinga si til Kulturdepartementet innan 1. april 2012.</p>
+<p>Kunst i offentlege rom (KORO) vil vere involvert i dette arbeidet.</p>
+<p>Regjeringa har avgjort at det skal vere to minnesmerke etter 22. juli, både i Oslo og ved Utøya. Minnesmerka skal heidre omkomne, overlevande, hjelpemannskap og frivillige.</p>
+</body></document>

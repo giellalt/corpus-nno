@@ -1,49 +1,14 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ovddasvástádussuorggit - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>142</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/aid/om-departementetnn/ansvarsomrade.html?id=190</origFileName>
-    <parallel_text xml:lang="nob" location="ansvarsomraader_id_190.html"/>
-    <parallel_text xml:lang="sme" location="ansvarsomrader_id_190.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ansvarsområde - regjeringen.no</p>
-    <p>Arbeids- og inkluderingsdepartementet har det overordna ansvaret for:</p>
-    <list>
-      <p type="listitem">Arbeidsmarknadspolitikk</p>
-      <p type="listitem">Arbeidsmiljø- og tryggleikspolitikk</p>
-      <p type="listitem">Pensjonspolitikk</p>
-      <p type="listitem">Velferds- og sosialpolitikk</p>
-    </list>
-    <p type="title">Oppgåver</p>
-    <p>Departementet sine oppgåver fell innanfor tre hovudområde:</p>
-    <p><em type="italic">Være sekretariat for statsråden: </em>Departementet skal hjelpe politisk leiing med å utforme politikk og overordna planar for gjennomføring av politikken på eige arbeidsområde, støtte kommunikasjonen med Storting og Regjering og leggje fram viktige enkeltsaker for politisk leiing. </p>
-    <p><em type="italic">Varetake forvaltningsoppgåver: </em>Departementet skal utføre forvaltningsoppgåver som er lagt til departementet, og vere klage- og overprøvingsinstans for saker som er behandla i ytre etatar. </p>
-    <p><em type="italic">Styre og følgje opp underliggjande verksemder: </em>Departementet skal setje mål, gi rammer, rettleie og følgje opp resultat i dei underliggjande etatane i samsvar med gjeldande lover og reglar og politiske retningslinjer. </p>
-    <p type="title">Europeisk samarbeid</p>
-    <p>Det bre ansvarsfeltet til Arbeidsdepartementet speglar seg også i departementet sine oppgåver på EU-/EØS-området. AD sine oppgåver innan EU og EØS</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ovddasvástádussuorggit - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>142</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/aid/om-departementetnn/ansvarsomrade.html?id=190</origFileName><parallel_text xml:lang="nob" location="ansvarsomraader_id_190.html"/><parallel_text xml:lang="sme" location="ansvarsomrader_id_190.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ansvarsområde - regjeringen.no</p>
+<p>Arbeids- og inkluderingsdepartementet har det overordna ansvaret for:</p>
+<list><p type="listitem">Arbeidsmarknadspolitikk</p>
+<p type="listitem">Arbeidsmiljø- og tryggleikspolitikk</p>
+<p type="listitem">Pensjonspolitikk</p>
+<p type="listitem">Velferds- og sosialpolitikk</p>
+</list><p type="title">Oppgåver</p>
+<p>Departementet sine oppgåver fell innanfor tre hovudområde:</p>
+<p><em type="italic">Være sekretariat for statsråden: </em>Departementet skal hjelpe politisk leiing med å utforme politikk og overordna planar for gjennomføring av politikken på eige arbeidsområde, støtte kommunikasjonen med Storting og Regjering og leggje fram viktige enkeltsaker for politisk leiing. </p>
+<p><em type="italic">Varetake forvaltningsoppgåver: </em>Departementet skal utføre forvaltningsoppgåver som er lagt til departementet, og vere klage- og overprøvingsinstans for saker som er behandla i ytre etatar. </p>
+<p><em type="italic">Styre og følgje opp underliggjande verksemder: </em>Departementet skal setje mål, gi rammer, rettleie og følgje opp resultat i dei underliggjande etatane i samsvar med gjeldande lover og reglar og politiske retningslinjer. </p>
+<p type="title">Europeisk samarbeid</p>
+<p>Det bre ansvarsfeltet til Arbeidsdepartementet speglar seg også i departementet sine oppgåver på EU-/EØS-området. AD sine oppgåver innan EU og EØS</p>
+</body></document>

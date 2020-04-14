@@ -1,42 +1,10 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Priváhtaskuvlaláhka rievdá - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kunnskapsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2014</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>321</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kd/Pressesenter/pressemeldingar/2014/endringar-i-privatskolelova.html?id=749098</origFileName>
-    <parallel_text xml:lang="eng" location="norway-offers-un-airlift-support_id_749123.html"/>
-    <parallel_text xml:lang="nob" location="klare-prioriteringer-i-hoyere-utdanning-_id_749226.html"/>
-    <parallel_text xml:lang="sme" location="privahtaskuvlalahka-rievda_id_749098.html"/>
-    <parallel_text xml:lang="smj" location="ekspeartalavdegoddi-galga-geahadit-gield_id_748785.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Endringar i privatskolelova - regjeringen.no</p>
-    <p type="title">Regjeringa foreslår å kunne gje dispensasjon frå kravet om at privatskolar må ha eit religiøst eller alternativt pedagogisk grunnlag for å få godkjenning.</p>
-    <p>Regjeringa har starta arbeidet med ny friskolelov. Det vil resultere i at dagens krav om  eit særleg  grunnlag for godkjenning blir fjerna frå privatskolelova. Medan Kunnskapsdepartementet arbeider med endringa, blir det  no opna  for å  søkje  godkjenning uavhengig av det  særskilde  grunnlaget. Forslaget blei sendt på høyring 10. januar.</p>
-    <p>– Dispensasjonsføresegna vil gje viktige erfaringar som vi tek med i det vidare arbeidet med den nye friskolelova, seier kunnskapsminister Torbjørn Røe Isaksen.</p>
-    <p>Forslaget opnar for å kunne gje dispensasjon dersom innhald og kvalitet i skolen elles oppfyller krava i lova. Fritaksordninga vil bli praktisert strengt, og etter ei grundig vurdering i kvart enkelt tilfelle. Det er berre unntak frå det særlege grunnlaget for godkjenning som vil kunne gje dispensasjon.</p>
-    <p>– For at aktørar som har idear til nyutvikling av norsk skole ikkje skal måtte vente til arbeidet med den nye lova er ferdig, innfører vi eit snevert dispensasjonshøve, seier Røe Isaksen.</p>
-    <p>Dispensasjonsføresegna vil vere aktuell for skolar som har eit pedagogisk tilbod eller ei organisering av undervisninga som er nyskapande i forhold til dagens offentlege og private skolar. Døme kan vere realfagsgymnas og somme yrkesfagsskolar.</p>
-    <p>Kunnskapsdepartementet vil i arbeidet med den nye friskolelova leggje vekt på at ho skal stimulere til skoleutvikling og gje eit større mangfald. Lova skal ta omsyn til at oppretting av friskolar ikkje skal gå utover det offentlege skoletilbodet, og at aktørar med kommersielle interesser ikkje vil kunne kvalifisere for statleg tilskot til drift. Forbodet mot å ta utbytte skal haldast ved lag.</p>
-    <p>Høyringsfristen for lovforslaget om innføring av mellombels dispensasjonsføresegn i privatskolelova er 21. februar 2014. Etter planen skal lovproposisjonen bli fremja for Stortinget før påske, og bli behandla før sommaren. Kunnskapsdepartementet har som ambisjon at skolar som blir godkjende etter dispensasjonsføresegna kan starte opp frå hausten 2015.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Priváhtaskuvlaláhka rievdá - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kunnskapsdepartementet" sex="unknown" born="" nationality=""/></author><year>2014</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>321</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kd/Pressesenter/pressemeldingar/2014/endringar-i-privatskolelova.html?id=749098</origFileName><parallel_text xml:lang="eng" location="norway-offers-un-airlift-support_id_749123.html"/><parallel_text xml:lang="nob" location="klare-prioriteringer-i-hoyere-utdanning-_id_749226.html"/><parallel_text xml:lang="sme" location="privahtaskuvlalahka-rievda_id_749098.html"/><parallel_text xml:lang="smj" location="ekspeartalavdegoddi-galga-geahadit-gield_id_748785.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Endringar i privatskolelova - regjeringen.no</p>
+<p type="title">Regjeringa foreslår å kunne gje dispensasjon frå kravet om at privatskolar må ha eit religiøst eller alternativt pedagogisk grunnlag for å få godkjenning.</p>
+<p>Regjeringa har starta arbeidet med ny friskolelov. Det vil resultere i at dagens krav om  eit særleg  grunnlag for godkjenning blir fjerna frå privatskolelova. Medan Kunnskapsdepartementet arbeider med endringa, blir det  no opna  for å  søkje  godkjenning uavhengig av det  særskilde  grunnlaget. Forslaget blei sendt på høyring 10. januar.</p>
+<p>– Dispensasjonsføresegna vil gje viktige erfaringar som vi tek med i det vidare arbeidet med den nye friskolelova, seier kunnskapsminister Torbjørn Røe Isaksen.</p>
+<p>Forslaget opnar for å kunne gje dispensasjon dersom innhald og kvalitet i skolen elles oppfyller krava i lova. Fritaksordninga vil bli praktisert strengt, og etter ei grundig vurdering i kvart enkelt tilfelle. Det er berre unntak frå det særlege grunnlaget for godkjenning som vil kunne gje dispensasjon.</p>
+<p>– For at aktørar som har idear til nyutvikling av norsk skole ikkje skal måtte vente til arbeidet med den nye lova er ferdig, innfører vi eit snevert dispensasjonshøve, seier Røe Isaksen.</p>
+<p>Dispensasjonsføresegna vil vere aktuell for skolar som har eit pedagogisk tilbod eller ei organisering av undervisninga som er nyskapande i forhold til dagens offentlege og private skolar. Døme kan vere realfagsgymnas og somme yrkesfagsskolar.</p>
+<p>Kunnskapsdepartementet vil i arbeidet med den nye friskolelova leggje vekt på at ho skal stimulere til skoleutvikling og gje eit større mangfald. Lova skal ta omsyn til at oppretting av friskolar ikkje skal gå utover det offentlege skoletilbodet, og at aktørar med kommersielle interesser ikkje vil kunne kvalifisere for statleg tilskot til drift. Forbodet mot å ta utbytte skal haldast ved lag.</p>
+<p>Høyringsfristen for lovforslaget om innføring av mellombels dispensasjonsføresegn i privatskolelova er 21. februar 2014. Etter planen skal lovproposisjonen bli fremja for Stortinget før påske, og bli behandla før sommaren. Kunnskapsdepartementet har som ambisjon at skolar som blir godkjende etter dispensasjonsføresegna kan starte opp frå hausten 2015.</p>
+</body></document>

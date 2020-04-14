@@ -1,59 +1,26 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Chris" lastname="Nickalls" sex="m" born="" nationality=""/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="eng"/>
-    <year>2009</year>
-    <wordcount>999</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://skuvla.info/skolehist/nickalls-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="nickalls-e.html"/>
-    <parallel_text xml:lang="sme" location="nickalls-s.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámegillii In English</p>
-    <p>Artikkel i boka Samisk skolehistorie 3 . Davvi Girji 2009.</p>
-    <p type="title">Chris Nickalls:</p>
-    <p type="title">Minne frå yrkeskursa i Kvalsund</p>
-    <p type="title">Omsett frå engelsk av Svein Lund</p>
-    <p><em type="bold">Chris Nickalls underviser elevar på kurset for mekaniske fag </em>(Foto: Fredsvennenes hjelpetjeneste) </p>
-    <p>
-      <em type="bold">Engelskmannen Chris Nickalls (1924–1992) var ein av dei som deltok i Fredsvennenes hjelpetjeneste (FHT) for å hjelpe til med den første gjenreisinga av Finnmark etter krigen. Han var utdanna på ein kvekarskole i York i England og var aktiv i hjelpeorganisasjonen <span type="quote">"Friends' Ambulance Unit"</span> Han kom til Kvalsund i juni 1946 og skulle opphavlig bare vere nokre månader, men enda med å ta på seg ansvaret for opplæringa i mekaniske fag da den starta opp utpå hausten. Seinare dro han tilbake til England, der han utdanna seg til ingeniør og arbeida særlig med vassforsyning og renseanlegg. </em>
-    </p>
-    <p>Dette er utdrag av ei forteljing han skreiv på 1970-talet, og den startar før yrkeskurset var kome i gang. Utdraget er redigert av Inez Boon.</p>
-    <p>Ein aktivitet som eg blei innblanda i og som eg likte veldig godt, var å ta i mot og pakke opp ei mengde esker med utmerka svensk snikkarverktøy og anna verktøy i lag med leir- og kjøkkenutstyr. Dette verktøyet blei delt opp i sett og følgde med dei forskjellige arbeidsgruppene da desse blei danna og spreidde utover i Finnmark.</p>
-    <p>I denne tida blei ein dag tatt som ferie, og mange av oss reiste da til Hammerfest i høve besøket til Hans Majestet Kong Haakon VII om bord på kongeskipet <span type="quote">«Norge»</span>. Feststemninga som dette skipet skapte – pynta overalt, med orkester som spelte på kaia og ein kongelig prosesjon gjennom bygatene, som den gongen var i gjenoppbyggingsprosessen – er uglømmelige minne. Eg forsto da at <span type="quote">«patriotisme»</span>, som eg i 1930-åra og under krigen hadde forbunde med militarisme og imperialisme, òg kunne vere noko anna.</p>
-    <p>
-      <em type="bold">Kong Haakon 7 på besøk i Hammerfest 10.07.1946. Ved sida av kongen ordførar Toralf Albrigtsen, bak kongen politimester Anton Dahl. </em>
-    </p>
-    <p>(Foto: Alf E. Jacobsen, Kilde: Hammerfest historielags kalender 1996)</p>
-    <p>Etter som året gikk og tida med dagslys blei kortare, vendte dei forskjellige bygningsgruppene tilbake til Kvalsund etter som prosjekta deira blei avslutta. Nokre reiste også sørover. Men FHT skulle ikkje bare vere eit reint sommartiltak. Da talet på folk i den største brakka gikk ned, blei ho endra til bruk som skolebygning med verkstadar for snikkar- og metallarbeid og eit husstellrom.</p>
-    <p>På denne tida bestemte eg meg for å forlenge opphaldet mitt i Noreg med ein periode fram til våren, sidan eg blei spurt om å vere instruktør for metallarbeidsklassen (fire eller fem gutar) på yrkesskolen som skulle bli sett opp for vintersesongen. Da det omfatta innkjøp av meir utstyr, gjorde eg ein tur sør til Oslo for dette føremålet. Mens eg var der, fikk ein omvisingsrunde i ein av dei statlige yrkesskolane for å sjå korleis slike ting var gjort i Noreg. Eg fikk også med meg nokre høvelige lærebøker. Fleire fascinerande besøk i den største verktøyforretninga i Oslo, Ingvald Nielsen, var naudsynt for å bestille og få pakka det utstyret som trongst for metallarbeidsklassen.</p>
-    <p>Herr Skogen hos Nielsen var spesielt hjelpsam med å velje ut det nødvendige verktøyet. Under tida i Oslo hadde eg æra av å få vere gjest i Marit Nansens familie. Ho budde på Lysaker i eit svært minneverdig hus bygd i eit vakkert skogholt av Marits bestefar, Fridtjof Nansen, polarforskaren. [1]</p>
-    <p>
-      <em type="bold">Frå snikkarkurset. </em>
-    </p>
-    <p>(Foto: Fredsvennenes hjelpetjeneste)</p>
-    <p>(I bokutgava av Samisk skolehistorie 3 har det dessverre skjedd ei forveksling av bilder. Dette du ser her er det rette bildet, bildet på side 292 i boka er fra Øytun folkehøgskole. Vi beklager feilen.)</p>
-    <p>Klassen min starta med fem elevar. Den eldste eleven, Ole Hætta, som var omtrent på min alder, var ein same frå Kautokeino. Bestefar hans hadde vore ansvarlig for fordrivinga av ein kristen misjonær. [2] Andre elevar var Charles Henriksen frå Sørøya (17), Johannes Pedersen, ein annan gut som eg har glømt namnet på [3] (han hadde ei søster ved namn Randi i husstellklassen) frå Mehamn, og ein femte gut som dessverre droppa ut etter bare eit par veker.</p>
-    <p>Verkstaden vår var forsynt med ein liten elektrisk dreiebenk, som var komen frå Sverige, og den var sjølve kjernen i dei tekniske ressursane våre. På grunn av behovet vårt for elektrisitet gjennom den 24 timar lange natta kunne dreiebenken bare brukast etter kveldsmaten. (Strømforsyninga kom frå ein vassturbin i åsane eit stykke unna, og det hadde vore for knapp tid for Herr Pedersen, den lokale kaksen, å installere transformatorar før vinteren sette inn og det planlagte systemet for opp- og nedregulering av høgspenninga måtte vente til året etter.)</p>
-    <p>Metallarbeidsaktivitetane inkluderte smiarbeid, tynnplatearbeid, lodding, filing, tilpassing og gjengeskjering. Høgdepunktet for Charles var da ein slektning av han, som var eigar av ein fiskebåt, hamna i Kvalsund med motoren ute av drift på grunn av eit utslitt berelager. Med litt improvisasjon var vi i stand til å støype om kvitmetallet, dreie til lageret i dreiebenken og få motoren i drift på om lag to dagar.</p>
-    <p>Vi var så travelt opptatt med å drive klassane og halde oss sjølve i drift, men eg hugsar nokre fritidsaktivitetar som omfatta eit skirenn etter at sola kom tilbake den 8 februar og ein fest i Pedersens hus, der det var eit piano som eg fikk lov å spele på …!</p>
-    <p>Etter ein veldig vellukka periode med høvelig avslutningsfest braut skolen opp, i tide til å la elevane få reise heim til påske. Mesteparten av verktøyet blei gitt til gutane som fullførte kurset og det blei laga kasser for å frakte dei heim. Noko av verktøyet til den femte eleven (han som droppa ut) kjøpte eg frå FHT for mine oppsparte lommepengar på éi krone dagen, og eg har dei og brukar dei framleis.</p>
-    <p>[1] Marit Nansen jobba sommaren 1946 i Finnmark saman med Fredsvennene. (IB) [2] Trulig er det her snakk om Kautokeinoopprøret i 1852, men det er mogleg at Nickalls her har misforstått historia litt. (red.) [3] Han heitte Alfred Jakobsen.(red.)</p>
-    <p>Flere artikler fra Samisk skolehistorie 3</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Chris" lastname="Nickalls" sex="m" born="" nationality=""/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="" nationality="NO"/></translator><translated_from xml:lang="eng"/><year>2009</year><wordcount>999</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://skuvla.info/skolehist/nickalls-n.htm</origFileName><parallel_text xml:lang="eng" location="nickalls-e.html"/><parallel_text xml:lang="sme" location="nickalls-s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámegillii In English</p>
+<p>Artikkel i boka Samisk skolehistorie 3 . Davvi Girji 2009.</p>
+<p type="title">Chris Nickalls:</p>
+<p type="title">Minne frå yrkeskursa i Kvalsund</p>
+<p type="title">Omsett frå engelsk av Svein Lund</p>
+<p><em type="bold">Chris Nickalls underviser elevar på kurset for mekaniske fag </em>(Foto: Fredsvennenes hjelpetjeneste) </p>
+<p><em type="bold">Engelskmannen Chris Nickalls (1924–1992) var ein av dei som deltok i Fredsvennenes hjelpetjeneste (FHT) for å hjelpe til med den første gjenreisinga av Finnmark etter krigen. Han var utdanna på ein kvekarskole i York i England og var aktiv i hjelpeorganisasjonen <span type="quote">"Friends' Ambulance Unit"</span> Han kom til Kvalsund i juni 1946 og skulle opphavlig bare vere nokre månader, men enda med å ta på seg ansvaret for opplæringa i mekaniske fag da den starta opp utpå hausten. Seinare dro han tilbake til England, der han utdanna seg til ingeniør og arbeida særlig med vassforsyning og renseanlegg. </em></p>
+<p>Dette er utdrag av ei forteljing han skreiv på 1970-talet, og den startar før yrkeskurset var kome i gang. Utdraget er redigert av Inez Boon.</p>
+<p>Ein aktivitet som eg blei innblanda i og som eg likte veldig godt, var å ta i mot og pakke opp ei mengde esker med utmerka svensk snikkarverktøy og anna verktøy i lag med leir- og kjøkkenutstyr. Dette verktøyet blei delt opp i sett og følgde med dei forskjellige arbeidsgruppene da desse blei danna og spreidde utover i Finnmark.</p>
+<p>I denne tida blei ein dag tatt som ferie, og mange av oss reiste da til Hammerfest i høve besøket til Hans Majestet Kong Haakon VII om bord på kongeskipet <span type="quote">«Norge»</span>. Feststemninga som dette skipet skapte – pynta overalt, med orkester som spelte på kaia og ein kongelig prosesjon gjennom bygatene, som den gongen var i gjenoppbyggingsprosessen – er uglømmelige minne. Eg forsto da at <span type="quote">«patriotisme»</span>, som eg i 1930-åra og under krigen hadde forbunde med militarisme og imperialisme, òg kunne vere noko anna.</p>
+<p><em type="bold">Kong Haakon 7 på besøk i Hammerfest 10.07.1946. Ved sida av kongen ordførar Toralf Albrigtsen, bak kongen politimester Anton Dahl. </em></p>
+<p>(Foto: Alf E. Jacobsen, Kilde: Hammerfest historielags kalender 1996)</p>
+<p>Etter som året gikk og tida med dagslys blei kortare, vendte dei forskjellige bygningsgruppene tilbake til Kvalsund etter som prosjekta deira blei avslutta. Nokre reiste også sørover. Men FHT skulle ikkje bare vere eit reint sommartiltak. Da talet på folk i den største brakka gikk ned, blei ho endra til bruk som skolebygning med verkstadar for snikkar- og metallarbeid og eit husstellrom.</p>
+<p>På denne tida bestemte eg meg for å forlenge opphaldet mitt i Noreg med ein periode fram til våren, sidan eg blei spurt om å vere instruktør for metallarbeidsklassen (fire eller fem gutar) på yrkesskolen som skulle bli sett opp for vintersesongen. Da det omfatta innkjøp av meir utstyr, gjorde eg ein tur sør til Oslo for dette føremålet. Mens eg var der, fikk ein omvisingsrunde i ein av dei statlige yrkesskolane for å sjå korleis slike ting var gjort i Noreg. Eg fikk også med meg nokre høvelige lærebøker. Fleire fascinerande besøk i den største verktøyforretninga i Oslo, Ingvald Nielsen, var naudsynt for å bestille og få pakka det utstyret som trongst for metallarbeidsklassen.</p>
+<p>Herr Skogen hos Nielsen var spesielt hjelpsam med å velje ut det nødvendige verktøyet. Under tida i Oslo hadde eg æra av å få vere gjest i Marit Nansens familie. Ho budde på Lysaker i eit svært minneverdig hus bygd i eit vakkert skogholt av Marits bestefar, Fridtjof Nansen, polarforskaren. [1]</p>
+<p><em type="bold">Frå snikkarkurset. </em></p>
+<p>(Foto: Fredsvennenes hjelpetjeneste)</p>
+<p>(I bokutgava av Samisk skolehistorie 3 har det dessverre skjedd ei forveksling av bilder. Dette du ser her er det rette bildet, bildet på side 292 i boka er fra Øytun folkehøgskole. Vi beklager feilen.)</p>
+<p>Klassen min starta med fem elevar. Den eldste eleven, Ole Hætta, som var omtrent på min alder, var ein same frå Kautokeino. Bestefar hans hadde vore ansvarlig for fordrivinga av ein kristen misjonær. [2] Andre elevar var Charles Henriksen frå Sørøya (17), Johannes Pedersen, ein annan gut som eg har glømt namnet på [3] (han hadde ei søster ved namn Randi i husstellklassen) frå Mehamn, og ein femte gut som dessverre droppa ut etter bare eit par veker.</p>
+<p>Verkstaden vår var forsynt med ein liten elektrisk dreiebenk, som var komen frå Sverige, og den var sjølve kjernen i dei tekniske ressursane våre. På grunn av behovet vårt for elektrisitet gjennom den 24 timar lange natta kunne dreiebenken bare brukast etter kveldsmaten. (Strømforsyninga kom frå ein vassturbin i åsane eit stykke unna, og det hadde vore for knapp tid for Herr Pedersen, den lokale kaksen, å installere transformatorar før vinteren sette inn og det planlagte systemet for opp- og nedregulering av høgspenninga måtte vente til året etter.)</p>
+<p>Metallarbeidsaktivitetane inkluderte smiarbeid, tynnplatearbeid, lodding, filing, tilpassing og gjengeskjering. Høgdepunktet for Charles var da ein slektning av han, som var eigar av ein fiskebåt, hamna i Kvalsund med motoren ute av drift på grunn av eit utslitt berelager. Med litt improvisasjon var vi i stand til å støype om kvitmetallet, dreie til lageret i dreiebenken og få motoren i drift på om lag to dagar.</p>
+<p>Vi var så travelt opptatt med å drive klassane og halde oss sjølve i drift, men eg hugsar nokre fritidsaktivitetar som omfatta eit skirenn etter at sola kom tilbake den 8 februar og ein fest i Pedersens hus, der det var eit piano som eg fikk lov å spele på …!</p>
+<p>Etter ein veldig vellukka periode med høvelig avslutningsfest braut skolen opp, i tide til å la elevane få reise heim til påske. Mesteparten av verktøyet blei gitt til gutane som fullførte kurset og det blei laga kasser for å frakte dei heim. Noko av verktøyet til den femte eleven (han som droppa ut) kjøpte eg frå FHT for mine oppsparte lommepengar på éi krone dagen, og eg har dei og brukar dei framleis.</p>
+<p>[1] Marit Nansen jobba sommaren 1946 i Finnmark saman med Fredsvennene. (IB) [2] Trulig er det her snakk om Kautokeinoopprøret i 1852, men det er mogleg at Nickalls her har misforstått historia litt. (red.) [3] Han heitte Alfred Jakobsen.(red.)</p>
+<p>Flere artikler fra Samisk skolehistorie 3</p>
+</body></document>

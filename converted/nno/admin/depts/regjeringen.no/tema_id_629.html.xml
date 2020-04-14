@@ -1,129 +1,43 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Fáttát - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>163</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/lmd/tema.html?id=629</origFileName>
-    <parallel_text xml:lang="eng" location="subjects_id_629.html"/>
-    <parallel_text xml:lang="nob" location="tema_id_629.html"/>
-    <parallel_text xml:lang="sme" location="fadda_id_629.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tema - regjeringen.no</p>
-    <p type="title">Tema</p>
-    <list>
-      <p type="listitem">
-        <span>Dyr </span>
-        <list>
-          <p type="listitem">Fugleinfluensa |</p>
-          <p type="listitem">Reindrift |</p>
-          <p type="listitem">Dyrehelse |</p>
-          <p type="listitem">Dyrevelferd |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Genmodifiserte organismar </span>
-      </p>
-      <p type="listitem">
-        <span>Internasjonalt samarbeid om landbruk og mat </span>
-        <list>
-          <p type="listitem">Internasjonal skogpolitikk |</p>
-          <p type="listitem">WTO og landbruk |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Jordbruk </span>
-        <list>
-          <p type="listitem">Jordbruksoppgjeret |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Jordbruksoppgjeret </span>
-      </p>
-      <p type="listitem">
-        <span>Landbruk i kommunane </span>
-      </p>
-      <p type="listitem">
-        <span>Landbruk og næringsutvikling </span>
-        <list>
-          <p type="listitem">Inn på tunet |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Landbruket sin miljø- og arealpolitikk </span>
-        <list>
-          <p type="listitem">Jordvern |</p>
-          <p type="listitem">Landbrukets kulturlandskap |</p>
-        </list>
-      </p>
-    </list>
-    <list>
-      <p type="listitem">
-        <span>Landbruks- og matforsking </span>
-      </p>
-      <p type="listitem">
-        <span>Landbrukseigedomar </span>
-        <list>
-          <p type="listitem">Odel |</p>
-          <p type="listitem">Konsesjon og boplikt |</p>
-          <p type="listitem">Jordlov |</p>
-          <p type="listitem">Jordskifte |</p>
-          <p type="listitem">Bosetting |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Likestilling i landbruket </span>
-      </p>
-      <p type="listitem">
-        <span>Mat </span>
-        <list>
-          <p type="listitem">Matpolitikk og forbrukarane |</p>
-          <p type="listitem">Økologisk matproduksjon |</p>
-          <p type="listitem">Trygg og sunn sjømat |</p>
-          <p type="listitem">Genmodifiserte organismar |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Plantar </span>
-      </p>
-      <p type="listitem">
-        <span>Reindrift </span>
-      </p>
-      <p type="listitem">
-        <span>Skogbruk og bioenergi </span>
-        <list>
-          <p type="listitem">Skogbruk |</p>
-          <p type="listitem">Bioenergi |</p>
-          <p type="listitem">Bruk av tre |</p>
-          <p type="listitem">Internasjonal skogpolitikk |</p>
-          <p type="listitem">Jakt, fiske og friluftsliv |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Økologisk matproduksjon </span>
-      </p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Fáttát - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>163</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/lmd/tema.html?id=629</origFileName><parallel_text xml:lang="eng" location="subjects_id_629.html"/><parallel_text xml:lang="nob" location="tema_id_629.html"/><parallel_text xml:lang="sme" location="fadda_id_629.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tema - regjeringen.no</p>
+<p type="title">Tema</p>
+<list><p type="listitem"><span>Dyr </span><list><p type="listitem">Fugleinfluensa |</p>
+<p type="listitem">Reindrift |</p>
+<p type="listitem">Dyrehelse |</p>
+<p type="listitem">Dyrevelferd |</p>
+</list></p>
+<p type="listitem"><span>Genmodifiserte organismar </span></p>
+<p type="listitem"><span>Internasjonalt samarbeid om landbruk og mat </span><list><p type="listitem">Internasjonal skogpolitikk |</p>
+<p type="listitem">WTO og landbruk |</p>
+</list></p>
+<p type="listitem"><span>Jordbruk </span><list><p type="listitem">Jordbruksoppgjeret |</p>
+</list></p>
+<p type="listitem"><span>Jordbruksoppgjeret </span></p>
+<p type="listitem"><span>Landbruk i kommunane </span></p>
+<p type="listitem"><span>Landbruk og næringsutvikling </span><list><p type="listitem">Inn på tunet |</p>
+</list></p>
+<p type="listitem"><span>Landbruket sin miljø- og arealpolitikk </span><list><p type="listitem">Jordvern |</p>
+<p type="listitem">Landbrukets kulturlandskap |</p>
+</list></p>
+</list><list><p type="listitem"><span>Landbruks- og matforsking </span></p>
+<p type="listitem"><span>Landbrukseigedomar </span><list><p type="listitem">Odel |</p>
+<p type="listitem">Konsesjon og boplikt |</p>
+<p type="listitem">Jordlov |</p>
+<p type="listitem">Jordskifte |</p>
+<p type="listitem">Bosetting |</p>
+</list></p>
+<p type="listitem"><span>Likestilling i landbruket </span></p>
+<p type="listitem"><span>Mat </span><list><p type="listitem">Matpolitikk og forbrukarane |</p>
+<p type="listitem">Økologisk matproduksjon |</p>
+<p type="listitem">Trygg og sunn sjømat |</p>
+<p type="listitem">Genmodifiserte organismar |</p>
+</list></p>
+<p type="listitem"><span>Plantar </span></p>
+<p type="listitem"><span>Reindrift </span></p>
+<p type="listitem"><span>Skogbruk og bioenergi </span><list><p type="listitem">Skogbruk |</p>
+<p type="listitem">Bioenergi |</p>
+<p type="listitem">Bruk av tre |</p>
+<p type="listitem">Internasjonal skogpolitikk |</p>
+<p type="listitem">Jakt, fiske og friluftsliv |</p>
+</list></p>
+<p type="listitem"><span>Økologisk matproduksjon </span></p>
+</list></body></document>

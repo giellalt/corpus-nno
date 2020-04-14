@@ -1,91 +1,36 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>NAV - Lønnsgaranti - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>596</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Arbeid/Arbeidssøker/Inntektssikring/Lønnsgaranti/Lønnsgaranti/805332260.cms</origFileName>
-    <parallel_text xml:lang="eng" location="226436.html"/>
-    <parallel_text xml:lang="nob" location="lonnsgaranti.html"/>
-    <parallel_text xml:lang="sme" location="226440.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Lønnsgarantiordninga</p>
-    <p>Ordninga dekkjer uteståande lønnskrav o.a. dersom arbeidsgivaren går konkurs. Likestilt med konkurs er offentleg skifte av insolvent dødsbu, tvangsavvikling og offentleg administrasjon av forsikringsselskap eller bank.</p>
-    <p>
-      <em type="italic">Kven kan få? </em>
-    </p>
-    <p>Ordninga omfattar arbeidsforhold der ein skal betale arbeidsgivaravgift til folketrygda. Dekninga gjeld ikkje</p>
-    <list>
-      <p type="listitem">sjølvstendig næringsdrivande og oppdragsmottakarar</p>
-      <p type="listitem">aksjeeigar med minst 20 prosent eigardel i verksemda, med mindre vedkommande kan sannsynleggjere at han/ho ikkje har hatt vesentleg innverknad på drifta</p>
-    </list>
-    <p>Du må melde deg som arbeidssøkjande på NAV-kontoret dersom du ikkje er i jobb etter konkursopning. Det må du gjere innan 14 dagar etter at du har fått melding frå bustyrar om at buet ikkje trer inn i arbeidsavtalen, dersom du søkjer å få dekt krav for denne perioden. Du må stå tilmeld NAV i heile søknadsperioden. Det er ikkje krav om at du kan få eller får dagpengar.</p>
-    <p>
-      <em type="italic">Kva kan du få? </em>
-    </p>
-    <p>Så sant du har eit uteståande krav mot arbeidsgivaren, kan du få dekt</p>
-    <list>
-      <p type="listitem">lønn og anna arbeidsvederlag for maksimalt seks månader</p>
-      <p type="listitem">lønnskravet må som hovudrege l ikkje vere forfalle lenger tilbake enn fire månader før fristdagen</p>
-      <p type="listitem">feriepengar for maksimalt 30 månader (feriepengekravet må som hovudregel ikkje vere opptent lenger tilbake enn 24 månader før fristdagen</p>
-      <p type="listitem">pensjonsytingar for maksimalt seks månader</p>
-      <p type="listitem">erstatning for tapt arbeidsvederlag for maksimalt seks månader</p>
-      <p type="listitem">renter inntil fristdagen av uteståande lønnskrav, og inndrivingskostnader rimelege kostnader ved fremjing av konkurskrav</p>
-    </list>
-    <p>Maksimal dekning er avgrensa til eit bruttobeløp som svarer til to gonger grunnbeløpet til folketrygda på fristdagen. Rimelege kostnader ved fremjing av konkurskrav kjem i tillegg.</p>
-    <p>Det blir gjort frådrag i kravet dersom du har hatt anna inntekt i søknadsperioden som kjem i staden for inntekt hos tidlegare arbeidsgivar. Forskotterte dagpengar blir trekte frå før ei eventuell utbetaling til deg.</p>
-    <p>
-      <em type="italic">Kor lenge kan du få? </em>
-    </p>
-    <list>
-      <p type="listitem">Du kan få dekt ut den lovbestemte oppseiingstida, med mindre lengre oppseiingstid følgjer av tariffavtale som er inngått tidlegare enn seks månader før fristdagen.</p>
-      <p type="listitem">Dersom verksemda blir overdregen til ein ny innehavar før konkursopninga og du held fram med å jobbe for den nye innehavaren, kan du berre få dekt lønnskrav fram til overdragingstidspunktet.</p>
-    </list>
-    <p>
-      <em type="italic">Andre aktuelle tenester </em>
-    </p>
-    <list>
-      <p type="listitem">Dagpengar (forskotterte lønnsgarantimidlar)</p>
-    </list>
-    <p>
-      <em type="italic">Korleis søkjer du? </em>
-    </p>
-    <p>Du må fylle ut søknadsblankett A (melding av lønnskrav o.a. til konkursbuet). Tingretten kan oppgi kven som er bustyrar, og bustyraren pliktar å hjelpe deg dersom du har spørsmål til utfyllinga. Kven som er oppnemnd som bustyrar, kan du òg finne ved å søkje på firmanamnet i Brønnøysundregistra, www.brreg.no .</p>
-    <p>Når må du søkje?</p>
-    <p>Det er viktig å halde fristen som tingretten har sett for å melde krav i buet. NAV Lønnsgaranti skal likevel behandle kravet dersom det er skriftleg meldt for bustyraren før bubehandlinga er avslutta, eller dersom bubehandlinga er avslutta eller kravet er motteke av bustyraren eller NAV innan seks månader etter konkursopninga.</p>
-    <p>Kvar leverer du søknaden?</p>
-    <p>Blanketten skal sendast til bustyraren.</p>
-    <p>
-      <em type="italic">Vedtak </em>
-    </p>
-    <p>Bustyraren vurderer og kontrollerer krava og sender innstillinga si til NAV Lønnsgaranti for avgjerd.</p>
-    <p>Målet vårt er at 80 prosent av sakene skal behandlast innan to månader.</p>
-    <p>Behandling hos NAV Lønnsgaranti kan få tre utfall: Krava kan bli godkjende, dei kan bli avslått, eller vi kan utsetje den vidare behandlinga mens vi ventar på fleire opplysningar frå bustyraren. Vi sender brev til bustyraren, som så informerer deg om utfallet av behandlinga.</p>
-    <p>Dersom du får avslag, kan du klage. Klagefristen er tre veker frå du fekk avslaget, og klagen skal sendast til NAV Lønnsgaranti. Dersom vedtaket er endeleg, blir saka send vidare til Arbeidsdepartementet.</p>
-    <p>
-      <em type="italic">Utbetaling </em>
-    </p>
-    <p>Dersom krava blir godkjende, blir lønnsgarantimidlane overførte til bustyraren. Bustyraren overfører pengane til søkjaren, med frådrag for pliktige trekk, til dømes skatt og forskotterte dagpengar.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>NAV - Lønnsgaranti - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>596</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Arbeid/Arbeidssøker/Inntektssikring/Lønnsgaranti/Lønnsgaranti/805332260.cms</origFileName><parallel_text xml:lang="eng" location="226436.html"/><parallel_text xml:lang="nob" location="lonnsgaranti.html"/><parallel_text xml:lang="sme" location="226440.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Lønnsgarantiordninga</p>
+<p>Ordninga dekkjer uteståande lønnskrav o.a. dersom arbeidsgivaren går konkurs. Likestilt med konkurs er offentleg skifte av insolvent dødsbu, tvangsavvikling og offentleg administrasjon av forsikringsselskap eller bank.</p>
+<p><em type="italic">Kven kan få? </em></p>
+<p>Ordninga omfattar arbeidsforhold der ein skal betale arbeidsgivaravgift til folketrygda. Dekninga gjeld ikkje</p>
+<list><p type="listitem">sjølvstendig næringsdrivande og oppdragsmottakarar</p>
+<p type="listitem">aksjeeigar med minst 20 prosent eigardel i verksemda, med mindre vedkommande kan sannsynleggjere at han/ho ikkje har hatt vesentleg innverknad på drifta</p>
+</list><p>Du må melde deg som arbeidssøkjande på NAV-kontoret dersom du ikkje er i jobb etter konkursopning. Det må du gjere innan 14 dagar etter at du har fått melding frå bustyrar om at buet ikkje trer inn i arbeidsavtalen, dersom du søkjer å få dekt krav for denne perioden. Du må stå tilmeld NAV i heile søknadsperioden. Det er ikkje krav om at du kan få eller får dagpengar.</p>
+<p><em type="italic">Kva kan du få? </em></p>
+<p>Så sant du har eit uteståande krav mot arbeidsgivaren, kan du få dekt</p>
+<list><p type="listitem">lønn og anna arbeidsvederlag for maksimalt seks månader</p>
+<p type="listitem">lønnskravet må som hovudrege l ikkje vere forfalle lenger tilbake enn fire månader før fristdagen</p>
+<p type="listitem">feriepengar for maksimalt 30 månader (feriepengekravet må som hovudregel ikkje vere opptent lenger tilbake enn 24 månader før fristdagen</p>
+<p type="listitem">pensjonsytingar for maksimalt seks månader</p>
+<p type="listitem">erstatning for tapt arbeidsvederlag for maksimalt seks månader</p>
+<p type="listitem">renter inntil fristdagen av uteståande lønnskrav, og inndrivingskostnader rimelege kostnader ved fremjing av konkurskrav</p>
+</list><p>Maksimal dekning er avgrensa til eit bruttobeløp som svarer til to gonger grunnbeløpet til folketrygda på fristdagen. Rimelege kostnader ved fremjing av konkurskrav kjem i tillegg.</p>
+<p>Det blir gjort frådrag i kravet dersom du har hatt anna inntekt i søknadsperioden som kjem i staden for inntekt hos tidlegare arbeidsgivar. Forskotterte dagpengar blir trekte frå før ei eventuell utbetaling til deg.</p>
+<p><em type="italic">Kor lenge kan du få? </em></p>
+<list><p type="listitem">Du kan få dekt ut den lovbestemte oppseiingstida, med mindre lengre oppseiingstid følgjer av tariffavtale som er inngått tidlegare enn seks månader før fristdagen.</p>
+<p type="listitem">Dersom verksemda blir overdregen til ein ny innehavar før konkursopninga og du held fram med å jobbe for den nye innehavaren, kan du berre få dekt lønnskrav fram til overdragingstidspunktet.</p>
+</list><p><em type="italic">Andre aktuelle tenester </em></p>
+<list><p type="listitem">Dagpengar (forskotterte lønnsgarantimidlar)</p>
+</list><p><em type="italic">Korleis søkjer du? </em></p>
+<p>Du må fylle ut søknadsblankett A (melding av lønnskrav o.a. til konkursbuet). Tingretten kan oppgi kven som er bustyrar, og bustyraren pliktar å hjelpe deg dersom du har spørsmål til utfyllinga. Kven som er oppnemnd som bustyrar, kan du òg finne ved å søkje på firmanamnet i Brønnøysundregistra, www.brreg.no .</p>
+<p>Når må du søkje?</p>
+<p>Det er viktig å halde fristen som tingretten har sett for å melde krav i buet. NAV Lønnsgaranti skal likevel behandle kravet dersom det er skriftleg meldt for bustyraren før bubehandlinga er avslutta, eller dersom bubehandlinga er avslutta eller kravet er motteke av bustyraren eller NAV innan seks månader etter konkursopninga.</p>
+<p>Kvar leverer du søknaden?</p>
+<p>Blanketten skal sendast til bustyraren.</p>
+<p><em type="italic">Vedtak </em></p>
+<p>Bustyraren vurderer og kontrollerer krava og sender innstillinga si til NAV Lønnsgaranti for avgjerd.</p>
+<p>Målet vårt er at 80 prosent av sakene skal behandlast innan to månader.</p>
+<p>Behandling hos NAV Lønnsgaranti kan få tre utfall: Krava kan bli godkjende, dei kan bli avslått, eller vi kan utsetje den vidare behandlinga mens vi ventar på fleire opplysningar frå bustyraren. Vi sender brev til bustyraren, som så informerer deg om utfallet av behandlinga.</p>
+<p>Dersom du får avslag, kan du klage. Klagefristen er tre veker frå du fekk avslaget, og klagen skal sendast til NAV Lønnsgaranti. Dersom vedtaket er endeleg, blir saka send vidare til Arbeidsdepartementet.</p>
+<p><em type="italic">Utbetaling </em></p>
+<p>Dersom krava blir godkjende, blir lønnsgarantimidlane overførte til bustyraren. Bustyraren overfører pengane til søkjaren, med frådrag for pliktige trekk, til dømes skatt og forskotterte dagpengar.</p>
+</body></document>

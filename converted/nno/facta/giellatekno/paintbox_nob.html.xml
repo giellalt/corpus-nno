@@ -1,122 +1,74 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Paintbox Game (Måleskrin)</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/Paintbox_nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="paintbox_eng.html"/>
-    <parallel_text xml:lang="sme" location="paintbox_sme.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="isl">Paintbox Game (Måleskrin)</p>
-    <list>
-      <p type="listitem">Om spelet</p>
-      <p type="listitem">Å starte spelet</p>
-      <p type="listitem">Hjelp</p>
-      <p type="listitem">Ein gang til, eller ny setning</p>
-      <p type="listitem">Lyd og flodhest</p>
-      <p type="listitem" xml:lang="nob">Valg</p>
-      <p type="listitem">Ordklassar og forkortingane deira</p>
-      <p type="listitem" xml:lang="vep">Paintbox-link:</p>
-    </list>
-    <p xml:lang="nob">Direktelink til Paintbox VISL</p>
-    <p type="title">Om spelet</p>
-    <p>I Paintbox-spelet arbeider du med ordklassar. Målet med spelet er å fargeleggje orda i setninga med rett farge. Til kvar ordklasse høyrer det ein viss farge. Trykk først ordklassen, og deretter ordet eller orda du vil fargeleggje.</p>
-    <p type="title">Å starte spelet</p>
-    <p xml:lang="sme">Trykk "Go".</p>
-    <p type="title">Hjelp</p>
-    <p>Du kan trykke <span type="quote" xml:lang="smn">"SHOW"</span>, og så ordet som du treng hjelp til.</p>
-    <p type="title">Ein gang til, eller ny setning</p>
-    <p>Når du er ferdig med ei setning, så kan du velje å gjere same setning ein gong til (trykk <span type="quote" xml:lang="sme">"Repeat"</span>), eller du kan velje ny setning, <span type="quote" xml:lang="nob">"New Sentence"</span>.</p>
-    <p type="title">Lyd og flodhest</p>
-    <p>Du kan velje om du vil ha lyd eller ikkje. Du kan i også setje inn ein ansikt i staden for flodhesten.</p>
-    <p type="title" xml:lang="nob">Valg</p>
-    <p>Viss du trykkjer <span type="quote" xml:lang="eng">"Start select"</span>, så kan du velje å arbeide med bare ein eller eit par ordklassar. Trykk knappen ein gong til når du har valt. Du ser nederst på skjermen kor mange ord du skal fargeleggje i kvar setning, <span type="quote" xml:lang="eng">"Words left"</span>. I dette spelet kan du ikkje velge setningssett.</p>
-    <p type="title">Ordklassar og forkortingane deira</p>
-    <p>Vi brukar desse ordklassane:</p>
-    <p xml:lang="fin">n</p>
-    <p>substantiv (</p>
-    <p xml:lang="sme">
-      <em type="italic">girji, lohkamat, golmmas </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="eng">prop</p>
-    <p xml:lang="nob">propra (egennavn) (</p>
-    <p xml:lang="sme">
-      <em type="italic">William, Kárášjohka </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="eng">pron</p>
-    <p xml:lang="eng">pronomen (</p>
-    <p xml:lang="sme">
-      <em type="italic">mun, sidjiide, soapmásat, ollu </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="isl">num</p>
-    <p>talord (</p>
-    <p xml:lang="sme">
-      <em type="italic">okta, 1923 </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adj</p>
-    <p>adjektiv (</p>
-    <p xml:lang="sme">
-      <em type="italic">alit, ollu, njealját </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">prp</p>
-    <p xml:lang="eng">pre-/postposisjon (</p>
-    <p xml:lang="sme">
-      <em type="italic">alde, miehtá </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">conj</p>
-    <p xml:lang="fin">konjunksjon (</p>
-    <p xml:lang="sme">
-      <em type="italic">ja, ahte, vaikko </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="swe">intj</p>
-    <p xml:lang="nob">interjeksjon (</p>
-    <p xml:lang="smn">
-      <em type="italic">vuoi, jippi </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adv</p>
-    <p>adverb (</p>
-    <p xml:lang="sme">
-      <em type="italic">hui, johtilit, olgun </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">v</p>
-    <p>verb (</p>
-    <p xml:lang="sme">
-      <em type="italic">lean, borran, juhkamis </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p>part</p>
-    <p>partikkel (</p>
-    <p xml:lang="sme">
-      <em type="italic">go, amma, han </em>
-    </p>
-    <p xml:lang="koi">)</p>
-    <p>I nokre spel er det merket ordklassar som ikkje finst i samisk, så som <span type="quote" xml:lang="swe">"infm"</span> (infinitivsmerke) og <span type="quote">"art"</span> (artikkel).</p>
-    <p>Du kan lese meir om ordklassar her: Ordklassar og vurdering av dei</p>
-    <p type="title" xml:lang="vep">Paintbox-link:</p>
-    <p xml:lang="vep">Paintbox VISL</p>
-    <p>Last changed: $Id: Paintbox_nno.xml,v 1.8 2008/06/19 lene Exp $</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Paintbox Game (Måleskrin)</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>322</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/Paintbox_nob.html</origFileName><parallel_text xml:lang="eng" location="paintbox_eng.html"/><parallel_text xml:lang="sme" location="paintbox_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="isl">Paintbox Game (Måleskrin)</p>
+<list><p type="listitem">Om spelet</p>
+<p type="listitem">Å starte spelet</p>
+<p type="listitem">Hjelp</p>
+<p type="listitem">Ein gang til, eller ny setning</p>
+<p type="listitem">Lyd og flodhest</p>
+<p type="listitem" xml:lang="nob">Valg</p>
+<p type="listitem">Ordklassar og forkortingane deira</p>
+<p type="listitem" xml:lang="vep">Paintbox-link:</p>
+</list><p xml:lang="nob">Direktelink til Paintbox VISL</p>
+<p type="title">Om spelet</p>
+<p>I Paintbox-spelet arbeider du med ordklassar. Målet med spelet er å fargeleggje orda i setninga med rett farge. Til kvar ordklasse høyrer det ein viss farge. Trykk først ordklassen, og deretter ordet eller orda du vil fargeleggje.</p>
+<p type="title">Å starte spelet</p>
+<p xml:lang="sme">Trykk "Go".</p>
+<p type="title">Hjelp</p>
+<p>Du kan trykke <span type="quote" xml:lang="smn">"SHOW"</span>, og så ordet som du treng hjelp til.</p>
+<p type="title">Ein gang til, eller ny setning</p>
+<p>Når du er ferdig med ei setning, så kan du velje å gjere same setning ein gong til (trykk <span type="quote" xml:lang="sme">"Repeat"</span>), eller du kan velje ny setning, <span type="quote" xml:lang="nob">"New Sentence"</span>.</p>
+<p type="title">Lyd og flodhest</p>
+<p>Du kan velje om du vil ha lyd eller ikkje. Du kan i også setje inn ein ansikt i staden for flodhesten.</p>
+<p type="title" xml:lang="nob">Valg</p>
+<p>Viss du trykkjer <span type="quote" xml:lang="eng">"Start select"</span>, så kan du velje å arbeide med bare ein eller eit par ordklassar. Trykk knappen ein gong til når du har valt. Du ser nederst på skjermen kor mange ord du skal fargeleggje i kvar setning, <span type="quote" xml:lang="eng">"Words left"</span>. I dette spelet kan du ikkje velge setningssett.</p>
+<p type="title">Ordklassar og forkortingane deira</p>
+<p>Vi brukar desse ordklassane:</p>
+<p xml:lang="fin">n</p>
+<p>substantiv (</p>
+<p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="eng">prop</p>
+<p xml:lang="nob">propra (egennavn) (</p>
+<p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="eng">pron</p>
+<p xml:lang="eng">pronomen (</p>
+<p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="isl">num</p>
+<p>talord (</p>
+<p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adj</p>
+<p>adjektiv (</p>
+<p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">prp</p>
+<p xml:lang="rmu">pre-/postposisjon (</p>
+<p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">conj</p>
+<p xml:lang="fin">konjunksjon (</p>
+<p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="swe">intj</p>
+<p xml:lang="nob">interjeksjon (</p>
+<p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adv</p>
+<p>adverb (</p>
+<p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">v</p>
+<p>verb (</p>
+<p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
+<p xml:lang="vep">)</p>
+<p>part</p>
+<p>partikkel (</p>
+<p xml:lang="sme"><em type="italic">go, amma, han </em></p>
+<p xml:lang="vep">)</p>
+<p>I nokre spel er det merket ordklassar som ikkje finst i samisk, så som <span type="quote" xml:lang="swe">"infm"</span> (infinitivsmerke) og <span type="quote">"art"</span> (artikkel).</p>
+<p>Du kan lese meir om ordklassar her: Ordklassar og vurdering av dei</p>
+<p type="title" xml:lang="vep">Paintbox-link:</p>
+<p xml:lang="vep">Paintbox VISL</p>
+<p>Last changed: $Id: Paintbox_nno.xml,v 1.8 2008/06/19 lene Exp $</p>
+</body></document>

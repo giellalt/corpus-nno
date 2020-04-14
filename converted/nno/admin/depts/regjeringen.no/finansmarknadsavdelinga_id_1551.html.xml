@@ -1,40 +1,6 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ruhtadanmárkanossodat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>83</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/Finansmarknadsavdelinga.html?id=1551</origFileName>
-    <parallel_text xml:lang="eng" location="financial_markets_department_id_1551.html"/>
-    <parallel_text xml:lang="nob" location="finansmarkedsavdelingen_id_1551.html"/>
-    <parallel_text xml:lang="sme" location="ruhtadanmarkanossodat_id_1551.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Finansmarknadsavdelinga - regjeringen.no</p>
-    <p type="title">Juridisk seksjon (JUS)</p>
-    <p>Seksjonsleiar: Avdelingsdirektør Erling G. Rikheim. <em type="italic">Oppgåver </em>: Regulering av finansielle marknader og finansinstitusjonar, regelverk og enkeltsaker som gjeld banker, forsikringsselskap, finansieringsføretak, fondsmeklarar, eigedomsmeklarar, enhetsregisteret, Kredittilsynet, Noregs Bank og Oslo Børs. Regelverk og enkeltsaker som gjeld rekneskap, revisjon og revisorar. Deltaking i internasjonalt samarbeid, medrekna EØS-samarbeidet. </p>
-    <p type="title">Økonomiseksjonen (ØKS)</p>
-    <p>Seksjonsleiar: Avdelingsdirektør Per Øystein Eikrem. <em type="italic">Oppgåver </em>: Økonomiske og strukturelle vurderingar av finansmarknadene, regulering av finansielle marknader og finansinstitusjonar, innskots- og føretakspensjonsordningar, betalingsformidling, rekneskap og revisjon. Deltaking i internasjonalt samarbeid. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ruhtadanmárkanossodat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>83</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/Finansmarknadsavdelinga.html?id=1551</origFileName><parallel_text xml:lang="eng" location="financial_markets_department_id_1551.html"/><parallel_text xml:lang="nob" location="finansmarkedsavdelingen_id_1551.html"/><parallel_text xml:lang="sme" location="ruhtadanmarkanossodat_id_1551.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Finansmarknadsavdelinga - regjeringen.no</p>
+<p type="title">Juridisk seksjon (JUS)</p>
+<p>Seksjonsleiar: Avdelingsdirektør Erling G. Rikheim. <em type="italic">Oppgåver </em>: Regulering av finansielle marknader og finansinstitusjonar, regelverk og enkeltsaker som gjeld banker, forsikringsselskap, finansieringsføretak, fondsmeklarar, eigedomsmeklarar, enhetsregisteret, Kredittilsynet, Noregs Bank og Oslo Børs. Regelverk og enkeltsaker som gjeld rekneskap, revisjon og revisorar. Deltaking i internasjonalt samarbeid, medrekna EØS-samarbeidet. </p>
+<p type="title">Økonomiseksjonen (ØKS)</p>
+<p>Seksjonsleiar: Avdelingsdirektør Per Øystein Eikrem. <em type="italic">Oppgåver </em>: Økonomiske og strukturelle vurderingar av finansmarknadene, regulering av finansielle marknader og finansinstitusjonar, innskots- og føretakspensjonsordningar, betalingsformidling, rekneskap og revisjon. Deltaking i internasjonalt samarbeid. </p>
+</body></document>

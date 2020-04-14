@@ -1,37 +1,5 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Áigu iskat korrupšuvdnariskka Norggas - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>186</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2011/vil-undersokje-korrupsjonsrisiko-i-noreg.html?id=663225</origFileName>
-    <parallel_text xml:lang="eng" location="risk-of-corruption-in-norway-to-be-explo_id_663225.html"/>
-    <parallel_text xml:lang="nob" location="vil-undersoke-korrupsjonsrisiko-i-norge_id_663225.html"/>
-    <parallel_text xml:lang="sme" location="aigu-iskat-korrupuvdnariskka-norggas_id_663225.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vil undersøkje korrupsjonsrisiko i Noreg - regjeringen.no</p>
-    <p>
-      <em type="italic">Statsråd Rigmor Aasrud vil vite meir om korleis offentleg forvaltning handterer risiko for korrupsjon. Fornyings-, administrasjons-, og kyrkjedepartementet løyver 705 000 kroner til ei undersøking om korrupsjonsrisikoen i Noreg i regi av Transparency International. </em>
-    </p>
-    <p>- Korrupsjon er øydeleggjande for økonomien i eit land, og fleire enkeltsaker har vist at Noreg ikkje er fritt for korrupsjon. For meg som statsråd med ansvaret for forvaltningsetikk, offentlege innkjøp og den statlege arbeidsgivarpolitikken er det viktig med kunnskap om korrupsjon og risiko for korrupsjon i norsk forvaltning, seier Rigmor Aasrud.</p>
-    <p>Studia vil kaste lys over evna til å handtere korrupsjonsrisiko i blant anna den utøvande, lovgivande og dømmande makta, i offentleg sektor, politiske parti, media, det sivile samfunnet og næringslivet. Føremålet med undersøkinga er å fremje medvit om korrupsjonsrisiko, sårbarheit og handtering av risiko i viktige samfunnsinstitusjonar. Undersøkinga National Integrity System er ein del av ein større samanliknande studie av korrupsjonsrisiko i Europa. Den norske delen av undersøkinga blir gjennomført av Norsk institutt for by- og regionforsking. Ansvarleg for studien er den norske avdelinga av Transparency International. Rapporten skal vere ferdig i 2012.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Áigu iskat korrupšuvdnariskka Norggas - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><year>2011</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>186</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2011/vil-undersokje-korrupsjonsrisiko-i-noreg.html?id=663225</origFileName><parallel_text xml:lang="eng" location="risk-of-corruption-in-norway-to-be-explo_id_663225.html"/><parallel_text xml:lang="nob" location="vil-undersoke-korrupsjonsrisiko-i-norge_id_663225.html"/><parallel_text xml:lang="sme" location="aigu-iskat-korrupuvdnariskka-norggas_id_663225.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vil undersøkje korrupsjonsrisiko i Noreg - regjeringen.no</p>
+<p><em type="italic">Statsråd Rigmor Aasrud vil vite meir om korleis offentleg forvaltning handterer risiko for korrupsjon. Fornyings-, administrasjons-, og kyrkjedepartementet løyver 705 000 kroner til ei undersøking om korrupsjonsrisikoen i Noreg i regi av Transparency International. </em></p>
+<p>- Korrupsjon er øydeleggjande for økonomien i eit land, og fleire enkeltsaker har vist at Noreg ikkje er fritt for korrupsjon. For meg som statsråd med ansvaret for forvaltningsetikk, offentlege innkjøp og den statlege arbeidsgivarpolitikken er det viktig med kunnskap om korrupsjon og risiko for korrupsjon i norsk forvaltning, seier Rigmor Aasrud.</p>
+<p>Studia vil kaste lys over evna til å handtere korrupsjonsrisiko i blant anna den utøvande, lovgivande og dømmande makta, i offentleg sektor, politiske parti, media, det sivile samfunnet og næringslivet. Føremålet med undersøkinga er å fremje medvit om korrupsjonsrisiko, sårbarheit og handtering av risiko i viktige samfunnsinstitusjonar. Undersøkinga National Integrity System er ein del av ein større samanliknande studie av korrupsjonsrisiko i Europa. Den norske delen av undersøkinga blir gjennomført av Norsk institutt for by- og regionforsking. Ansvarleg for studien er den norske avdelinga av Transparency International. Rapporten skal vere ferdig i 2012.</p>
+</body></document>

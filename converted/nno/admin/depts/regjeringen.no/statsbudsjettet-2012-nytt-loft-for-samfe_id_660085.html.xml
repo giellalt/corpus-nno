@@ -1,113 +1,71 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Stáhtabušeahtta 2012: Johtolat nannejuvvo fas – lassána 2,4 miljárdda ruvnnuin - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Samferdselsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1666</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/sd/pressesenter/pressemeldingar/pressemeldinger/statsbudsjettet-2012-nytt-loft-for-samfe.html?id=660085</origFileName>
-    <parallel_text xml:lang="sme" location="stahtabueahtta-2012-johtolat-nannejuvvo-_id_660085.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Statsbudsjettet 2012: Nytt løft for samferdsel – aukar med 2,4 milliardar kroner - regjeringen.no</p>
-    <p>
-      <em type="italic">- Forslaget til statsbudsjett for 2012 inneber ein betydeleg auke i løyvingane til veg og jernbane. Dermed held regjeringa fram med å trappa opp løyvingane til veg og bane i samsvar med Nasjonal transportplan 2010–2019, seier samferdselsminister Magnhild Meltveit Kleppa. </em>
-    </p>
-    <p>Satsinga på veg og bane er på eit historisk høgt nivå. Forslaget for 2012 er på 31,8 milliardar kroner. Det er ein vekst på 8 prosent samanlikna med saldert budsjett for 2011.</p>
-    <p type="title">Veg</p>
-    <p><em type="italic">16,3 milliardar kroner til vegføremål – aukar med 1,2 milliardar kroner </em>- Eit historisk høgt samferdselsbudsjett gir rom for sterk vekst i vegløyvingane. Dette vil gi oss betre vegstandard. Ti større, nye prosjekt får startløyving til prosjektering og førebuande arbeid, og fleire av desse får òg anleggsstart, seier samferdselsminister Magnhild Meltveit Kleppa. Regjeringa føreslår i alt 16,3 milliardar kroner til vegføremål i 2012, ein auke på 7,8 prosent frå saldert budsjett 2011. </p>
-    <p>7,6 milliardar kroner er føreslått til drift og vedlikehald av riksvegar, trafikant- og køyretøytilsyn. Dette er ein auke på 5,8 prosent frå 2011.</p>
-    <p>Til vedlikehald av riksvegnettet er det lagt opp til å bruka om lag 1,6 milliardar kroner. Aktivitetsnivået innan vedlikehald er føresett å bli om lag som i 2011. Med dette vidarefører ein den sterke veksten i vedlikehaldet. Frå 2010 til 2011 var auken på 60 prosent.</p>
-    <p>Det er føreslått om lag 7 milliardar kroner til veginvesteringar på riksvegnettet, medrekna midlar til rassikring. Dette er ein auke på 9,7 prosent frå saldert budsjett 2011.</p>
-    <p>Auken går særleg til dei tre større prosjekta som har eigne budsjettpostar: E16 over Filefjell, E6 vest for Alta og E18 i Bjørvika i Oslo.</p>
-    <p>I tillegg kjem 5,8 milliardar kroner i bompengar og anna ekstern finansiering.</p>
-    <p>
-      <em type="italic">Det er lagt til grunn startløyving til prosjektering og førebuande arbeid på ein del større prosjekt (over 100 millionar kroner) i 2012, og fleire prosjekt vil få anleggsstart: </em>
-    </p>
-    <p>- E18 Sydhavna, Oslo - Riksveg 3 Åsta bru med tilstøytande veg, Hedmark - E134 Gvammen – Århus, Telemark - Riksveg 9 Krokå – Langeid, Aust-Agder - E134 Skjold – Solheim, Rogaland - E39 Svegatjørn – Rådal, Hordaland - E39 i Sogn og Fjordane (delstrekningar) - Riksveg 5 Loftesnesbrua i Sogn og Fjordane - E6 Oppdal sentrum, Sør-Trøndelag - E6 Vindalsliene – Korporals bru, Sør-Trøndelag</p>
-    <p>
-      <em type="italic">Regjeringa vil vurdera bompengeproposisjonar i 2012 for mellom anna desse større prosjekta (over 100 millionar kroner): </em>
-    </p>
-    <p>- E6 Minnesund – Skaberud, Akershus og Hedmark - E6 Ringebu – Otta, delstrekninga Frya – Sjoa, Oppland - E16 Fønhus – Bagn – Bjørgo, delstrekninga Fønhus – Bagn, Oppland - E39 Eiganestunnelen, Rogaland - Riksveg 13 Ryfast, Rogaland - E136 Tresfjordbrua og Vågstrandstunnelen, Møre og Romsdal - E6 Vegpakke Helgeland, første etappe (Mo – Bolna), Nordland - E6 Hålogalandsbrua, Nordland</p>
-    <p>I 2012 blir desse større riksvegprosjekta opna for trafikk: E16 Nestunnelen, Buskerud, E18 Sky – Langangen, Vestfold og Telemark, riksveg 510 Solasplitten, Rogaland, E39 Nyborgkrysset, Hordaland, E39 Torvund - Teigen, Sogn og Fjordane, E39 Kvivsvegen, Sogn og Fjordane og Møre og Romsdal, riksveg 70 Brunneset – Øygarden, Møre og Romsdal og riksveg 706 Dorthealyst – Stavne, Sør-Trøndelag.</p>
-    <p>Til rassikring er det føreslått 1,075 milliard kroner, ein auke på 2,3 prosent frå 2011. 538 millionar kroner går til rassikringsprosjekt på fylkesvegnettet, resten til riksvegar.</p>
-    <p>Til bygging av gang- og sykkelvegar langs eksisterande vegar er det føreslått 376 millionar kroner, fordelt med 301 millionar kroner i statlege midlar og 75 millionar kroner i ekstern finansiering, i hovudsak bompengar. Midlane vil for det meste bli nytta for å få til samanhengande sykkelnett i byar og tettstader og til utbygging langs skolevegar.</p>
-    <p>I tillegg kjem bygging av gang- og sykkelvegar som del av nyanlegg på vegnettet.</p>
-    <p>- Eit nyoppretta statleg vegtilsyn skal starta opp verksemda si i første halvdel i 2012. Regjeringa føreslår å løyva 11,2 millionar kroner til tilsynet i 2012. Vegtilsynet skal føra tilsyn med veginfrastrukturen, ei viktig oppgåve i arbeidet med å gjera vegtrafikken endå tryggare, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
-    <p><em type="italic">200 millionar kroner meir til trafikktryggleik </em>Regjeringa føreslår 747 millionar kroner til trafikktryggleikstiltak i 2012. Det er 200 millionar meir enn i 2011. </p>
-    <p>- Talet på drepne i trafikken går stadig ned, men målet er og blir null drepne. Difor trappar vi opp innsatsen, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
-    <p>Med den føreslåtte løyvinga vil 85 prosent av rammene i Statens vegvesen sitt handlingsprogram for trafikktryggleik i åra 2010-2013 vera oppfylte.</p>
-    <p>Bygging av midtrekkverk er eit prioritert tiltak. I tillegg vil forsterka midtoppmerking, utbetring av sideterreng, vegbelysning, kryss- og kurveutbetringar og strakstiltak etter trafikktryggleiks inspeksjonar bli prioritert.</p>
-    <p>For 2012 er det lagt opp til å fullføra bygging av midtrekkverk på 17 kilometer to- og trefelts riksveg. I tillegg får 25 kilometer riksveg neste år sterkare midtoppmerking. Medrekna 11 kilometer ny firefelts veg med skilde køyrebanar, får til saman 53 kilometer riksveg <span type="quote">”midttiltak”</span> for å hindra møteulukker.</p>
-    <p type="title">Jernbane</p>
-    <p><em type="italic">12,5 milliardar kroner til jernbaneføremål – ein auke på 1 milliard frå 2011 </em>Det er sett av 12,5 milliardar kroner til jernbane i 2012, ein auke på 8,7 prosent frå saldert budsjett 2011. </p>
-    <p>- Med dette legg regjeringa til rette slik at endå fleire kan ta toget, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
-    <p>Dette gir rom for oppstart av tre større jernbaneprosjekt, innfasing av 50 nye togsett, auka punktlegheit, ny grunnrutemodell samt utbetring av ei rekkje stasjonar.</p>
-    <p>5,28 milliardar kroner går til drift og vedlikehald. Regjeringa har dermed overoppfylt planramma i Nasjonal transportplan for perioden 2010-2013 med over 1,3 milliardar kroner. Etter tre år av planperioden er oppfølginga av drift og vedlikehald på heile 82 prosent. Det er hovudsakleg vedlikehaldet som er styrka.</p>
-    <p>
-      <em type="italic">Fornyingstiltak i 2012: </em>
-    </p>
-    <p type="listitem">Østfoldbanen: 60 millionar kroner</p>
-    <p type="listitem">Fornyingar i Oslo-området utanom Oslo-prosjektet, blant anna på skifteanlegget på Alnabru godsterminal: 80 millionar kroner</p>
-    <p type="listitem">Sørlandsbanen: 100 millionar kroner</p>
-    <p type="listitem">Bergensbanen inkl. Randsfjordbanen og Roa – Hønefossbanen: 110 millionar kroner</p>
-    <p type="listitem">Dovrebanen: 170 millionar kroner</p>
-    <p type="listitem">Nordlandsbanen: 100 millionar kroner</p>
-    <p type="listitem">Ofotbanen: 90 millionar kroner</p>
-    <p>4,67 milliardar kroner skal gå til investeringar i infrastruktur. Dette er ein auke på om lag 10,1 prosent. Løyvinga vil sikra rasjonell framdrift på dei store anleggsprosjekta i 2012. Ikkje minst gjeld det Oslo-prosjektet (570 millionar kroner).</p>
-    <p>
-      <em type="italic">Større investeringsprosjekt: </em>
-    </p>
-    <p type="listitem">Ny jernbanetrasé på strekninga Farriseidet – Porsgrunn på Vestfoldbanen (100 millionar kroner) med sikte på oppstart i 2012 (nytt).</p>
-    <p type="listitem">Nytt dobbeltspor mellom Langset og Kleverud på Dovrebanen (514 millionar kroner) med sikte på oppstart i 2012. Dette er eit fellesprosjekt med Statens vegvesen (nytt).</p>
-    <p type="listitem">Etablering av erfaringsstrekning for signalsystemet ERTMS på Østfoldbanen, austre line (179 millionar kroner) (nytt).</p>
-    <p type="listitem">Nytt dobbeltspor Holm – Holmestrand – Nykirke: 839 millionar kroner (vidareføring).</p>
-    <p>Togtilbodet i Austlandsområdet skal bli endå betre. I desember 2012 blir nye tog fasa inn. I desember 2014 blir ny grunnrutemodell innført. Regjeringa føreslår å setja av 848 millionar kroner til tilrettelegging i form av fleire små og store infrastrukturtiltak.</p>
-    <p>Det er sett av 619 millionar kroner til oppgradering av stasjonar og knutepunkt.</p>
-    <p>275 millionar kroner går til dobbeltspor Oslo-Ski i 2012. Innføringa av den nye banen til Oslo S er svært krevjande. Planarbeidet har difor tatt lenger tid enn tidlegare antatt, og Jernbaneverket reknar med at 2014 no er tidlegast mogleg byggestart for prosjektet.</p>
-    <p>Det er sett av 2,5 milliardar kroner til statleg kjøp av persontransporttenester med tog, ein auke på 13,4 prosent samanlikna med 2011 (forhandlingar med NSB pågår). Auken har samanheng med den gradvise innfasinga av 50 nye togsett, og førebuingar til innføring av eit betre togtilbod i Austlandsområdet.</p>
-    <p type="title">Luftfart</p>
-    <p><em type="italic">Sikker, miljøvenleg og effektiv luftfart i heile landet </em>I budsjettet for 2012 føreslår regjeringa 977, 5 millionar kroner til luftfartsformål. Det er nær 20 millionar kroner meir enn i 2011. Det er budsjettert med 705,6 millionar kroner til kjøp av flytransport. Dette er omtrent på same nivå som i 2011. </p>
-    <p>Samferdselsdepartementet lyste i august 2011 ut nytt anbod på 18 eksisterande ruteområde og eitt nytt ruteområde (Evenes-Tromsø) med sikte på å inngå nye kontraktar for ruteflyging frå 1. april 2012.</p>
-    <p>- Vi har også sett av midlar til å finansiera ein tryggleiksstudie for å betra tryggleiken for innanlandshelikopter, seier samferdselsminister Kleppa.</p>
-    <p type="title">Kollektivtransport</p>
-    <p><em type="italic">Auka satsing på kollektivtransport </em>- 21 millionar fleire passasjerar reiste kollektivt i 2010 enn året før. Budsjettet for 2012 legg til rette for at endå fleire kan reisa kollektivt, seier samferdselsminister Magnhild Meltveit Kleppa. </p>
-    <p>Regjeringa føreslår å bruka om lag 13,2 milliardar kroner til kollektivtiltak, ein auke på 9,1 prosent frå 2010. 12,5 milliardar kroner til jernbaneføremål utgjer hovuddelen av dette. I tillegg kjem 157 millionar kroner over vegbudsjettet til kollektivtiltak og tiltak for universell utforming på vegnettet.</p>
-    <p>Det er sett av 493 millionar kroner til særskilte tilskot for kollektivtransport. Av dette er 411 millioner kroner satt av til belønningsordningen for bedre kollektivtransport, god tilrettelegging for syklister og fotgjengere og mindre bruk av bil i byområder.</p>
-    <p>Regjeringa føreslår vidare 45,1 millionar kroner til ordninga med tilskot til tilgjengelegheitstiltak innan kommunane og fylkeskommunane sitt ansvarsområde. 22 millionar kroner går til ordninga med tilskot til kollektivtransport i distrikta.</p>
-    <p>Regjeringa føreslår også å setja i gang eit nytt forsøk med forbetra tilbod til TT-brukarar (tilrettelagt transport) med spesielt store behov. Det er sett av 10 millionar kroner til dette forsøket. Forsøket er ei oppfølging av eit pågåande forsøk med betre koordinering av TT og bestillingstransport som blir avslutta i 2011.</p>
-    <p>Regjeringa føreslår å løyva 738,5 millionar kroner til statleg kjøp av sjøtransporttenester på strekninga Bergen – Kirkenes. Samferdselsdepartementet og selskapet Hurtigruten ASA har inngått ein ny avtale for kystruta Bergen – Kirkenes for ein periode på åtte år, rekna frå 1. januar 2012. Den nye avtalen sikrar daglege seglingar heile året mellom Bergen og Kirkenes og til 32 mellomliggande hamner.</p>
-    <p>Statsbudsjettet 2012 (samferdsel)</p>
-    <p>
-      <em type="italic">Pressemeldingar om statsbudsjettet 2012: </em>
-    </p>
-    <list>
-      <p type="listitem">Nytt løft for samferdsel – aukar med 2,4 milliardar kroner</p>
-      <p type="listitem">1,2 milliardar kroner meir til vegføremål</p>
-      <p type="listitem">747 millioner kroner til særskilte trafikksikkerhetstiltak</p>
-      <p type="listitem">Vegtilsynet – tilsyn med infrastrukturen på offentleg veg: 11,2 millionar kroner</p>
-      <p type="listitem">1 milliard kroner meir til jernbaneformål</p>
-      <p type="listitem">Ny grunnrutemodell: Betre togtilbud i Østlandsområdet</p>
-      <p type="listitem">Sikker, miljøvennlig og effektiv luftfart</p>
-      <p type="listitem">13,2 milliarder kroner til kollektivtransport i 2012</p>
-      <p type="listitem">Forbedret tilbud til TT-brukere med spesielt store behov</p>
-      <p type="listitem">Fylkesoversikt: Forslag og tiltak i samferdselssektoren</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Stáhtabušeahtta 2012: Johtolat nannejuvvo fas – lassána 2,4 miljárdda ruvnnuin - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Samferdselsdepartementet" sex="unknown" born="" nationality=""/></author><year>2011</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>1666</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/sd/pressesenter/pressemeldingar/pressemeldinger/statsbudsjettet-2012-nytt-loft-for-samfe.html?id=660085</origFileName><parallel_text xml:lang="sme" location="stahtabueahtta-2012-johtolat-nannejuvvo-_id_660085.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Statsbudsjettet 2012: Nytt løft for samferdsel – aukar med 2,4 milliardar kroner - regjeringen.no</p>
+<p><em type="italic">- Forslaget til statsbudsjett for 2012 inneber ein betydeleg auke i løyvingane til veg og jernbane. Dermed held regjeringa fram med å trappa opp løyvingane til veg og bane i samsvar med Nasjonal transportplan 2010–2019, seier samferdselsminister Magnhild Meltveit Kleppa. </em></p>
+<p>Satsinga på veg og bane er på eit historisk høgt nivå. Forslaget for 2012 er på 31,8 milliardar kroner. Det er ein vekst på 8 prosent samanlikna med saldert budsjett for 2011.</p>
+<p type="title">Veg</p>
+<p><em type="italic">16,3 milliardar kroner til vegføremål – aukar med 1,2 milliardar kroner </em>- Eit historisk høgt samferdselsbudsjett gir rom for sterk vekst i vegløyvingane. Dette vil gi oss betre vegstandard. Ti større, nye prosjekt får startløyving til prosjektering og førebuande arbeid, og fleire av desse får òg anleggsstart, seier samferdselsminister Magnhild Meltveit Kleppa. Regjeringa føreslår i alt 16,3 milliardar kroner til vegføremål i 2012, ein auke på 7,8 prosent frå saldert budsjett 2011. </p>
+<p>7,6 milliardar kroner er føreslått til drift og vedlikehald av riksvegar, trafikant- og køyretøytilsyn. Dette er ein auke på 5,8 prosent frå 2011.</p>
+<p>Til vedlikehald av riksvegnettet er det lagt opp til å bruka om lag 1,6 milliardar kroner. Aktivitetsnivået innan vedlikehald er føresett å bli om lag som i 2011. Med dette vidarefører ein den sterke veksten i vedlikehaldet. Frå 2010 til 2011 var auken på 60 prosent.</p>
+<p>Det er føreslått om lag 7 milliardar kroner til veginvesteringar på riksvegnettet, medrekna midlar til rassikring. Dette er ein auke på 9,7 prosent frå saldert budsjett 2011.</p>
+<p>Auken går særleg til dei tre større prosjekta som har eigne budsjettpostar: E16 over Filefjell, E6 vest for Alta og E18 i Bjørvika i Oslo.</p>
+<p>I tillegg kjem 5,8 milliardar kroner i bompengar og anna ekstern finansiering.</p>
+<p><em type="italic">Det er lagt til grunn startløyving til prosjektering og førebuande arbeid på ein del større prosjekt (over 100 millionar kroner) i 2012, og fleire prosjekt vil få anleggsstart: </em></p>
+<p>- E18 Sydhavna, Oslo - Riksveg 3 Åsta bru med tilstøytande veg, Hedmark - E134 Gvammen – Århus, Telemark - Riksveg 9 Krokå – Langeid, Aust-Agder - E134 Skjold – Solheim, Rogaland - E39 Svegatjørn – Rådal, Hordaland - E39 i Sogn og Fjordane (delstrekningar) - Riksveg 5 Loftesnesbrua i Sogn og Fjordane - E6 Oppdal sentrum, Sør-Trøndelag - E6 Vindalsliene – Korporals bru, Sør-Trøndelag</p>
+<p><em type="italic">Regjeringa vil vurdera bompengeproposisjonar i 2012 for mellom anna desse større prosjekta (over 100 millionar kroner): </em></p>
+<p>- E6 Minnesund – Skaberud, Akershus og Hedmark - E6 Ringebu – Otta, delstrekninga Frya – Sjoa, Oppland - E16 Fønhus – Bagn – Bjørgo, delstrekninga Fønhus – Bagn, Oppland - E39 Eiganestunnelen, Rogaland - Riksveg 13 Ryfast, Rogaland - E136 Tresfjordbrua og Vågstrandstunnelen, Møre og Romsdal - E6 Vegpakke Helgeland, første etappe (Mo – Bolna), Nordland - E6 Hålogalandsbrua, Nordland</p>
+<p>I 2012 blir desse større riksvegprosjekta opna for trafikk: E16 Nestunnelen, Buskerud, E18 Sky – Langangen, Vestfold og Telemark, riksveg 510 Solasplitten, Rogaland, E39 Nyborgkrysset, Hordaland, E39 Torvund - Teigen, Sogn og Fjordane, E39 Kvivsvegen, Sogn og Fjordane og Møre og Romsdal, riksveg 70 Brunneset – Øygarden, Møre og Romsdal og riksveg 706 Dorthealyst – Stavne, Sør-Trøndelag.</p>
+<p>Til rassikring er det føreslått 1,075 milliard kroner, ein auke på 2,3 prosent frå 2011. 538 millionar kroner går til rassikringsprosjekt på fylkesvegnettet, resten til riksvegar.</p>
+<p>Til bygging av gang- og sykkelvegar langs eksisterande vegar er det føreslått 376 millionar kroner, fordelt med 301 millionar kroner i statlege midlar og 75 millionar kroner i ekstern finansiering, i hovudsak bompengar. Midlane vil for det meste bli nytta for å få til samanhengande sykkelnett i byar og tettstader og til utbygging langs skolevegar.</p>
+<p>I tillegg kjem bygging av gang- og sykkelvegar som del av nyanlegg på vegnettet.</p>
+<p>- Eit nyoppretta statleg vegtilsyn skal starta opp verksemda si i første halvdel i 2012. Regjeringa føreslår å løyva 11,2 millionar kroner til tilsynet i 2012. Vegtilsynet skal føra tilsyn med veginfrastrukturen, ei viktig oppgåve i arbeidet med å gjera vegtrafikken endå tryggare, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
+<p><em type="italic">200 millionar kroner meir til trafikktryggleik </em>Regjeringa føreslår 747 millionar kroner til trafikktryggleikstiltak i 2012. Det er 200 millionar meir enn i 2011. </p>
+<p>- Talet på drepne i trafikken går stadig ned, men målet er og blir null drepne. Difor trappar vi opp innsatsen, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
+<p>Med den føreslåtte løyvinga vil 85 prosent av rammene i Statens vegvesen sitt handlingsprogram for trafikktryggleik i åra 2010-2013 vera oppfylte.</p>
+<p>Bygging av midtrekkverk er eit prioritert tiltak. I tillegg vil forsterka midtoppmerking, utbetring av sideterreng, vegbelysning, kryss- og kurveutbetringar og strakstiltak etter trafikktryggleiks inspeksjonar bli prioritert.</p>
+<p>For 2012 er det lagt opp til å fullføra bygging av midtrekkverk på 17 kilometer to- og trefelts riksveg. I tillegg får 25 kilometer riksveg neste år sterkare midtoppmerking. Medrekna 11 kilometer ny firefelts veg med skilde køyrebanar, får til saman 53 kilometer riksveg <span type="quote">”midttiltak”</span> for å hindra møteulukker.</p>
+<p type="title">Jernbane</p>
+<p><em type="italic">12,5 milliardar kroner til jernbaneføremål – ein auke på 1 milliard frå 2011 </em>Det er sett av 12,5 milliardar kroner til jernbane i 2012, ein auke på 8,7 prosent frå saldert budsjett 2011. </p>
+<p>- Med dette legg regjeringa til rette slik at endå fleire kan ta toget, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
+<p>Dette gir rom for oppstart av tre større jernbaneprosjekt, innfasing av 50 nye togsett, auka punktlegheit, ny grunnrutemodell samt utbetring av ei rekkje stasjonar.</p>
+<p>5,28 milliardar kroner går til drift og vedlikehald. Regjeringa har dermed overoppfylt planramma i Nasjonal transportplan for perioden 2010-2013 med over 1,3 milliardar kroner. Etter tre år av planperioden er oppfølginga av drift og vedlikehald på heile 82 prosent. Det er hovudsakleg vedlikehaldet som er styrka.</p>
+<p><em type="italic">Fornyingstiltak i 2012: </em></p>
+<p type="listitem">Østfoldbanen: 60 millionar kroner</p>
+<p type="listitem">Fornyingar i Oslo-området utanom Oslo-prosjektet, blant anna på skifteanlegget på Alnabru godsterminal: 80 millionar kroner</p>
+<p type="listitem">Sørlandsbanen: 100 millionar kroner</p>
+<p type="listitem">Bergensbanen inkl. Randsfjordbanen og Roa – Hønefossbanen: 110 millionar kroner</p>
+<p type="listitem">Dovrebanen: 170 millionar kroner</p>
+<p type="listitem">Nordlandsbanen: 100 millionar kroner</p>
+<p type="listitem">Ofotbanen: 90 millionar kroner</p>
+<p>4,67 milliardar kroner skal gå til investeringar i infrastruktur. Dette er ein auke på om lag 10,1 prosent. Løyvinga vil sikra rasjonell framdrift på dei store anleggsprosjekta i 2012. Ikkje minst gjeld det Oslo-prosjektet (570 millionar kroner).</p>
+<p><em type="italic">Større investeringsprosjekt: </em></p>
+<p type="listitem">Ny jernbanetrasé på strekninga Farriseidet – Porsgrunn på Vestfoldbanen (100 millionar kroner) med sikte på oppstart i 2012 (nytt).</p>
+<p type="listitem">Nytt dobbeltspor mellom Langset og Kleverud på Dovrebanen (514 millionar kroner) med sikte på oppstart i 2012. Dette er eit fellesprosjekt med Statens vegvesen (nytt).</p>
+<p type="listitem">Etablering av erfaringsstrekning for signalsystemet ERTMS på Østfoldbanen, austre line (179 millionar kroner) (nytt).</p>
+<p type="listitem">Nytt dobbeltspor Holm – Holmestrand – Nykirke: 839 millionar kroner (vidareføring).</p>
+<p>Togtilbodet i Austlandsområdet skal bli endå betre. I desember 2012 blir nye tog fasa inn. I desember 2014 blir ny grunnrutemodell innført. Regjeringa føreslår å setja av 848 millionar kroner til tilrettelegging i form av fleire små og store infrastrukturtiltak.</p>
+<p>Det er sett av 619 millionar kroner til oppgradering av stasjonar og knutepunkt.</p>
+<p>275 millionar kroner går til dobbeltspor Oslo-Ski i 2012. Innføringa av den nye banen til Oslo S er svært krevjande. Planarbeidet har difor tatt lenger tid enn tidlegare antatt, og Jernbaneverket reknar med at 2014 no er tidlegast mogleg byggestart for prosjektet.</p>
+<p>Det er sett av 2,5 milliardar kroner til statleg kjøp av persontransporttenester med tog, ein auke på 13,4 prosent samanlikna med 2011 (forhandlingar med NSB pågår). Auken har samanheng med den gradvise innfasinga av 50 nye togsett, og førebuingar til innføring av eit betre togtilbod i Austlandsområdet.</p>
+<p type="title">Luftfart</p>
+<p><em type="italic">Sikker, miljøvenleg og effektiv luftfart i heile landet </em>I budsjettet for 2012 føreslår regjeringa 977, 5 millionar kroner til luftfartsformål. Det er nær 20 millionar kroner meir enn i 2011. Det er budsjettert med 705,6 millionar kroner til kjøp av flytransport. Dette er omtrent på same nivå som i 2011. </p>
+<p>Samferdselsdepartementet lyste i august 2011 ut nytt anbod på 18 eksisterande ruteområde og eitt nytt ruteområde (Evenes-Tromsø) med sikte på å inngå nye kontraktar for ruteflyging frå 1. april 2012.</p>
+<p>- Vi har også sett av midlar til å finansiera ein tryggleiksstudie for å betra tryggleiken for innanlandshelikopter, seier samferdselsminister Kleppa.</p>
+<p type="title">Kollektivtransport</p>
+<p><em type="italic">Auka satsing på kollektivtransport </em>- 21 millionar fleire passasjerar reiste kollektivt i 2010 enn året før. Budsjettet for 2012 legg til rette for at endå fleire kan reisa kollektivt, seier samferdselsminister Magnhild Meltveit Kleppa. </p>
+<p>Regjeringa føreslår å bruka om lag 13,2 milliardar kroner til kollektivtiltak, ein auke på 9,1 prosent frå 2010. 12,5 milliardar kroner til jernbaneføremål utgjer hovuddelen av dette. I tillegg kjem 157 millionar kroner over vegbudsjettet til kollektivtiltak og tiltak for universell utforming på vegnettet.</p>
+<p>Det er sett av 493 millionar kroner til særskilte tilskot for kollektivtransport. Av dette er 411 millioner kroner satt av til belønningsordningen for bedre kollektivtransport, god tilrettelegging for syklister og fotgjengere og mindre bruk av bil i byområder.</p>
+<p>Regjeringa føreslår vidare 45,1 millionar kroner til ordninga med tilskot til tilgjengelegheitstiltak innan kommunane og fylkeskommunane sitt ansvarsområde. 22 millionar kroner går til ordninga med tilskot til kollektivtransport i distrikta.</p>
+<p>Regjeringa føreslår også å setja i gang eit nytt forsøk med forbetra tilbod til TT-brukarar (tilrettelagt transport) med spesielt store behov. Det er sett av 10 millionar kroner til dette forsøket. Forsøket er ei oppfølging av eit pågåande forsøk med betre koordinering av TT og bestillingstransport som blir avslutta i 2011.</p>
+<p>Regjeringa føreslår å løyva 738,5 millionar kroner til statleg kjøp av sjøtransporttenester på strekninga Bergen – Kirkenes. Samferdselsdepartementet og selskapet Hurtigruten ASA har inngått ein ny avtale for kystruta Bergen – Kirkenes for ein periode på åtte år, rekna frå 1. januar 2012. Den nye avtalen sikrar daglege seglingar heile året mellom Bergen og Kirkenes og til 32 mellomliggande hamner.</p>
+<p>Statsbudsjettet 2012 (samferdsel)</p>
+<p><em type="italic">Pressemeldingar om statsbudsjettet 2012: </em></p>
+<list><p type="listitem">Nytt løft for samferdsel – aukar med 2,4 milliardar kroner</p>
+<p type="listitem">1,2 milliardar kroner meir til vegføremål</p>
+<p type="listitem">747 millioner kroner til særskilte trafikksikkerhetstiltak</p>
+<p type="listitem">Vegtilsynet – tilsyn med infrastrukturen på offentleg veg: 11,2 millionar kroner</p>
+<p type="listitem">1 milliard kroner meir til jernbaneformål</p>
+<p type="listitem">Ny grunnrutemodell: Betre togtilbud i Østlandsområdet</p>
+<p type="listitem">Sikker, miljøvennlig og effektiv luftfart</p>
+<p type="listitem">13,2 milliarder kroner til kollektivtransport i 2012</p>
+<p type="listitem">Forbedret tilbud til TT-brukere med spesielt store behov</p>
+<p type="listitem">Fylkesoversikt: Forslag og tiltak i samferdselssektoren</p>
+</list></body></document>

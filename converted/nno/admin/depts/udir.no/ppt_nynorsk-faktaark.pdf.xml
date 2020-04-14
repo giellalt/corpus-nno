@@ -1,89 +1,37 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>517</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_nynorsk-faktaark.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
-    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
-    <parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/>
-    <parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/>
-    <parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
-    <parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/>
-    <parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
-    <parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
-    <parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/>
-    <parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/>
-    <parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
-    <parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Informasjon om pedagogisk–psykologisk teneste </em>
-    </p>
-    <p>
-      <em type="bold">Pedagogisk-psykologisk teneste (PP-tenesten ) </em>
-    </p>
-    <p>Pedagogisk-psykologisk teneste (ofte forkorta PPT eller PP-tenesta) er ei kommunal eller fylkeskommunal rådgivande teneste. Ho skal hjelpe barn, ungdom og vaksne som strever i si utvikling, eller som har ein vanskeleg opplæringssituasjon.</p>
-    <p>PP-tenesta skal mellom anna gi barnehagar og skolar råd og rettleiing om å tilretteleggje for barn/elevar som treng det.</p>
-    <p>PP-tenesta skal bistå skolar for å leggje opplæringa betre til rette for elevar med særskilde behov.</p>
-    <p>PP-tenesta har teieplikt.  Opplysningar om barnet/eleven er unnatekne det offentlege, og blir ikkje gitt vidare utan at foreldra har godteke det. Informasjon om barnet/eleven skal oppbevarast i ein eigen journal/ei eiga mappe etter retningslinjer frå Datatilsynet.</p>
-    <p>
-      <em type="bold">Kva gjer PP-tenesta? </em>
-    </p>
-    <p>PP-tenesta greier ut og gir råd og rettleiing om barn, unge og vaksne som har utfordringar knytte til</p>
-    <p type="listitem">•  språk- og talevanskar</p>
-    <p type="listitem">•  generelle lærevanskar eller fagvanskar</p>
-    <p type="listitem">•  lese- og skrivevanskar</p>
-    <p type="listitem">•  matematikkvanskar</p>
-    <p type="listitem">•  konsentrasjonsvanskar</p>
-    <p type="listitem">•  sosiale og emosjonelle vanskar</p>
-    <p type="listitem">•  åtferdsvanskar</p>
-    <p type="listitem">• syns- og høyrselsvanskar</p>
-    <p>
-      <em type="bold">Korleis kan du som forelder kontakte PP-tenesta? </em>
-    </p>
-    <p>Før du tek kontakt med PP-tenesta, bør du snakke med helsestasjonen/barnehagen/skolen om di bekymring for barnet ditt. Elevar over 15 år kan også ta kontakt med PP-tenesta. PP- tenesta kan også bistå vaksne som ønskjer å ta grunnskoleopplæring.</p>
-    <p>Både individ og institusjonar (barnehagen, skolen og andre) kan anonymt kontakte og søkje råd hos PP-tenesta.</p>
-    <p>Dersom det er behov for meir bistand frå PP-tenesta, kan barnet/eleven tilvisast til PP-tenesta. Tilvising til PP-tenesta skjer vanlegvis ved å bruke eit tilvisingsskjema. Sjå heimesida til kommunen/fylkeskommunen din. Ta kontakt med barnehagen/skolen for å få hjelp til å fylle ut tilvisingsskjemaet.</p>
-    <p>Andre som kan tilvise til PP-tenesta:</p>
-    <p type="listitem">• Barnehagen, skolen og vaksenopplæringa.</p>
-    <p type="listitem">•  Helsestasjonen og sjukhuset etter samtykke frå foreldra dersom barnet/eleven er under 15 år.</p>
-    <p>1 finne ut om eleven treng spesialundervisning, og eventuelt kva for opplæring eleven treng.</p>
-    <p>
-      <em type="bold">Korleis arbeider PP-tenesta? </em>
-    </p>
-    <p>PP-tenesta samarbeider mellom anna med barnehagar og skolar for å tilretteleggje tilbodet etter dei føresetnader og behov barnet/eleven har. Saksbehandlinga til PP-tenesta kan delast i tre fasar:</p>
-    <p>1.  <em type="italic">Utgreiing </em>Når PP-tenesta får ei tilvising, er det vanleg å høyre kva foreldra, i samarbeid med barnehagen og skolen, ønskjer hjelp til. Gjennom samtale/intervju, observasjon og testing skaffar PP-tenesta seg eit mest mogleg fullstendig bilete av kva føresetnader og behov barnet/eleven har. Utgreiinga går føre seg i barnehagen, på skolen, eller i lokala til PP-tenesta.  </p>
-    <p>2.  <em type="italic">Sakkunnig vurdering/tilråding  </em>På bakgrunn av utgreiinga gjer PP-tenesta ei sakkunnig vurdering (ein skriftleg rapport) og tilrår eventuelt tilrettelegging i barnehagen eller i opplæringssituasjonen med utgangspunkt i føresetnadene til barnet/eleven. PPT gir sakkunnig tilråding. Dei mest vanlege områda er vurdering av spesialpedagogisk hjelp for barn under skolepliktig alder og spesialundervisning for elevar. </p>
-    <p><em type="bold">3.  Oppfølging </em>PP-tenesta kan gi oppfølging i form av råd/rettleiing til foreldre, tilsette i barnehagen og lærarar på skolen. PP-tenesta kan gi støttesamtalar til den enkelte eleven, og dei kan vurdere eventuell vidare tilvising.   <em type="bold"> </em></p>
-    <p>PP-tenesta sitt arbeid er forankra i opplæringslova, mellom anna i følgjande paragrafar: <em type="bold"> </em></p>
-    <p>
-      <em type="italic">§ 5- 1 Rett til spesialundervisning  </em>
-    </p>
-    <p>
-      <em type="italic">§ 5-3 Sakkyndig vurdering </em>
-    </p>
-    <p>
-      <em type="italic">§ 5-4 Saksbehandlingen i forbindelse med vedtak om spesialundervisning </em>
-    </p>
-    <p>§ 5-6 <em type="italic">Pedagogisk-psykologisk teneste</em> </p>
-    <p>§ 5-7 <em type="italic">Spesialpedagogisk hjelp før opplæringspliktig alder</em> </p>
-    <p>2</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>517</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_nynorsk-faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Informasjon om pedagogisk–psykologisk teneste </em></p>
+<p><em type="bold">Pedagogisk-psykologisk teneste (PP-tenesten ) </em></p>
+<p>Pedagogisk-psykologisk teneste (ofte forkorta PPT eller PP-tenesta) er ei kommunal eller fylkeskommunal rådgivande teneste. Ho skal hjelpe barn, ungdom og vaksne som strever i si utvikling, eller som har ein vanskeleg opplæringssituasjon.</p>
+<p>PP-tenesta skal mellom anna gi barnehagar og skolar råd og rettleiing om å tilretteleggje for barn/elevar som treng det.</p>
+<p>PP-tenesta skal bistå skolar for å leggje opplæringa betre til rette for elevar med særskilde behov.</p>
+<p>PP-tenesta har teieplikt.  Opplysningar om barnet/eleven er unnatekne det offentlege, og blir ikkje gitt vidare utan at foreldra har godteke det. Informasjon om barnet/eleven skal oppbevarast i ein eigen journal/ei eiga mappe etter retningslinjer frå Datatilsynet.</p>
+<p><em type="bold">Kva gjer PP-tenesta? </em></p>
+<p>PP-tenesta greier ut og gir råd og rettleiing om barn, unge og vaksne som har utfordringar knytte til</p>
+<p type="listitem">•  språk- og talevanskar</p>
+<p type="listitem">•  generelle lærevanskar eller fagvanskar</p>
+<p type="listitem">•  lese- og skrivevanskar</p>
+<p type="listitem">•  matematikkvanskar</p>
+<p type="listitem">•  konsentrasjonsvanskar</p>
+<p type="listitem">•  sosiale og emosjonelle vanskar</p>
+<p type="listitem">•  åtferdsvanskar</p>
+<p type="listitem">• syns- og høyrselsvanskar</p>
+<p><em type="bold">Korleis kan du som forelder kontakte PP-tenesta? </em></p>
+<p>Før du tek kontakt med PP-tenesta, bør du snakke med helsestasjonen/barnehagen/skolen om di bekymring for barnet ditt. Elevar over 15 år kan også ta kontakt med PP-tenesta. PP- tenesta kan også bistå vaksne som ønskjer å ta grunnskoleopplæring.</p>
+<p>Både individ og institusjonar (barnehagen, skolen og andre) kan anonymt kontakte og søkje råd hos PP-tenesta.</p>
+<p>Dersom det er behov for meir bistand frå PP-tenesta, kan barnet/eleven tilvisast til PP-tenesta. Tilvising til PP-tenesta skjer vanlegvis ved å bruke eit tilvisingsskjema. Sjå heimesida til kommunen/fylkeskommunen din. Ta kontakt med barnehagen/skolen for å få hjelp til å fylle ut tilvisingsskjemaet.</p>
+<p>Andre som kan tilvise til PP-tenesta:</p>
+<p type="listitem">• Barnehagen, skolen og vaksenopplæringa.</p>
+<p type="listitem">•  Helsestasjonen og sjukhuset etter samtykke frå foreldra dersom barnet/eleven er under 15 år.</p>
+<p>1 finne ut om eleven treng spesialundervisning, og eventuelt kva for opplæring eleven treng.</p>
+<p><em type="bold">Korleis arbeider PP-tenesta? </em></p>
+<p>PP-tenesta samarbeider mellom anna med barnehagar og skolar for å tilretteleggje tilbodet etter dei føresetnader og behov barnet/eleven har. Saksbehandlinga til PP-tenesta kan delast i tre fasar:</p>
+<p>1.  <em type="italic">Utgreiing </em>Når PP-tenesta får ei tilvising, er det vanleg å høyre kva foreldra, i samarbeid med barnehagen og skolen, ønskjer hjelp til. Gjennom samtale/intervju, observasjon og testing skaffar PP-tenesta seg eit mest mogleg fullstendig bilete av kva føresetnader og behov barnet/eleven har. Utgreiinga går føre seg i barnehagen, på skolen, eller i lokala til PP-tenesta.  </p>
+<p>2.  <em type="italic">Sakkunnig vurdering/tilråding  </em>På bakgrunn av utgreiinga gjer PP-tenesta ei sakkunnig vurdering (ein skriftleg rapport) og tilrår eventuelt tilrettelegging i barnehagen eller i opplæringssituasjonen med utgangspunkt i føresetnadene til barnet/eleven. PPT gir sakkunnig tilråding. Dei mest vanlege områda er vurdering av spesialpedagogisk hjelp for barn under skolepliktig alder og spesialundervisning for elevar. </p>
+<p><em type="bold">3.  Oppfølging </em>PP-tenesta kan gi oppfølging i form av råd/rettleiing til foreldre, tilsette i barnehagen og lærarar på skolen. PP-tenesta kan gi støttesamtalar til den enkelte eleven, og dei kan vurdere eventuell vidare tilvising.   <em type="bold"> </em></p>
+<p>PP-tenesta sitt arbeid er forankra i opplæringslova, mellom anna i følgjande paragrafar: <em type="bold"> </em></p>
+<p><em type="italic">§ 5- 1 Rett til spesialundervisning  </em></p>
+<p><em type="italic">§ 5-3 Sakkyndig vurdering </em></p>
+<p><em type="italic">§ 5-4 Saksbehandlingen i forbindelse med vedtak om spesialundervisning </em></p>
+<p>§ 5-6 <em type="italic">Pedagogisk-psykologisk teneste</em> </p>
+<p>§ 5-7 <em type="italic">Spesialpedagogisk hjelp før opplæringspliktig alder</em> </p>
+<p>2</p>
+</body></document>

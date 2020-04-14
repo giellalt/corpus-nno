@@ -1,205 +1,129 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Ráđđehusa 2013 vearro- ja divatárvalus  - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1855</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/regjeringa-sitt-framlegg-til-skatte--og-.html?id=704089</origFileName>
-    <parallel_text xml:lang="nob" location="regjeringens-forslag-til-skatte--og-avgi_id_704089.html"/>
-    <parallel_text xml:lang="sme" location="raehusa-2013-vearro--ja-divatarvalus-_id_704089.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Regjeringa sitt framlegg til skatte- og avgiftsopplegg for 2013 - regjeringen.no</p>
-    <p><em type="italic">Overprisa gebyr </em>Regjeringa reduserer gebyra for tinglysing i fast eigedom betydeleg. Gebyret på tollkredittdeklarasjonar vert redusert til kostnadsriktig nivå. Sektoravgifter og overprisa gebyr vert samla sett redusert med om lag 565 millionar kroner oppsamla i 2013. I perioden 2007 til 2013 er samla reduksjon av gebyr 1,2 milliardar kroner. </p>
-    <p>Sjå pressemelding 34/2012 og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 13 .</p>
-    <p><em type="italic">Formuesskatt </em>Regjeringa foreslår å auke likningsverdiane av næringseigedom og sekundærbustad i formuesskatten frå 40 til 50 prosent av berekna marknadsverdi. Den skattemessige favoriseringa av investeringar i eigedom framfor sparing i bedrift og bank vert redusert. Det vil dempe insentiva til å plassere pengar i fleire bustader for å spare skatt, og dermed gje eit bidrag til å redusere prispresset på bustad. </p>
-    <p>Utvidinga av skattegrunnlaget finansierer ein auke av botnfrådraget i formuesskatten frå 750 000 kroner til 870 000 kroner. Ektepar får dermed eit samla botnfrådrag på 1 740 000 kroner. Delen skattytarar som vil betale formuesskatt i 2013, er berekna til 16 prosent. Det er ein nedgang frå 33 prosent i 2005. Framlegget styrkjer omfordelinga gjennom skattesystemet.</p>
-    <p>Sjå pressemelding 36/2012 og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.1 .</p>
-    <p><em type="italic">Skatt på arbeid og aksjeinntekt </em>Satsstrukturen i skattlegginga av løn og skattesatsen på aksjeinntekter vert oppretthalde. Etter skattereforma i 2006 er det små ulikskapar i høgaste marginalskatt på aksjeinntekt og arbeidsinntekt. </p>
-    <p>Den reelle progresjonen i skattlegginga av løn vert oppretthalde ved at personfrådraget, maksimale minstefrådrag i løn og pensjon og innslagspunkta i toppskatten vert auka med venta lønsvekst (4 prosent). Samstundes prioriterer Regjeringa skatteletter til dei med låge lønsinntekter ved å auke satsen i minstefrådraget frå 38 til 40 prosent.</p>
-    <p>Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.2 .</p>
-    <p><em type="italic">Skattereglar for ny uførepensjon frå 2015 </em>Stortinget har vedteke at uførepensjonen i folketrygda skal leggjast om til ny uføretrygd frå 2015. Dei nye reglane føreset at den nye uføretrygda vert skattlagt som løn. Regjeringa foreslår no naudsynte endringar i folketrygdlova og skattelova for å følgje opp dette. </p>
-    <p>Regjeringa foreslår òg at uføreytingar frå andre ordningar enn folketrygda vert skattlagde som løn. Det vil sikre skattemessig likehandsaming og eit enklare og meir einsarta skattesystem for uføre med tilleggsytingar frå andre ordningar.</p>
-    <p>Dei fleste uføre vil kome betre ut av omlegginga. Einskilde grupper, i hovudsak med relativt høg inntekt, kan få ein skatteauke. Dessutan vil ei lita gruppe som berre får ytingar frå andre ordningar enn folketrygda, få auka skatt. Det er hovudsakeleg personar med låg uføregrad. Departementet vil kome attende med reglar som lettar overgangen for denne gruppa.</p>
-    <p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 4 .</p>
-    <p><em type="italic">Gjere om skatteklasse 2 for einslege forsørgjarar til eit særfrådrag </em>Regjeringa foreslår å avvikle dagens ordning med skatteklasse 2 for einslege forsørgjarar og vidareføre føremonen ved klasse 2 i eit eige særfrådrag. Det nye frådraget skal gå til einslege forsørgjarar som får utvida barnetrygd. Omlegginga bidreg til likare handsaming av sambuarar og ektepar. Det nye særfrådraget kan graderast etter talet på månader som einsleg forsørgjar, og det er lettare å tilpasse det til tilfelle der foreldra har avtalt delt bustad for barn etter separasjon og skilsmisse. </p>
-    <p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.3 .</p>
-    <p><em type="italic">Skattlegging av næring </em>Regjeringa foreslår to endringar i skattlegginga av næring som samla vil auke staten sine inntekter med om lag 800 millionar kroner på årsbasis. </p>
-    <p>For det første skal fritaksmetoden ikkje lenger gjelde for avkasting på middel som livsforsikringsselskapa og pensjonsføretaka forvaltar på vegne av kundane. Framlegget fjernar ein utilsikta føremon for desse selskapa. Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 5 .</p>
-    <p>For det andre foreslår Regjeringa at inntekt frå petroleumsutvinning i utlandet vert unnateke frå skatteplikt. Dei aktuelle selskapa kan i dag frådragsføre kostnader ved utanlandsaktiviteten sin i det norske landskattegrunnlaget utan at Noreg kan rekne med å få skatteinntekter frå denne verksemda. Ved fråvære av skatteplikt opphøyrer òg retten til å frådragsføre desse kostnadene i Noreg. Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 6 .</p>
-    <p><em type="italic">Taksering av bustad for eigedomsskatteføremål </em>Regjeringa opnar for å la kommunane bruke formuegrunnlaga ved taksering av bustad for eigedomsskatteføremål frå eigedomsskatteåret 2014. Det kan redusere takseringskostnadene til kommunane. </p>
-    <p>Framlegget inneber at kommunane kan hente ut naudsynte bustadsdata og formuegrunnlag frå ein portal som vert utvikla av Skattedirektoratet. Det fastsette formuegrunnlaget for bustad, redusert med en obligatorisk reduksjonsfaktor, utgjer grunnlaget for eigedomsskatteutskrivinga. I tillegg kan grunnlaget verte redusert med ein eventuell lokal reduksjonsfaktor som òg må gjelde for annan eigedom i kommunen.</p>
-    <p>Sjå Prop. 1 LS (2011-2012) Skatter, avgifter og toll, kapittel 8 .</p>
-    <p><em type="italic">Miljø- og bilavgifter </em>Omregistreringsavgifta har uheldige verknader, særleg for omsetjing av brukte kjøretøy til næringsverksemd. Regjeringa foreslår at avgifta vert redusert med 40 prosent reelt for typiske næringskjøretøy og med 12 prosent for andre kjøretøy. Dette gjev ei lette på 400 millionar kroner. Til saman vert omregistreringsavgifta redusert med nesten 600 millionar kroner frå 2011 til 2013. </p>
-    <p>Miljøprofilen i avgiftene vert ytterlegare styrkt. I tråd med Klimameldinga vert CO 2 -avgifta for petroleumsverksemda auka med 200 kroner per tonn. Fiske og fangst i nære farvatn får ei effektiv CO 2 -avgift på om lag 50 kroner per tonn. Samstundes vert kontrollavgifta for fiskeflåten fjerna.</p>
-    <p>Regjeringa gjer framlegg om å klargjere avgiftsplikta på mineralolje og bensin ved å knytte den til kokepunktet til produkta. Dagens fritak for spillolje vil verte vidareført inntil vidare.</p>
-    <p>Omlegginga av eingongsavgifta på kjøretøy i miljøvenleg retning vert vidareført ved at ein legg større vekt på CO 2 - og NO X -utslipp og mindre vekt på motoreffekt. Vrakpanten vert auka frå 2 000 kroner til 2 500 kroner.</p>
-    <p>Sjå pressemelding 35/2012 og Prop. 1 LS (2012-2013), kapittel 11 og 21 .</p>
-    <p><em type="italic">Toll </em>Regjeringa gjer framlegg om å redusere dei høgaste tollsatsane på tekstilar, og å utjamne tollsatsane på fleire typar klede. Dagens kronetollsatsar vert erstatta med prosenttoll ved import av biffar og filetar av storfekjøt, heile eller halve skrottar av lam, og faste og halvfaste ostar. For at utviklingslanda ikkje skal kome dårlegare ut som følgje av endringa vert det etablert ein ny kvote for storfekjøt på 500 tonn som er øyremerkt utviklingsland. Regjeringa gjer òg framlegg om andre betringar i tollpreferansane for utviklingsland, mellom anna ved at fleire mellominntektsland får auka tollføremoner på ein del landbruksvarer og tollfridom på klede og tekstilar. </p>
-    <p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 12 .</p>
-    <p><em type="italic">Meirverdiavgift </em>Regjeringa gjer framlegg om å avvikle gjeldande meirverdiavgiftsfritak for omsetjing av tenester til offentleg veg og bane frå 1. januar 2013. Fritaka, som har eksistert sidan 1970-åra, er utdaterte og fører med seg administrative byrder. Avviklinga er ei teknisk forenkling og vert følgd av auka kompensasjonar innanfor ei provenynøytral ramme. </p>
-    <p>Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 10 .</p>
-    <p>
-      <em type="italic">Andre framlegg til endringar </em>
-    </p>
-    <list>
-      <p type="listitem">Det maksimale frådraget for fagforeiningskontingent vert auka frå 3 750 kroner til 3 850 kroner.</p>
-      <p type="listitem">Dei skattefrie kilometergodtgjerslene ved yrkeskjøring med privatbil vert auka til same nivå som kilometersatsane som er forhandla fram mellom staten og hovudsamanslutningane i staten. Det sikrar at godtgjersla vert skattefri ved bruk av desse kilometersatsane.</p>
-      <p type="listitem">Frå eigedomsskatteåret 2013 ver det innført obligatorisk fritak for eigedomsskatt og fritak for å taksere lågproduktive utmarkseigedomar i direkte og indirekte statleg eige og nasjonalparkar og naturreservat uansett eigar.</p>
-      <p type="listitem">Særavgifta på alkoholfrie drikkevarer vert auka til same nivå som særavgifta på lettøl.</p>
-      <p type="listitem">Einskilde beløpsgrenser mv. vert halde nominelt uendra frå 2012 til 2013. Det gjeld mellom anna det særskilte frådraget i arbeidsinntekt, foreldrefrådraget for legitimerte utgifter til pass og stell av barn, nedre grense for betaling av trygdeavgift, særskilt frådrag i Nord-Troms og Finnmark, frådraget for skiferdrivarar i Finnmark og Nord-Troms, jordbruksfrådraget, fiskar- og sjømannsfrådraget, nedre grense og kilometersatsane i frådraget for reiser mellom heim og arbeid, innslagspunkta i arveavgifta samt maksimal sparing i BSU.</p>
-    </list>
-    <p>Ein viser til nærare omtale av framlegga i Prop. 1 LS (2012-2013), Skatter, avgifter og toll 2013 .</p>
-    <p><em type="italic">Skatteløftet </em>Skatteløftet vert vidareført med Regjeringa sitt framlegg til skatte- og avgiftsopplegg. Letta på 681 millionar kroner oppsamla i provenytabellen på neste side må sjåast i samanheng med at skjerpingane i skattlegginga av næringa (sjå ovanfor) på til saman 800 millionar kroner kjem på i 2012 og derfor ikkje går fram av tabellen for 2013. Desse skjerpingane er like fullt tekne med ved bereking av skatteløftet. Avviket frå skatteløftet etter at 2013-budsjettet er lagt fram, er -20 millionar kroner. </p>
-    <p>
-      <em type="italic">Berekna provenyverknader av skatte- og avgiftsopplegget for 2013. Negative tal inneber letter. Berekningane er rekna i forhold til eit referansesystem for 2013. Mill. kroner </em>
-    </p>
-    <p xml:lang="smj">Oppsamla</p>
-    <p>Bokført</p>
-    <p>
-      <em type="italic">Inntektsskattegrunnlaget for personar </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">230 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">150 </em>
-    </p>
-    <p>Auke satsen i minstefrådraget i lønsinntekt til 40 pst</p>
-    <p xml:lang="koi">-265</p>
-    <p xml:lang="koi">-210</p>
-    <p xml:lang="nob">Lønsjustere øvre grense i minstefr ådraget i pensjonsinntekt</p>
-    <p xml:lang="koi">-55</p>
-    <p xml:lang="koi">-44</p>
-    <p xml:lang="nob">Lønsjustere personfrådraget</p>
-    <p xml:lang="koi">-51</p>
-    <p xml:lang="koi">-41</p>
-    <p>Erstatte skatteklasse 2 for einslege forsørgjarar med nytt særfrådrag</p>
-    <p xml:lang="koi">425</p>
-    <p xml:lang="koi">340</p>
-    <p>Auke maksimalt frådrag for innbetalt fagforeiningskontingent mv. til 3 850 kroner</p>
-    <p xml:lang="koi">-8</p>
-    <p xml:lang="koi">-6</p>
-    <p>Auke skattefri kilometergodtgjersle ved yrkeskjøring med privatbil</p>
-    <p xml:lang="koi">-60</p>
-    <p xml:lang="koi">-48</p>
-    <p>Vidareføre andre satsar og beløpsgrenser nominelt mv</p>
-    <p xml:lang="koi">244</p>
-    <p xml:lang="koi">159</p>
-    <p xml:lang="fkv">
-      <em type="italic">Formuesskatten </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-20 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-16 </em>
-    </p>
-    <p>Auke likningsverdiane av sekundærbustad og næringseigedom til 50 pst. av anslått marknadsverdi og auke botnfrådraget til 870 000 kroner</p>
-    <p xml:lang="koi">-20</p>
-    <p xml:lang="koi">-16</p>
-    <p>
-      <em type="italic">Skattlegginga av næring </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">800 </em>
-    </p>
-    <p>Avgrense fritaksmetoden for aksjar mv. i livsforsikringsselskap og pensjonsføretak</p>
-    <p xml:lang="koi">300</p>
-    <p>Motverke utholing av norsk skattegrunnlag ved investeringar i petroleumsverksemd i utlandet</p>
-    <p xml:lang="koi">500</p>
-    <p xml:lang="dan">
-      <em type="italic">Miljø-, energi- og bilavgifter </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-370 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-370 </em>
-    </p>
-    <p>Justere eingongsavgifta</p>
-    <p>Auke vrakpanten med 500 kroner og vrakpantavgifta med 300 kroner</p>
-    <p xml:lang="nob">Redusere omregistreringsavgifta</p>
-    <p xml:lang="koi">-400</p>
-    <p xml:lang="koi">-400</p>
-    <p>Redusere refusjonen av CO 2 -avgift for fiske og fangst tilsvarande om lag 50 kroner per tonn CO 2</p>
-    <p xml:lang="koi">30</p>
-    <p xml:lang="koi">30</p>
-    <p>Auke CO 2 -avgifta i petroleumsverksemda 1</p>
-    <p xml:lang="dan">
-      <em type="italic">Andre skatte- og avgiftsendringar </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">45 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-354 </em>
-    </p>
-    <p>Avvikle meirverdiavgiftsfritaka for leveransar til offentleg vei og bane (netto) 2</p>
-    <p xml:lang="koi">-400</p>
-    <p>Auke avgifta for alkoholfrie drikkevarer med 16 øre per liter</p>
-    <p xml:lang="koi">90</p>
-    <p xml:lang="koi">85</p>
-    <p>Redusere tollsatsane for klede og tekstilar</p>
-    <p xml:lang="koi">-35</p>
-    <p xml:lang="koi">-30</p>
-    <p>Betre tollpreferansar for utviklingsland</p>
-    <p xml:lang="koi">-10</p>
-    <p xml:lang="koi">-9</p>
-    <p>
-      <em type="italic">Sektoravgifter og overprisa gebyr </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-566 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-543 </em>
-    </p>
-    <p xml:lang="nob">Redusere gebyret for tollkredittdeklarasjonar</p>
-    <p xml:lang="koi">-155</p>
-    <p xml:lang="koi">-142</p>
-    <p xml:lang="nob">Redusere tinglysingsgebyra</p>
-    <p xml:lang="koi">-400</p>
-    <p xml:lang="koi">-385</p>
-    <p xml:lang="dan">Fjerne kystavgifta</p>
-    <p xml:lang="koi">-33</p>
-    <p xml:lang="koi">-33</p>
-    <p xml:lang="dan">Fjerne kontrollavgifta for fiskeflåten</p>
-    <p xml:lang="koi">-33</p>
-    <p xml:lang="koi">-27</p>
-    <p>Auke kontroll- og tilsynsavgifta for havbruksnæringa</p>
-    <p xml:lang="koi">10</p>
-    <p xml:lang="koi">10</p>
-    <p>Auke sektoravgifta for delvis finansiering av Petroleumstilsynets aktivitet 3</p>
-    <p xml:lang="koi">45</p>
-    <p xml:lang="koi">34</p>
-    <p>
-      <em type="italic">Samla nye skatte- og avgiftsendringar i 2013 4 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-681 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">-333 </em>
-    </p>
-    <p><em type="italic">1) Inntekter frå petroleumssektoren er ikkje inkludert i tabellen ettersom dei inngår i Statens pensjonsfond utland. Auka i CO2-avgifta i petroleumsverksemda aukar overføringa til fondet med 370 mill. kroner oppsamla og 180 mill. kroner bokført i 2013. </em><em type="italic">2) Endringa er provenynøytral ved at løyvingar på utgiftssida vert auka tilsvarande auka i meirverdiavgiftsinntektene som følgje av avviklinga. Det bokførte provenytapet i 2013 skuldast ulik periodisering av inntekter og utgifter, men påverkar ikkje det strukturelle, oljekorrigerte underskotet og dermed heller ikkje handlingsrommet i budsjettet. </em><em type="italic">3) Nettoverknaden er vesentleg lågare når ein tek omsyn til SDØE og høg skattesats i petroleumsverksemd. </em><em type="italic">4) Skatte- og avgiftsendringar som inngår i det strukturelle, oljekorrigerte underskotet, utgjer 67 mill. kroner. Dette svarar til samla bokført verknad av skatte- og avgiftsopplegget (-333 mill. kroner) fråtrukke verknaden av å avvikle meirverdiavgiftsfritaka for leveransar til offentleg veg og bane (-400 mill. kroner), jf. fotnote 2 i denne tabellen. </em>Kjelde: Finansdepartementet. </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Ráđđehusa 2013 vearro- ja divatárvalus  - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>1855</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/fin/pressesenter/pressemeldingar/2012/regjeringa-sitt-framlegg-til-skatte--og-.html?id=704089</origFileName><parallel_text xml:lang="nob" location="regjeringens-forslag-til-skatte--og-avgi_id_704089.html"/><parallel_text xml:lang="sme" location="raehusa-2013-vearro--ja-divatarvalus-_id_704089.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Regjeringa sitt framlegg til skatte- og avgiftsopplegg for 2013 - regjeringen.no</p>
+<p><em type="italic">Overprisa gebyr </em>Regjeringa reduserer gebyra for tinglysing i fast eigedom betydeleg. Gebyret på tollkredittdeklarasjonar vert redusert til kostnadsriktig nivå. Sektoravgifter og overprisa gebyr vert samla sett redusert med om lag 565 millionar kroner oppsamla i 2013. I perioden 2007 til 2013 er samla reduksjon av gebyr 1,2 milliardar kroner. </p>
+<p>Sjå pressemelding 34/2012 og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 13 .</p>
+<p><em type="italic">Formuesskatt </em>Regjeringa foreslår å auke likningsverdiane av næringseigedom og sekundærbustad i formuesskatten frå 40 til 50 prosent av berekna marknadsverdi. Den skattemessige favoriseringa av investeringar i eigedom framfor sparing i bedrift og bank vert redusert. Det vil dempe insentiva til å plassere pengar i fleire bustader for å spare skatt, og dermed gje eit bidrag til å redusere prispresset på bustad. </p>
+<p>Utvidinga av skattegrunnlaget finansierer ein auke av botnfrådraget i formuesskatten frå 750 000 kroner til 870 000 kroner. Ektepar får dermed eit samla botnfrådrag på 1 740 000 kroner. Delen skattytarar som vil betale formuesskatt i 2013, er berekna til 16 prosent. Det er ein nedgang frå 33 prosent i 2005. Framlegget styrkjer omfordelinga gjennom skattesystemet.</p>
+<p>Sjå pressemelding 36/2012 og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.1 .</p>
+<p><em type="italic">Skatt på arbeid og aksjeinntekt </em>Satsstrukturen i skattlegginga av løn og skattesatsen på aksjeinntekter vert oppretthalde. Etter skattereforma i 2006 er det små ulikskapar i høgaste marginalskatt på aksjeinntekt og arbeidsinntekt. </p>
+<p>Den reelle progresjonen i skattlegginga av løn vert oppretthalde ved at personfrådraget, maksimale minstefrådrag i løn og pensjon og innslagspunkta i toppskatten vert auka med venta lønsvekst (4 prosent). Samstundes prioriterer Regjeringa skatteletter til dei med låge lønsinntekter ved å auke satsen i minstefrådraget frå 38 til 40 prosent.</p>
+<p>Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.2 .</p>
+<p><em type="italic">Skattereglar for ny uførepensjon frå 2015 </em>Stortinget har vedteke at uførepensjonen i folketrygda skal leggjast om til ny uføretrygd frå 2015. Dei nye reglane føreset at den nye uføretrygda vert skattlagt som løn. Regjeringa foreslår no naudsynte endringar i folketrygdlova og skattelova for å følgje opp dette. </p>
+<p>Regjeringa foreslår òg at uføreytingar frå andre ordningar enn folketrygda vert skattlagde som løn. Det vil sikre skattemessig likehandsaming og eit enklare og meir einsarta skattesystem for uføre med tilleggsytingar frå andre ordningar.</p>
+<p>Dei fleste uføre vil kome betre ut av omlegginga. Einskilde grupper, i hovudsak med relativt høg inntekt, kan få ein skatteauke. Dessutan vil ei lita gruppe som berre får ytingar frå andre ordningar enn folketrygda, få auka skatt. Det er hovudsakeleg personar med låg uføregrad. Departementet vil kome attende med reglar som lettar overgangen for denne gruppa.</p>
+<p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 4 .</p>
+<p><em type="italic">Gjere om skatteklasse 2 for einslege forsørgjarar til eit særfrådrag </em>Regjeringa foreslår å avvikle dagens ordning med skatteklasse 2 for einslege forsørgjarar og vidareføre føremonen ved klasse 2 i eit eige særfrådrag. Det nye frådraget skal gå til einslege forsørgjarar som får utvida barnetrygd. Omlegginga bidreg til likare handsaming av sambuarar og ektepar. Det nye særfrådraget kan graderast etter talet på månader som einsleg forsørgjar, og det er lettare å tilpasse det til tilfelle der foreldra har avtalt delt bustad for barn etter separasjon og skilsmisse. </p>
+<p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 3.3 .</p>
+<p><em type="italic">Skattlegging av næring </em>Regjeringa foreslår to endringar i skattlegginga av næring som samla vil auke staten sine inntekter med om lag 800 millionar kroner på årsbasis. </p>
+<p>For det første skal fritaksmetoden ikkje lenger gjelde for avkasting på middel som livsforsikringsselskapa og pensjonsføretaka forvaltar på vegne av kundane. Framlegget fjernar ein utilsikta føremon for desse selskapa. Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll, kapittel 5 .</p>
+<p>For det andre foreslår Regjeringa at inntekt frå petroleumsutvinning i utlandet vert unnateke frå skatteplikt. Dei aktuelle selskapa kan i dag frådragsføre kostnader ved utanlandsaktiviteten sin i det norske landskattegrunnlaget utan at Noreg kan rekne med å få skatteinntekter frå denne verksemda. Ved fråvære av skatteplikt opphøyrer òg retten til å frådragsføre desse kostnadene i Noreg. Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 6 .</p>
+<p><em type="italic">Taksering av bustad for eigedomsskatteføremål </em>Regjeringa opnar for å la kommunane bruke formuegrunnlaga ved taksering av bustad for eigedomsskatteføremål frå eigedomsskatteåret 2014. Det kan redusere takseringskostnadene til kommunane. </p>
+<p>Framlegget inneber at kommunane kan hente ut naudsynte bustadsdata og formuegrunnlag frå ein portal som vert utvikla av Skattedirektoratet. Det fastsette formuegrunnlaget for bustad, redusert med en obligatorisk reduksjonsfaktor, utgjer grunnlaget for eigedomsskatteutskrivinga. I tillegg kan grunnlaget verte redusert med ein eventuell lokal reduksjonsfaktor som òg må gjelde for annan eigedom i kommunen.</p>
+<p>Sjå Prop. 1 LS (2011-2012) Skatter, avgifter og toll, kapittel 8 .</p>
+<p><em type="italic">Miljø- og bilavgifter </em>Omregistreringsavgifta har uheldige verknader, særleg for omsetjing av brukte kjøretøy til næringsverksemd. Regjeringa foreslår at avgifta vert redusert med 40 prosent reelt for typiske næringskjøretøy og med 12 prosent for andre kjøretøy. Dette gjev ei lette på 400 millionar kroner. Til saman vert omregistreringsavgifta redusert med nesten 600 millionar kroner frå 2011 til 2013. </p>
+<p>Miljøprofilen i avgiftene vert ytterlegare styrkt. I tråd med Klimameldinga vert CO 2 -avgifta for petroleumsverksemda auka med 200 kroner per tonn. Fiske og fangst i nære farvatn får ei effektiv CO 2 -avgift på om lag 50 kroner per tonn. Samstundes vert kontrollavgifta for fiskeflåten fjerna.</p>
+<p>Regjeringa gjer framlegg om å klargjere avgiftsplikta på mineralolje og bensin ved å knytte den til kokepunktet til produkta. Dagens fritak for spillolje vil verte vidareført inntil vidare.</p>
+<p>Omlegginga av eingongsavgifta på kjøretøy i miljøvenleg retning vert vidareført ved at ein legg større vekt på CO 2 - og NO X -utslipp og mindre vekt på motoreffekt. Vrakpanten vert auka frå 2 000 kroner til 2 500 kroner.</p>
+<p>Sjå pressemelding 35/2012 og Prop. 1 LS (2012-2013), kapittel 11 og 21 .</p>
+<p><em type="italic">Toll </em>Regjeringa gjer framlegg om å redusere dei høgaste tollsatsane på tekstilar, og å utjamne tollsatsane på fleire typar klede. Dagens kronetollsatsar vert erstatta med prosenttoll ved import av biffar og filetar av storfekjøt, heile eller halve skrottar av lam, og faste og halvfaste ostar. For at utviklingslanda ikkje skal kome dårlegare ut som følgje av endringa vert det etablert ein ny kvote for storfekjøt på 500 tonn som er øyremerkt utviklingsland. Regjeringa gjer òg framlegg om andre betringar i tollpreferansane for utviklingsland, mellom anna ved at fleire mellominntektsland får auka tollføremoner på ein del landbruksvarer og tollfridom på klede og tekstilar. </p>
+<p>Sjå faktaark og Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 12 .</p>
+<p><em type="italic">Meirverdiavgift </em>Regjeringa gjer framlegg om å avvikle gjeldande meirverdiavgiftsfritak for omsetjing av tenester til offentleg veg og bane frå 1. januar 2013. Fritaka, som har eksistert sidan 1970-åra, er utdaterte og fører med seg administrative byrder. Avviklinga er ei teknisk forenkling og vert følgd av auka kompensasjonar innanfor ei provenynøytral ramme. </p>
+<p>Sjå Prop. 1 LS (2012-2013) Skatter, avgifter og toll kapittel 10 .</p>
+<p><em type="italic">Andre framlegg til endringar </em></p>
+<list><p type="listitem">Det maksimale frådraget for fagforeiningskontingent vert auka frå 3 750 kroner til 3 850 kroner.</p>
+<p type="listitem">Dei skattefrie kilometergodtgjerslene ved yrkeskjøring med privatbil vert auka til same nivå som kilometersatsane som er forhandla fram mellom staten og hovudsamanslutningane i staten. Det sikrar at godtgjersla vert skattefri ved bruk av desse kilometersatsane.</p>
+<p type="listitem">Frå eigedomsskatteåret 2013 ver det innført obligatorisk fritak for eigedomsskatt og fritak for å taksere lågproduktive utmarkseigedomar i direkte og indirekte statleg eige og nasjonalparkar og naturreservat uansett eigar.</p>
+<p type="listitem">Særavgifta på alkoholfrie drikkevarer vert auka til same nivå som særavgifta på lettøl.</p>
+<p type="listitem">Einskilde beløpsgrenser mv. vert halde nominelt uendra frå 2012 til 2013. Det gjeld mellom anna det særskilte frådraget i arbeidsinntekt, foreldrefrådraget for legitimerte utgifter til pass og stell av barn, nedre grense for betaling av trygdeavgift, særskilt frådrag i Nord-Troms og Finnmark, frådraget for skiferdrivarar i Finnmark og Nord-Troms, jordbruksfrådraget, fiskar- og sjømannsfrådraget, nedre grense og kilometersatsane i frådraget for reiser mellom heim og arbeid, innslagspunkta i arveavgifta samt maksimal sparing i BSU.</p>
+</list><p>Ein viser til nærare omtale av framlegga i Prop. 1 LS (2012-2013), Skatter, avgifter og toll 2013 .</p>
+<p><em type="italic">Skatteløftet </em>Skatteløftet vert vidareført med Regjeringa sitt framlegg til skatte- og avgiftsopplegg. Letta på 681 millionar kroner oppsamla i provenytabellen på neste side må sjåast i samanheng med at skjerpingane i skattlegginga av næringa (sjå ovanfor) på til saman 800 millionar kroner kjem på i 2012 og derfor ikkje går fram av tabellen for 2013. Desse skjerpingane er like fullt tekne med ved bereking av skatteløftet. Avviket frå skatteløftet etter at 2013-budsjettet er lagt fram, er -20 millionar kroner. </p>
+<p><em type="italic">Berekna provenyverknader av skatte- og avgiftsopplegget for 2013. Negative tal inneber letter. Berekningane er rekna i forhold til eit referansesystem for 2013. Mill. kroner </em></p>
+<p xml:lang="smj">Oppsamla</p>
+<p>Bokført</p>
+<p><em type="italic">Inntektsskattegrunnlaget for personar </em></p>
+<p xml:lang="vep"><em type="italic">230 </em></p>
+<p xml:lang="vep"><em type="italic">150 </em></p>
+<p>Auke satsen i minstefrådraget i lønsinntekt til 40 pst</p>
+<p xml:lang="vep">-265</p>
+<p xml:lang="vep">-210</p>
+<p xml:lang="nob">Lønsjustere øvre grense i minstefr ådraget i pensjonsinntekt</p>
+<p xml:lang="vep">-55</p>
+<p xml:lang="vep">-44</p>
+<p xml:lang="nob">Lønsjustere personfrådraget</p>
+<p xml:lang="vep">-51</p>
+<p xml:lang="vep">-41</p>
+<p>Erstatte skatteklasse 2 for einslege forsørgjarar med nytt særfrådrag</p>
+<p xml:lang="vep">425</p>
+<p xml:lang="vep">340</p>
+<p>Auke maksimalt frådrag for innbetalt fagforeiningskontingent mv. til 3 850 kroner</p>
+<p xml:lang="vep">-8</p>
+<p xml:lang="vep">-6</p>
+<p>Auke skattefri kilometergodtgjersle ved yrkeskjøring med privatbil</p>
+<p xml:lang="vep">-60</p>
+<p xml:lang="vep">-48</p>
+<p>Vidareføre andre satsar og beløpsgrenser nominelt mv</p>
+<p xml:lang="vep">244</p>
+<p xml:lang="vep">159</p>
+<p xml:lang="fkv"><em type="italic">Formuesskatten </em></p>
+<p xml:lang="vep"><em type="italic">-20 </em></p>
+<p xml:lang="vep"><em type="italic">-16 </em></p>
+<p>Auke likningsverdiane av sekundærbustad og næringseigedom til 50 pst. av anslått marknadsverdi og auke botnfrådraget til 870 000 kroner</p>
+<p xml:lang="vep">-20</p>
+<p xml:lang="vep">-16</p>
+<p><em type="italic">Skattlegginga av næring </em></p>
+<p xml:lang="vep"><em type="italic">800 </em></p>
+<p>Avgrense fritaksmetoden for aksjar mv. i livsforsikringsselskap og pensjonsføretak</p>
+<p xml:lang="vep">300</p>
+<p>Motverke utholing av norsk skattegrunnlag ved investeringar i petroleumsverksemd i utlandet</p>
+<p xml:lang="vep">500</p>
+<p xml:lang="dan"><em type="italic">Miljø-, energi- og bilavgifter </em></p>
+<p xml:lang="vep"><em type="italic">-370 </em></p>
+<p xml:lang="vep"><em type="italic">-370 </em></p>
+<p>Justere eingongsavgifta</p>
+<p>Auke vrakpanten med 500 kroner og vrakpantavgifta med 300 kroner</p>
+<p xml:lang="nob">Redusere omregistreringsavgifta</p>
+<p xml:lang="vep">-400</p>
+<p xml:lang="vep">-400</p>
+<p>Redusere refusjonen av CO 2 -avgift for fiske og fangst tilsvarande om lag 50 kroner per tonn CO 2</p>
+<p xml:lang="vep">30</p>
+<p xml:lang="vep">30</p>
+<p>Auke CO 2 -avgifta i petroleumsverksemda 1</p>
+<p xml:lang="dan"><em type="italic">Andre skatte- og avgiftsendringar </em></p>
+<p xml:lang="vep"><em type="italic">45 </em></p>
+<p xml:lang="vep"><em type="italic">-354 </em></p>
+<p>Avvikle meirverdiavgiftsfritaka for leveransar til offentleg vei og bane (netto) 2</p>
+<p xml:lang="vep">-400</p>
+<p>Auke avgifta for alkoholfrie drikkevarer med 16 øre per liter</p>
+<p xml:lang="vep">90</p>
+<p xml:lang="vep">85</p>
+<p>Redusere tollsatsane for klede og tekstilar</p>
+<p xml:lang="vep">-35</p>
+<p xml:lang="vep">-30</p>
+<p>Betre tollpreferansar for utviklingsland</p>
+<p xml:lang="vep">-10</p>
+<p xml:lang="vep">-9</p>
+<p><em type="italic">Sektoravgifter og overprisa gebyr </em></p>
+<p xml:lang="vep"><em type="italic">-566 </em></p>
+<p xml:lang="vep"><em type="italic">-543 </em></p>
+<p xml:lang="nob">Redusere gebyret for tollkredittdeklarasjonar</p>
+<p xml:lang="vep">-155</p>
+<p xml:lang="vep">-142</p>
+<p xml:lang="nob">Redusere tinglysingsgebyra</p>
+<p xml:lang="vep">-400</p>
+<p xml:lang="vep">-385</p>
+<p xml:lang="dan">Fjerne kystavgifta</p>
+<p xml:lang="vep">-33</p>
+<p xml:lang="vep">-33</p>
+<p xml:lang="nob">Fjerne kontrollavgifta for fiskeflåten</p>
+<p xml:lang="vep">-33</p>
+<p xml:lang="vep">-27</p>
+<p>Auke kontroll- og tilsynsavgifta for havbruksnæringa</p>
+<p xml:lang="vep">10</p>
+<p xml:lang="vep">10</p>
+<p>Auke sektoravgifta for delvis finansiering av Petroleumstilsynets aktivitet 3</p>
+<p xml:lang="vep">45</p>
+<p xml:lang="vep">34</p>
+<p><em type="italic">Samla nye skatte- og avgiftsendringar i 2013 4 </em></p>
+<p xml:lang="vep"><em type="italic">-681 </em></p>
+<p xml:lang="vep"><em type="italic">-333 </em></p>
+<p><em type="italic">1) Inntekter frå petroleumssektoren er ikkje inkludert i tabellen ettersom dei inngår i Statens pensjonsfond utland. Auka i CO2-avgifta i petroleumsverksemda aukar overføringa til fondet med 370 mill. kroner oppsamla og 180 mill. kroner bokført i 2013. </em><em type="italic">2) Endringa er provenynøytral ved at løyvingar på utgiftssida vert auka tilsvarande auka i meirverdiavgiftsinntektene som følgje av avviklinga. Det bokførte provenytapet i 2013 skuldast ulik periodisering av inntekter og utgifter, men påverkar ikkje det strukturelle, oljekorrigerte underskotet og dermed heller ikkje handlingsrommet i budsjettet. </em><em type="italic">3) Nettoverknaden er vesentleg lågare når ein tek omsyn til SDØE og høg skattesats i petroleumsverksemd. </em><em type="italic">4) Skatte- og avgiftsendringar som inngår i det strukturelle, oljekorrigerte underskotet, utgjer 67 mill. kroner. Dette svarar til samla bokført verknad av skatte- og avgiftsopplegget (-333 mill. kroner) fråtrukke verknaden av å avvikle meirverdiavgiftsfritaka for leveransar til offentleg veg og bane (-400 mill. kroner), jf. fotnote 2 i denne tabellen. </em>Kjelde: Finansdepartementet. </p>
+</body></document>

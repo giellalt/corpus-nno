@@ -1,44 +1,13 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Boraspiresoahpamuša čuovvoleapmi - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>532</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/md/pressesenter/Pressemeldingar/2012/oppfolging-av-rovviltforliket.html?id=703560</origFileName>
-    <parallel_text xml:lang="sme" location="boraspiresoahpamua-uovvoleapmi_id_703560.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Oppfølging av rovviltforliket - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa ønskjer å styrkje arbeidet med rovviltforliket med 22 millionar kroner til 32 millionar kroner i 2013. Det samla budsjettet for rovviltforvaltinga er no i underkant av 300 millionar kroner. </em>
-    </p>
-    <p>17. juni 2011 vedtok eit samrøystes Storting eit nytt rovviltforlik. Forliket stiller ei rekkje krav til auka innsats og utvikling av verkemiddel. Budsjettet for 2012 vart auka med ti millionar kroner som følgje av dette forliket, og det er lagt inn eit framlegg om ytterlegare styrking i budsjettet for 2013.</p>
-    <p>Totalt er regjeringa sitt forslag til løyving av pengar til førebyggande og konfliktdempande tiltak i budsjettet for 2013 på 74,6 millionar kroner. Desse pengane er fordelt over fleire postar.</p>
-    <p>- Vi har sett at fleire slike tiltak har stor effekt når det gjeld å førebygge tap. Særleg gjeld det tiltak som skil rovdyr og sau i tid og rom, slik som rovdyravvisande elektriske gjerde, forseinka slepp på beite og tidlegare sanking av husdyr, seier miljøvernminister Bård Vegar Solhjell.</p>
-    <p>Av styrkinga av budsjettet for 2013 som følgje av rovviltforliket, går til saman 6,5 millionar kroner til førebyggande og konfliktdempande tiltak. I rovviltforliket går det fram at det offentlege sitt økonomiske ansvar ved skadefelling skal forsterkast og klargjerast, og at deltakarane i kommunale fellingslag skal få godtgjering frå første dag av fellingsforsøka. Regjeringa føreslår ein auke på fem millionar kroner som følgje av denne godtgjeringa. Regjeringa legg vidare opp til å løyve 1,5 millionar kroner til Jakt- og Fiskesenteret i regi av Noregs Jeger- og Fiskarforbund.</p>
-    <p>– I dei tilfella der løyve til skadefelling blir gjeve, er det viktig at vedtaket blir effektuert. Her har dei kommunale og interkommunale fellingslaga ei viktig rolle, og vi føreslår difor å auke budsjettet med fem millionar kroner til godtgjering av deltakarar i desse fellingslaga, seier Bård Vegar Solhjell.</p>
-    <p>I rovviltforvaltinga er det eit viktig mål å redusere konfliktane. Regjeringa føreslår difor ein auke på 3,7 millionar kroner til rovviltsenter. Rovviltsentra skal formidle objektiv, fagleg korrekt og oppdatert informasjon om økologi, forvalting og konflikt knytt til dei norske rovviltartane. Sjå pressemeldinga om Rovviltsentra her.</p>
-    <p>Rovviltforliket legg opp til ei styrking av Rovdata og Statens naturoppsyn. Rovdata er ein uavhengig leverandør av overvakingsdata for jerv, gaupe, bjørn, ulv og kongeørn. Fleire punkt i forliket fører til ei utviding av Rovdata si verksemd. Regjeringa føreslår å auke løyvinga til Rovdata med 3,2 millionar kroner.</p>
-    <p>Statens naturoppsyn (SNO) er mellom anna ein viktig leverandør av data til overvakinga av rovvilt, og SNO stiller med støtte til uttak når rovvilt gjer skade på beitedyr i prioriterte beiteområde. Regjeringa føreslår å auke løyvinga til Statens naturoppsyn med 4,3 millionar kroner for å styrkje ressursane ved felling av rovvilt og til naturrettleiing knytt til rovvilt.</p>
-    <p>Rovviltforliket seier mellom anna at det er viktig å redusere usikkerheita knytt til skade som kongeørn valdar på husdyr og tamrein. Regjeringa legg opp til ein auke på to millionar kroner til forsking på kongeørn og sør-samisk tamreindrift.</p>
-    <p>Regjeringa legg i budsjettet for 2013 opp til ein auke på ein million kroner til styrking av fylkesmennene si beredskapsordning for å redusere responstida ved handsaming av rovviltsaker. Vidare legg regjeringa opp til ei styrking på 1,3 millionar kroner til forsking på rovdyrs åtferd overfor menneske.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Boraspiresoahpamuša čuovvoleapmi - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>532</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/md/pressesenter/Pressemeldingar/2012/oppfolging-av-rovviltforliket.html?id=703560</origFileName><parallel_text xml:lang="sme" location="boraspiresoahpamua-uovvoleapmi_id_703560.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Oppfølging av rovviltforliket - regjeringen.no</p>
+<p><em type="italic">Regjeringa ønskjer å styrkje arbeidet med rovviltforliket med 22 millionar kroner til 32 millionar kroner i 2013. Det samla budsjettet for rovviltforvaltinga er no i underkant av 300 millionar kroner. </em></p>
+<p>17. juni 2011 vedtok eit samrøystes Storting eit nytt rovviltforlik. Forliket stiller ei rekkje krav til auka innsats og utvikling av verkemiddel. Budsjettet for 2012 vart auka med ti millionar kroner som følgje av dette forliket, og det er lagt inn eit framlegg om ytterlegare styrking i budsjettet for 2013.</p>
+<p>Totalt er regjeringa sitt forslag til løyving av pengar til førebyggande og konfliktdempande tiltak i budsjettet for 2013 på 74,6 millionar kroner. Desse pengane er fordelt over fleire postar.</p>
+<p>- Vi har sett at fleire slike tiltak har stor effekt når det gjeld å førebygge tap. Særleg gjeld det tiltak som skil rovdyr og sau i tid og rom, slik som rovdyravvisande elektriske gjerde, forseinka slepp på beite og tidlegare sanking av husdyr, seier miljøvernminister Bård Vegar Solhjell.</p>
+<p>Av styrkinga av budsjettet for 2013 som følgje av rovviltforliket, går til saman 6,5 millionar kroner til førebyggande og konfliktdempande tiltak. I rovviltforliket går det fram at det offentlege sitt økonomiske ansvar ved skadefelling skal forsterkast og klargjerast, og at deltakarane i kommunale fellingslag skal få godtgjering frå første dag av fellingsforsøka. Regjeringa føreslår ein auke på fem millionar kroner som følgje av denne godtgjeringa. Regjeringa legg vidare opp til å løyve 1,5 millionar kroner til Jakt- og Fiskesenteret i regi av Noregs Jeger- og Fiskarforbund.</p>
+<p>– I dei tilfella der løyve til skadefelling blir gjeve, er det viktig at vedtaket blir effektuert. Her har dei kommunale og interkommunale fellingslaga ei viktig rolle, og vi føreslår difor å auke budsjettet med fem millionar kroner til godtgjering av deltakarar i desse fellingslaga, seier Bård Vegar Solhjell.</p>
+<p>I rovviltforvaltinga er det eit viktig mål å redusere konfliktane. Regjeringa føreslår difor ein auke på 3,7 millionar kroner til rovviltsenter. Rovviltsentra skal formidle objektiv, fagleg korrekt og oppdatert informasjon om økologi, forvalting og konflikt knytt til dei norske rovviltartane. Sjå pressemeldinga om Rovviltsentra her.</p>
+<p>Rovviltforliket legg opp til ei styrking av Rovdata og Statens naturoppsyn. Rovdata er ein uavhengig leverandør av overvakingsdata for jerv, gaupe, bjørn, ulv og kongeørn. Fleire punkt i forliket fører til ei utviding av Rovdata si verksemd. Regjeringa føreslår å auke løyvinga til Rovdata med 3,2 millionar kroner.</p>
+<p>Statens naturoppsyn (SNO) er mellom anna ein viktig leverandør av data til overvakinga av rovvilt, og SNO stiller med støtte til uttak når rovvilt gjer skade på beitedyr i prioriterte beiteområde. Regjeringa føreslår å auke løyvinga til Statens naturoppsyn med 4,3 millionar kroner for å styrkje ressursane ved felling av rovvilt og til naturrettleiing knytt til rovvilt.</p>
+<p>Rovviltforliket seier mellom anna at det er viktig å redusere usikkerheita knytt til skade som kongeørn valdar på husdyr og tamrein. Regjeringa legg opp til ein auke på to millionar kroner til forsking på kongeørn og sør-samisk tamreindrift.</p>
+<p>Regjeringa legg i budsjettet for 2013 opp til ein auke på ein million kroner til styrking av fylkesmennene si beredskapsordning for å redusere responstida ved handsaming av rovviltsaker. Vidare legg regjeringa opp til ei styrking på 1,3 millionar kroner til forsking på rovdyrs åtferd overfor menneske.</p>
+</body></document>

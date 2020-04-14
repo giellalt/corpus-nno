@@ -1,37 +1,7 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Lassebuhtadusa máksin Norgga Čalmmehemiidlihttui ja Norgga Álbmotveahkkái automáhtasisaboađuid massima geažil  - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>141</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/Etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-Norges-Blindeforbund-og-Norsk-Folkehjelp.html?id=614481</origFileName>
-    <parallel_text xml:lang="eng" location="treaty-between-norway-and-russia-to-be-signed_id_613684.html"/>
-    <parallel_text xml:lang="nob" location="84-millioner-dokumenter-vil-ikke-forsvin_id_614526.html"/>
-    <parallel_text xml:lang="sme" location="lassebuhtadusa-maksin-norgga-almmehemiidlihttui-ja-norgga-albmotveahkkai-automahtasisaboauid-massima-geail-_id_614481.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Etterbetaling av kompensasjon for bortfall av automatinntekter til Norges Blindeforbund og Norsk Folkehjelp - regjeringen.no</p>
-    <p>I statsråd fredag vart det bestemt at Norges Blindeforbund får etterbetalt 2,9 millionar kroner og Norsk Folkehjelp 664 000 kroner i kompensasjon for at dei ikkje lenger har løyve til å stille opp gevinstautomatar.</p>
-    <p>Stortinget vedtok i 2003 forbod mot gevinstautomatar. For å kompensere for noko av inntektsbortfallet vart det bestemt at delar av speleoverskotet til Norsk Tipping skulle gå til samfunnsnyttige og humanitære organisasjonar som hadde automatinntekter.</p>
-    <p>Norges Blindeforbund og Norsk Folkehjelp har dokumentert at dei fekk for låg kompensasjon i 2008 fordi nokre automatinntekter ikkje var tekne med i grunnlaget for kompensasjonsutrekninga. Dei to organisasjonane vil difor få etterbetalt kompensasjon for året 2008.</p>
-    <p>Den samla potten for kompensasjon for tapte automatinntekter var på 332 millionar kroner i 2008.</p>
-    <p>Utbetalinga vil skje før 1.oktober 2010.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Lassebuhtadusa máksin Norgga Čalmmehemiidlihttui ja Norgga Álbmotveahkkái automáhtasisaboađuid massima geažil  - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>141</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/Etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-Norges-Blindeforbund-og-Norsk-Folkehjelp.html?id=614481</origFileName><parallel_text xml:lang="eng" location="treaty-between-norway-and-russia-to-be-signed_id_613684.html"/><parallel_text xml:lang="nob" location="84-millioner-dokumenter-vil-ikke-forsvin_id_614526.html"/><parallel_text xml:lang="sme" location="lassebuhtadusa-maksin-norgga-almmehemiidlihttui-ja-norgga-albmotveahkkai-automahtasisaboauid-massima-geail-_id_614481.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Etterbetaling av kompensasjon for bortfall av automatinntekter til Norges Blindeforbund og Norsk Folkehjelp - regjeringen.no</p>
+<p>I statsråd fredag vart det bestemt at Norges Blindeforbund får etterbetalt 2,9 millionar kroner og Norsk Folkehjelp 664 000 kroner i kompensasjon for at dei ikkje lenger har løyve til å stille opp gevinstautomatar.</p>
+<p>Stortinget vedtok i 2003 forbod mot gevinstautomatar. For å kompensere for noko av inntektsbortfallet vart det bestemt at delar av speleoverskotet til Norsk Tipping skulle gå til samfunnsnyttige og humanitære organisasjonar som hadde automatinntekter.</p>
+<p>Norges Blindeforbund og Norsk Folkehjelp har dokumentert at dei fekk for låg kompensasjon i 2008 fordi nokre automatinntekter ikkje var tekne med i grunnlaget for kompensasjonsutrekninga. Dei to organisasjonane vil difor få etterbetalt kompensasjon for året 2008.</p>
+<p>Den samla potten for kompensasjon for tapte automatinntekter var på 332 millionar kroner i 2008.</p>
+<p>Utbetalinga vil skje før 1.oktober 2010.</p>
+</body></document>

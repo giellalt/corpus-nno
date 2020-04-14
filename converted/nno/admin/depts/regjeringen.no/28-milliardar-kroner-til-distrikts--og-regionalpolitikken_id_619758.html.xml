@@ -1,55 +1,18 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>2,8 miljárdda ruvdno bire- ja guovlopolitihkkii - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>501</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/krd/pressesenter/Pressemeldingar/Mange-kommunar-med-auka-folketal-fyrste-kvartal-2010/28-milliardar-kroner-til-distrikts--og-regionalpolitikken.html?id=619758</origFileName>
-    <parallel_text xml:lang="eng" location="nok-28-billion-for-rural-and-regional-policy_id_619758.html"/>
-    <parallel_text xml:lang="sme" location="28-miljardda-ruvdno-bire--ja-guovlopolit_id_619758.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>2,8 milliardar kroner til distrikts- og regionalpolitikken - regjeringen.no</p>
-    <p>
-      <em type="italic">Regjeringa foreslår å løyve om lag 2,8 milliardar kroner til distrikts- og regionalpolitikken i 2011. Det er ein auke på nesten 100 millionar kroner frå 2010. </em>
-    </p>
-    <p>- Me foreslår å styrke to viktige område. For det fyrste aukar me innsatsen for å skape attraktive lokalsamfunn i heile landet. For det andre vil me leggje endå betre til rette for at folk skal kunne starte opp nye bedrifter eller vidareutvikle eksisterande bedrifter, seier kommunal- og regionalminister Liv Signe Navarsete.</p>
-    <p>Gjennom distrikts- og regionalpolitikken ynskjer regjeringa å ta ressursane i heile landet i bruk, og bidra til verdiskaping, arbeidsplassar og velferd der folk bur.</p>
-    <p>Fylkeskommunane forvaltar rundt 2,3 milliardar kroner eller vel 80 prosent av dei samla midlane til distrikts- og regionalpolitikken. Dette skal gjere fylkeskommunane rusta til å gjennomføre regionalt utviklingsarbeid, i samarbeid med Innovasjon Norge, kommunar og andre aktørar.</p>
-    <p>- Statsbudsjettet for 2011 støttar opp om den sterke initiativlysta og det store engasjementet som er rundt om i landet. Eg er særleg glad for å kunne gje meir midlar til tiltak som handlar om unge og nyskaping, som Innovasjon Norge sitt arbeid for unge gründerar og organisasjonen Ungt Entreprenørskap, seier Liv Signe Navarsete. Døme på tiltak som får auke over statsbudsjettet for 2011:</p>
-    <p type="title">Attraktive lokalsamfunn</p>
-    <list>
-      <p type="listitem">Bulyst: Kommunal- og regionaldepartementet foreslår å løyve 47 millionar kroner til Bulyst i 2011. Det er ein auke på 15 millionar kroner frå 2010. Programmet skal støtte opp om lokale og regionale utviklingsprosjekt som fremjer bulyst i heile landet, og skaffe ny kunnskap om kva som skapar bulyst.</p>
-      <p type="listitem">Kommunale næringsfond: Kommunal- og regionaldepartementet har sett av 225 millionar kroner til kommunale eller regionale næringsfond i 2011. Det er 50 millionar kroner meir enn i 2010. Næringsfonda skal gjere kommunar og regionar betre rusta til å legge til rette for verdiskaping og sysselsetting.</p>
-    </list>
-    <p type="title">Entreprenørskap og bedriftsutvikling</p>
-    <list>
-      <p type="listitem">Ung gründer: Kommunal- og regionaldepartementet har budsjettert med 17 millionar kroner til satsinga på entreprenørskap og unge gjennom Innovasjon Norge i 2011. Det er ei styrking på 5 millionar kroner frå 2011. Midlane skal mellom anna gå til ei mentorordning for unge gründerar.</p>
-      <p type="listitem">Ungt Entreprenørskap: Kommunal- og regionaldepartementet legg i 2011 opp til å gje 11 millionar kroner til organisasjonen Ungt Entreprenørskap (UE). Det er ein auke på 2 millionar kroner frå 2010. UE jobbar for å gje elevar og studentar tilbod om opplæring i entreprenørskap.</p>
-      <p type="listitem">Bedriftsnettverk: Kommunal- og regionaldepartementet foreslår ei løyving på 10 millionar kroner til Innovasjon Norge-tenesta Bedriftsnettverk i 2011. Det er 5 millionar kroner meir enn i 2010. Tenesta skal hjelpe små og mellomstore bedrifter med å etablere kommersielt og forpliktande samarbeid med andre bedrifter.</p>
-      <p type="listitem">Næringshageprogrammet: Kommunal- og regionaldepartementet legg opp til å gje 25 millionar kroner til næringshageprogrammet i 2011. Det er ein oppgang på 5 millionar kroner frå 2010. Programmet skal bidra til utvikling av nye arbeidsplassar innan kunnskapsbaserte næringar i distrikta. Ny programperiode vert sett i gang frå andre halvår 2011.</p>
-    </list>
-    <p type="title">Lenkjer</p>
-    <list>
-      <p type="listitem">KRD si budsjettside .</p>
-    </list>
-    <p>Kommunal- og regionaldepartementet sin pressetelefon: 22 24 25 00.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>2,8 miljárdda ruvdno bire- ja guovlopolitihkkii - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/></author><year>2010</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>501</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/krd/pressesenter/Pressemeldingar/Mange-kommunar-med-auka-folketal-fyrste-kvartal-2010/28-milliardar-kroner-til-distrikts--og-regionalpolitikken.html?id=619758</origFileName><parallel_text xml:lang="eng" location="nok-28-billion-for-rural-and-regional-policy_id_619758.html"/><parallel_text xml:lang="sme" location="28-miljardda-ruvdno-bire--ja-guovlopolit_id_619758.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>2,8 milliardar kroner til distrikts- og regionalpolitikken - regjeringen.no</p>
+<p><em type="italic">Regjeringa foreslår å løyve om lag 2,8 milliardar kroner til distrikts- og regionalpolitikken i 2011. Det er ein auke på nesten 100 millionar kroner frå 2010. </em></p>
+<p>- Me foreslår å styrke to viktige område. For det fyrste aukar me innsatsen for å skape attraktive lokalsamfunn i heile landet. For det andre vil me leggje endå betre til rette for at folk skal kunne starte opp nye bedrifter eller vidareutvikle eksisterande bedrifter, seier kommunal- og regionalminister Liv Signe Navarsete.</p>
+<p>Gjennom distrikts- og regionalpolitikken ynskjer regjeringa å ta ressursane i heile landet i bruk, og bidra til verdiskaping, arbeidsplassar og velferd der folk bur.</p>
+<p>Fylkeskommunane forvaltar rundt 2,3 milliardar kroner eller vel 80 prosent av dei samla midlane til distrikts- og regionalpolitikken. Dette skal gjere fylkeskommunane rusta til å gjennomføre regionalt utviklingsarbeid, i samarbeid med Innovasjon Norge, kommunar og andre aktørar.</p>
+<p>- Statsbudsjettet for 2011 støttar opp om den sterke initiativlysta og det store engasjementet som er rundt om i landet. Eg er særleg glad for å kunne gje meir midlar til tiltak som handlar om unge og nyskaping, som Innovasjon Norge sitt arbeid for unge gründerar og organisasjonen Ungt Entreprenørskap, seier Liv Signe Navarsete. Døme på tiltak som får auke over statsbudsjettet for 2011:</p>
+<p type="title">Attraktive lokalsamfunn</p>
+<list><p type="listitem">Bulyst: Kommunal- og regionaldepartementet foreslår å løyve 47 millionar kroner til Bulyst i 2011. Det er ein auke på 15 millionar kroner frå 2010. Programmet skal støtte opp om lokale og regionale utviklingsprosjekt som fremjer bulyst i heile landet, og skaffe ny kunnskap om kva som skapar bulyst.</p>
+<p type="listitem">Kommunale næringsfond: Kommunal- og regionaldepartementet har sett av 225 millionar kroner til kommunale eller regionale næringsfond i 2011. Det er 50 millionar kroner meir enn i 2010. Næringsfonda skal gjere kommunar og regionar betre rusta til å legge til rette for verdiskaping og sysselsetting.</p>
+</list><p type="title">Entreprenørskap og bedriftsutvikling</p>
+<list><p type="listitem">Ung gründer: Kommunal- og regionaldepartementet har budsjettert med 17 millionar kroner til satsinga på entreprenørskap og unge gjennom Innovasjon Norge i 2011. Det er ei styrking på 5 millionar kroner frå 2011. Midlane skal mellom anna gå til ei mentorordning for unge gründerar.</p>
+<p type="listitem">Ungt Entreprenørskap: Kommunal- og regionaldepartementet legg i 2011 opp til å gje 11 millionar kroner til organisasjonen Ungt Entreprenørskap (UE). Det er ein auke på 2 millionar kroner frå 2010. UE jobbar for å gje elevar og studentar tilbod om opplæring i entreprenørskap.</p>
+<p type="listitem">Bedriftsnettverk: Kommunal- og regionaldepartementet foreslår ei løyving på 10 millionar kroner til Innovasjon Norge-tenesta Bedriftsnettverk i 2011. Det er 5 millionar kroner meir enn i 2010. Tenesta skal hjelpe små og mellomstore bedrifter med å etablere kommersielt og forpliktande samarbeid med andre bedrifter.</p>
+<p type="listitem">Næringshageprogrammet: Kommunal- og regionaldepartementet legg opp til å gje 25 millionar kroner til næringshageprogrammet i 2011. Det er ein oppgang på 5 millionar kroner frå 2010. Programmet skal bidra til utvikling av nye arbeidsplassar innan kunnskapsbaserte næringar i distrikta. Ny programperiode vert sett i gang frå andre halvår 2011.</p>
+</list><p type="title">Lenkjer</p>
+<list><p type="listitem">KRD si budsjettside .</p>
+</list><p>Kommunal- og regionaldepartementet sin pressetelefon: 22 24 25 00.</p>
+</body></document>

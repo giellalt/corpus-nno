@@ -1,35 +1,6 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Buvttadandoarjja lassána 2013:s - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>140</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/auke-i-produksjonstilskotet-i-2013.html?id=701345</origFileName>
-    <parallel_text xml:lang="sme" location="buvttadandoarjja-lassana-2013s_id_701345.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Auke i produksjonstilskotet i 2013 - regjeringen.no</p>
-    <p>Produksjonstilskotet til avisene er, i tillegg til fritaket for meirverdiavgift, det viktigaste verkemiddelet for å halde oppe mangfaldet i avisutgjevingar, både geografisk og når det gjeld innhald og verdiforankring.</p>
-    <p>Avisbransjen gjennomgår ei omstilling til ein digitalisert mediemarknad. Regjeringa ser det som viktig å bidra til ei vellukka omstilling i bransjen, for å sikre at avisene kan halde oppe si demokratiske rolle som arena for samfunnsdebatt og produsentar av kvalitetsjournalistikk.</p>
-    <p>Regjeringa vil vidareføre målsetnaden om eit betydeleg statleg bidrag til mediemangfald. Etter ein auke i 2006 har det vore ein realnedgang i midlane til produksjonstilskot. Regjeringa vil difor auke produksjonstilskotet med 20 millionar kroner til i alt 307,9 millionar kroner i 2013.</p>
-    <p>Kulturdepartementet vil, i samarbeid med Finansdepartementet, ta kontakt med ESA for å drøfte handlingsrommet for korleis mediestøtta skal bli utforma for framtida.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Buvttadandoarjja lassána 2013:s - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>140</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/auke-i-produksjonstilskotet-i-2013.html?id=701345</origFileName><parallel_text xml:lang="sme" location="buvttadandoarjja-lassana-2013s_id_701345.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Auke i produksjonstilskotet i 2013 - regjeringen.no</p>
+<p>Produksjonstilskotet til avisene er, i tillegg til fritaket for meirverdiavgift, det viktigaste verkemiddelet for å halde oppe mangfaldet i avisutgjevingar, både geografisk og når det gjeld innhald og verdiforankring.</p>
+<p>Avisbransjen gjennomgår ei omstilling til ein digitalisert mediemarknad. Regjeringa ser det som viktig å bidra til ei vellukka omstilling i bransjen, for å sikre at avisene kan halde oppe si demokratiske rolle som arena for samfunnsdebatt og produsentar av kvalitetsjournalistikk.</p>
+<p>Regjeringa vil vidareføre målsetnaden om eit betydeleg statleg bidrag til mediemangfald. Etter ein auke i 2006 har det vore ein realnedgang i midlane til produksjonstilskot. Regjeringa vil difor auke produksjonstilskotet med 20 millionar kroner til i alt 307,9 millionar kroner i 2013.</p>
+<p>Kulturdepartementet vil, i samarbeid med Finansdepartementet, ta kontakt med ESA for å drøfte handlingsrommet for korleis mediestøtta skal bli utforma for framtida.</p>
+</body></document>

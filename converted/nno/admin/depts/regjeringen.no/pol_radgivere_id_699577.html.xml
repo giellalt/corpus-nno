@@ -1,64 +1,29 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Nuppástusat politihkalaš ráđđeaddiid gaskkas  - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>412</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/nn/dep/smk/pressesenter/Pressemeldingar/2012/pol_radgivere.html?id=699577</origFileName>
-    <parallel_text xml:lang="eng" location="changes-among-the-political-advisers3_id_699577.html"/>
-    <parallel_text xml:lang="nob" location="stortingsmelding-om-sametingets-virksomh_id_700246.html"/>
-    <parallel_text xml:lang="sme" location="nuppastusat-politihkala-raeaddiid-gaskka_id_699577.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Endringar blant dei politiske rådgjevarane - regjeringen.no</p>
-    <p>
-      <em type="italic">Etter endringane i regjeringa i dag har Statsministerens kontor gjort desse endringane blant dei politiske rådgjevarane: </em>
-    </p>
-    <list>
-      <p type="listitem">dei politiske rådgjevarane Astrid Huitfeldt, Tord Dale, Shakeel Rehman, Jardar Flaa, Kathrine Raadim, Martin Henriksen og Ingrid Johansen Aune trer ut av stillingane sine</p>
-      <p type="listitem">politisk rådgjevar Kathrine Raadim vert engasjert som politisk rådgjevar for utanriksminister Espen Barth Eide</p>
-      <p type="listitem">politisk rådgjevar Ingrid Johansen Aune vert engasjert som politisk rådgjevar for utanriksminister Espen Barth Eide, i den tida Kathrine Raadim er i permisjon</p>
-      <p type="listitem">gruppeleiar Atle Ottesen vert engasjert som politisk rådgjevar for statsråd Anne-Grete Strøm-Erichsen i Forsvarsdepartementet</p>
-      <p type="listitem">politisk rådgjevar Astrid Huitfeldt vert engasjert som politisk rådgjevar for statsråd Jonas Gahr Støre i Helse- og omsorgsdepartementet</p>
-      <p type="listitem">politisk rådgjevar Martin Henriksen vert engasjert som politisk rådgjevar for statsråd Anniken Huitfeldt i Arbeidsdepartementet</p>
-      <p type="listitem">politisk rådgjevar Tord Dale vert engasjert som politisk rådgjevar for statsråd Lisbeth Berg-Hansen i Fiskeri- og kystdepartementet</p>
-      <p type="listitem">organisasjonssjef Håvard Fossbakken vert engasjert som politisk rådgjevar for statsråd Hadia Tajik i Kulturdepartementet</p>
-    </list>
-    <p>Endringane gjeld frå kl. 15.00 i dag. Regjeringa er utgått frå Arbeidarpartiet (Ap), Sosialistisk Venstreparti (SV) og Senterpartiet (Sp). Lista over politiske rådgjevarar ser no slik ut: <em type="italic">For statsminister Jens Stoltenberg </em>(Ap) Sindre Fossum Beyer (Ap) Tonje Brenna (Ap) </p>
-    <p><em type="italic">For miljøvernminister Bård Vegar Solhjell </em>(SV) Audun Garberg (SV) Olav Magnus Linge (SV) </p>
-    <p><em type="italic">For kommunal- og regionalminister Liv Signe Navarsete </em>(Sp) Anja Kristin Salte Hjelseth (Sp) Laila Melkevoll (Sp) </p>
-    <p><em type="italic">For utanriksminister Espen Barth Eide </em>(Ap) Kathrine Raadim (Ap) – permisjon 27.4.2012 – 19.1.2013 Ingrid Johansen Aune (Ap) – vikar 6.6.2012 – 19.1.2013 </p>
-    <p><em type="italic">For justis- og beredskapsminister Grete Faremo </em>(Ap) Elisabeth Helmersen (Ap) </p>
-    <p><em type="italic">For finansminister Sigbjørn Johnsen </em>(Ap) Randi Ness (Ap) </p>
-    <p><em type="italic">For nærings- og handelsminister Trond Giske </em>(Ap) Torstein Tvedt Solberg (Ap) </p>
-    <p><em type="italic">For forsvarsminister Anne-Grete Strøm-Erichsen </em>(Ap) Atle Ottesen (Ap) </p>
-    <p><em type="italic">For helse- og omsorgsminister Jonas Gahr Støre </em>(Ap) Astrid Huitfeldt (Ap) <em type="italic">For kunnskapsminister Kristin Halvorsen </em>(SV) Katrine Gramnæs (SV) </p>
-    <p><em type="italic">For arbeidsminister Anniken Huitfeldt </em>(Ap) Martin Henriksen (Ap) </p>
-    <p><em type="italic">For fornyings-, administrasjons- og kyrkjeminister Rigmor Aasrud </em>(Ap) Jon Reidar Øyan (Ap) </p>
-    <p><em type="italic">For fiskeri- og kystminister Lisbeth Berg-Hansen </em>(Ap) Tord Dale (Ap) </p>
-    <p><em type="italic">For samferdselsminister Marit Arnstad </em>(Sp) Sigrid Brattabø Handegard (Sp) </p>
-    <p><em type="italic">For olje- og energiminister Ola Borten Moe </em>(Sp) Ivar Vigdenes (Sp) </p>
-    <p><em type="italic">For utviklingsminister Heikki Holmås </em>(SV) Unni Berge (SV) </p>
-    <p><em type="italic">For barne-, likestillings- og inkluderingsminister Inga Marte Thorkildsen </em>(SV) Kine Sperre Horsbøl (SV) – permisjon 1.9.2012 – 8.3.2013 Linn Brodal (SV) – vikar 29.8.2012 – 8.3.2013 </p>
-    <p><em type="italic">For landbruks- og matminister Trygve Slagsvold Vedum </em>(Sp) Ane Kismul (Sp) </p>
-    <p><em type="italic">For kulturminister Hadia Tajik </em>(Ap) Håvard Fossbakken (Ap) </p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Nuppástusat politihkalaš ráđđeaddiid gaskkas  - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>412</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/smk/pressesenter/Pressemeldingar/2012/pol_radgivere.html?id=699577</origFileName><parallel_text xml:lang="eng" location="changes-among-the-political-advisers3_id_699577.html"/><parallel_text xml:lang="nob" location="stortingsmelding-om-sametingets-virksomh_id_700246.html"/><parallel_text xml:lang="sme" location="nuppastusat-politihkala-raeaddiid-gaskka_id_699577.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Endringar blant dei politiske rådgjevarane - regjeringen.no</p>
+<p><em type="italic">Etter endringane i regjeringa i dag har Statsministerens kontor gjort desse endringane blant dei politiske rådgjevarane: </em></p>
+<list><p type="listitem">dei politiske rådgjevarane Astrid Huitfeldt, Tord Dale, Shakeel Rehman, Jardar Flaa, Kathrine Raadim, Martin Henriksen og Ingrid Johansen Aune trer ut av stillingane sine</p>
+<p type="listitem">politisk rådgjevar Kathrine Raadim vert engasjert som politisk rådgjevar for utanriksminister Espen Barth Eide</p>
+<p type="listitem">politisk rådgjevar Ingrid Johansen Aune vert engasjert som politisk rådgjevar for utanriksminister Espen Barth Eide, i den tida Kathrine Raadim er i permisjon</p>
+<p type="listitem">gruppeleiar Atle Ottesen vert engasjert som politisk rådgjevar for statsråd Anne-Grete Strøm-Erichsen i Forsvarsdepartementet</p>
+<p type="listitem">politisk rådgjevar Astrid Huitfeldt vert engasjert som politisk rådgjevar for statsråd Jonas Gahr Støre i Helse- og omsorgsdepartementet</p>
+<p type="listitem">politisk rådgjevar Martin Henriksen vert engasjert som politisk rådgjevar for statsråd Anniken Huitfeldt i Arbeidsdepartementet</p>
+<p type="listitem">politisk rådgjevar Tord Dale vert engasjert som politisk rådgjevar for statsråd Lisbeth Berg-Hansen i Fiskeri- og kystdepartementet</p>
+<p type="listitem">organisasjonssjef Håvard Fossbakken vert engasjert som politisk rådgjevar for statsråd Hadia Tajik i Kulturdepartementet</p>
+</list><p>Endringane gjeld frå kl. 15.00 i dag. Regjeringa er utgått frå Arbeidarpartiet (Ap), Sosialistisk Venstreparti (SV) og Senterpartiet (Sp). Lista over politiske rådgjevarar ser no slik ut: <em type="italic">For statsminister Jens Stoltenberg </em>(Ap) Sindre Fossum Beyer (Ap) Tonje Brenna (Ap) </p>
+<p><em type="italic">For miljøvernminister Bård Vegar Solhjell </em>(SV) Audun Garberg (SV) Olav Magnus Linge (SV) </p>
+<p><em type="italic">For kommunal- og regionalminister Liv Signe Navarsete </em>(Sp) Anja Kristin Salte Hjelseth (Sp) Laila Melkevoll (Sp) </p>
+<p><em type="italic">For utanriksminister Espen Barth Eide </em>(Ap) Kathrine Raadim (Ap) – permisjon 27.4.2012 – 19.1.2013 Ingrid Johansen Aune (Ap) – vikar 6.6.2012 – 19.1.2013 </p>
+<p><em type="italic">For justis- og beredskapsminister Grete Faremo </em>(Ap) Elisabeth Helmersen (Ap) </p>
+<p><em type="italic">For finansminister Sigbjørn Johnsen </em>(Ap) Randi Ness (Ap) </p>
+<p><em type="italic">For nærings- og handelsminister Trond Giske </em>(Ap) Torstein Tvedt Solberg (Ap) </p>
+<p><em type="italic">For forsvarsminister Anne-Grete Strøm-Erichsen </em>(Ap) Atle Ottesen (Ap) </p>
+<p><em type="italic">For helse- og omsorgsminister Jonas Gahr Støre </em>(Ap) Astrid Huitfeldt (Ap) <em type="italic">For kunnskapsminister Kristin Halvorsen </em>(SV) Katrine Gramnæs (SV) </p>
+<p><em type="italic">For arbeidsminister Anniken Huitfeldt </em>(Ap) Martin Henriksen (Ap) </p>
+<p><em type="italic">For fornyings-, administrasjons- og kyrkjeminister Rigmor Aasrud </em>(Ap) Jon Reidar Øyan (Ap) </p>
+<p><em type="italic">For fiskeri- og kystminister Lisbeth Berg-Hansen </em>(Ap) Tord Dale (Ap) </p>
+<p><em type="italic">For samferdselsminister Marit Arnstad </em>(Sp) Sigrid Brattabø Handegard (Sp) </p>
+<p><em type="italic">For olje- og energiminister Ola Borten Moe </em>(Sp) Ivar Vigdenes (Sp) </p>
+<p><em type="italic">For utviklingsminister Heikki Holmås </em>(SV) Unni Berge (SV) </p>
+<p><em type="italic">For barne-, likestillings- og inkluderingsminister Inga Marte Thorkildsen </em>(SV) Kine Sperre Horsbøl (SV) – permisjon 1.9.2012 – 8.3.2013 Linn Brodal (SV) – vikar 29.8.2012 – 8.3.2013 </p>
+<p><em type="italic">For landbruks- og matminister Trygve Slagsvold Vedum </em>(Sp) Ane Kismul (Sp) </p>
+<p><em type="italic">For kulturminister Hadia Tajik </em>(Ap) Håvard Fossbakken (Ap) </p>
+</body></document>

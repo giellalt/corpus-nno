@@ -1,52 +1,24 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Handel, helse og kultur  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>433</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=93813</origFileName>
-    <parallel_text xml:lang="eng" location="nyhet.html_tid=93870.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=93874_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p xml:lang="nob">kongehuset.no</p>
-    <p type="title" xml:lang="nob">Handel, helse og kultur</p>
-    <p>Hans Majestet Kongen og Hennar Majestet Dronninga følgde Sør-Afrikas president H.E. dr. Jacob Zuma og fru Tobeka Zuma på ei rekkje besøk i dag. Både næringsliv, helse og kultur stod på programmet for Kongeparet og Presidentparet.</p>
-    <p xml:lang="koi">01.09.2011</p>
-    <p>Kong Harald og President Zuma starta dagen med eit møte hos Det Norske Veritas. Olje- og energiminister Ola Borten Moe og næringslivsleiarar frå både Sør-Afrika og Noreg var til stades på møtet, der Veritas presenterte løysingar for fangst og lagring av CO². I desember blir FNs klimatoppmøte, COP17, halde i Durban, Sør-Afrika.</p>
-    <p>Deretter reiste Kongen og Presidenten vidare til Gamle Logen, der representantar for norske og sør-afrikanske interesser var samla til næringslivsseminar.</p>
-    <p>Ei rekkje norske verksemder er etablerte i Sør-Afrika, og handelen mellom landa våre er aukande. Innovasjon Noreg, som er vertskap for dagens seminar, har eit eige kontor i Johannesburg der dei legg til rette for kontakt mellom norsk og sør-afrikansk næringsliv.</p>
-    <p>Det har òg vore ein auke i talet på norske turistar til Sør-Afrika dei siste åra, og talet er no oppe i over 23 000 årleg.</p>
-    <p type="title" xml:lang="nob">Heldt foredrag</p>
-    <p>Etter seminaret følgde Kong Harald Presidenten til Nobelinstituttet, der President Zuma heldt foredraget Peace and Reconciliation – a South African Perspective. Seinare hadde Presidenten òg møte med statsminister Jens Stoltenberg.</p>
-    <p type="title">Ullevål sjukehus</p>
-    <p>Dronning Sonja og fru Tobeka Zuma hadde eit parallelt program der dei besøkte Ullevål universitetssjukehus. Her fekk dei ei orientering om det internasjonale samarbeidet sjukehuset deltek i, og doktor Eyrun Kjetland fortalde spesielt om samarbeidet Ullevål har med sørafrikanske miljø om kvinnesjukdommar.</p>
-    <p>Dronning Sonja og fru Zuma besøkte òg kreftavdelinga, der dei fekk ei innføring i arbeidet, og professor Kjell Magne Tveit demonstrerte korleis strålebehandling av ein pasient skjer i praksis.</p>
-    <p type="title">Regjeringslunsj</p>
-    <p>Statsminister Stoltenberg og fru Ingrid Schulerud var vertskap da Regjeringa heldt lunsj til ære for Presidentparet på Akershus slott i dag. Kongen og Dronninga var til stades under lunsjen, saman med fleire medlemmer av Regjeringa og andre representantar for det offisielle Noreg.</p>
-    <p type="title" xml:lang="nob">Besøk til Holmenkollen</p>
-    <p>I ettermiddag besøkte Kongeparet og Presidentparet Holmenkollanlegget saman. I går var det Fridtjof Nansen, nobelprisvinnaren, som møtte følgjet på Nobels fredssenter. I dag var det polfararen Nansen som stod i sentrum. Skimuseet ligg inne i fjellet under Holmenkollbakken og har 4000 års skihistorie å vise fram. Ein viktig del er polarutstillingane, som blant anna viser dei viktigaste ferdene til Fridtjof Nansen og Roald Amundsen.</p>
-    <p>Statsbesøket blir avslutta no kveld med eit pressemøte på Slottet for President Zuma og fru Tobeka Zuma.</p>
-    <p type="title">Del denne artikkelen på Facebook eller Twitter</p>
-    <p xml:lang="nob">Relaterte lenker</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Statsbesøk fra Sør-Afrika (Nyhet)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Holmenkollen: Skimuseet</p>
-      <p type="listitem" xml:lang="nob">Ullevål Universitetssykehus</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Handel, helse og kultur  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>432</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=93813</origFileName><parallel_text xml:lang="eng" location="nyhet.html_tid=93870.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=93874_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p type="title">Handel, helse og kultur</p>
+<p>Hans Majestet Kongen og Hennar Majestet Dronninga følgde Sør-Afrikas president H.E. dr. Jacob Zuma og fru Tobeka Zuma på ei rekkje besøk i dag. Både næringsliv, helse og kultur stod på programmet for Kongeparet og Presidentparet.</p>
+<p xml:lang="vep">01.09.2011</p>
+<p>Kong Harald og President Zuma starta dagen med eit møte hos Det Norske Veritas. Olje- og energiminister Ola Borten Moe og næringslivsleiarar frå både Sør-Afrika og Noreg var til stades på møtet, der Veritas presenterte løysingar for fangst og lagring av CO². I desember blir FNs klimatoppmøte, COP17, halde i Durban, Sør-Afrika.</p>
+<p>Deretter reiste Kongen og Presidenten vidare til Gamle Logen, der representantar for norske og sør-afrikanske interesser var samla til næringslivsseminar.</p>
+<p>Ei rekkje norske verksemder er etablerte i Sør-Afrika, og handelen mellom landa våre er aukande. Innovasjon Noreg, som er vertskap for dagens seminar, har eit eige kontor i Johannesburg der dei legg til rette for kontakt mellom norsk og sør-afrikansk næringsliv.</p>
+<p>Det har òg vore ein auke i talet på norske turistar til Sør-Afrika dei siste åra, og talet er no oppe i over 23 000 årleg.</p>
+<p type="title" xml:lang="nob">Heldt foredrag</p>
+<p>Etter seminaret følgde Kong Harald Presidenten til Nobelinstituttet, der President Zuma heldt foredraget Peace and Reconciliation – a South African Perspective. Seinare hadde Presidenten òg møte med statsminister Jens Stoltenberg.</p>
+<p type="title">Ullevål sjukehus</p>
+<p>Dronning Sonja og fru Tobeka Zuma hadde eit parallelt program der dei besøkte Ullevål universitetssjukehus. Her fekk dei ei orientering om det internasjonale samarbeidet sjukehuset deltek i, og doktor Eyrun Kjetland fortalde spesielt om samarbeidet Ullevål har med sørafrikanske miljø om kvinnesjukdommar.</p>
+<p>Dronning Sonja og fru Zuma besøkte òg kreftavdelinga, der dei fekk ei innføring i arbeidet, og professor Kjell Magne Tveit demonstrerte korleis strålebehandling av ein pasient skjer i praksis.</p>
+<p type="title">Regjeringslunsj</p>
+<p>Statsminister Stoltenberg og fru Ingrid Schulerud var vertskap da Regjeringa heldt lunsj til ære for Presidentparet på Akershus slott i dag. Kongen og Dronninga var til stades under lunsjen, saman med fleire medlemmer av Regjeringa og andre representantar for det offisielle Noreg.</p>
+<p type="title" xml:lang="nob">Besøk til Holmenkollen</p>
+<p>I ettermiddag besøkte Kongeparet og Presidentparet Holmenkollanlegget saman. I går var det Fridtjof Nansen, nobelprisvinnaren, som møtte følgjet på Nobels fredssenter. I dag var det polfararen Nansen som stod i sentrum. Skimuseet ligg inne i fjellet under Holmenkollbakken og har 4000 års skihistorie å vise fram. Ein viktig del er polarutstillingane, som blant anna viser dei viktigaste ferdene til Fridtjof Nansen og Roald Amundsen.</p>
+<p>Statsbesøket blir avslutta no kveld med eit pressemøte på Slottet for President Zuma og fru Tobeka Zuma.</p>
+<p type="title">Del denne artikkelen på Facebook eller Twitter</p>
+<p xml:lang="nob">Relaterte lenker</p>
+<list><p type="listitem" xml:lang="nob">Statsbesøk fra Sør-Afrika (Nyhet)</p>
+</list><list><p type="listitem" xml:lang="nob">Holmenkollen: Skimuseet</p>
+<p type="listitem" xml:lang="nob">Ullevål Universitetssykehus</p>
+</list></body></document>

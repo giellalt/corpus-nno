@@ -1,73 +1,39 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Servodat sihkkarvuohta ja suodjalus - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>512</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/tema/samfunntryggleik-og-forsvar.html?id=215</origFileName>
-    <parallel_text xml:lang="eng" location="civil-protection-and-defence_id_215.html"/>
-    <parallel_text xml:lang="nob" location="forsvars_og_sikkerhetspolitikk_id_215.html"/>
-    <parallel_text xml:lang="sme" location="servodat-sihkkarvuohta-ja-suodjalus_id_215.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Forsvars- og sikkerhetspolitikk - regjeringen.no</p>
-    <p type="title">Forsvars- og sikkerhetspolitikk</p>
-    <p>Tryggleiksutfordringane i dag er i mindre grad enn tidlegare knytta til tradisjonelle militære truslar. Moglegheita for terroranslag, større miljø- og naturkatastrofer eller storulykker innan ulike sektorar av samfunnet er blitt større. Regjeringa vil arbeide for en heilheitleg tryggleikspolitikk, for styrka samfunnstryggleik og ein god balanse i forholdet mellom militær og sivil beredskap.</p>
-    <p>Målet til <em type="italic">Justisdepartementet </em>er å sikre tryggleiken til enkeltmenneske og samfunnet gjennom effektiv forebyggjing og handtering av kriser og god organisering av beredskapsapparatet i samfunnet. <em type="italic">Forsvarsdepartementet </em>er regjeringskontoret med ansvar for utforming og iverksetjing av norsk tryggleiks- og forsvarspolitikk. </p>
-    <p>På denne sida finn du informasjon og dokument som handlar om samfunntryggleik og forsvar på eit overordna nivå. Du kan utforske temaet meir i menyen til høgre.</p>
-    <p>Abonner på e-postvarsling</p>
-    <p type="title">Nyheiter frå departementa om samfunnstryggleik og forsvar:</p>
-    <p type="title">Atomkommisjonsmøtet i Murmansk</p>
-    <p>[Nyheit, Utanriksdepartementet, 05.10.2010]</p>
-    <p>3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk.</p>
-    <p type="title">Å støtte er å lede</p>
-    <p>[Tale/artikkel, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo.</p>
-    <p type="title">Norges sterke militære engasjement i Afghanistan videreføres</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>ISAF-operasjonen i Afghanistan vil også i 2011 være Norges viktigste internasjonale militære engasjement. Budsjettet for operasjoner i utlandet foreslås derfor styrket med 77 millioner kroner. Det totale budsjettet for utenlandsoperasjoner (kap. 1792) blir dermed på 1 187 millioner kroner.</p>
-    <p type="title">Oppfølging av veteraner</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>Regjeringen viderefører arbeidet med å styrke veteranenes rettigheter og kår. – En handlingsplan legges frem i første halvår 2011. Handlingsplanen vil ha særlig fokus på økt forskning og tverrsektorielt samarbeid, sier forsvarsminister Grete Faremo.</p>
-    <p type="title">En slagkraftig marine</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>Regjeringen fortsetter satsningen på Bergen som forsvarsby. I løpet av 2011 vil alle fartøyene i Fridtjof Nansen-klassen og Skjold-klassen være på plass, og dermed vil Norge få en av Europas mest moderne mariner.</p>
-    <p type="title">- Et godt, men stramt forsvarsbudsjett</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>Regjeringen foreslår en fortsatt satsing på Forsvaret i 2011 - med et forsvarsbudsjett på 39 249 millioner kroner. Økt aktivitet, nytt materiell og nordområdene prioriteres.</p>
-    <p type="title">Mer til Heimevernet i 2011</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>Regjeringen foreslår en bevilgning til Heimevernet på 1 049 millioner kroner i 2011. Forslaget innebærer en faktisk styrking av Heimevernets budsjett med 8 millioner kroner, og en solid opptrapping i øvingsvirksomheten.</p>
-    <p type="title">Fortsetter satsingen i nord</p>
-    <p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
-    <p>Nye fartøyer og nytt materiell gir økt kapasitet og aktivitet i Forsvaret i 2011, spesielt i nord. – Dette er en del av regjeringens satsning på nordområdene, sier forsvarsminister Grete Faremo.</p>
-    <p type="title">Avtale om personell i risikosoner</p>
-    <p>[Nyheit, Forsvarsdepartementet, 04.10.2010]</p>
-    <p>Utenriksminister Jonas Gahr Støre og forsvarsminister Grete Faremo signerte i dag en avtale om Forsvarets utdanning og psykososial oppfølging av UD-personell i krise- og konfliktområder.</p>
-    <p type="title">Grove feil om Forsvaret</p>
-    <p>[Tale/artikkel, Forsvarsdepartementet, 02.10.2010]</p>
-    <p>Aftenposten tegner på kommentarplass 30. september et grovt misvisende bilde av status i forsvarssektoren.</p>
-    <p>Fleire dokument om temaet</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Servodat sihkkarvuohta ja suodjalus - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="regjeringa.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>512</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/tema/samfunntryggleik-og-forsvar.html?id=215</origFileName><parallel_text xml:lang="eng" location="civil-protection-and-defence_id_215.html"/><parallel_text xml:lang="nob" location="forsvars_og_sikkerhetspolitikk_id_215.html"/><parallel_text xml:lang="sme" location="servodat-sihkkarvuohta-ja-suodjalus_id_215.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Forsvars- og sikkerhetspolitikk - regjeringen.no</p>
+<p type="title">Forsvars- og sikkerhetspolitikk</p>
+<p>Tryggleiksutfordringane i dag er i mindre grad enn tidlegare knytta til tradisjonelle militære truslar. Moglegheita for terroranslag, større miljø- og naturkatastrofer eller storulykker innan ulike sektorar av samfunnet er blitt større. Regjeringa vil arbeide for en heilheitleg tryggleikspolitikk, for styrka samfunnstryggleik og ein god balanse i forholdet mellom militær og sivil beredskap.</p>
+<p>Målet til <em type="italic">Justisdepartementet </em>er å sikre tryggleiken til enkeltmenneske og samfunnet gjennom effektiv forebyggjing og handtering av kriser og god organisering av beredskapsapparatet i samfunnet. <em type="italic">Forsvarsdepartementet </em>er regjeringskontoret med ansvar for utforming og iverksetjing av norsk tryggleiks- og forsvarspolitikk. </p>
+<p>På denne sida finn du informasjon og dokument som handlar om samfunntryggleik og forsvar på eit overordna nivå. Du kan utforske temaet meir i menyen til høgre.</p>
+<p>Abonner på e-postvarsling</p>
+<p type="title">Nyheiter frå departementa om samfunnstryggleik og forsvar:</p>
+<p type="title">Atomkommisjonsmøtet i Murmansk</p>
+<p>[Nyheit, Utanriksdepartementet, 05.10.2010]</p>
+<p>3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk.</p>
+<p type="title">Å støtte er å lede</p>
+<p>[Tale/artikkel, Forsvarsdepartementet, 05.10.2010]</p>
+<p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo.</p>
+<p type="title">Norges sterke militære engasjement i Afghanistan videreføres</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>ISAF-operasjonen i Afghanistan vil også i 2011 være Norges viktigste internasjonale militære engasjement. Budsjettet for operasjoner i utlandet foreslås derfor styrket med 77 millioner kroner. Det totale budsjettet for utenlandsoperasjoner (kap. 1792) blir dermed på 1 187 millioner kroner.</p>
+<p type="title">Oppfølging av veteraner</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>Regjeringen viderefører arbeidet med å styrke veteranenes rettigheter og kår. – En handlingsplan legges frem i første halvår 2011. Handlingsplanen vil ha særlig fokus på økt forskning og tverrsektorielt samarbeid, sier forsvarsminister Grete Faremo.</p>
+<p type="title">En slagkraftig marine</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>Regjeringen fortsetter satsningen på Bergen som forsvarsby. I løpet av 2011 vil alle fartøyene i Fridtjof Nansen-klassen og Skjold-klassen være på plass, og dermed vil Norge få en av Europas mest moderne mariner.</p>
+<p type="title">- Et godt, men stramt forsvarsbudsjett</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>Regjeringen foreslår en fortsatt satsing på Forsvaret i 2011 - med et forsvarsbudsjett på 39 249 millioner kroner. Økt aktivitet, nytt materiell og nordområdene prioriteres.</p>
+<p type="title">Mer til Heimevernet i 2011</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>Regjeringen foreslår en bevilgning til Heimevernet på 1 049 millioner kroner i 2011. Forslaget innebærer en faktisk styrking av Heimevernets budsjett med 8 millioner kroner, og en solid opptrapping i øvingsvirksomheten.</p>
+<p type="title">Fortsetter satsingen i nord</p>
+<p>[Pressemelding, Forsvarsdepartementet, 05.10.2010]</p>
+<p>Nye fartøyer og nytt materiell gir økt kapasitet og aktivitet i Forsvaret i 2011, spesielt i nord. – Dette er en del av regjeringens satsning på nordområdene, sier forsvarsminister Grete Faremo.</p>
+<p type="title">Avtale om personell i risikosoner</p>
+<p>[Nyheit, Forsvarsdepartementet, 04.10.2010]</p>
+<p>Utenriksminister Jonas Gahr Støre og forsvarsminister Grete Faremo signerte i dag en avtale om Forsvarets utdanning og psykososial oppfølging av UD-personell i krise- og konfliktområder.</p>
+<p type="title">Grove feil om Forsvaret</p>
+<p>[Tale/artikkel, Forsvarsdepartementet, 02.10.2010]</p>
+<p>Aftenposten tegner på kommentarplass 30. september et grovt misvisende bilde av status i forsvarssektoren.</p>
+<p>Fleire dokument om temaet</p>
+</body></document>

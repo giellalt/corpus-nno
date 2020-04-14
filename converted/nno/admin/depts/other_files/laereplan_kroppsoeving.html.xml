@@ -1,249 +1,195 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2091</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/kl06/KRO1-03/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName>
-    <parallel_text xml:lang="eng" location="laereplan_kroppsoeving.html"/>
-    <parallel_text xml:lang="sme" location="laereplan_kroppsoeving.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Læreplan i kroppsøving</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p type="title">Læreplan i kroppsøving</p>
-    <p xml:lang="nob">Fastsett som forskrift av Kunnskapsdepartementet 13. juni 2012.</p>
-    <p>Gjeld frå: 01.08.2012</p>
-    <p type="title" xml:lang="nob">Føremål</p>
-    <p>Kroppsøving er eit allmenndannande fag som skal inspirere til ein fysisk aktiv livsstil og livslang rørsleglede. Rørsle er grunnleggjande hos mennesket og fysisk aktivitet er viktig for å fremje god helse. Rørslekultur i form av leik, idrett, dans og friluftsliv er ein del av den felles danninga og identitetsskapinga i samfunnet. Faget skal medverke til at mennesket sansar, opplever, lærer og skapar med kroppen. Det sosiale aspektet ved fysisk aktivitet gjer kroppsøvinga til ein viktig arena for å fremje fair play og respekt for kvarandre.</p>
-    <p>Kroppsøving skal medverke til at elevane opplever glede, meistring og inspirasjon ved å vere med i ulike aktivitetar og i aktivitet saman med andre. Faget skal bidra til at barn og unge utviklar sjølvkjensle, positiv oppfatning av kroppen, sjølvforståing og identitetskjensle. Det skal ruste elevane til vurdering av kroppsideal og rørslekulturar som kan påverke sjølvkjensla, helse, ernæring, trening og livsstil. Elevane skal forstå kva eigen innsats har å seie for å oppnå mål og kva faktorar som påverkar motivasjon til aktivitet og trening.</p>
-    <p>Elevane skal utvikle kompetanse gjennom eit breitt utval av leik og aktivitetsformer, utvikle allsidigheit og lære å praktisere og verdsetje ferdsel og opphald i naturen. I faget skal elevane tileigne seg kunnskap om trening, livsstil og helse og bli motivert til aktivitet og trening. Faget skal gje elevane fysiske utfordringar og mot til å tøye eigne grenser, i både spontan og organisert aktivitet. Opplæringa i kroppsøving skal ta vare på både tradisjonelle og alternative rørsleaktivitetar i faget og stimulere til eksperimentering og kreativ utfolding. Sentralt i faget står rørsleleik, allsidig idrett, fair play, dans og friluftsliv.</p>
-    <p>Opplæringa skal gje elevane eit utgangspunkt for livslang rørsleglede og meistring ut frå eigne føresetnader. I den særlege vurderingsordninga som gjeld for dette faget, er dette ivareteke ved at innsatsen til elevane er ein del av grunnlaget for vurdering. I mange kompetansemål vil det òg vere relevant å ta omsyn til elevane sine føresetnader i vurderinga.</p>
-    <p type="title" xml:lang="dan">Hovudområder</p>
-    <p>Faget er strukturert i hovudområde som det er formulert kompetansemål for. Hovudområda skal utfylle kvarandre og må sjåast i samanheng.</p>
-    <p>Faget er eit fellesfag for alle utdanningsprogramma i vidaregåande opplæring. Opplæringa skal difor gjerast mest mogleg relevant for elevane ved tilpassing til dei ulike utdanningsprogramma.</p>
-    <p>Kroppsøving har kompetansemål etter 4., 7. og 10. årssteget i grunnskolen og etter Vg1, Vg2 og Vg3 i den vidaregåande opplæringa.</p>
-    <p xml:lang="nob"><em type="bold">Oversikt over hovudområda: </em> </p>
-    <p><em type="bold">Årssteg </em> </p>
-    <p><em type="bold">Hovudområde </em> </p>
-    <p xml:lang="koi">1.–4.</p>
-    <p xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
-    <p xml:lang="koi">5.–7.</p>
-    <p xml:lang="nob">Idrettsaktivitet</p>
-    <p>Friluftsliv</p>
-    <p xml:lang="koi">8.–10.</p>
-    <p xml:lang="nob">Idrettsaktivitet</p>
-    <p>Friluftsliv</p>
-    <p xml:lang="dan">Trening og livsstil</p>
-    <p xml:lang="deu">Vg1–Vg3</p>
-    <p xml:lang="nob">Idrettsaktivitet</p>
-    <p>Friluftsliv</p>
-    <p xml:lang="dan">Trening og livsstil</p>
-    <p type="title" xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
-    <p>Hovudområdet aktivitet i ulike rørslemiljø omfattar utvikling og automatisering av naturlege, grunnleggjande rørsler i ulike miljø, både inne og ute. Organiserte aktivitetar og spontan leik i varierte miljø er sentrale element. Hovudområdet omfattar òg grunnleggjande kunnskap om kroppen og personleg hygiene.</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Hovudområdet idrettsaktivitet omfattar eit breitt utval av idrettar, dansar og alternative rørsleaktivitetar. Det skal leggjast vekt på rørsleleik, og på skapande og utøvande aktivitet tilpassa føresetnadene hos elevane. Utvalet vil variere med lokale forhold og individuelle interesser. Deltaking i og framføring av dansar, både eigenproduserte dansar og dansar frå ulike kulturar, mellom anna frå ungdomskulturane, er ein del av det. Organisert aktivitet, fri aktivitet og eksperimentering står sentralt som aktivitetsområde. Dessutan er fair play og felles reglar ein viktig del av faget. Omgrepet fair play omfattar det å vise respekt for kvarandre i ulike aktivitetar. Samhandling og det å gjere kvarandre gode er sentrale element i omgrepet.</p>
-    <p type="title">Friluftsliv</p>
-    <p>Hovudområdet friluftsliv omfattar kompetanse som trengst for å kunne ferdast i og verdsetje opphald i naturen. Det skal leggjast vekt på lokale friluftstradisjonar, bruk av nærmiljøet og korleis ein kan orientere seg og opphalde seg i naturen til ulike årstider.</p>
-    <p type="title" xml:lang="dan">Trening og livsstil</p>
-    <p>Hovudområdet trening og livsstil omfattar korleis ulike aktivitetar kan påverke helsa hos den enkelte. Samanhengar mellom aktivitet og livsstil, baserte på interesser og meistring hos den einskilde, er sentrale emne på dette området. Det skal òg leggjast vekt på kunnskap, erfaring og refleksjon for å gjennomføre ulike aktivitetsformer og eigentrening som grunnlag for ein aktiv livsstil, og ta omsyn til eigne og andre sine føresetnader. Korleis ein kan drive helsefremjande aktivitet og arbeide ergonomisk rett, er òg viktige emne.</p>
-    <p type="title" xml:lang="est">Timetal</p>
-    <p>Timetala er oppgjevne i einingar på 60 minutt:</p>
-    <p xml:lang="deu">BARNESTEGET</p>
-    <p>1.–7. årssteget: 478 timar</p>
-    <p xml:lang="deu">UNGDOMSSTEGET</p>
-    <p>8.–10. årssteget: 223 timar</p>
-    <p>STUDIEFØREBUANDE UTDANNINGSPROGRAM, MED UNNTAK AV</p>
-    <p xml:lang="nob">UTDANNINGSPROGRAM FOR MUSIKK, DANS OG DRAMA</p>
-    <p>Vg1: 56 timar</p>
-    <p>Vg2: 56 timar</p>
-    <p>Vg3: 56 timar</p>
-    <p xml:lang="deu">YRKESFAGLEGE UTDANNINGSPROGRAM</p>
-    <p>Vg1: 56 timar</p>
-    <p>Vg2: 56 timar</p>
-    <p type="title">Grunnleggjande ferdigheiter</p>
-    <p>Grunnleggjande ferdigheiter er integrerte i kompetansemåla, der dei medverkar til å utvikle fagkompetansen og er ein del av han. I kroppsøving forstår ein grunnleggjande ferdigheiter slik:</p>
-    <p><em type="italic">Munnleg ferdigheit </em> i kroppsøving inneber å skape meining gjennom å lytte, tale og samtale. Det inneber mellom anna å kunne formidle inntrykk og opplevingar frå ulike aktivitetar. Ein uttrykkjer seg munnleg i utforminga av reglar for leik, ulike typar spel og anna samhandling. Det betyr å kunne lytte til andre og gi respons og vere bevisst på mottakaren når ein snakkar. Evne til munnleg formidling er òg nødvendig når ein skal vere med å organisere aktivitetar. </p>
-    <p><em type="italic">Å kunne skrive </em> i kroppsøving handlar primært om skriftlege framstillingar av aktivitet og vurdering av aktiviteten. Det er mest relevant på høgare årssteg. </p>
-    <p><em type="italic">Å kunne lese </em> i kroppsøving handlar om å kunne hente, tolke og forstå informasjon frå fagspesifikke tekstar. Det gjev grunnlag for å vurdere viktige sider ved arbeidet i faget. Lesing handlar òg om å tolke kart og forstå symbol. </p>
-    <p><em type="italic">Å kunne rekne </em> i kroppsøving inneber mellom anna å kunne måle lengder, tider og krefter. Å forstå tal er nødvendig når ein skal planleggje og gjennomføre treningsarbeid. </p>
-    <p><em type="italic">Digitale ferdigheiter </em> i kroppsøving inneber å kunne bruke digitale verktøy, ulike medium og ressursar føremålstenleg og forsvarleg for å løyse praktiske oppgåver. Det inneber mellom anna å innhente og behandle informasjon, planleggje og gjennomføre aktivitet og trening, og kommunisere og dokumentere dette. </p>
-    <p type="title" xml:lang="nob">Kompetansemål etter 4. årssteget</p>
-    <p type="title" xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">leike og vere med i aktivitetar i varierte miljø der sansar, motorikk og koordinasjon blir utfordra</p>
-      <p type="listitem">utføre grunnleggjande rørsler som å krype, gå, springe, hinke, satse, lande, vende og rulle i fri utfolding og organiserte aktivitetar</p>
-      <p type="listitem">vere trygg i vatn og vere symjedyktig</p>
-      <p type="listitem">ferdast ved og på vatn og gjere greie for farane</p>
-      <p type="listitem">samhandle med andre i ulike aktivitetar</p>
-      <p type="listitem">anerkjenne kroppslege føresetnader og skilnader mellom seg sjølv og andre</p>
-      <p type="listitem">bruke småreiskapar og apparat frå tradisjonelle og alternative rørsleaktivitetar</p>
-      <p type="listitem">avlevere, ta i mot og leike med ulike balltypar og vere med i enkle ballspel</p>
-      <p type="listitem">utforske, leike og uttrykkje seg med rørsler til ulike rytmar og musikk</p>
-      <p type="listitem">vere med i songleikar og enkle dansar frå ulike kulturar</p>
-      <p type="listitem" xml:lang="nob">bruke ski og skøyter der det ligg til rette for det</p>
-      <p type="listitem">lage og bruke enkle kart til å orientere seg i nærområdet</p>
-      <p type="listitem">bruke klede, utstyr og enkle bruksreiskapar for å opphalde seg i naturen på ein trygg og funksjonell måte</p>
-      <p type="listitem">samtale om reglar som gjeld for opphald i naturen, og kunne praktisere sporlaus ferdsel</p>
-      <p type="listitem">setje namn på kroppsdelar og rørslemåtar</p>
-      <p type="listitem">forklare kva personleg hygiene har å seie for eiga og andres helse og trivsel</p>
-      <p type="listitem">følgje trafikkreglar for fotgjengarar og syklistar</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter 7. årssteget</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">utføre varierte aktivitetar og delta i leik som fremjar uthald, koordinasjon og anna kroppsleg utvikling</p>
-      <p type="listitem">utføre grunnleggjande teknikkar i symjing på magen, på ryggen og under vatn</p>
-      <p type="listitem">følgje enkle reglar og prinsipp for samhandling og samspel og respektere resultata</p>
-      <p type="listitem">bruke grunnleggjande rørslemønster og teknikkar i nokre individuelle idrettar, nokre utvalde lagidrettar og i alternative rørsleaktivitetar</p>
-      <p type="listitem">praktisere ski- og skøyteteknikkar der det ligg til rette for det</p>
-      <p type="listitem">eksperimentere med kroppslege uttrykk og danse enkle dansar frå ulike kulturar</p>
-      <p type="listitem">praktisere trygg bruk av sykkel som framkomstmiddel</p>
-      <p type="listitem">forklare kvifor fysisk aktivitet er viktig kvar dag</p>
-    </list>
-    <p type="title">Friluftsliv</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">orientere seg ved hjelp av kart i kjent terreng</p>
-      <p type="listitem">fortelje om lokale friluftslivstradisjonar</p>
-      <p type="listitem">vere med i ulike friluftslivsaktivitetar og praktisere trygg ferdsel under varierte vêrtilhøve</p>
-      <p type="listitem">planleggje og gjennomføre overnattingstur</p>
-      <p type="listitem">praktisere nokre aktivitetar med røter i samisk tradisjon</p>
-      <p type="listitem" xml:lang="nob">utføre enkel førstehjelp</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter 10. årssteget</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">trene på og bruke ulike ferdigheiter i utvalde lagidrettar, individuelle idrettar og alternative rørsleaktivitetar</p>
-      <p type="listitem">symje på magen og på ryggen og dukke</p>
-      <p type="listitem">praktisere fair play ved å bruke eigne ferdigheiter og kunnskapar til å gjere andre gode</p>
-      <p type="listitem">trene på og utøve dansar frå ungdomskulturar og andre kulturar, og saman med medelevar skape enkle dansekomposisjonar</p>
-      <p type="listitem">forklare og utføre livberging i vatn</p>
-      <p type="listitem" xml:lang="nob">forklare og utføre livbergande førstehjelp</p>
-    </list>
-    <p type="title">Friluftsliv</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">orientere seg ved bruk av kart og kompass i variert terreng og gjere greie for andre måtar å orientere seg på</p>
-      <p type="listitem">praktisere friluftsliv i ulike naturmiljø og gjere greie for allemannsretten</p>
-      <p type="listitem">planleggje og gjennomføre turar til ulike årstider, også med overnatting ute</p>
-    </list>
-    <p type="title" xml:lang="dan">Trening og livsstil</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">bruke leik og ulike treningsformer for å utvikle eigen kropp og helse</p>
-      <p type="listitem">praktisere og forklare grunnleggjande prinsipp for trening</p>
-      <p type="listitem">forklare samanhengen mellom fysisk aktivitet, livsstil og helse</p>
-      <p type="listitem">forklare korleis ulike kroppsideal og ulik rørslekultur påverkar trening, ernæring, livsstil og helse</p>
-      <p type="listitem">førebyggje og gje førstehjelp ved idrettsskadar</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter Vg1</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">praktisere og gjere greie for sentrale reglar i utvalde idrettar og aktivitetar</p>
-      <p type="listitem">praktisere fair play ved å inkludere andre, uavhengig av føresetnader, i utvalde idrettar og aktivitetar</p>
-      <p type="listitem">gjere funksjonell bruk av ulike ferdigheiter i utvalde lagidrettar, individuelle idrettar og alternative rørsleaktivitetar</p>
-      <p type="listitem" xml:lang="nob">eksperimentere med ulike danseformer og skape dansekomposisjonar</p>
-    </list>
-    <p type="title">Friluftsliv</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">praktisere friluftsliv i ulike naturmiljø med lokal forankring</p>
-    </list>
-    <p type="title" xml:lang="dan">Trening og livsstil</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjere greie for faktorar som påverkar motivasjonen til aktivitet og trening</p>
-      <p type="listitem">praktisere treningsmetodar og øvingar innanfor uthald, styrke og rørsleevne for å utvikle eigen kropp og ivareta eiga helse</p>
-      <p type="listitem">planleggje og gjennomføre oppvarming og uttøying før og etter ulike treningsaktivitetar</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter Vg2</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem" xml:lang="nob">bruke og overføre prinsipp for fair play i rørsleaktivitetar</p>
-      <p type="listitem" xml:lang="nob">praktisere treningsmetodar for å forbetre teknikk, taktikk og evne til samspel i lagidrettar</p>
-      <p type="listitem" xml:lang="nob">praktisere treningsmetodar for å forbetre ferdigheiter i individuelle idrettar, dans og alternative rørsleaktivitetar</p>
-    </list>
-    <p type="title">Friluftsliv</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">bruke naturen til rekreasjon, trening og friluftsliv</p>
-    </list>
-    <p type="title" xml:lang="dan">Trening og livsstil</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">planleggje, gjennomføre og vurdere trening for å utvikle eigen kropp og ivareta eiga helse</p>
-      <p type="listitem">bruke grunnleggjande prinsipp for trening av uthald, styrke og rørsleevne</p>
-      <p type="listitem">praktisere øvingar som kan førebyggje skadar og belastningslidingar, og gjere greie for prinsipp for gode arbeidsteknikkar og arbeidsstillingar</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter Vg3</p>
-    <p type="title" xml:lang="nob">Idrettsaktivitet</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">vise kunnskapar og ulike ferdigheiter i idrett, dans og andre rørsleaktivitetar gjennom funksjonell deltaking i aktivitet, trening og spel</p>
-      <p type="listitem">vurdere eigen kompetanse og korleis ein kan utvikle seg vidare i idrett, dans eller andre rørsleaktivitetar</p>
-      <p type="listitem">drøfte korleis eiga utøving av fair play kan påverke andre i aktivitetar, trening og spel</p>
-    </list>
-    <p type="title">Friluftsliv</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">planleggje og gjennomføre og vurdere turopplegg ved bruk av kart og kompass og andre måtar å orientere seg på</p>
-    </list>
-    <p type="title" xml:lang="dan">Trening og livsstil</p>
-    <p>Mål for opplæringa er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">praktisere og grunngje aktivitet og trening som er relevant for å fremje eiga helse og drøfte moglege uheldige sider ved trening</p>
-      <p type="listitem">planleggje, gjennomføre og vurdere eigentrening som byggjer på grunnleggjande prinsipp for trening, og som er relevant for måla til eleven</p>
-      <p type="listitem">gjere greie for samanhengar mellom regelmessig fysisk aktivitet, livsstil og helse, og kva det inneber å ta ansvar for eiga helse</p>
-    </list>
-    <p type="title" xml:lang="nob">Vurdering</p>
-    <p xml:lang="dan">Retningsliner for sluttvurdering:</p>
-    <p xml:lang="nob"><em type="bold">Standpunktvurdering </em> </p>
-    <p><em type="bold">Årssteg </em> </p>
-    <p xml:lang="dan"><em type="bold">Ordning </em> </p>
-    <p>10. årssteget</p>
-    <p>Elevane skal ha ein standpunktkarakter.</p>
-    <p xml:lang="nob">Vg1 for særløpsfag i yrkesfaglege utdanningsprogram</p>
-    <p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
-    <p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
-    <p>Vg3 påbygging til generell studiekompetanse</p>
-    <p>Elevane skal ha ein standpunktkarakter 1</p>
-    <p>1 Der faget går over fleire år, skal eleven berre få standpunktvurdering på det øvste nivået i faget.</p>
-    <p><em type="bold">Eksamen for elevar </em> </p>
-    <p><em type="bold">Årssteg </em> </p>
-    <p xml:lang="dan"><em type="bold">Ordning </em> </p>
-    <p>10. årssteget</p>
-    <p>Elevane har ikkje eksamen.</p>
-    <p xml:lang="nob">Vg1 for særløpsfag i yrkesfaglege utdanningsprogram</p>
-    <p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
-    <p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
-    <p>Vg3 påbygging til generell studiekompetanse</p>
-    <p>Elevane har ikkje eksamen.</p>
-    <p xml:lang="dan"><em type="bold">Eksamen for privatistar </em> </p>
-    <p><em type="bold">Årssteg </em> </p>
-    <p xml:lang="dan"><em type="bold">Ordning </em> </p>
-    <p>10. årssteget</p>
-    <p>Det er inga privatistordning i faget.</p>
-    <p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
-    <p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
-    <p>Privatistane skal opp til ein munnleg-praktisk eksamen som blir utarbeidd og sensurert lokalt.</p>
-    <p>Dei generelle retningslinene om vurdering er fastsette i forskrifta til opplæringslova.</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2091</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/KRO1-03/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_kroppsoeving.html"/><parallel_text xml:lang="sme" location="laereplan_kroppsoeving.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Læreplan i kroppsøving</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p type="title">Læreplan i kroppsøving</p>
+<p xml:lang="nob">Fastsett som forskrift av Kunnskapsdepartementet 13. juni 2012.</p>
+<p>Gjeld frå: 01.08.2012</p>
+<p type="title" xml:lang="nob">Føremål</p>
+<p>Kroppsøving er eit allmenndannande fag som skal inspirere til ein fysisk aktiv livsstil og livslang rørsleglede. Rørsle er grunnleggjande hos mennesket og fysisk aktivitet er viktig for å fremje god helse. Rørslekultur i form av leik, idrett, dans og friluftsliv er ein del av den felles danninga og identitetsskapinga i samfunnet. Faget skal medverke til at mennesket sansar, opplever, lærer og skapar med kroppen. Det sosiale aspektet ved fysisk aktivitet gjer kroppsøvinga til ein viktig arena for å fremje fair play og respekt for kvarandre.</p>
+<p>Kroppsøving skal medverke til at elevane opplever glede, meistring og inspirasjon ved å vere med i ulike aktivitetar og i aktivitet saman med andre. Faget skal bidra til at barn og unge utviklar sjølvkjensle, positiv oppfatning av kroppen, sjølvforståing og identitetskjensle. Det skal ruste elevane til vurdering av kroppsideal og rørslekulturar som kan påverke sjølvkjensla, helse, ernæring, trening og livsstil. Elevane skal forstå kva eigen innsats har å seie for å oppnå mål og kva faktorar som påverkar motivasjon til aktivitet og trening.</p>
+<p>Elevane skal utvikle kompetanse gjennom eit breitt utval av leik og aktivitetsformer, utvikle allsidigheit og lære å praktisere og verdsetje ferdsel og opphald i naturen. I faget skal elevane tileigne seg kunnskap om trening, livsstil og helse og bli motivert til aktivitet og trening. Faget skal gje elevane fysiske utfordringar og mot til å tøye eigne grenser, i både spontan og organisert aktivitet. Opplæringa i kroppsøving skal ta vare på både tradisjonelle og alternative rørsleaktivitetar i faget og stimulere til eksperimentering og kreativ utfolding. Sentralt i faget står rørsleleik, allsidig idrett, fair play, dans og friluftsliv.</p>
+<p>Opplæringa skal gje elevane eit utgangspunkt for livslang rørsleglede og meistring ut frå eigne føresetnader. I den særlege vurderingsordninga som gjeld for dette faget, er dette ivareteke ved at innsatsen til elevane er ein del av grunnlaget for vurdering. I mange kompetansemål vil det òg vere relevant å ta omsyn til elevane sine føresetnader i vurderinga.</p>
+<p type="title" xml:lang="dan">Hovudområder</p>
+<p>Faget er strukturert i hovudområde som det er formulert kompetansemål for. Hovudområda skal utfylle kvarandre og må sjåast i samanheng.</p>
+<p>Faget er eit fellesfag for alle utdanningsprogramma i vidaregåande opplæring. Opplæringa skal difor gjerast mest mogleg relevant for elevane ved tilpassing til dei ulike utdanningsprogramma.</p>
+<p>Kroppsøving har kompetansemål etter 4., 7. og 10. årssteget i grunnskolen og etter Vg1, Vg2 og Vg3 i den vidaregåande opplæringa.</p>
+<p xml:lang="nob"><em type="bold">Oversikt over hovudområda: </em> </p>
+<p><em type="bold">Årssteg </em> </p>
+<p><em type="bold">Hovudområde </em> </p>
+<p xml:lang="vep">1.–4.</p>
+<p xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
+<p xml:lang="vep">5.–7.</p>
+<p xml:lang="nob">Idrettsaktivitet</p>
+<p>Friluftsliv</p>
+<p xml:lang="vep">8.–10.</p>
+<p xml:lang="nob">Idrettsaktivitet</p>
+<p>Friluftsliv</p>
+<p xml:lang="dan">Trening og livsstil</p>
+<p xml:lang="deu">Vg1–Vg3</p>
+<p xml:lang="nob">Idrettsaktivitet</p>
+<p>Friluftsliv</p>
+<p xml:lang="dan">Trening og livsstil</p>
+<p type="title" xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
+<p>Hovudområdet aktivitet i ulike rørslemiljø omfattar utvikling og automatisering av naturlege, grunnleggjande rørsler i ulike miljø, både inne og ute. Organiserte aktivitetar og spontan leik i varierte miljø er sentrale element. Hovudområdet omfattar òg grunnleggjande kunnskap om kroppen og personleg hygiene.</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Hovudområdet idrettsaktivitet omfattar eit breitt utval av idrettar, dansar og alternative rørsleaktivitetar. Det skal leggjast vekt på rørsleleik, og på skapande og utøvande aktivitet tilpassa føresetnadene hos elevane. Utvalet vil variere med lokale forhold og individuelle interesser. Deltaking i og framføring av dansar, både eigenproduserte dansar og dansar frå ulike kulturar, mellom anna frå ungdomskulturane, er ein del av det. Organisert aktivitet, fri aktivitet og eksperimentering står sentralt som aktivitetsområde. Dessutan er fair play og felles reglar ein viktig del av faget. Omgrepet fair play omfattar det å vise respekt for kvarandre i ulike aktivitetar. Samhandling og det å gjere kvarandre gode er sentrale element i omgrepet.</p>
+<p type="title">Friluftsliv</p>
+<p>Hovudområdet friluftsliv omfattar kompetanse som trengst for å kunne ferdast i og verdsetje opphald i naturen. Det skal leggjast vekt på lokale friluftstradisjonar, bruk av nærmiljøet og korleis ein kan orientere seg og opphalde seg i naturen til ulike årstider.</p>
+<p type="title" xml:lang="dan">Trening og livsstil</p>
+<p>Hovudområdet trening og livsstil omfattar korleis ulike aktivitetar kan påverke helsa hos den enkelte. Samanhengar mellom aktivitet og livsstil, baserte på interesser og meistring hos den einskilde, er sentrale emne på dette området. Det skal òg leggjast vekt på kunnskap, erfaring og refleksjon for å gjennomføre ulike aktivitetsformer og eigentrening som grunnlag for ein aktiv livsstil, og ta omsyn til eigne og andre sine føresetnader. Korleis ein kan drive helsefremjande aktivitet og arbeide ergonomisk rett, er òg viktige emne.</p>
+<p type="title" xml:lang="est">Timetal</p>
+<p>Timetala er oppgjevne i einingar på 60 minutt:</p>
+<p xml:lang="deu">BARNESTEGET</p>
+<p>1.–7. årssteget: 478 timar</p>
+<p xml:lang="deu">UNGDOMSSTEGET</p>
+<p>8.–10. årssteget: 223 timar</p>
+<p>STUDIEFØREBUANDE UTDANNINGSPROGRAM, MED UNNTAK AV</p>
+<p xml:lang="nob">UTDANNINGSPROGRAM FOR MUSIKK, DANS OG DRAMA</p>
+<p>Vg1: 56 timar</p>
+<p>Vg2: 56 timar</p>
+<p>Vg3: 56 timar</p>
+<p xml:lang="deu">YRKESFAGLEGE UTDANNINGSPROGRAM</p>
+<p>Vg1: 56 timar</p>
+<p>Vg2: 56 timar</p>
+<p type="title">Grunnleggjande ferdigheiter</p>
+<p>Grunnleggjande ferdigheiter er integrerte i kompetansemåla, der dei medverkar til å utvikle fagkompetansen og er ein del av han. I kroppsøving forstår ein grunnleggjande ferdigheiter slik:</p>
+<p><em type="italic">Munnleg ferdigheit </em> i kroppsøving inneber å skape meining gjennom å lytte, tale og samtale. Det inneber mellom anna å kunne formidle inntrykk og opplevingar frå ulike aktivitetar. Ein uttrykkjer seg munnleg i utforminga av reglar for leik, ulike typar spel og anna samhandling. Det betyr å kunne lytte til andre og gi respons og vere bevisst på mottakaren når ein snakkar. Evne til munnleg formidling er òg nødvendig når ein skal vere med å organisere aktivitetar. </p>
+<p><em type="italic">Å kunne skrive </em> i kroppsøving handlar primært om skriftlege framstillingar av aktivitet og vurdering av aktiviteten. Det er mest relevant på høgare årssteg. </p>
+<p><em type="italic">Å kunne lese </em> i kroppsøving handlar om å kunne hente, tolke og forstå informasjon frå fagspesifikke tekstar. Det gjev grunnlag for å vurdere viktige sider ved arbeidet i faget. Lesing handlar òg om å tolke kart og forstå symbol. </p>
+<p><em type="italic">Å kunne rekne </em> i kroppsøving inneber mellom anna å kunne måle lengder, tider og krefter. Å forstå tal er nødvendig når ein skal planleggje og gjennomføre treningsarbeid. </p>
+<p><em type="italic">Digitale ferdigheiter </em> i kroppsøving inneber å kunne bruke digitale verktøy, ulike medium og ressursar føremålstenleg og forsvarleg for å løyse praktiske oppgåver. Det inneber mellom anna å innhente og behandle informasjon, planleggje og gjennomføre aktivitet og trening, og kommunisere og dokumentere dette. </p>
+<p type="title" xml:lang="nob">Kompetansemål etter 4. årssteget</p>
+<p type="title" xml:lang="nob">Aktivitet i ulike rørslemiljø</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">leike og vere med i aktivitetar i varierte miljø der sansar, motorikk og koordinasjon blir utfordra</p>
+<p type="listitem">utføre grunnleggjande rørsler som å krype, gå, springe, hinke, satse, lande, vende og rulle i fri utfolding og organiserte aktivitetar</p>
+<p type="listitem">vere trygg i vatn og vere symjedyktig</p>
+<p type="listitem">ferdast ved og på vatn og gjere greie for farane</p>
+<p type="listitem">samhandle med andre i ulike aktivitetar</p>
+<p type="listitem">anerkjenne kroppslege føresetnader og skilnader mellom seg sjølv og andre</p>
+<p type="listitem">bruke småreiskapar og apparat frå tradisjonelle og alternative rørsleaktivitetar</p>
+<p type="listitem">avlevere, ta i mot og leike med ulike balltypar og vere med i enkle ballspel</p>
+<p type="listitem">utforske, leike og uttrykkje seg med rørsler til ulike rytmar og musikk</p>
+<p type="listitem">vere med i songleikar og enkle dansar frå ulike kulturar</p>
+<p type="listitem" xml:lang="nob">bruke ski og skøyter der det ligg til rette for det</p>
+<p type="listitem">lage og bruke enkle kart til å orientere seg i nærområdet</p>
+<p type="listitem">bruke klede, utstyr og enkle bruksreiskapar for å opphalde seg i naturen på ein trygg og funksjonell måte</p>
+<p type="listitem">samtale om reglar som gjeld for opphald i naturen, og kunne praktisere sporlaus ferdsel</p>
+<p type="listitem">setje namn på kroppsdelar og rørslemåtar</p>
+<p type="listitem">forklare kva personleg hygiene har å seie for eiga og andres helse og trivsel</p>
+<p type="listitem">følgje trafikkreglar for fotgjengarar og syklistar</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter 7. årssteget</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">utføre varierte aktivitetar og delta i leik som fremjar uthald, koordinasjon og anna kroppsleg utvikling</p>
+<p type="listitem">utføre grunnleggjande teknikkar i symjing på magen, på ryggen og under vatn</p>
+<p type="listitem">følgje enkle reglar og prinsipp for samhandling og samspel og respektere resultata</p>
+<p type="listitem">bruke grunnleggjande rørslemønster og teknikkar i nokre individuelle idrettar, nokre utvalde lagidrettar og i alternative rørsleaktivitetar</p>
+<p type="listitem">praktisere ski- og skøyteteknikkar der det ligg til rette for det</p>
+<p type="listitem">eksperimentere med kroppslege uttrykk og danse enkle dansar frå ulike kulturar</p>
+<p type="listitem">praktisere trygg bruk av sykkel som framkomstmiddel</p>
+<p type="listitem">forklare kvifor fysisk aktivitet er viktig kvar dag</p>
+</list><p type="title">Friluftsliv</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">orientere seg ved hjelp av kart i kjent terreng</p>
+<p type="listitem">fortelje om lokale friluftslivstradisjonar</p>
+<p type="listitem">vere med i ulike friluftslivsaktivitetar og praktisere trygg ferdsel under varierte vêrtilhøve</p>
+<p type="listitem">planleggje og gjennomføre overnattingstur</p>
+<p type="listitem">praktisere nokre aktivitetar med røter i samisk tradisjon</p>
+<p type="listitem" xml:lang="nob">utføre enkel førstehjelp</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter 10. årssteget</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">trene på og bruke ulike ferdigheiter i utvalde lagidrettar, individuelle idrettar og alternative rørsleaktivitetar</p>
+<p type="listitem">symje på magen og på ryggen og dukke</p>
+<p type="listitem">praktisere fair play ved å bruke eigne ferdigheiter og kunnskapar til å gjere andre gode</p>
+<p type="listitem">trene på og utøve dansar frå ungdomskulturar og andre kulturar, og saman med medelevar skape enkle dansekomposisjonar</p>
+<p type="listitem">forklare og utføre livberging i vatn</p>
+<p type="listitem" xml:lang="nob">forklare og utføre livbergande førstehjelp</p>
+</list><p type="title">Friluftsliv</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">orientere seg ved bruk av kart og kompass i variert terreng og gjere greie for andre måtar å orientere seg på</p>
+<p type="listitem">praktisere friluftsliv i ulike naturmiljø og gjere greie for allemannsretten</p>
+<p type="listitem">planleggje og gjennomføre turar til ulike årstider, også med overnatting ute</p>
+</list><p type="title" xml:lang="dan">Trening og livsstil</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">bruke leik og ulike treningsformer for å utvikle eigen kropp og helse</p>
+<p type="listitem">praktisere og forklare grunnleggjande prinsipp for trening</p>
+<p type="listitem">forklare samanhengen mellom fysisk aktivitet, livsstil og helse</p>
+<p type="listitem">forklare korleis ulike kroppsideal og ulik rørslekultur påverkar trening, ernæring, livsstil og helse</p>
+<p type="listitem">førebyggje og gje førstehjelp ved idrettsskadar</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter Vg1</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">praktisere og gjere greie for sentrale reglar i utvalde idrettar og aktivitetar</p>
+<p type="listitem">praktisere fair play ved å inkludere andre, uavhengig av føresetnader, i utvalde idrettar og aktivitetar</p>
+<p type="listitem">gjere funksjonell bruk av ulike ferdigheiter i utvalde lagidrettar, individuelle idrettar og alternative rørsleaktivitetar</p>
+<p type="listitem" xml:lang="nob">eksperimentere med ulike danseformer og skape dansekomposisjonar</p>
+</list><p type="title">Friluftsliv</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">praktisere friluftsliv i ulike naturmiljø med lokal forankring</p>
+</list><p type="title" xml:lang="dan">Trening og livsstil</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">gjere greie for faktorar som påverkar motivasjonen til aktivitet og trening</p>
+<p type="listitem">praktisere treningsmetodar og øvingar innanfor uthald, styrke og rørsleevne for å utvikle eigen kropp og ivareta eiga helse</p>
+<p type="listitem">planleggje og gjennomføre oppvarming og uttøying før og etter ulike treningsaktivitetar</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter Vg2</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem" xml:lang="nob">bruke og overføre prinsipp for fair play i rørsleaktivitetar</p>
+<p type="listitem" xml:lang="nob">praktisere treningsmetodar for å forbetre teknikk, taktikk og evne til samspel i lagidrettar</p>
+<p type="listitem" xml:lang="nob">praktisere treningsmetodar for å forbetre ferdigheiter i individuelle idrettar, dans og alternative rørsleaktivitetar</p>
+</list><p type="title">Friluftsliv</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">bruke naturen til rekreasjon, trening og friluftsliv</p>
+</list><p type="title" xml:lang="dan">Trening og livsstil</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">planleggje, gjennomføre og vurdere trening for å utvikle eigen kropp og ivareta eiga helse</p>
+<p type="listitem">bruke grunnleggjande prinsipp for trening av uthald, styrke og rørsleevne</p>
+<p type="listitem">praktisere øvingar som kan førebyggje skadar og belastningslidingar, og gjere greie for prinsipp for gode arbeidsteknikkar og arbeidsstillingar</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter Vg3</p>
+<p type="title" xml:lang="nob">Idrettsaktivitet</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">vise kunnskapar og ulike ferdigheiter i idrett, dans og andre rørsleaktivitetar gjennom funksjonell deltaking i aktivitet, trening og spel</p>
+<p type="listitem">vurdere eigen kompetanse og korleis ein kan utvikle seg vidare i idrett, dans eller andre rørsleaktivitetar</p>
+<p type="listitem">drøfte korleis eiga utøving av fair play kan påverke andre i aktivitetar, trening og spel</p>
+</list><p type="title">Friluftsliv</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">planleggje og gjennomføre og vurdere turopplegg ved bruk av kart og kompass og andre måtar å orientere seg på</p>
+</list><p type="title" xml:lang="dan">Trening og livsstil</p>
+<p>Mål for opplæringa er at eleven skal kunne</p>
+<list><p type="listitem">praktisere og grunngje aktivitet og trening som er relevant for å fremje eiga helse og drøfte moglege uheldige sider ved trening</p>
+<p type="listitem">planleggje, gjennomføre og vurdere eigentrening som byggjer på grunnleggjande prinsipp for trening, og som er relevant for måla til eleven</p>
+<p type="listitem">gjere greie for samanhengar mellom regelmessig fysisk aktivitet, livsstil og helse, og kva det inneber å ta ansvar for eiga helse</p>
+</list><p type="title" xml:lang="nob">Vurdering</p>
+<p xml:lang="dan">Retningsliner for sluttvurdering:</p>
+<p xml:lang="nob"><em type="bold">Standpunktvurdering </em> </p>
+<p><em type="bold">Årssteg </em> </p>
+<p xml:lang="dan"><em type="bold">Ordning </em> </p>
+<p>10. årssteget</p>
+<p>Elevane skal ha ein standpunktkarakter.</p>
+<p xml:lang="nob">Vg1 for særløpsfag i yrkesfaglege utdanningsprogram</p>
+<p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
+<p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
+<p>Vg3 påbygging til generell studiekompetanse</p>
+<p>Elevane skal ha ein standpunktkarakter 1</p>
+<p>1 Der faget går over fleire år, skal eleven berre få standpunktvurdering på det øvste nivået i faget.</p>
+<p><em type="bold">Eksamen for elevar </em> </p>
+<p><em type="bold">Årssteg </em> </p>
+<p xml:lang="dan"><em type="bold">Ordning </em> </p>
+<p>10. årssteget</p>
+<p>Elevane har ikkje eksamen.</p>
+<p xml:lang="nob">Vg1 for særløpsfag i yrkesfaglege utdanningsprogram</p>
+<p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
+<p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
+<p>Vg3 påbygging til generell studiekompetanse</p>
+<p>Elevane har ikkje eksamen.</p>
+<p xml:lang="dan"><em type="bold">Eksamen for privatistar </em> </p>
+<p><em type="bold">Årssteg </em> </p>
+<p xml:lang="dan"><em type="bold">Ordning </em> </p>
+<p>10. årssteget</p>
+<p>Det er inga privatistordning i faget.</p>
+<p xml:lang="nob">Vg2 yrkesfaglege utdanningsprogram</p>
+<p xml:lang="nob">Vg3 studieførebuande og yrkesfaglege utdanningsprogram i skole</p>
+<p>Privatistane skal opp til ein munnleg-praktisk eksamen som blir utarbeidd og sensurert lokalt.</p>
+<p>Dei generelle retningslinene om vurdering er fastsette i forskrifta til opplæringslova.</p>
+</body></document>

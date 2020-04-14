@@ -1,51 +1,18 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Almmuhusat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>83</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/lmd/tema/reindrift/Rettleiingar-og-brosjyrar.html?id=86838</origFileName>
-    <parallel_text xml:lang="nob" location="brosjyrer-og-veiledninger_id_86838.html"/>
-    <parallel_text xml:lang="sme" location="almmuhusat_id_86838.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Rettleiingar og brosjyrar - regjeringen.no</p>
-    <p type="title">Temaveileder: Reindrift og planlegging etter Plan- og bygningsloven (plandelen)</p>
-    <p>[Miljøverndepartementet, 01.09.2009]</p>
-    <p type="title">Veileder for fastsetting av økologisk bærekraftig</p>
-    <p>[Landbruks- og matdepartementet, 17.02.2009]</p>
-    <p type="title">Orientering om Reindriftsloven av 15. juni 2007</p>
-    <p>[Landbruks- og matdepartementet, 08.01.2008]</p>
-    <p type="title">Reindriftsavtale 1. juli 2002 - 30. juni 2003</p>
-    <p>[Landbruks- og matdepartementet, 08.04.2002]</p>
-    <p type="title">Statens tilsvar og tilbud ved reindriftsavtaleforhandlingene for avtaleåret 2002/2003</p>
-    <p>[Landbruks- og matdepartementet, 22.01.2002]</p>
-    <p type="title">Gjennomgang av reindriftsforvaltningen</p>
-    <p type="title">Rapport fra arbeidsgruppe Juni 2001</p>
-    <p>[Landbruks- og matdepartementet, 28.06.2001]</p>
-    <p type="title">Reindrift og Jordskifte</p>
-    <p type="title">(B-235 M-0659B)</p>
-    <p>[Landbruks- og matdepartementet, 27.08.1996]</p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Almmuhusat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>83</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/lmd/tema/reindrift/Rettleiingar-og-brosjyrar.html?id=86838</origFileName><parallel_text xml:lang="nob" location="brosjyrer-og-veiledninger_id_86838.html"/><parallel_text xml:lang="sme" location="almmuhusat_id_86838.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rettleiingar og brosjyrar - regjeringen.no</p>
+<p type="title">Temaveileder: Reindrift og planlegging etter Plan- og bygningsloven (plandelen)</p>
+<p>[Miljøverndepartementet, 01.09.2009]</p>
+<p type="title">Veileder for fastsetting av økologisk bærekraftig</p>
+<p>[Landbruks- og matdepartementet, 17.02.2009]</p>
+<p type="title">Orientering om Reindriftsloven av 15. juni 2007</p>
+<p>[Landbruks- og matdepartementet, 08.01.2008]</p>
+<p type="title">Reindriftsavtale 1. juli 2002 - 30. juni 2003</p>
+<p>[Landbruks- og matdepartementet, 08.04.2002]</p>
+<p type="title">Statens tilsvar og tilbud ved reindriftsavtaleforhandlingene for avtaleåret 2002/2003</p>
+<p>[Landbruks- og matdepartementet, 22.01.2002]</p>
+<p type="title">Gjennomgang av reindriftsforvaltningen</p>
+<p type="title">Rapport fra arbeidsgruppe Juni 2001</p>
+<p>[Landbruks- og matdepartementet, 28.06.2001]</p>
+<p type="title">Reindrift og Jordskifte</p>
+<p type="title">(B-235 M-0659B)</p>
+<p>[Landbruks- og matdepartementet, 27.08.1996]</p>
+</body></document>

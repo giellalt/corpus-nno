@@ -1,45 +1,10 @@
-<document xml:lang="nno" id="no_id">
-  <header>
-    <title>Lágat ja njuolggadusat galget doarjut digitála bargovugiid - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>341</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/lover-og-reglar-skal-stotte-digitale-arb.html?id=677964</origFileName>
-    <parallel_text xml:lang="nob" location="lover-og-regler-skal-stotte-digitale-arb_id_677964.html"/>
-    <parallel_text xml:lang="sme" location="lagat-ja-njuolggadusat-galget-doarjut-di_id_677964.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lover og reglar skal støtte digitale arbeidsformer - regjeringen.no</p>
-    <p>
-      <em type="italic">I dag må du gi uttrykkjeleg godkjenning dersom du ønskjer å motta digital post frå forvaltninga. I framtida vil dette prinsippet bli snudd, slik at digital post blir det vanlege. Regjeringa vil gå gjennom lover og forskrifter for å fjerne unødvendige hindringar mot digitalisering av offentlege verksemders kommunikasjon, arbeidsform og tenester. </em>
-    </p>
-    <p>- Mange av dagens lover og forskrifter blei laga på ei tid då vi jobba med penn og papir. I dag er kvardagen ein annan. Vi jobbar på pc-ar, kommuniserer elektronisk og arkiverer dokument digitalt. Om vi skal realisere den digitale forvaltninga, må vi derfor tilpasse regelverket til digitale arbeidsformer og digital kommunikasjon, seier fornyingsminister Rigmor Aasrud.</p>
-    <p>Forvaltningslova stiller i dag krav om at mottakar må godkjenne at enkeltvedtak kan sendast som digital post. Regjeringa ønskjer å snu dette prinsippet slik at post frå forvaltninga kan sendast digitalt med mindre mottakaren har reservert seg mot digital post.</p>
-    <p>Regjeringa vil òg arbeide for at lover og forskrifter skal leggje til rette for at informasjon som er levert til éi offentlig verksemd, i større utstrekning enn i dag kan brukast om att av andre offentlege verksemder. Det er òg behov for å endre lovverket slik at forvaltninga kan bruke informasjon i offentlege fellesregister meir effektivt, for eksempel opplysningar i Folkeregisteret.</p>
-    <p>- Gjenbruk av opplysningane skal ivareta personvernet til kvar enkelt innbyggjar. Bruken skal avgrensast til opplysningar som er nødvendige og riktige for det formålet dei skal brukast til, seier Rigmor Aasrud.</p>
-    <p>I følgje regjeringas digitaliseringsprogram er det ei rekkje føresegner i lover og -forskrifter som set grenser for vidareutvikling av offentlege, digitale tenester. Ein anna utfordring er at dei som utformar regelverk ikkje er merksame nok på at utforminga av regelverk må leggje til rette for digitale løysingar.</p>
-    <p>Regjeringa vil arbeide for at regelverket kan leggje til rette for digitalisering. I tillegg til tilpassingar i eksisterande regelverk skal forslag til framtidig lov- og regelverk utformast slik at det understøttar og legg til rette for digitale tenester.</p>
-    <p>Les regjeringas digitaliseringsprogram <span type="quote">"På nett med innbyggerne"</span></p>
-  </body>
-</document>
+<document xml:lang="nno" id="no_id"><header><title>Lágat ja njuolggadusat galget doarjut digitála bargovugiid - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fornyings-, administrasjons- og kyrkjedepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>341</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nn/dep/fad/pressesenter/Pressemeldingar/2012/lover-og-reglar-skal-stotte-digitale-arb.html?id=677964</origFileName><parallel_text xml:lang="nob" location="lover-og-regler-skal-stotte-digitale-arb_id_677964.html"/><parallel_text xml:lang="sme" location="lagat-ja-njuolggadusat-galget-doarjut-di_id_677964.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lover og reglar skal støtte digitale arbeidsformer - regjeringen.no</p>
+<p><em type="italic">I dag må du gi uttrykkjeleg godkjenning dersom du ønskjer å motta digital post frå forvaltninga. I framtida vil dette prinsippet bli snudd, slik at digital post blir det vanlege. Regjeringa vil gå gjennom lover og forskrifter for å fjerne unødvendige hindringar mot digitalisering av offentlege verksemders kommunikasjon, arbeidsform og tenester. </em></p>
+<p>- Mange av dagens lover og forskrifter blei laga på ei tid då vi jobba med penn og papir. I dag er kvardagen ein annan. Vi jobbar på pc-ar, kommuniserer elektronisk og arkiverer dokument digitalt. Om vi skal realisere den digitale forvaltninga, må vi derfor tilpasse regelverket til digitale arbeidsformer og digital kommunikasjon, seier fornyingsminister Rigmor Aasrud.</p>
+<p>Forvaltningslova stiller i dag krav om at mottakar må godkjenne at enkeltvedtak kan sendast som digital post. Regjeringa ønskjer å snu dette prinsippet slik at post frå forvaltninga kan sendast digitalt med mindre mottakaren har reservert seg mot digital post.</p>
+<p>Regjeringa vil òg arbeide for at lover og forskrifter skal leggje til rette for at informasjon som er levert til éi offentlig verksemd, i større utstrekning enn i dag kan brukast om att av andre offentlege verksemder. Det er òg behov for å endre lovverket slik at forvaltninga kan bruke informasjon i offentlege fellesregister meir effektivt, for eksempel opplysningar i Folkeregisteret.</p>
+<p>- Gjenbruk av opplysningane skal ivareta personvernet til kvar enkelt innbyggjar. Bruken skal avgrensast til opplysningar som er nødvendige og riktige for det formålet dei skal brukast til, seier Rigmor Aasrud.</p>
+<p>I følgje regjeringas digitaliseringsprogram er det ei rekkje føresegner i lover og -forskrifter som set grenser for vidareutvikling av offentlege, digitale tenester. Ein anna utfordring er at dei som utformar regelverk ikkje er merksame nok på at utforminga av regelverk må leggje til rette for digitale løysingar.</p>
+<p>Regjeringa vil arbeide for at regelverket kan leggje til rette for digitalisering. I tillegg til tilpassingar i eksisterande regelverk skal forslag til framtidig lov- og regelverk utformast slik at det understøttar og legg til rette for digitale tenester.</p>
+<p>Les regjeringas digitaliseringsprogram <span type="quote">"På nett med innbyggerne"</span></p>
+</body></document>
