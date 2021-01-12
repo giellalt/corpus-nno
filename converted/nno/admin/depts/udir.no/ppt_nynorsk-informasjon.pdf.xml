@@ -1,83 +1,86 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1230</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_nynorsk-informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pedagogisk-psykologisk teneste</p>
-<p>Pedagogisk Psykologisk teneste (PP-tenesta) er ein rådgivande og sakkunnig instans når det gjeld utvikling, læring og trivsel for barn under skolepliktig alder og elevar i grunnskolen og i vidaregåande opplæring. PP-tenesta bistår også vaksne med behov for grunnskoleopplæring. Arbeidet til PP- tenesta er heimla i opplæringslova (oppll.). PP-tenesta er ein fagleg ressurs for barnehagar/skolar for å leggje opplæringa betre til rette for barn og elevar med særskilde behov.</p>
-<p>PP-tenesta</p>
-<p type="listitem">•  kan mellom anna gi barnehagar og skolar råd og rettleiing om pedagogisk leiing av gruppe- og læringsmiljø</p>
-<p type="listitem">•  skal bistå skolar med kompetanse- og organisasjonsutvikling</p>
-<p type="listitem">•  skal sørgje for at det blir utarbeidd sakkunnig vurdering der oppll. krev det, og gi barnehage og skole råd og rettleiing om tilrettelegging for barn og elevar som har behov for det</p>
-<p type="listitem">•  er ei lovpålagd kommunal teneste som er heimla i oppll. § 5-6; tjenesta kan organiserast på tvers av kommunar, og kommunar og fylkeskommunar kan ha felles tenester</p>
-<p type="listitem">•  har teieplikt: alle opplysningar som blir samla inn, skal oppbevarast i eigen journal etter retningslinjer frå Datatilsynet</p>
-<p type="listitem">•  er den sakkunnige instansen for kommunen/fylkeskommunen når det gjeld å vurdere rettar som er nedfelte i oppll.</p>
-<p>Kommunar og fylkeskommunar hentar mellom anna inn råd frå PP-tenesta i desse sakene:</p>
-<p type="listitem">•  spesialpedagogisk hjelp før opplæringspliktig alder (§ 5-7)</p>
-<p type="listitem">•  spesialundervisning på skolen (§ 5-1) og for vaksne med behov for grunnskoleopplæring (§ 4a-2)</p>
-<p type="listitem">•  tidlegare skolestart (§ 2-1 tredje ledd)</p>
-<p type="listitem">•  utsett skolestart (§ 2-1 tredje ledd)</p>
-<p type="listitem">•  fritak frå opplæringsplikta (§ 2-1fjerde ledd)</p>
-<p type="listitem">•  teiknspråkopplæring før opplæringspliktig alder og i grunnskolen (§ 2-6) og i vidaregåande opplæring (§ 3-9)</p>
-<p type="listitem">•  punktskriftopplæring m.m. i grunnskolen (§ 2-14) og i vidaregåande opplæring (§3-10)</p>
-<p type="listitem">•  særskilt inntak til vidaregåande skolar (§ 3-1 sjette ledd)</p>
-<p type="listitem">•  utvida opplæringstid i vidaregåande opplæring (§ 3-1 femte ledd)</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1192</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_nynorsk-informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Pedagogisk-psykologisk teneste</p>
+<p>Pedagogisk Psykologisk teneste (PP-tenesta) er ein rådgivande og sakkunnig instans når det gjeld utvikling, læring og trivsel for barn under skolepliktig alder og elevar i grunnskolen og i vidaregåande opplæring. PP-tenesta bistår også vaksne med behov for grunnskoleopplæring. Arbeidet til PP- tenesta er heimla i opplæringslova (oppl .). PP-tenesta er ein fagleg ressurs for barnehagar/skolar for å leggje opplæringa betre til rette for barn og elevar med særskilde behov.</p>
+<p type="listitem">PP-tenesta</p>
+<p type="listitem">kan mellom anna gi barnehagar og skolar råd og rettleiing om pedagogisk leiing av gruppe- og læringsmiljø</p>
+<p type="listitem">skal bistå skolar med kompetanse- og organisasjonsutvikling</p>
+<p type="listitem">skal sørgje for at det blir utarbeidd sakkunnig vurdering der oppl . krev det, og gi barnehage og skole råd og rettleiing om tilrettelegging for barn og elevar som har behov for det</p>
+<p type="listitem">er ei lovpålagd kommunal teneste som er heimla i oppll. § 5-6; tjenesta kan organiserast på tvers av kommunar, og kommunar og fylkeskommunar kan ha felles tenester</p>
+<p type="listitem">har teieplikt: al e opplysningar som blir samla inn, skal oppbevarast i eigen journal etter retningslinjer frå Datatilsynet</p>
+<p type="listitem">er den sakkunnige instansen for kommunen/fylkeskommunen når det gjeld å vurdere rettar som er nedfelte i oppl .</p>
+<p type="listitem">Kommunar og fylkeskommunar hentar mel om anna inn råd frå PP-tenesta i desse sakene:</p>
+<p type="listitem">spesialpedagogisk hjelp før opplæringspliktig alder (§ 5-7)</p>
+<p type="listitem">spesialundervisning på skolen (§ 5-1) og for vaksne med behov for grunnskoleopplæring (§ 4a-2)</p>
+<p type="listitem">tidlegare skolestart (§ 2-1 tredje ledd)</p>
+<p type="listitem">utsett skolestart (§ 2-1 tredje ledd)</p>
+<p type="listitem">fritak frå opplæringsplikta (§ 2-1fjerde ledd)</p>
+<p type="listitem">teiknspråkopplæring før opplæringspliktig alder og i grunnskolen (§ 2-6) og i vidaregåande opplæring (§ 3-9)</p>
+<p type="listitem">punktskriftopplæring m.m. i grunnskolen (§ 2-14) og i vidaregåande opplæring (§3-10)</p>
+<p type="listitem">særskilt inntak til vidaregåande skolar (§ 3-1 sjette ledd)</p>
+<p type="listitem">utvida opplæringstid i vidaregåande opplæring (§ 3-1 femte ledd)</p>
 <p>Oppgåver</p>
-<p>PP-tenesta greier ut og gir råd og rettleiing om barn, unge og vaksne som har utfordringar som kan få konsekvensar for læring. Eksempel på utfordringar er</p>
-<p type="listitem">•  språk- og talevanskar</p>
-<p type="listitem">•  generelle lærevanskar eller fagvanskar</p>
-<p type="listitem">•  lese- og skrivevanskar</p>
-<p type="listitem">•  matematikkvanskar</p>
-<p type="listitem">•  nonverbale lærevanskar</p>
-<p type="listitem">•  konsentrasjonsvanskar</p>
-<p type="listitem">•  sosiale og emosjonelle vanskar</p>
-<p type="listitem">•  åtferdsvanskar</p>
-<p type="listitem">•  syn- og høyrselsvanskar</p>
+<p type="listitem">PP-tenesta greier ut og gir råd og rettleiing om barn, unge og vaksne som har utfordringar som kan få konsekvensar for læring. Eksempel på utfordringar er</p>
+<p type="listitem">språk- og talevanskar</p>
+<p type="listitem">generelle lærevanskar eller fagvanskar</p>
+<p type="listitem">lese- og skrivevanskar</p>
+<p type="listitem">matematikkvanskar</p>
+<p type="listitem">nonverbale lærevanskar</p>
+<p type="listitem">konsentrasjonsvanskar</p>
+<p type="listitem">sosiale og emosjonelle vanskar</p>
+<p type="listitem">åtferdsvanskar</p>
+<p type="listitem">syn- og høyrselsvanskar</p>
 <p>Kontakt</p>
 <p>Elevar over 15 år, føresette, barnehagar, skolar og eventuelt andre instansar, for eksempel helsesyster, kan kontakte og søkje råd hos PP-tenesta. Dersom det er bekymringar rundt utvikling eller læring hos eit barn, kan dette drøftast anonymt med PP-tenesta før det blir ei formell sak i form av ei tilvising.</p>
 <p>Tilvising</p>
 <p>Før ei sak blir tilvist til PP-tenesta, bør ein undersøkje om skolen har prøvd ut andre tiltak innanfor dei rammene dei rår over. Når det gjeld barn før skolepliktig alder, så skal behovet til barnet vurderast uavhengig av tilrettelegginga i barnehagen.</p>
-<p>Ei sak kan meldast til PP-tenesta for utgreiing og vurdering dersom</p>
-<p type="listitem">•  foreldra, barnehagen og/eller skolen er urolege for at eit barn ikkje utviklar seg som forventa for alderen</p>
-<p type="listitem">•  det er mistanke om at eleven ikkje får eit tilfredsstillande utbytte av opplæringa</p>
+<p type="listitem">Ei sak kan meldast til PP-tenesta for utgreiing og vurdering dersom</p>
+<p type="listitem">foreldra, barnehagen og/eller skolen er urolege for at eit barn ikkje utviklar seg som forventa for alderen</p>
+<p type="listitem">det er mistanke om at eleven ikkje får eit tilfredsstillande utbytte av opplæringa</p>
 <p>Eleven eller foreldra kan krevje at skolen gjer dei undersøkingane som er nødvendige for å finne ut om eleven treng spesialundervisning, og eventuelt kva for opplæring eleven treng.</p>
-<p>Undervisningspersonalet skal</p>
-<p type="listitem">•  vurdere om ein elev treng spesialundervisning</p>
-<p type="listitem">•  melde frå til rektor når slike behov er til stades</p>
-<p>Ei tilvising til PP-tenesta bør helst vere eit samarbeid mellom barnehagen/skolen og foreldra. Foreldra eller eleven (over 15 år) må samtykkje til ei tilvising til PP-tenesta.</p>
+<p type="listitem">Undervisningspersonalet skal</p>
+<p type="listitem">vurdere om ein elev treng spesialundervisning</p>
+<p type="listitem">melde frå til rektor når slike behov er til stades</p>
+<p>Ei tilvising til PP-tenesta bør helst vere eit samarbeid mellom barnehagen/skolen og foreldra.</p>
+<p>Foreldra eller eleven (over 15 år) må samtykkje til ei tilvising til PP-tenesta.</p>
 <p>Det er kommunen/fylkeskommunen som fastset retningslinjer og rutinar for korleis barnehagen/skolen tilviser barn/elevar til PP-tenesta. Det vanlege er å tilvise til PP-tenesta ved å fylle ut eit tilvisingsskjema. Barnehagen/skolen legg ved ein pedagogisk rapport som beskriv utviklinga til barnet/eleven, og kva for tiltak som har vore prøvde ut.</p>
 <p>For meir informasjon om tilvising kan du kontakte kommunen (for barnehagar eller grunnskolar) eller fylkeskommunen (for vidaregåande skolar).</p>
 <p>Saksbehandling</p>
-<p><em type="bold">Utgreiing </em>Når PP-tenesta får ei tilvising, er det vanleg å klargjere kva foreldra, i samarbeid med barnehagen eller skolen, ønskjer hjelp til. I dei fleste tilfella inneber det eit ønske om at PP-tenesta utarbeider ei sakkunnig vurdering med ei utgreiing og ei tilråding.  </p>
-<p>Utgreiinga kan bestå av</p>
-<p type="listitem">•  kartlegging og tiltak frå barnehagen eller skolen</p>
-<p type="listitem">•  fråsegner frå andre instansar, samtalar, observasjon og testing av barnet/eleven  For barn under skolepliktig alder vil utgreiinga knyte seg til behov barnet har. For elevar på skolen vil utgreiinga omhandle både eleven sine føresetnader for læring og skolen sine moglegheiter for å tilretteleggje innafor det ordinære opplæringstilbodet.</p>
-<p><em type="bold">Tilråding </em>På bakgrunn av utgreiinga skal PP-tenesta gi ei skriftleg tilråding i form av ei sakkunnig vurdering av dei særlege behova til barnet/eleven.  </p>
-<p>Vurderinga skal</p>
-<p type="listitem">•  vise om barnet/eleven har behov for spesialpedagogisk hjelp etter oppll. § 5-7 eller spesialundervisning etter oppll. § 5-1</p>
-<p type="listitem">•  gi råd om kva type hjelp/opplæringstilbod eleven/barnet bør få</p>
-<p>Dersom barnet har rett til spesialpedagogisk hjelp etter oppll. § 5-7, skal foreldrerådgiving vere ein del av tilbudet.</p>
-<p>For barn under opplæringspliktig alder skal ei skriftleg tilråding frå PP-tenesta innehalde</p>
-<p type="listitem">•  kva slags spesialpedagogisk hjelp som vil gi barnet ei forsvarleg utvikling</p>
-<p type="listitem">•  realistiske mål for barnet si utvikling og læring</p>
-<p>For elevar på skolen skal ei skriftleg tilråding frå PP-tenesta innehalde ei vurdering av</p>
-<p type="listitem">•  om ein kan avhjelpe dei vanskane eleven har innafor det ordinære opplæringstilbodet</p>
-<p type="listitem">•  kva for opplæring som vil gi eit forsvarleg opplæringstilbod</p>
-<p type="listitem">•  kva som er realistiske opplæringsmål for eleven</p>
+<p><em type="bold">Utgreiing </em></p>
+<p>Når PP-tenesta får ei tilvising, er det vanleg å klargjere kva foreldra, i samarbeid med barnehagen eller skolen, ønskjer hjelp til. I dei fleste tilfella inneber det eit ønske om at PP-tenesta utarbeider ei sakkunnig vurdering med ei utgreiing og ei tilråding.</p>
+<p type="listitem">Utgreiinga kan bestå av</p>
+<p type="listitem">kartlegging og tiltak frå barnehagen eller skolen</p>
+<p type="listitem">fråsegner frå andre instansar, samtalar, observasjon og testing av barnet/eleven</p>
+<p>For barn under skolepliktig alder vil utgreiinga knyte seg til behov barnet har. For elevar på skolen vil utgreiinga omhandle både eleven sine føresetnader for læring og skolen sine moglegheiter for å tilretteleggje innafor det ordinære opplæringstilbodet.</p>
+<p><em type="bold">Tilråding </em></p>
+<p>På bakgrunn av utgreiinga skal PP-tenesta gi ei skriftleg tilråding i form av ei sakkunnig vurdering av dei særlege behova til barnet/eleven.</p>
+<p type="listitem">Vurderinga skal</p>
+<p type="listitem">vise om barnet/eleven har behov for spesialpedagogisk hjelp etter oppl . § 5-7 eller spesialundervisning etter oppl . § 5-1</p>
+<p type="listitem">gi råd om kva type hjelp/opplæringstilbod eleven/barnet bør få</p>
+<p>Dersom barnet har rett til spesialpedagogisk hjelp etter oppl . § 5-7, skal foreldrerådgiving vere ein del av tilbudet.</p>
+<p type="listitem">For barn under opplæringspliktig alder skal ei skriftleg tilråding frå PP-tenesta innehalde</p>
+<p type="listitem">kva slags spesialpedagogisk hjelp som vil gi barnet ei forsvarleg utvikling</p>
+<p type="listitem">realistiske mål for barnet si utvikling og læring</p>
+<p type="listitem">For elevar på skolen skal ei skriftleg tilråding frå PP-tenesta innehalde ei vurdering av</p>
+<p type="listitem">om ein kan avhjelpe dei vanskane eleven har innafor det ordinære opplæringstilbodet</p>
+<p type="listitem">kva for opplæring som vil gi eit forsvarleg opplæringstilbod</p>
+<p type="listitem">kva som er realistiske opplæringsmål for eleven</p>
 <p>PP-tenesta skal rådføre seg med eleven og/eller foreldra i arbeidet med den sakkunnige vurderinga og leggje vekt på kva dei meiner.</p>
-<p>Når den sakkunnige vurderinga (utgreiing og tilråding) ligg føre, skal foreldra</p>
-<p type="listitem">• til barn under opplæringspliktig alder samtykkje i at kommunen/barnehageeigaren legg den</p>
-<p>sakkunnige vurderinga til grunn for å gjere eit enkeltvedtak, og samtykkje i at kommunen/barnehageeigaren set i verk tiltak som PP-tenesta har anbefalt •  til elevar i skolen eller elevar over 15 år samtykkje i at skoleeigaren/skolen legg den</p>
-<p>sakkunnige vurderinga til grunn for å gjere eit enkeltvedtak, og samtykkje i at skoleeigaren/skolen set i verk tiltak som PP-tenesta har anbefalt</p>
+<p type="listitem">Når den sakkunnige vurderinga (utgreiing og tilråding) ligg føre, skal foreldra</p>
+<p type="listitem">til barn under opplæringspliktig alder samtykkje i at kommunen/barnehageeigaren legg den sakkunnige vurderinga til grunn for å gjere eit enkeltvedtak, og samtykkje i at kommunen/barnehageeigaren set i verk tiltak som PP-tenesta har anbefalt</p>
+<p type="listitem">til elevar i skolen eller elevar over 15 år samtykkje i at skoleeigaren/skolen legg den sakkunnige vurderinga til grunn for å gjere eit enkeltvedtak, og samtykkje i at skoleeigaren/skolen set i verk tiltak som PP-tenesta har anbefalt</p>
 <p>Om Statped</p>
 <p>Ved behov kan PP-tenesta søkje om statleg spesialpedagogisk støtte hos Statped.</p>
-<p>Statped</p>
-<p type="listitem">•  medverkar til at barn, unge og vaksne med særskilde opplæringsbehov kan få gode tilbod i tråd med opplæringslova, slik at dei kan bli aktive deltakarar i utdanning, arbeid og samfunnsliv</p>
-<p type="listitem">•  utviklar kompetanse og formidlar kunnskap om spesialundervisning, og om likeverdig, tilpassa og inkluderande opplæring</p>
-<p type="listitem">•  er ein pådrivar for å utvikle dei spesialpedagogiske fagområda høyrsel, syn, språk/tale, erverva hjerneskade, samansette lærevanskar og døvblindheit</p>
-<p type="listitem">•  har kompetanse på læringsressursar for barn, unge og vaksne med særskilde opplæringsbehov</p>
-<p>For meir informasjon, sjå<em type="italic"> www.statped.no.</em> </p>
+<p type="listitem">Statped</p>
+<p type="listitem">medverkar til at barn, unge og vaksne med særskilde opplæringsbehov kan få gode tilbod i tråd med opplæringslova, slik at dei kan bli aktive deltakarar i utdanning, arbeid og samfunnsliv</p>
+<p type="listitem">utviklar kompetanse og formidlar kunnskap om spesialundervisning, og om likeverdig, tilpassa og inkluderande opplæring</p>
+<p type="listitem">er ein pådrivar for å utvikle dei spesialpedagogiske fagområda høyrsel, syn, språk/tale, erverva hjerneskade, samansette lærevanskar og døvblindheit</p>
+<p type="listitem">har kompetanse på læringsressursar for barn, unge og vaksne med særskilde opplæringsbehov</p>
+<p>For meir informasjon, sjå www.statped.no.</p>
 <p>Om Nasjonalt senter for fleirkulturell opplæring (NAFO)</p>
 <p>Det er ikkje alltid enkelt å vurdere årsaka til læringsvanskar når det gjeld minoritetsspråklege barn/elevar. Er det mangel på språkforståing som er den største utfordringa, eller ligg det føre andre årsaker som vanskeleggjer læring?</p>
-<p>NAFOs oppgåve er mellom anna å medverke til</p>
-<p type="listitem">•  at den nasjonale utdanningspolitikken blir iverksett og gjennomført slik at barn, unge og vaksne kan få ei likeverdig og tilpassa opplæring av høg kvalitet i eit inkluderande fellesskap</p>
-<p type="listitem">•  at fleirkulturelle perspektiv blir tekne vare på i barnehagen og i grunnopplæringa.</p>
-<p type="listitem">•  auka kvalitet i opplæringstilbodet til minoritetsspråklege og i arbeidet med å utvikle inkluderande, fleirkulturelle læringsfelleskap i barnehagen og i grunnopplæringa</p>
-<p>Lærarar, skoleleiarar, barnehage- og skoleeigarar og pedagogisk personale i barnehagane er dei sentrale målgruppene for verksemda. Senteret skal bistå UH-sektoren/lærerutdanningsinstitusjonane i arbeidet med satsingar på kompetanseutvikling.</p>
-<p>For meir informasjon, sjå<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
+<p type="listitem">NAFOs oppgåve er mellom anna å medverke til</p>
+<p type="listitem">at den nasjonale utdanningspolitikken blir iverksett og gjennomført slik at barn, unge og vaksne kan få ei likeverdig og tilpassa opplæring av høg kvalitet i eit inkluderande fellesskap</p>
+<p type="listitem">at fleirkulturelle perspektiv blir tekne vare på i barnehagen og i grunnopplæringa.</p>
+<p type="listitem">auka kvalitet i opplæringstilbodet til minoritetsspråklege og i arbeidet med å utvikle inkluderande, fleirkulturelle læringsfelleskap i barnehagen og i grunnopplæringa</p>
+<p>Lærarar, skoleleiarar, barnehage- og skoleeigarar og pedagogisk personale i barnehagane er dei sentrale målgruppene for verksemda. Senteret skal bistå UH-sektoren/lærerutdannings-institusjonane i arbeidet med satsingar på kompetanseutvikling.</p>
+<p>For meir informasjon, sjå http://www.hioa.no/Om-HiOA/NAFO</p>
 </body></document>
