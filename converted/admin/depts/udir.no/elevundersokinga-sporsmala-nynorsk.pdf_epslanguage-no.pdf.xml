@@ -1,332 +1,252 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4690</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/PageFiles/5977/Elevundersøkinga-spørsmåla-nynorsk.pdf?epslanguage=no</origFileName><parallel_text xml:lang="nob" location="elevundersokelsen_sporsmal2014.pdf"/><parallel_text xml:lang="sme" location="elevsporreskjema_2013_nord-samisk_obligatorisk_del_og_t1-t15_.pdf_epslanguage-no.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Elevundersøkinga – spørsmål 5.–13. trinn</p>
-<p><em type="bold">Her finn de spørsmåla frå Elevundersøkinga. Spørsmåla er reviderte hausten 2013.</em>   Ver merksam på følgjande: </p>
-<p>o Der (5–7) eller liknande er lagt inn i parentes etter spørsmålet, markerer dette alderstrinn som skal</p>
-<p>ha spørsmålet. Der det ikkje er noko tal i parentes, gjeld spørsmålet for alle trinn, det vil seie 5.13. trinn. Alternativt har vi skrive inn ein kort kommentar.</p>
-<p>o Trivsel, Motivasjon osv. er bolkar av obligatoriske spørsmål i den reviderte Elevundersøkinga. o T1 til og med T41 er bolkar av tilleggsspørsmål. For å unngå at undersøkinga blir for omfattande, har direktoratet avgrensa val av tilleggsspørsmål til totalt 9 bolkar. Ta berre med bolkar av</p>
-<p>tilleggsspørsmål de har planar om å følgje opp resultata frå.</p>
-<p>o Tilleggsbolkane T1, T16, T17, T18 og T19 består av spørsmål som inngår i indeksane i Skoleporten per i dag, og ved å ta med ein eller fleire av desse bolkane, er det mogleg å samanlikne resultata</p>
-<p>hausten 2013 med tidlegare gjennomføringar. Resultata frå desse tilleggsbolkane blir likevel ikkje publiserte i</p>
-<p>Skoleporten etter gjennomføringa hausten 2013, og resultata må eventuelt hentast ut frå rapportportalen og manuelt lastast opp i tilstandsrapporten.</p>
-<p>o Først etter gjennomføringa er avslutta, og resultata analyserte, vil vi kunne avgjere kva for nye indeksar og indikatorar som blir presenterte i Skoleporten for hausten 2013.</p>
-<p xml:lang="est">   <em type="bold">Trivsel  </em></p>
-<p>1.  Trivst du på skolen?</p>
-<p>Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile</p>
-<p>2.  Har du nokre medelevar å vere saman med i friminutta?</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4667</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/PageFiles/5977/Elevundersøkinga-spørsmåla-nynorsk.pdf?epslanguage=no</origFileName><parallel_text xml:lang="nob" location="elevundersokelsen_sporsmal2014.pdf"/><parallel_text xml:lang="sme" location="elevsporreskjema_2013_nord-samisk_obligatorisk_del_og_t1-t15_.pdf_epslanguage-no.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Elevundersøkinga – spørsmål 5.–13. trinn</p>
+<p><em type="bold">Her finn de spørsmåla frå Elevundersøkinga. Spørsmåla er reviderte hausten 2013. </em></p>
+<p>Ver merksam på følgjande: o</p>
+<p>Der (5–7) el er liknande er lagt inn i parentes etter spørsmålet, markerer dette alderstrinn som skal ha spørsmålet. Der det ikkje er noko tal i parentes, gjeld spørsmålet for al e trinn, det vil seie 5.-13. trinn. Alternativt har vi skrive inn ein kort kommentar. o</p>
+<p xml:lang="nob">Trivsel, Motivasjon osv. er bolkar av obligatoriske spørsmål i den reviderte Elevundersøkinga. o</p>
+<p>T1 til og med T41 er bolkar av til eggsspørsmål. For å unngå at undersøkinga blir for omfattande, har direktoratet avgrensa val av til eggsspørsmål til totalt 9 bolkar. Ta berre med bolkar av til eggsspørsmål de har planar om å følgje opp resultata frå. o</p>
+<p>Til eggsbolkane T1, T16, T17, T18 og T19 består av spørsmål som inngår i indeksane i Skoleporten per i dag, og ved å ta med ein el er fleire av desse bolkane, er det mogleg å samanlikne resultata hausten 2013 med tidlegare gjennomføringar. Resultata frå desse til eggsbolkane blir likevel ikkje publiserte i</p>
+<p>Skoleporten etter gjennomføringa hausten 2013, og resultata må eventuelt hentast ut frå rapportportalen og manuelt lastast opp i tilstandsrapporten. o</p>
+<p>Først etter gjennomføringa er avslutta, og resultata analyserte, vil vi kunne avgjere kva for nye indeksar og indikatorar som blir presenterte i Skoleporten for hausten 2013.</p>
+<p><em type="bold">Trivsel </em>1. Trivst du på skolen? </p>
+<p>Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile 2. Har du nokre medelevar å vere saman med i friminutta?</p>
 <p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p xml:lang="est"><em type="bold">T1 – Trivsel  </em></p>
-<p type="listitem">• Trivst du saman med elevane i gruppa di/klassen din? Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile</p>
-<p type="listitem">• Trivst du i friminutta/fritimane? Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile</p>
-<p type="listitem">• Hender det at du føler deg einsam på skolen? Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p xml:lang="fin"><em type="bold">Motivasjon </em></p>
-<p xml:lang="nob">3.  Er du interessert i å lære på skolen?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>4.  Kor godt liker du skolearbeidet?</p>
-<p>Svaralternativ: Svært godt – Godt – Nokså godt – Ikkje særleg godt – Ikkje i det heile</p>
-<p>5.  Eg gleder meg til å gå på skolen</p>
+<p type="listitem" xml:lang="est">T1 – Trivsel</p>
+<p>Trivst du saman med elevane i gruppa di/klassen din?</p>
+<p type="listitem">Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile</p>
+<p>Trivst du i friminutta/fritimane?</p>
+<p type="listitem">Svaralternativ: Trivst svært godt – Trivst godt – Trivst litt – Trivst ikkje noko særleg – Trivst ikkje i det heile</p>
+<p>Hender det at du føler deg einsam på skolen?</p>
+<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
+<p xml:lang="nob"><em type="bold">Motivasjon </em>3. Er du interessert i å lære på skolen? </p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 4. Kor godt liker du skolearbeidet?</p>
+<p>Svaralternativ: Svært godt – Godt – Nokså godt – Ikkje særleg godt – Ikkje i det heile 5. Eg gleder meg til å gå på skolen</p>
+<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig – Litt ueinig – Heilt ueinig 6. Prioriterer du å bruke tid på skolearbeidet (både arbeid i timane og lekser)?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 7. Når eg arbeider med skolefag, fortset eg å jobbe sjølv om det eg skal lære er vanskeleg.</p>
 <p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig – Litt ueinig – Heilt ueinig</p>
-<p>6.  Prioriterer du å bruke tid på skolearbeidet (både arbeid i timane og lekser)?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>7.  Når eg arbeider med skolefag, fortset eg å jobbe sjølv om det eg skal lære er vanskeleg.</p>
-<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig – Litt ueinig – Heilt ueinig</p>
-<p xml:lang="nob"><em type="bold">Heim – skole </em></p>
-<p>8.  Heime viser dei interesse for det eg gjer på skolen</p>
-<p>Svaralternativ: Svært ofte eller alltid – Ofte – Av og til – Sjeldan – Aldri</p>
-<p>9. Eg får god hjelp til leksene mine heime</p>
+<p><em type="bold">Heim – skole </em>8. Heime viser dei interesse for det eg gjer på skolen </p>
+<p>Svaralternativ: Svært ofte eller alltid – Ofte – Av og til – Sjeldan – Aldri 9.</p>
+<p>Eg får god hjelp til leksene mine heime</p>
+<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri 10. Heime oppmuntrar dei vaksne meg i skolearbeidet</p>
+<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri 11. Heime forventar dei at eg gjer så godt eg kan på skolen</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
+<p><em type="bold">Støtte frå lærarane </em>12. Opplever du at lærarane dine bryr seg om deg? </p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 13. Opplever du at lærarane dine har tru på at du kan gjere det bra på skolen?</p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 14. Opplever du at lærarane behandlar deg med respekt?</p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 15. Når eg har problem med å forstå arbeidsoppgåver på skolen, får eg god hjelp av lærarane</p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 16. Eg ber læraren om hjelp viss det er noko eg ikkje får til</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 17. Lærarane hjelper meg slik at eg forstår det eg skal lære</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
+<p><em type="bold">Arbeidsforhold og læring </em>18. Det er god arbeidsro i timane. </p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 19. I klassen min synest vi det er viktig å jobbe godt med skolearbeidet</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig– Litt einig – Heilt einig 20. Lærarane mine synest det er greitt at vi elevar gjer feil fordi vi kan lære av det.</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 21. Får du nok utfordringar på skolen?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 22. Får du lekser som du greier å gjere på eiga hand?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag – Har ikkje lekser 23. Tenk på når du får arbeidsoppgåver på skolen som du skal gjere på eiga hand. Kor ofte klarer du oppgåvene åleine?</p>
+<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri 24. Tenk på når læraren går gjennom og forklarer nytt stoff på skolen. Kor ofte forstår du det som læraren gjennomgår og forklarer?</p>
 <p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p>10.  Heime oppmuntrar dei vaksne meg i skolearbeidet</p>
-<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p>11.  Heime forventar dei at eg gjer så godt eg kan på skolen</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p><em type="bold">Støtte frå lærarane  </em></p>
-<p>12.  Opplever du  at lærarane dine bryr seg om deg?</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>13.  Opplever du at lærarane dine har tru på at du kan gjere det bra på skolen?</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>14.  Opplever  du at lærarane behandlar deg med respekt?</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>15.  Når eg har problem med å forstå arbeidsoppgåver på skolen, får eg god hjelp av lærarane</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>16.  Eg ber læraren om hjelp viss det er noko eg ikkje får til</p>
-<p>Svaralternativ:  Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>17.  Lærarane hjelper meg slik at eg forstår det eg skal lære</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p xml:lang="dan"><em type="bold">Arbeidsforhold og læring </em></p>
-<p>18.  Det er god arbeidsro i timane.</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>19.  I klassen min synest vi det er viktig å jobbe godt med skolearbeidet</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig– Litt einig – Heilt einig</p>
-<p>20.  Lærarane mine synest det er greitt at vi elevar gjer feil fordi vi  kan lære av det.</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>21.  Får du nok utfordringar på skolen?</p>
+<p><em type="bold">Arbeidsforhold og læring (2) </em>25. Eg synest det vi lærer på skolen er viktig (8 – 13) </p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 26. Det meste eg lærer på skolen, vil eg få nytte av seinare i livet (8 – 13)</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 27. Same kva for jobb eg får, vil det eg lærer på skolen vere nyttig (8 – 13)</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 28. Lærarane forklarer tema og oppgåver slik at eg forstår kvifor vi jobbar med dei (8 – 13)</p>
+<p>Svaralternativ: Alltid – Ofte – Nokre gonger – Sjeldan – Aldri 29. Eg synest at vi jobbar med det vi skal lære på forskjellige måtar (8 – 13)</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 30. Lærarane legg til rette for at eg kan bruke praktiske arbeidsmåtar ( f.eks. å lage modellar, bruke måleinstrument, rollespel, spel og liknande) (8 – 13)</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>22.  Får du lekser som du greier å gjere på eiga hand?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag – Har ikkje lekser</p>
-<p>23.  Tenk på når du får arbeidsoppgåver på skolen som du skal gjere på eiga hand. Kor ofte klarer du oppgåvene åleine?</p>
-<p>Svaralternativ:  Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p>24.  Tenk på når læraren går gjennom og forklarer nytt stoff på skolen. Kor ofte forstår du det som læraren gjennomgår og forklarer?</p>
-<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p xml:lang="dan"><em type="bold">Arbeidsforhold og læring (2) </em></p>
-<p>25.   Eg synest det vi lærer på skolen er viktig (8 – 13)</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>26.  Det meste eg lærer på skolen, vil eg få nytte av seinare i livet (8 – 13)</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>27.  Same kva for jobb eg får, vil det eg lærer på skolen vere nyttig (8 – 13)</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>28.    Lærarane forklarer tema og oppgåver slik at eg forstår kvifor vi jobbar med dei (8 – 13)</p>
-<p>Svaralternativ: Alltid – Ofte – Nokre gonger – Sjeldan – Aldri</p>
-<p>29.  Eg synest at vi jobbar med det vi skal lære på forskjellige måtar (8 – 13)</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>30.     Lærarane legg til rette for at eg kan bruke praktiske arbeidsmåtar ( f.eks. å lage modellar, bruke måleinstrument, rollespel,  spel og liknande) (8 – 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob"><em type="bold">T2 - Arbeidsforhold og læring </em></p>
-<p type="listitem">• Kor ofte bruker du PC/data/Internett i skolearbeidet? Svaralternativ: Kvar time – Kvar dag – Fleire gonger i veka – 1-3 gonger i månaden – Sjeldnare</p>
-<p type="listitem">• Kor ofte bruker de følgjande arbeidsformer? Svaralternativ: Kvar time – Kvar dag – Fleire gonger i veka – 1-3 gonger i månaden – Sjeldnare</p>
-<p>o Læraren underviser klassen samla</p>
-<p>o Samtale/diskusjon mellom lærarar og elevar</p>
-<p>o Elevane jobbar åleine</p>
-<p>o To og to elevar jobbar saman</p>
-<p>o Gruppearbeid (ikkje prosjektarbeid)</p>
-<p>o Prosjektarbeid</p>
-<p xml:lang="dan"><em type="bold">Vurdering for læring </em></p>
-<p>31.  Forklarer lærarane kva som er måla i dei ulike faga slik at du forstår dei?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>32.  Forklarer læraren godt nok kva det blir lagt vekt på når skolearbeidet ditt blir vurdert.</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>33.  Har læraren snakka om kva som krevst for å oppnå dei ulike standpunktkarakterane?  (8 - 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>34.  Fortel lærarane deg kva som er bra med arbeidet du gjer?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>35.  Snakkar lærarane med deg om kva du bør gjere for å  bli betre i faga?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>36.  Kor ofte får du tilbakemeldingar frå lærarane som du kan bruke til å bli betre i faga?</p>
+<p type="listitem" xml:lang="nob">T2 - Arbeidsforhold og læring</p>
+<p>Kor ofte bruker du PC/data/Internett i skolearbeidet?</p>
+<p type="listitem">Svaralternativ: Kvar time – Kvar dag – Fleire gonger i veka – 1-3 gonger i månaden – Sjeldnare</p>
+<p>Kor ofte bruker de følgjande arbeidsformer?</p>
+<p>Svaralternativ: Kvar time – Kvar dag – Fleire gonger i veka – 1-3 gonger i månaden – Sjeldnare o</p>
+<p>Læraren underviser klassen samla o</p>
+<p>Samtale/diskusjon mellom lærarar og elevar o</p>
+<p>Elevane jobbar åleine o</p>
+<p>To og to elevar jobbar saman o</p>
+<p>Gruppearbeid (ikkje prosjektarbeid) o</p>
+<p xml:lang="est">Prosjektarbeid</p>
+<p><em type="bold">Vurdering for læring </em>31. Forklarer lærarane kva som er måla i dei ulike faga slik at du forstår dei? </p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 32. Forklarer læraren godt nok kva det blir lagt vekt på når skolearbeidet ditt blir vurdert.</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 33. Har læraren snakka om kva som krevst for å oppnå dei ulike standpunktkarakterane? (8 - 13)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 34. Fortel lærarane deg kva som er bra med arbeidet du gjer?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 35. Snakkar lærarane med deg om kva du bør gjere for å bli betre i faga?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 36. Kor ofte får du tilbakemeldingar frå lærarane som du kan bruke til å bli betre i faga?</p>
 <p>Svaralternativ: Fleire gonger i veka – 1 gong i veka – 1-3 gonger i månaden – 2-4 gonger i halvåret – Sjeldnare</p>
-<p xml:lang="dan"><em type="bold">Vurdering for læring (2)  </em></p>
-<p>37.  Får du vere med og foreslå kva det skal leggjast vekt på når arbeidet ditt skal vurderast?</p>
+<p><em type="bold">Vurdering for læring (2) </em>37. Får du vere med og foreslå kva det skal leggjast vekt på når arbeidet ditt skal vurderast? </p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 38. Får du vere med og vurdere skolearbeidet ditt?</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 39. Eg får hjelp av lærarane til å tenkje gjennom korleis eg utviklar meg i faget</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>38.  Får du vere med og vurdere skolearbeidet ditt?</p>
+<p><em type="bold">Medverknad </em>40. Er de elevar med på å foreslå korleis de skal arbeide med faga? </p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag 41. Legg lærarane til rette for at de elevar kan delta i elevrådsarbeid og anna arbeid som tillitsvald?</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad - Ikkje i det heile 42. Høyrer skolen på forslaga til elevane?</p>
+<p>Svaralternativ: Svært ofte eller alltid – Ofte – Av og til – Sjeldan - Aldri 43. Er de elevar med på å lage reglar for korleis de skal ha det i klassen/gruppa?</p>
+<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri</p>
+<p type="listitem" xml:lang="nob">T3 - Medverknad</p>
+<p>I kor mange fag får du vere med på å velje arbeidsmåtar i faga?</p>
+<p type="listitem">Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
+<p>Oppmuntrar lærarane til at elevane kan vere med på å bestemme korleis de skal arbeide med faga?</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>39.  Eg får hjelp av lærarane til å tenkje gjennom korleis eg utviklar meg i faget</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="vep"><em type="bold">Medverknad  </em></p>
-<p>40.  Er de elevar med på å foreslå korleis de skal arbeide med faga?</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>41.  Legg lærarane til rette for at de elevar kan delta i elevrådsarbeid og anna arbeid som tillitsvald?</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad - Ikkje i det heile</p>
-<p>42.  Høyrer skolen på forslaga til elevane?</p>
-<p>Svaralternativ: Svært ofte eller alltid – Ofte – Av og til – Sjeldan - Aldri</p>
-<p>43.  Er de elevar med på å lage reglar for korleis de skal ha det i klassen/gruppa?</p>
+<p><em type="bold">Reglar på skolen </em>44. Veit du kva for reglar som gjeld for korleis de skal ha det på skolen? </p>
+<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri 45. Dei vaksne sørgjer for at vi følgjer reglane for korleis vi skal ha det på skolen</p>
+<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri 46. Dei vaksne på denne skolen reagerer på same måten viss elevane bryt reglane.</p>
 <p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri</p>
-<p xml:lang="nob"><em type="bold">T3 - Medverknad </em></p>
-<p type="listitem">• I kor mange fag får du vere med på å velje arbeidsmåtar i faga? Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p type="listitem">• Oppmuntrar lærarane til at elevane kan vere med på å bestemme korleis de skal arbeide med faga?  Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p><em type="bold">Reglar på skolen </em> </p>
-<p>44.  Veit du kva for reglar som gjeld for korleis de skal ha det på skolen?</p>
-<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri</p>
-<p>45.  Dei vaksne sørgjer for at vi følgjer reglane for korleis vi skal ha det på skolen</p>
-<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri</p>
-<p>46.  Dei vaksne på denne skolen reagerer på same måten viss elevane bryt reglane.</p>
-<p>Svaralternativ: Alltid – Ofte – Nokre gonger - Sjeldan – Aldri</p>
-<p xml:lang="nob"><em type="bold">T4 – Reglar på skolen </em></p>
-<p type="listitem">• Kjem lærarane presis til timane/arbeidsøktene? Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
-<p xml:lang="dan"><em type="bold">Trygt miljø  </em></p>
-<p>47.  Dei vaksne på skolen har klare forventningar om korleis vi elevar skal oppføre oss mot kvarandre.  (8 – 13)</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>47b Dei vaksne på skolen synest det er viktig at vi elevar er greie med kvarandre. (5 – 7)</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>48.  Reagerer dei vaksne på skolen når nokon seier eller gjer noko ubehageleg/ekkelt mot ein elev?</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>49.  I klassen gjer vi ikkje narr av kvarandre viss nokon gjer feil.</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>50.  Viss det er noko som plagar meg, så kan eg snakke med nokon i klassen min</p>
-<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig</p>
-<p>51.  Er du fornøgd med skolehelsetenesta på skolen?</p>
+<p type="listitem" xml:lang="nob">T4 – Reglar på skolen</p>
+<p>Kjem lærarane presis til timane/arbeidsøktene?</p>
+<p>Svaralternativ: Alltid – Ofte - Nokre gonger – Sjeldan – Aldri</p>
+<p><em type="bold">Trygt miljø </em>47. Dei vaksne på skolen har klare forventningar om korleis vi elevar skal oppføre oss mot kvarandre. (8 – 13) </p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 47b Dei vaksne på skolen synest det er viktig at vi elevar er greie med kvarandre. (5 – 7)</p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 48. Reagerer dei vaksne på skolen når nokon seier eller gjer noko ubehageleg/ekkelt mot ein elev?</p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 49. I klassen gjer vi ikkje narr av kvarandre viss nokon gjer feil.</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 50. Viss det er noko som plagar meg, så kan eg snakke med nokon i klassen min</p>
+<p>Svaralternativ: Heilt ueinig – Litt ueinig – Verken einig eller ueinig – Litt einig – Heilt einig 51. Er du fornøgd med skolehelsetenesta på skolen?</p>
 <p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p xml:lang="dan"><em type="bold">Trygt miljø (2) </em></p>
-<p>52.  Finst det lærarar eller andre vaksne på skolen som du kan prate med viss du har behov for det?</p>
-<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen</p>
-<p>53.  Har du hatt kontakt med nokre vaksne på skolen for å få hjelp med personlege og/eller sosiale problem? (8-13)</p>
+<p><em type="bold">Trygt miljø (2) </em>52. Finst det lærarar eller andre vaksne på skolen som du kan prate med viss du har behov for det? </p>
+<p>Svaralternativ: Alle – Dei fleste – Nokre få – Berre ein – Ingen 53. Har du hatt kontakt med nokre vaksne på skolen for å få hjelp med personlege og/eller sosiale problem? (8-13)</p>
 <p>Svaralternativ: Ja – Nei- Har ikkje hatt behov for kontakt.</p>
-<p>Viss <span type="quote" xml:lang="smj">«ja»</span>, oppfølgingsspørsmål:</p>
-<p>a. Var dette til hjelp for deg?</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad - Ikkje i det heile</p>
-<p>53.b Har du hatt kontakt med nokre vaksne på skolen for å få hjelp med vanskelege ting i livet ditt (både problem på og utanfor skolen)? (5-7)</p>
+<p>Viss <span type="quote" xml:lang="smj">«ja»</span>, oppfølgingsspørsmål: a.</p>
+<p>Var dette til hjelp for deg?</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad - Ikkje i det heile 53.b Har du hatt kontakt med nokre vaksne på skolen for å få hjelp med vanskelege ting i livet ditt (både problem på og utanfor skolen)? (5-7)</p>
 <p>Svaralternativ: Ja – Nei- Har ikkje hatt behov for kontakt.</p>
-<p>Viss <span type="quote" xml:lang="smj">«ja»</span>, oppfølgingsspørsmål:</p>
-<p>b. Var dette til hjelp for deg?</p>
+<p>Viss <span type="quote" xml:lang="smj">«ja»</span>, oppfølgingsspørsmål: b.</p>
+<p>Var dette til hjelp for deg?</p>
 <p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad - Ikkje i det heile</p>
-<p><em type="bold">T5 - Trygt miljø (2)</em>   (Her kan du setje fleire kryss):  </p>
-<p type="listitem">• Viss du har hatt kontakt med ein/fleire vaksne på skolen, var dette: Svaralternativ: Helsesyster / Lærar / Rådgivar / Andre</p>
-<p xml:lang="dan"><em type="bold">Trygt miljø (3) </em></p>
-<p>54.  Kor ofte har dette hendt med deg på skolen i dette skoleåret?</p>
+<p type="listitem">T5 - Trygt miljø (2) (Her kan du setje fleire kryss):</p>
+<p>Viss du har hatt kontakt med ein/fleire vaksne på skolen, var dette:</p>
+<p>Svaralternativ: Helsesyster / Lærar / Rådgivar / Andre</p>
+<p><em type="bold">Trygt miljø (3) </em>54. Kor ofte har dette hendt med deg på skolen i dette skoleåret? </p>
 <p>Nokre gjorde narr av eller erta meg, slik at eg vart lei meg</p>
-<p xml:lang="nob">Svaralternativ: Ikke i det hele tatt – En sjelden gang – 2 eller 3 ganger i månaden – Omtrent 1 gang i uken</p>
-<p type="listitem">– Fleire gonger i veka</p>
-<p><em type="italic">(viss eleven svarer </em>2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka<em type="italic">, oppfølgingsspørsmål)</em> </p>
+<p>Svaralternativ: Ikke i det hele tatt – En sjelden gang – 2 eller 3 ganger i månaden – Omtrent 1 gang i uken – Fleire gonger i veka <em type="italic">(viss eleven svarer </em>2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka <em type="italic">, </em><em type="italic">oppfølgingsspørsmål) </em></p>
 <p>Eg vart halden utanfor</p>
 <p>Nokre spreidde løgner om meg</p>
 <p>Nokre trua meg</p>
 <p>Nokre slo, dytta, sparka eller heldt meg fast så eg vart redd</p>
-<p>Nokre kommenterte utsjånaden min negativt på ein måte eg ikkje likte.</p>
-<p>(<em type="bold">oppfølginsspørsmål for alle spørsmåla over</em>) </p>
-<p type="listitem">• Kven gjorde det?</p>
-<p type="listitem">• Nokre elevar i klassen</p>
-<p type="listitem">• Andre elevar på skolen</p>
-<p type="listitem">• Nokre som ikkje gjekk på skolen</p>
-<p type="listitem">• Nokre vaksne på skolen</p>
-<p type="listitem" xml:lang="nob">• Andre</p>
-<p type="listitem">• Veit ikkje</p>
-<p type="listitem">• Kor skjedde/skjer det?  (dynamiske kategoriar)</p>
-<p type="listitem">• I klasserommet</p>
-<p type="listitem" xml:lang="nob">• På gangen</p>
-<p type="listitem" xml:lang="nob">• På do</p>
-<p type="listitem">• I garderobane/ dusjen</p>
-<p type="listitem" xml:lang="nob">• Ute</p>
-<p type="listitem">• På Internett/ mobilen</p>
-<p type="listitem">• Andre stader</p>
-<p type="listitem">• Gjorde skolen noko som hjelpte deg?</p>
-<p type="listitem">• Nei, ingen vaksne på skolen veit kva som har skjedd med meg.</p>
-<p type="listitem">• Nei, skolen har ikkje gjort noko som hjelper meg.</p>
-<p type="listitem">• Er litt usikkjer</p>
-<p type="listitem">• Ja, dei gjorde litt</p>
-<p type="listitem">• Ja, dei gjorde mykje</p>
-<p xml:lang="nob"><em type="bold">T6 – Trygt miljø (3) </em></p>
-<p type="listitem">• Fekk skolen greie på kva som hendte/hender deg? Svaralternativ: Fekk greie på alt - Fekk greie på det meste - Fekk greie på noko - Fekk greie på nesten ingenting - Fekk ikkje greie på noko</p>
-<p type="listitem">• Har du fortalt det til nokon? Svaralternativ: Fortalt alt - Fortalt det meste - Fortalt noko - Fortalt nesten ingenting - Fortalt ingenting</p>
+<p type="listitem">Nokre kommenterte utsjånaden min negativt på ein måte eg ikkje likte. (oppfølginsspørsmål for alle spørsmåla over)</p>
+<p type="listitem">Kven gjorde det?</p>
+<p type="listitem">Nokre elevar i klassen</p>
+<p type="listitem">Andre elevar på skolen</p>
+<p type="listitem">Nokre som ikkje gjekk på skolen</p>
+<p type="listitem">Nokre vaksne på skolen</p>
+<p type="listitem" xml:lang="nob">Andre</p>
+<p type="listitem">Veit ikkje</p>
+<p type="listitem">Kor skjedde/skjer det?  (dynamiske kategoriar)</p>
+<p type="listitem">I klasserommet</p>
+<p type="listitem" xml:lang="nob">På gangen</p>
+<p type="listitem" xml:lang="pol">På do</p>
+<p type="listitem">I garderobane/ dusjen</p>
+<p type="listitem" xml:lang="kmr">Ute</p>
+<p type="listitem">På Internett/ mobilen</p>
+<p type="listitem">Andre stader</p>
+<p type="listitem">Gjorde skolen noko som hjelpte deg?</p>
+<p type="listitem">Nei, ingen vaksne på skolen veit kva som har skjedd med meg.</p>
+<p type="listitem">Nei, skolen har ikkje gjort noko som hjelper meg.</p>
+<p type="listitem">Er litt usikkjer</p>
+<p type="listitem">Ja, dei gjorde litt</p>
+<p>Ja, dei gjorde mykje</p>
+<p type="listitem" xml:lang="nob">T6 – Trygt miljø (3)</p>
+<p>Fekk skolen greie på kva som hendte/hender deg?</p>
+<p type="listitem">Svaralternativ: Fekk greie på alt - Fekk greie på det meste - Fekk greie på noko - Fekk greie på nesten ingenting - Fekk  ikkje greie på noko</p>
+<p>Har du fortalt det til nokon?</p>
+<p>Svaralternativ: Fortalt alt - Fortalt det meste - Fortalt noko - Fortalt nesten ingenting - Fortalt ingenting</p>
 <p xml:lang="dan"><em type="bold">Trygt miljø (4) </em></p>
-<p>Med mobbing meiner vi gjenteken negativ eller <span type="quote" xml:lang="isl">«vondsinna»</span> åtferd frå ein eller fleire retta mot ein elev som har vanskeleg for å forsvare seg. Gjenteken erting på ein ubehageleg og sårande måte er også mobbing.</p>
-<p>55.  Har du vorte mobba på skolen dei siste månadene?</p>
+<p>Med mobbing meiner vi gjenteken negativ eller <span type="quote" xml:lang="isl">«vondsinna»</span> åtferd frå ein eller fleire retta mot ein elev som har vanskeleg for å forsvare seg. Gjenteken erting på ein ubehageleg og sårande måte er også mobbing. 55. Har du vorte mobba på skolen dei siste månadene?</p>
+<p>Svaralternativ: Ikkje i det heile – Ein sjeldan gong – 2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka 56. Har du vorte mobba av … elevar i gruppa/klassen? andre elevar på skolen? ein eller fleire lærarar? andre vaksne på skolen?</p>
 <p>Svaralternativ: Ikkje i det heile – Ein sjeldan gong – 2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka</p>
-<p>56.  Har du vorte mobba av …</p>
-<p>elevar i gruppa/klassen?</p>
-<p>andre elevar på skolen?</p>
-<p>ein eller fleire lærarar?</p>
-<p>andre vaksne på skolen?</p>
-<p>Svaralternativ: Ikkje i det heile – Ein sjeldan gong – 2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka</p>
-<p xml:lang="nob"><em type="bold">Utdannings- og yrkesrådgiving   </em></p>
-<p>57a. Eg har fått eit godt grunnlag for vidare val av utdanning og yrke, så langt på ungdomsskolen. (Trinn 9 – 10)</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p>57b. Eg har fått eit godt grunnlag for vidare val av utdanning og yrke, så langt  i vidaregåande opplæring (Trinn 12 – 13)</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p>57c. Kor fornøgd er du med den rådgivinga du fekk om val av utdanning og yrke på ungdomsskolen? (Trinn 11)</p>
+<p><em type="bold">Utdannings- og yrkesrådgiving </em>57a. Eg har fått eit godt grunnlag for vidare val av utdanning og yrke, så langt på ungdomsskolen. (Trinn 9 – 10) </p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile 57b. Eg har fått eit godt grunnlag for vidare val av utdanning og yrke, så langt i vidaregåande opplæring (Trinn 12 – 13)</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile 57c. Kor fornøgd er du med den rådgivinga du fekk om val av utdanning og yrke på ungdomsskolen? (Trinn 11)</p>
 <p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p><em type="bold">T7 (1) – Utdannings- og yrkesrådgiving  </em><em type="italic">Kommentar: 9.  – 10. trinn </em></p>
+<p><em type="bold">T7 (1) – Utdannings- og yrkesrådgiving Kommentar: 9. – 10. trinn </em></p>
 <p>Nedanfor er det nokre påstandar om den utdannings- og yrkesrådgivinga du har hatt så langt på ungdomsskolen. Kryss av for det som passar best for deg.</p>
-<p>Så langt på ungdomsskolen har eg :</p>
-<p>- fått kunnskap om ulike utdanningar</p>
+<p>Så langt på ungdomsskolen har eg : - fått kunnskap om ulike utdanningar</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - fått kunnskap om arbeidslivet</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - fått hjelp til å tenkje på kva eg vil jobbe med</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - fått hjelp til å tenkje på kva slags utdanning eg vil ta</p>
+<p>Svaralternativ: I svært stor grad – i stor grad – I nokon grad – I liten grad – Ikkje i det heile - vorte utfordra til å tenkje over kva som er typiske utdannings- og yrkesval for kvinner og menn</p>
 <p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- fått kunnskap om arbeidslivet</p>
+<p><em type="bold">T7 (2) - Utdannings- og yrkesrådgiving Kommentar: 11. trinn </em></p>
+<p>På ungdomsskolen skulle eg gjerne fått meir … - kunnskap om vidaregåande opplæring</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - kunnskap om vidare utdanning, ut over vidaregåande</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - kunnskap om ulike yrke</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - individuell rettleiing</p>
 <p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- fått hjelp til å tenkje på kva eg vil jobbe med</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- fått hjelp til å tenkje på kva slags utdanning eg vil ta</p>
-<p>Svaralternativ: I svært stor grad – i stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- vorte utfordra til å tenkje over kva som er typiske utdannings- og yrkesval for kvinner og menn</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p><em type="bold">T7 (2) - Utdannings- og yrkesrådgiving  </em><em type="italic">Kommentar: 11. trinn </em></p>
-<p>På ungdomsskolen skulle eg gjerne fått meir …</p>
-<p>- kunnskap om vidaregåande opplæring</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- kunnskap om vidare utdanning, ut over vidaregåande</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- kunnskap om ulike yrke</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- individuell rettleiing</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p><em type="bold">T7 (3) - Utdannings- og yrkesrådgiving  </em><em type="italic">Kommentar: 12. – 13. trinn </em></p>
+<p><em type="bold">T7 (3) - Utdannings- og yrkesrådgiving Kommentar: 12. – 13. trinn </em></p>
 <p>Nedanfor er det nokre påstandar om den utdannings- og yrkesrådgivinga du har hatt så langt i vidaregåande opplæring. Kryss av for det som passar best for deg.</p>
-<p>Så langt i vidaregåande opplæring har eg</p>
-<p>- fått kunnskap om ulike utdanningsmoglegheiter</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p>- fått kunnskap om ulike yrke og moglegheiter i yrkeslivet</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p>- vorte meir bevisst om kva eg sjølv vil vidare når det gjeld utdanning og yrke</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p>- vorte utfordra til å tenkje over kva som er typiske utdannings- og yrkesval for kvinner og menn</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad –  Ikkje i det heile</p>
-<p><em type="bold">T8 (1) - Rettleiing </em></p>
-<p><em type="italic">Kommentar: 9. - 10. trinn </em></p>
-<p>- Har du hatt individuell rettleiingssamtale med rådgivar på ungdomsskolen?</p>
-<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri</p>
-<p>- Kor fornøgd var du med rettleiinga?</p>
+<p>Så langt i vidaregåande opplæring har eg - fått kunnskap om ulike utdanningsmoglegheiter</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - fått kunnskap om ulike yrke og moglegheiter i yrkeslivet</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - vorte meir bevisst om kva eg sjølv vil vidare når det gjeld utdanning og yrke</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile - vorte utfordra til å tenkje over kva som er typiske utdannings- og yrkesval for kvinner og menn</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
+<p><em type="bold">T8 (1) - Rettleiing Kommentar: 9. - 10. trinn </em>- </p>
+<p>Har du hatt individuell rettleiingssamtale med rådgivar på ungdomsskolen?</p>
+<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri -</p>
+<p>Kor fornøgd var du med rettleiinga?</p>
+<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd -</p>
+<p>Har du hatt rettleiing i gruppe om vidare utdanning og yrkesval, på ungdomsskolen?</p>
+<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri -</p>
+<p>Kor fornøgd var du med denne rettleiinga?</p>
 <p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p>- Har du hatt rettleiing i gruppe om vidare utdanning og yrkesval, på ungdomsskolen?</p>
-<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri</p>
-<p>- Kor fornøgd var du med denne rettleiinga?</p>
-<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p><em type="bold">T8 (2) – Rettleiing </em><em type="italic">Kommentar: 12. - 13. trinn </em></p>
-<p>- Har du hatt individuell rettleiingssamtale med rådgivar i vidaregåande opplæring?</p>
-<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri</p>
-<p>- Kor fornøgd var du med rettleiinga?</p>
-<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p>- Har du hatt rettleiing i gruppe om vidare utdanning og yrkesval i vidaregåande opplæring?</p>
-<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri</p>
-<p>- Kor fornøgd var du med denne rettleiinga?</p>
+<p><em type="bold">T8 (2) – Rettleiing Kommentar: 12. - 13. trinn </em>- </p>
+<p>Har du hatt individuell rettleiingssamtale med rådgivar i vidaregåande opplæring?</p>
+<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri -</p>
+<p>Kor fornøgd var du med rettleiinga?</p>
+<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd -</p>
+<p>Har du hatt rettleiing i gruppe om vidare utdanning og yrkesval i vidaregåande opplæring?</p>
+<p>Svaralternativ: Ja, meir enn 3 gonger – Ja, 3 gonger - Ja, 2 gonger – Ja, 1 gong – Nei, aldri -</p>
+<p>Kor fornøgd var du med denne rettleiinga?</p>
 <p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
 <p xml:lang="isl"><em type="bold">T9 – Utdanningsval </em></p>
-<p><em type="bold">Kommentar: 9. – 10. trinn </em></p>
-<p>- I kva grad har faget utdanningsval gitt deg oversikt over utdanningsmoglegheitene som finst i vidaregåande opplæring?</p>
+<p><em type="bold">Kommentar: 9. – 10. trinn </em>- </p>
+<p>I kva grad har faget utdanningsval gitt deg oversikt over utdanningsmoglegheitene som finst i vidaregåande opplæring?</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile -</p>
+<p>I kva grad hjelpte faget utdanningsval deg til å velje riktig utdanningsprogram i vidaregåande opplæring?</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile -</p>
+<p>Kor fornøgd er du med rettleiinga du har fått om dine vidare utdannings- og yrkesplanar?</p>
+<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd -</p>
+<p>I kva grad fekk du i faget utdanningsval kjennskap til innhaldet i vidaregåande opplæring og arbeidsliv?</p>
 <p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- I kva grad hjelpte faget utdanningsval deg til å velje riktig utdanningsprogram i vidaregåande opplæring?</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- Kor fornøgd er du med rettleiinga du har fått om dine vidare utdannings- og yrkesplanar?</p>
-<p>Svaralternativ: Svært fornøgd – Fornøgd – Ganske fornøgd – Litt fornøgd – Ikkje særleg fornøgd</p>
-<p>- I kva grad fekk du i faget utdanningsval kjennskap til innhaldet i vidaregåande opplæring og arbeidsliv?</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p xml:lang="nob"><em type="bold">T10 – Fysisk læringsmiljø </em></p>
-<p>- På skolen min er det reint og ryddig</p>
+<p xml:lang="nob"><em type="bold">T10 – Fysisk læringsmiljø </em>- </p>
+<p>På skolen min er det reint og ryddig</p>
+<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig - Litt ueinig – Heilt ueinig -</p>
+<p>Vi elevar er flinke til å halde det ryddig på skolen.</p>
+<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig - Litt ueinig – Heilt ueinig -</p>
+<p>Viss noko går sund på skolen, blir det reparert med ein gong</p>
 <p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig - Litt ueinig – Heilt ueinig</p>
-<p>- Vi elevar er flinke til å halde det ryddig på skolen.</p>
-<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig - Litt ueinig – Heilt ueinig</p>
-<p>- Viss noko går sund på skolen, blir det reparert med ein gong</p>
-<p>Svaralternativ: Heilt einig – Litt einig – Verken einig eller ueinig - Litt ueinig – Heilt ueinig</p>
-<p xml:lang="nob"><em type="bold">T11 – Rekning </em></p>
-<p>- På skolen bruker vi rekning i fleire fag enn i matematikk (5. – 13)</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- Eg bruker rekning for å forstå informasjon i dei fleste fag (8. – 13)</p>
-<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile</p>
-<p>- Eg bruker rekning for å undersøkje ting eg lurer på (5.- 13)</p>
+<p xml:lang="nob"><em type="bold">T11 – Rekning </em>- </p>
+<p>På skolen bruker vi rekning i fleire fag enn i matematikk (5. – 13)</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile -</p>
+<p>Eg bruker rekning for å forstå informasjon i dei fleste fag (8. – 13)</p>
+<p>Svaralternativ: I svært stor grad – I stor grad – I nokon grad – I liten grad – Ikkje i det heile -</p>
+<p>Eg bruker rekning for å undersøkje ting eg lurer på (5.- 13)</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob"><em type="bold">T12 – Lesing </em></p>
-<p>- På skolen lærer eg korleis eg skal lese ulike tekstar for å lære</p>
+<p xml:lang="nob"><em type="bold">T12 – Lesing </em>- </p>
+<p>På skolen lærer eg korleis eg skal lese ulike tekstar for å lære</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>På skolen lærer eg korleis eg skal arbeide med teksten før eg les han</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>Eg lærer korleis eg kan arbeide med ein tekst for å forstå han</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>Eg lærer korleis vi kan arbeide med nye ord og omgrep for å forstå dei</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- På skolen lærer eg korleis eg skal arbeide med teksten før eg les han</p>
+<p xml:lang="nob"><em type="bold">T13 – Skriving </em>- </p>
+<p>Lærarar viser meg eksempel på gode tekstar før eg skriv sjølv</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>Lærarar viser meg korleis eg kan skrive gode tekstar</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- Eg lærer korleis eg kan arbeide med ein tekst for å forstå han</p>
+<p xml:lang="nob"><em type="bold">T14 – Digitale ferdigheiter </em>- </p>
+<p>På skolen lærer eg å vere kritisk til informasjon eg finn på Internett (8. – 13)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>På skolen lærer eg å tenkje over korleis eg bruker informasjon frå Internett (5.- 13)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p xml:lang="nob">På skolen bruker vi digitale verktøy for å lære (digitale verktøy er for eksempel datamaskin, nettbrett og interaktiv tavle.) (5.-13)</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- Eg lærer korleis vi kan arbeide med nye ord og omgrep for å forstå dei</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob"><em type="bold">T13 – Skriving </em></p>
-<p>- Lærarar viser meg eksempel på gode tekstar før eg skriv sjølv</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- Lærarar viser meg korleis eg kan skrive gode tekstar</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob"><em type="bold">T14 – Digitale ferdigheiter </em></p>
-<p>- På skolen lærer eg å vere kritisk til informasjon eg finn på Internett (8. – 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- På skolen lærer eg å tenkje over korleis eg bruker informasjon frå Internett (5.- 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob">- På skolen bruker vi digitale verktøy for å lære (digitale verktøy er for eksempel datamaskin, nettbrett og interaktiv tavle.)  (5.-13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p xml:lang="nob"><em type="bold">T15 – Munnlege ferdigheiter </em></p>
-<p>- På skolen lærer eg å uttrykkje meg munnleg på ulike måtar (for eksempel ved å gi tilbakemeldingar, delta i rollespel og halde presentasjonar) (5. – 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- Eg lærer korleis eg skal bruke argument i ein diskusjon (8. – 13)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- På skolen lærer eg korleis eg skal bruke fakta i ein diskusjon (5.-7.)</p>
-<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
-<p>- På skolen øver vi på å bruke fagomgrep i samtalar (8. – 13)</p>
+<p xml:lang="nob"><em type="bold">T15 – Munnlege ferdigheiter </em>- </p>
+<p>På skolen lærer eg å uttrykkje meg munnleg på ulike måtar (for eksempel ved å gi tilbakemeldingar, delta i rollespel og halde presentasjonar) (5. – 13)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>Eg lærer korleis eg skal bruke argument i ein diskusjon (8. – 13)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>På skolen lærer eg korleis eg skal bruke fakta i ein diskusjon (5.-7.)</p>
+<p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag -</p>
+<p>På skolen øver vi på å bruke fagomgrep i samtalar (8. – 13)</p>
 <p>Svaralternativ: I alle eller dei fleste fag – I mange fag – I nokre fag – I svært få fag – Ikkje i noko fag</p>
 <p xml:lang="isl"><em type="bold">Bakgrunnsvariablar </em></p>
-<p>Kva for karakter fekk du i følgjande fag ved siste karakteroppgjer (jul eller sommar)? (8 – 13)</p>
-<p>58. Engelsk skriftleg          (8 – 10)</p>
-<p>Engelsk                          (11 - 13)</p>
-<p>59. Kroppsøving          (8 - 13)</p>
-<p>60. Kunst og handverk          (8 - 10)</p>
-<p>61. Norsk hovudmål skriftleg     (8 - 13)</p>
-<p>62. Matematikk                           (8 - 13)</p>
-<p>63. Samfunnsfag          (8 - 13)</p>
-<p>64. Naturfag                          (8 - 13)</p>
-<p xml:lang="nob">65. kjønn</p>
-<p>   <em type="italic">Kommentar: Spørsmålsbolkane T1, T16, T17, T18 og T19 inneheld spørsmål som inngår i indeksane som i dag blir presentert i Skoleporten. Skogeigarar og skoleleiarar som ynskjer å samanlikne eigne </em></p>
-<p><em type="italic">resultatet i Skoleporten etter gjennomføringa hausten 2013 med resultata frå våren 2012 og tidlegare, må velje ein eller fleire av desse tilleggsbolkane.</em>   </p>
+<p>Kva for karakter fekk du i følgjande fag ved siste karakteroppgjer (jul eller sommar)? (8 – 13) 58. Engelsk skriftleg (8 – 10)</p>
+<p>Engelsk (11 - 13) 59. Kroppsøving (8 - 13) 60. Kunst og handverk (8 - 10) 61. Norsk hovudmål skriftleg (8 - 13) 62. Matematikk (8 - 13) 63. Samfunnsfag (8 - 13) 64. Naturfag (8 - 13) 65. kjønn</p>
+<p>Kommentar: Spørsmålsbolkane T1, T16, T17, T18 og T19 inneheld spørsmål som inngår i indeksane som i dag blir presentert i Skoleporten. Skogeigarar og skoleleiarar som ynskjer å samanlikne eigne resultatet i Skoleporten etter gjennomføringa hausten 2013 med resultata frå våren 2012 og tidlegare, må velje ein eller fleire av desse tilleggsbolkane.</p>
 </body></document>
