@@ -1,17 +1,17 @@
-<document xml:lang="nno" id="no_id"><header><title>321 gieldda ožžot ruhtadoarjaga kultuvrralaš vázzinsoappis jagi 2012 - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>1554</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/321-kommunar-far-tilskot-til-den-kulture.html?id=705157</origFileName><parallel_text xml:lang="sme" location="bajilgovva-das-mot-raehus-uovvola-on-eam_id_705161.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>321 kommunar får tilskot til Den kulturelle spaserstokken i 2012 - regjeringen.no</p>
+<document xml:lang="nno" id="no_id"><header><title>321 gieldda ožžot ruhtadoarjaga kultuvrralaš vázzinsoappis jagi 2012 - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>1554</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/2012/321-kommunar-far-tilskot-til-den-kulture.html?id=705157</origFileName><parallel_text xml:lang="sme" location="bajilgovva-das-mot-raehus-uovvola-on-eam_id_705161.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>321 kommunar får tilskot til Den kulturelle spaserstokken i 2012 - regjeringen.no</p>
 <p>Kulturdepartementet har bestemt at 321 kommunar får midlar frå Den kulturelle spaserstokken i år. I statsbudsjettet for 2012 var det på budsjetta til Kulturdepartementet og Helse- og omsorgsdepartementet løyvd i alt 29,7 millionar kroner til Den kulturelle spaserstokken. Av dette går 1 million kroner til Pensjonistforbundet sitt arbeid med kultur for eldre.</p>
 <p>Midlane til Den kulturelle spaserstokken blir delt ut etter søknad frå kommunane. Nokre kommunar får midlar til samarbeidsprosjekt som omfattar fleire kommunar. Tilskotsbrev blir sendt ut i løpet av hausten.</p>
 <p>Den kulturelle spaserstokken medverker til at eldre menneske får eit profesjonelt kulturtilbod. Den kulturelle spaserstokken stimulerer til samarbeid mellom kultursektoren og omsorgssektoren i kommunane slik at eldre får kulturtilbod i nærmiljøet.</p>
 <p xml:lang="nob"><em type="italic">Østfold totalt kr 1 050 000 </em></p>
 <p xml:lang="nob">Moss 180 000 kr Aremark 25 000 kr Sarpsborg 200 000 kr Fredrikstad 200 000 kr Askim 130 000 kr Marker 30 000 kr Hvaler 35 000 kr Rakkestad 5 000 kr Skiptvedt 40 000 kr Hobøl 40 000 kr Halden 90 000 kr Våler 15 000 kr Spydeberg 25 000 kr Rygge 35 000 kr</p>
 <p xml:lang="nob"><em type="italic">Akershus totalt kr 2 005 000 </em></p>
-<p xml:lang="isl">Bærum 235 000 kr</p>
+<p xml:lang="fao">Bærum 235 000 kr</p>
 <p>Hurdal 15 000 kr</p>
 <p xml:lang="nob">Asker 200 000 kr</p>
 <p xml:lang="nob">Lørenskog 160 000 kr</p>
 <p xml:lang="nob">Skedsmo 180 000 kr</p>
 <p xml:lang="nob">Aurskog-Høland 50 000 kr</p>
-<p xml:lang="nob">Sørum 220 000 kr</p>
+<p xml:lang="fao">Sørum 220 000 kr</p>
 <p xml:lang="nob">Enebakk 50 000 kr</p>
 <p xml:lang="nob">Ås 15 000 kr</p>
 <p xml:lang="nob">Ski 55 000 kr</p>
@@ -66,7 +66,7 @@
 <p>Etnedal 40 000 kr</p>
 <p>Sør-Fron 25 000 kr</p>
 <p>Nord-Fron 50 000 kr</p>
-<p>Vang 50 000 kr</p>
+<p xml:lang="fao">Vang 50 000 kr</p>
 <p>Ringebu 70 000 kr</p>
 <p xml:lang="nob"><em type="italic">Buskerud totalt kr 2 210 000 </em></p>
 <p xml:lang="nob">Drammen 250 000 kr</p>
@@ -80,7 +80,7 @@
 <p>Hol 50 000 kr</p>
 <p>Ål 85 000 kr</p>
 <p>Gol 25 000 kr</p>
-<p xml:lang="isl">Hurum 95 000 kr</p>
+<p xml:lang="fao">Hurum 95 000 kr</p>
 <p xml:lang="nob">Øvre Eiker 80 000 kr</p>
 <p xml:lang="nob"><em type="italic">Vestfold totalt kr 1 345 000 </em></p>
 <p xml:lang="nob">Horten 195 000 kr</p>
@@ -96,7 +96,7 @@
 <p><em type="italic">Telemark totalt kr 1 075 000 </em></p>
 <p xml:lang="nob">Porsgrunn 280 000 kr</p>
 <p xml:lang="nob">Skien 160 000 kr</p>
-<p>Vinje 60 000 kr</p>
+<p xml:lang="hbs">Vinje 60 000 kr</p>
 <p xml:lang="nob">Bamble 45 000 kr</p>
 <p>Nome 80 000 kr</p>
 <p xml:lang="nob">Kragerø 50 000 kr</p>
@@ -281,7 +281,7 @@
 <p>Hemnes 15 000 kr</p>
 <p>Vestvågøy 95 000 kr</p>
 <p>Bø i Vesterålen 90 000 kr</p>
-<p>Vega 80 000 kr</p>
+<p xml:lang="isl">Vega 80 000 kr</p>
 <p>Grane 50 000 kr</p>
 <p>Lødingen 30 000 kr</p>
 <p>Tjeldsund 20 000 kr</p>
@@ -290,7 +290,7 @@
 <p xml:lang="nob">Evenes 25 000 kr</p>
 <p>Værøy 20 000 kr</p>
 <p>Vågan 200 000 kr</p>
-<p xml:lang="nob">Rana 100 000 kr</p>
+<p xml:lang="kmr">Rana 100 000 kr</p>
 <p>Alstahaug 20 000 kr</p>
 <p>Nesna 80 000 kr</p>
 <p>Vefsn 60 000 kr</p>
@@ -329,6 +329,6 @@
 <p xml:lang="nob">Berlevåg 20 000 kr</p>
 <p xml:lang="nob">Vadsø 30 000 kr</p>
 <p xml:lang="est">Kvalsund 30 000 kr</p>
-<p xml:lang="nob">Tana 75 000 kr</p>
+<p xml:lang="fao">Tana 75 000 kr</p>
 <p xml:lang="nob">Karasjok 50 000 kr</p>
 </body></document>
