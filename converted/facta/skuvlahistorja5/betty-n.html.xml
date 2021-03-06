@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><year>2011</year><wordcount>2320</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/skolehist/betty-n.htm</origFileName><parallel_text xml:lang="sma" location="betty-s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Frå <span type="quote" xml:lang="nob">«finnunge»</span> på Trofors til internathusmor i Hattfjelldal</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><year>2011</year><wordcount>2320</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/skolehist/betty-n.htm</origFileName><parallel_text xml:lang="sma" location="betty-s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Frå <span type="quote" xml:lang="nob">«finnunge»</span> på Trofors til internathusmor i Hattfjelldal</p>
 <p xml:lang="sme">Sámegillii</p>
 <p>Artikkel i boka Samisk skolehistorie 5 . Davvi Girji 2011.</p>
 <p type="title" xml:lang="isl">Betty Kappfjell:</p>
@@ -8,7 +8,7 @@
 <p><em type="bold">Betty Kappfjell er fødd i 1954, som nest yngste av fem søsken i ein reindriftsfamilie. Ho blei fødd ved Røssvatnet, på garden Engås, nær familien sitt sommarbeite. Hovudbuplassen var i Haustreis (Hirksrissie) i Grane kommune, lengst sør i Nordland. </em></p>
 <p>Betty har gått grunnskolen på Trofors, handelsskole og reindriftsskole og har arbeida på internatet ved Sameskolen for Midt-Norge sidan 1974. Ho har også vore medlem av styret for Sameskolen, der ho har representert både dei tilsette og foreldra.</p>
 <p>Her fortel ho om sin eigen skolegang og om arbeidet på internatet. Forteljinga er nedskrive i 2008.</p>
-<p type="title" xml:lang="fin">Havika</p>
+<p type="title" xml:lang="fao">Havika</p>
 <p>Begge foreldra mine har gått på sameskolen i Havika. Der blei det brukt mye tvilsame metodar. Elevane kunne bli straffa med å skulle lære opp dei dummaste. Det skjedde ein gong med far, da lærte han bort bare tull. Som straff for det igjen måtte han gå med eit blått foldeskjørt. Det var ein utbreidd straffemetode på Havika å tvinge gutar til å gå med jenteklede.</p>
 <p type="title" xml:lang="rmf">Språkskifte</p>
 <p>Som så mange andre av min generasjon er eg eit offer for at foreldra valde å bruke norsk som heimespråk. Med kvarandre snakka dei samisk og norsk i blanding, til ungane mest norsk. Samisken blei bare brukt i reindrifta og redusert til eit næringsspråk. Dette var ei gradvis utvikling, slik at eldste søster mi, som er ti år eldre enn meg, lærte mye meir samisk enn meg. Seinare spurte eg foreldra mine kvifor dei ikkje snakka meir samisk til oss. Grunngivinga deira var at vi skulle lære norsk og vere ein del av bygda. Så vi forsto samisk, men snakka ikkje.</p>
@@ -34,9 +34,9 @@
 <p>Før var det ikkje ein reell sameskole. Men på dei 34 åra eg har jobba på internatet i Hattfjelldal har det skjedd store endringar. Det viktigaste er at samisk har blitt eit obligatorisk fag. Sørsamisk har blitt etablert som skriftspråk og her er lærarar som kan samisk. Lærarane kan ta opp samiske emne i alle fag.</p>
 <p>Vi byrjar å sjå resultata av arbeidet med sameskolen. Skolen har bidratt mye både til å styrke sørsamisk språk og til at vi no byrjar å få ganske mange sørsamar med høgare utdanning.</p>
 <p xml:lang="nob"><em type="bold">Betty Kappfjell i arbeid som husmor ved Sameskolen i Hattfjelldal, 2002. </em></p>
-<p>(Foto: Basia Głowacka)</p>
+<p xml:lang="pol">(Foto: Basia Głowacka)</p>
 <p><em type="bold">Fra spisesalen ved Sameskolen i Hattfjelldal, 2002. </em></p>
-<p>(Foto: Basia Głowacka)</p>
+<p xml:lang="pol">(Foto: Basia Głowacka)</p>
 <p type="title">Framtid for sameskolen?</p>
 <p>Lenge var dei to sameskolane det einaste tilbodet for sørsamar for å få undervisning i samisk og med samisk innhald. Men etter kvart har det blitt mogleg for elevar å gå på skole på heimstaden sin, og likevel få eit tilbod innafor samisk språk og kultur. Nokre stadar er det lokale samisklærarar, andre har fjernundervisning frå oss eller frå Snåsa. Mange av dei har har såkalla integrering ved sameskolen, det vil seie at dei kjem hit seks veker for året, og da får dei temabasert undervisning i samisk språk, kultur, duodji, utmarksaktivitetar og reindrift. Dette skjer i to grupper, 1.–6. og 7.–10. klasse, slik at ved skolen har vi 12 veker i året da integreringselevar bur på internatet her.</p>
 <p>Men dette tilbodet har igjen ført til at sameskolen har fått mye færre ordinære elevar. Vi har vore heilt nede i seks elevar, som er sett som minstegrense for å drive skolen vidare. Siste året (2007/08) har vi hatt 10 elevar, dette ser no ut til å gå opp til 15.</p>

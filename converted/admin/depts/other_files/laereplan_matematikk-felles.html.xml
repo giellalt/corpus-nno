@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4347</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Læreplan i matematikk fellesfag</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4347</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=nno&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Udir.no - Læreplan i matematikk fellesfag</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p type="title" xml:lang="nob">Læreplan i matematikk fellesfag</p>
 <p xml:lang="nob">Fastsett som forskrift av Kunnskapsdepartementet 21.06.2013</p>
@@ -16,44 +16,44 @@
 <p xml:lang="nob"><em type="bold">Oversikt over hovudområda: </em></p>
 <p><em type="bold">Årssteg </em></p>
 <p><em type="bold">Hovudområde </em></p>
-<p xml:lang="vep">1.–4.</p>
+<p xml:lang="mrj">1.–4.</p>
 <p xml:lang="est">Tal</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="nob">Måling</p>
 <p xml:lang="nob">Statistikk</p>
-<p xml:lang="vep">5.–7.</p>
+<p xml:lang="mrj">5.–7.</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="nob">Måling</p>
 <p xml:lang="nob">Statistikk og sannsyn (bm.: sannsynlighet)</p>
-<p xml:lang="vep">8.–10.</p>
+<p xml:lang="mrj">8.–10.</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="nob">Måling</p>
 <p xml:lang="nob">Statistikk, sannsyn og kombinatorikk</p>
 <p xml:lang="nob">Funksjonar</p>
 <p xml:lang="smn">1T</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="isl">Sannsyn</p>
 <p xml:lang="nob">Funksjonar</p>
-<p xml:lang="vep">1P</p>
+<p xml:lang="pol">1P</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="isl">Sannsyn</p>
 <p xml:lang="nob">Funksjonar</p>
 <p xml:lang="dan">Økonomi</p>
 <p xml:lang="est">1T-Y</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="nob">Funksjonar</p>
-<p xml:lang="est">1P-Y</p>
+<p xml:lang="pol">1P-Y</p>
 <p xml:lang="isl">Tal og algebra</p>
-<p xml:lang="nob">Geometri</p>
+<p xml:lang="ita">Geometri</p>
 <p xml:lang="dan">Økonomi</p>
 <p type="title" xml:lang="isl">Tal og algebra</p>
 <p>Hovudområdet tal og algebra handlar om å utvikle talforståing og innsikt i korleis tal og talbehandling inngår i system og mønster. Med tal kan ein kvantifisere mengder og storleikar. Området tal omfattar både heile tal, brøk, desimaltal og prosent. Algebra i skolen generaliserer talrekning ved at bokstavar eller andre symbol representerer tal. Det gjev høve til å beskrive og analysere mønster og samanhengar. Algebra blir òg nytta i samband med hovudområda geometri og funksjonar.</p>
-<p type="title" xml:lang="nob">Geometri</p>
+<p type="title" xml:lang="ita">Geometri</p>
 <p>Geometri i skolen handlar mellom anna om å analysere eigenskapar ved to- og tredimensjonale figurar og gjere konstruksjonar og berekningar. Ein studerer dynamiske prosessar som spegling, rotasjon og forskyving. Hovudområdet omfattar òg å beskrive plassering og forflytting i rutenett, kart og koordinatsystem.</p>
 <p type="title" xml:lang="nob">Måling</p>
 <p>Måling vil seie å samanlikne og oftast knyte ein talstorleik til eit objekt eller ei mengd. Denne prosessen krev at ein brukar måleiningar og høvelege teknikkar, målereiskapar og formlar. Viktige delar av måleprosessen er å vurdere resultatet og drøfte kor usikre målingane er.</p>
@@ -68,7 +68,7 @@
 <p xml:lang="deu">BARNESTEGET</p>
 <p>1.–4. årssteget: 560 timar</p>
 <p>5. –7. årssteget: 328 timar</p>
-<p xml:lang="deu">UNGDOMSSTEGET</p>
+<p xml:lang="hbs">UNGDOMSSTEGET</p>
 <p>8.–10. årssteget: 313 timar</p>
 <p xml:lang="deu">STUDIEFØREBUANDE UTDANNINGSPROGRAM</p>
 <p>Vg1: 140 timar</p>
@@ -90,7 +90,7 @@
 <p type="listitem">utvikle, bruke og samtale om varierte reknestrategiar for addisjon og subtraksjon av tosifra tal og vurdere kor rimelege svara er</p>
 <p type="listitem" xml:lang="nob">doble og halvere</p>
 <p type="listitem">kjenne att, samtale om og vidareføre strukturar i enkle talmønster</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">kjenne att og beskrive trekk ved enkle to- og tredimensjonale figurar i samband med hjørne, kantar og flater og sortere og setje namn på figurane etter desse trekka</p>
 <p type="listitem">kjenne att, bruke og samtale om spegelsymmetri i praktiske situasjonar</p>
@@ -113,7 +113,7 @@
 <p type="listitem">finne informasjon i tekstar eller praktiske samanhengar, velje rekneart og grunngje valet, bruke tabellkunnskap og utnytte samanhengar mellom rekneartane, vurdere resultatet og presentere løysinga</p>
 <p type="listitem">kjenne att, eksperimentere med, beskrive og vidareføre strukturar i talmønster</p>
 <p type="listitem">bruke matematiske symbol og uttrykksmåtar for å uttrykkje matematiske samanhengar i oppgåveløysing</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">kjenne att, beskrive trekk ved og sortere sirklar, mangekantar, kuler, sylindrar og polyeder</p>
 <p type="listitem">teikne, byggje, utforske og beskrive geometriske figurar og modellar i praktiske samanhengar, medrekna teknologi og design</p>
@@ -139,7 +139,7 @@
 <p type="listitem">finne informasjon i tekstar eller praktiske samanhengar, stille opp og forklare berekningar og framgangsmåtar, vurdere resultatet og presentere og diskutere løysinga</p>
 <p type="listitem">utforske og beskrive strukturar og forandringar i geometriske mønster og talmønster med figurar, ord og formlar</p>
 <p type="listitem">stille opp og løyse enkle likningar og løyse opp og rekne med parentesar i addisjon, subtraksjon og multiplikasjon av tal</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">analysere eigenskapar ved to- og tredimensjonale figurar og beskrive fysiske gjenstandar innanfor daglegliv og teknologi ved hjelp av geometriske omgrep</p>
 <p type="listitem">byggje tredimensjonale modellar, teikne perspektiv med eitt forsvinningspunkt og diskutere prosessane og produkta</p>
@@ -171,7 +171,7 @@
 <p type="listitem">gjere berekningar om forbruk, bruk av kredittkort, inntekt, lån og sparing, setje opp budsjett og rekneskap ved å bruke rekneark og gjere greie for berekningar og presentere resultata</p>
 <p type="listitem">analysere samansette problemstillingar, identifisere faste og variable storleikar, kople samansette problemstillingar til kjende løysingsmetodar, gjennomføre berekningar og presentere resultata på ein formålstenleg måte</p>
 <p type="listitem">bruke tal og variablar i utforsking, eksperimentering og praktisk og teoretisk problemløysing og i prosjekt med teknologi og design</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">undersøkje og beskrive eigenskapar ved to- og tredimensjonale figurar og bruke eigenskapane i samband med konstruksjonar og berekningar</p>
 <p type="listitem">utføre, beskrive og grunngje geometriske konstruksjonar med passar og linjal og dynamisk geometriprogram</p>
@@ -203,7 +203,7 @@
 <p type="listitem">rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat</p>
 <p type="listitem">omforme uttrykk og løyse likningar, ulikskapar og likningssystem av første og andre grad og enkle likningar med eksponential- og logaritmefunksjonar, både ved rekning og med digitale verktøy</p>
 <p type="listitem">omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar</p>
 <p type="listitem">bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal</p>
@@ -228,7 +228,7 @@
 <p type="listitem">tolke og bruke formlar som gjeld daglegliv og yrkesliv</p>
 <p type="listitem">rekne med forhold, prosent, prosentpoeng og vekstfaktor</p>
 <p type="listitem">behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem" xml:lang="nob">bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid</p>
 <p type="listitem">løyse problem som gjeld lengd, vinkel, areal og volum</p>
@@ -255,7 +255,7 @@
 <p type="listitem">vurdere, velje og bruke matematiske metodar og verktøy til å løyse problem frå ulike fag og samfunnsområde og reflektere over, vurdere og presentere løysingane på ein formålstenleg måte</p>
 <p type="listitem">rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat</p>
 <p type="listitem">omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem">gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar</p>
 <p type="listitem">bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal</p>
@@ -274,7 +274,7 @@
 <p type="listitem">tolke og bruke formlar som gjeld daglegliv og yrkesliv</p>
 <p type="listitem">rekne med forhold, prosent, prosentpoeng og vekstfaktor</p>
 <p type="listitem">behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar</p>
-</list><p type="title" xml:lang="nob">Geometri</p>
+</list><p type="title" xml:lang="ita">Geometri</p>
 <p>Mål for opplæringa er at eleven skal kunne</p>
 <list><p type="listitem" xml:lang="nob">bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid</p>
 <p type="listitem">løyse problem som gjeld lengd, vinkel, areal og volum</p>

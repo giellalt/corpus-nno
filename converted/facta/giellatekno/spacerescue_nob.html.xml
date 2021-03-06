@@ -1,6 +1,6 @@
-<document xml:lang="nno" id="no_id"><header><title>SpaceRescue (Funksjonsspel)</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>825</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/SpaceRescue_nob.html</origFileName><parallel_text xml:lang="eng" location="spacerescue_eng.html"/><parallel_text xml:lang="sme" location="spacerescue_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">SpaceRescue (Funksjonsspel)</p>
+<document xml:lang="nno" id="no_id"><header><title>SpaceRescue (Funksjonsspel)</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>825</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/SpaceRescue_nob.html</origFileName><parallel_text xml:lang="eng" location="spacerescue_eng.html"/><parallel_text xml:lang="sme" location="spacerescue_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="spa">SpaceRescue (Funksjonsspel)</p>
 <list><p type="listitem">Å starte spelet</p>
-<p type="listitem" xml:lang="isl">Setningsnummer</p>
+<p type="listitem" xml:lang="fao">Setningsnummer</p>
 <p type="listitem">Spelet</p>
 <p type="listitem" xml:lang="isl">1. stadium</p>
 <p type="listitem" xml:lang="isl">2. stadium</p>
@@ -14,9 +14,9 @@
 </list><p>Direktelink til SpaceRescue VISL</p>
 <p type="title">Å starte spelet</p>
 <list><p type="listitem">Skriv setninga sitt nummer (for å få ei bestemt setning) – eller</p>
-<p type="listitem">berre trykk <span type="quote" xml:lang="nob">"Play"</span></p>
+<p type="listitem">berre trykk <span type="quote" xml:lang="pol">"Play"</span></p>
 </list><p>Aktiver Java-vindauget med å klikke på det, og trykk på F2-tasten på tastaturet.</p>
-<p type="title" xml:lang="isl">Setningsnummer</p>
+<p type="title" xml:lang="fao">Setningsnummer</p>
 <p>I SpaceRescue-spelet arbeider du med setningsfunksjonar.</p>
 <p>Du kan velge eit setningskorpus eller ein spesiell type setninger, t.d. SMEAb143. Men da kan du ikkje registrere resultatet.</p>
 <p>Du kan sjå setningkorpusa her: setningskorpus</p>
@@ -36,7 +36,7 @@
 <p type="listitem"><em type="italic">A </em>(<span type="quote" xml:lang="deu">"Ascend"</span>): Med denne flyttar du oppover når du skal velje riktig funksjon. </p>
 <p type="listitem"><em type="italic">D </em>(<span type="quote" xml:lang="deu">"Descend"</span>): Med denne flyttar du nedover når du skal velje riktig funksjon. </p>
 <p type="listitem" xml:lang="nob"><em type="italic">S </em>(<span type="quote" xml:lang="vep">"Send"</span>): Med denne sender du riktig funksjon med bergingsskipet. </p>
-<p type="listitem" xml:lang="nob"><em type="italic">R </em>(<span type="quote" xml:lang="deu">"Rescue"</span>): Med denne sender du bergingsskip. </p>
+<p type="listitem" xml:lang="nob"><em type="italic">R </em>(<span type="quote" xml:lang="spa">"Rescue"</span>): Med denne sender du bergingsskip. </p>
 </list><p type="title" xml:lang="nob">Poeng</p>
 <p>Du får 10 poeng for kvart ord som du har knytta til riktig setningsledd. Når heile setningsleddet er samla og knytta til riktig funksjon, så doblast poengsummen. Viss du prøver å ta med ord som ikkje høyrer til setningsleddet, så mistar du 5 poeng. For at du verkeleg skal svi, kan blekksprutane skyte på deg viss du gjer dette. Flytt kampflyet med <em type="italic">piltastane </em>for at blekksprutane ikkje skal treffe deg. </p>
 <p type="title" xml:lang="nob">Ny setning</p>
@@ -57,27 +57,27 @@
 <p><em type="italic">son </em></p>
 <p xml:lang="sme">lea! De dáhpáhuvai,</p>
 <p xml:lang="sme"><em type="italic">ahte rievvár bođii. </em></p>
-<p xml:lang="vep"><em type="italic">P </em></p>
+<p xml:lang="pol"><em type="italic">P </em></p>
 <p xml:lang="vep">Verbal (predikator)</p>
 <p xml:lang="sme">Min nieiddat</p>
 <p xml:lang="sme"><em type="italic">leat </em></p>
 <p xml:lang="sme">čeahpit.</p>
-<p xml:lang="smj"><em type="italic">Ale mana! </em></p>
+<p xml:lang="kmr"><em type="italic">Ale mana! </em></p>
 <p xml:lang="sme">Don</p>
 <p xml:lang="sme"><em type="italic">galggat </em></p>
 <p xml:lang="fit">jaska</p>
 <p xml:lang="sme"><em type="italic">veallát </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="sme"><em type="italic">Od </em></p>
 <p xml:lang="rmn">Objekt</p>
 <p xml:lang="vep">Bija</p>
 <p xml:lang="sme"><em type="italic">buori dola </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="sme"><em type="italic">Maid </em></p>
 <p xml:lang="sme">Máret áigu oastit? Dieđát go</p>
 <p xml:lang="sme"><em type="italic">goas mis lea čoahkkin? </em></p>
 <p xml:lang="deu"><em type="italic">A </em></p>
-<p xml:lang="est">Adverbial</p>
+<p xml:lang="spa">Adverbial</p>
 <p xml:lang="sme">Lávvui gullá</p>
 <p xml:lang="sme"><em type="italic">maid </em></p>
 <p xml:lang="sme">uvssot. Doai leahppi</p>
@@ -86,7 +86,7 @@
 <p xml:lang="sme"><em type="italic">olles dálvvi </em></p>
 <p xml:lang="sme">. Nieida lei</p>
 <p xml:lang="sme"><em type="italic">skuvllas </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="sme"><em type="italic">Jus dieđášin </em></p>
 <p xml:lang="sme">, de dajašin.</p>
 <p xml:lang="isl"><em type="italic">HAB </em></p>
@@ -96,30 +96,30 @@
 <p xml:lang="sme"><em type="italic">Min bussás </em></p>
 <p xml:lang="sme">leat alit čalmmit.</p>
 <p xml:lang="eng"><em type="italic">fC </em></p>
-<p xml:lang="est">Predikativ</p>
+<p xml:lang="ita">Predikativ</p>
 <p xml:lang="sme">Min bussás leat</p>
 <p xml:lang="sme"><em type="italic">alit čalmmit </em></p>
 <p xml:lang="sme">. Gáttis ledje</p>
 <p xml:lang="sme"><em type="italic">olbmot </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="eng"><em type="italic">Cs </em></p>
 <p>Subjektpredikativ</p>
 <p xml:lang="sme">Min nieiddat leat</p>
 <p xml:lang="sme"><em type="italic">čeahpit </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="eng"><em type="italic">Co </em></p>
 <p xml:lang="rmn">Objektpredikativ</p>
 <p xml:lang="sme">Son oaččui dan</p>
 <p xml:lang="sme"><em type="italic">luoikkasin </em></p>
 <p xml:lang="sme">. Gáhkuid son ráhkada</p>
 <p xml:lang="sme"><em type="italic">hui buriid </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p xml:lang="eng"><em type="italic">Cp </em></p>
-<p xml:lang="est">Predikativpredikativ</p>
+<p xml:lang="ita">Predikativpredikativ</p>
 <p xml:lang="sme">Mus leat gieđat</p>
 <p xml:lang="sme"><em type="italic">nu galbmasat </em></p>
-<p xml:lang="vep">.</p>
-<p xml:lang="ron"><em type="italic">CO </em></p>
+<p xml:lang="mrj">.</p>
+<p xml:lang="hbs"><em type="italic">CO </em></p>
 <p xml:lang="deu">Koordinator</p>
 <p xml:lang="sme"><em type="italic">Muhto </em></p>
 <p xml:lang="sme">Parkera gal deavččastetne.</p>
@@ -127,7 +127,7 @@
 <p>Subordinator</p>
 <p xml:lang="smj"><em type="italic">Jus </em></p>
 <p xml:lang="sme">dieđášin,</p>
-<p xml:lang="ron"><em type="italic">de </em></p>
+<p xml:lang="spa"><em type="italic">de </em></p>
 <p xml:lang="sme">dajašin. Son lea viššaleabbo</p>
 <p xml:lang="sme"><em type="italic">go </em></p>
 <p xml:lang="smn">mun.</p>
@@ -135,7 +135,7 @@
 <p xml:lang="dan">Partikkel</p>
 <p xml:lang="sme">Boađát</p>
 <p xml:lang="sme"><em type="italic">go </em></p>
-<p xml:lang="vep">odne?</p>
+<p xml:lang="hbs">odne?</p>
 <p xml:lang="eng"><em type="italic">VOC </em></p>
 <p xml:lang="vep">Vokativ</p>
 <p xml:lang="fkv"><em type="italic">Gilette, </em></p>
@@ -144,7 +144,7 @@
 <p xml:lang="nob"><em type="italic">Forkorting </em></p>
 <p xml:lang="dan"><em type="italic">Sideordningsledd </em></p>
 <p><em type="italic">Døme </em></p>
-<p xml:lang="ron"><em type="italic">CO </em></p>
+<p xml:lang="hbs"><em type="italic">CO </em></p>
 <p xml:lang="deu">Koordinator</p>
 <p xml:lang="sme">Sii ráhkadedje muohtaádjáid</p>
 <p xml:lang="smj"><em type="italic">ja </em></p>
@@ -155,10 +155,10 @@
 <p xml:lang="sme"><em type="italic">muohtaádjáid </em></p>
 <p xml:lang="smj">ja</p>
 <p xml:lang="sme"><em type="italic">muohtaeŋgeliid </em></p>
-<p xml:lang="vep">.</p>
+<p xml:lang="mrj">.</p>
 <p>Her kan du lære meir om setningsanalyse: Setningsledda og deira funksjonar</p>
 <p xml:lang="dan">Eller du kan øve her: Setningstre</p>
 <p type="title" xml:lang="eng">SpaceRescue-link:</p>
-<p xml:lang="vep">SpaceRescue VISL</p>
+<p xml:lang="spa">SpaceRescue VISL</p>
 <p>Last changed: $Id: SpaceRescue_nno.xml 23845 2009-02-10 10:06:57Z biret $</p>
 </body></document>
