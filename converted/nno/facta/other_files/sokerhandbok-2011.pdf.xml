@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>45414</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
+<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>43950</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
 <p><em type="bold">Søknad om opptak til universiteter og høgskoler </em>samordnaopptak.no </p>
 <p><em type="bold">Samordna opptak 2011 </em><em type="bold">samordnaopptak.no </em>På Samordna opptak (SO) sine nettsider finn du oppdatert søkjarinformasjon. Her kan du sende nettsøknad, melde adresseendring, omprioritere studieønska og svare på tilbod om studieplass/ventelisteplassering. På nettsøknaden finn du ei statusside med oppdatert informasjon om behandlinga av søknaden din. </p>
 <p>Frå 20. juli finn du m.a. resultatet i hovudopptaket, poenggrenser og ledige plassar på Restetorget.</p>
@@ -16,8 +16,7 @@
 <p>Information for international students who want to study in Norway, see <em type="italic">www.studyinnorway.no </em></p>
 <p><em type="bold">Endringar av informasjon i Søkerhandboka 2011 </em>Ver merksam på at studium kan bli avlyste etter at Søkerhandboka 2011 er trykt. Det kan òg skje andre endringar i studium-/lærestadsinformasjon. </p>
 <p>For meir informasjon sjå SOs nettsider: <em type="italic">samordnaopptak.no/info/mer/endringer </em></p>
-<p><em type="bold">Studium utanom Samordna opptak </em>Søkerhandboka 2011 inneheld informasjon berre om studia i det samordna opptaket. I eigne brosjyrar og på lærestadene sine nettsider kan du finne opplysningar om andre studietilbod som kan søkjast på lokale skjema. <em type="bold">2 </em></p>
-<p>Generell informasjon</p>
+<p><em type="bold">Studium utanom Samordna opptak </em>Søkerhandboka 2011 inneheld informasjon berre om studia i det samordna opptaket. I eigne brosjyrar og på lærestadene sine nettsider kan du finne opplysningar om andre studietilbod som kan søkjast på lokale skjema. </p>
 <p><em type="bold">Utgivar </em>Samordna opptak Postboks 1175 Blindern 0318 Oslo Telefon 815 48 240 (9–15) </p>
 <p><em type="bold">Layout, produksjon, distribusjon og prosjektansvarlig </em>Andvord Grafisk AS Opplag 65 000 </p>
 <p><em type="bold">Redaktør </em>Øyvind Gjengaar </p>
@@ -110,8 +109,7 @@
 <p>Universitetet i Nordland (UIN) ............................................74</p>
 <p>Universitetet i Oslo (UiO) .....................................................76</p>
 <p>Universitetet i Stavanger (UiS) ............................................79</p>
-<p>Universitetet i Tromsø (UiT) .................................................80 <em type="bold">3 </em></p>
-<p>Innhold</p>
+<p>Universitetet i Tromsø (UiT) .................................................80</p>
 <p><em type="bold">Tidlig opptak </em>Hvis du har behov for å få tidlig svar på søknaden, og hvis du er <em type="bold">studiekvalifisert innen 1. mars </em>, kan du søke om tidlig opptak. Det er ikke mulig å få tidlig opptak hvis du skal ta fag, kurs eller språk tester for å få studiekompetanse våren 2011. </p>
 <p>For å få tidlig opptak må du ha en poengsum som ville vært i øvre halvdel blant søkerne som ble tatt opp til studiet i 2010.</p>
 <p>Studier med opptaksprøve har ikke tidlig opptak. Det gis normalt heller ikke tidlig opptak på grunnlag av særskilt vurdering eller hvis søknaden ikke kan poengberegnes (med unntak av søkere som må søke oppholdstillatelse, se nederste punkt under).</p>
@@ -133,8 +131,7 @@
 <p>Søker du opptak innen 1. mars, vil du få vite før 1. mai hvilke(t) lærested(er) som skal behandle søknaden din og som trenger denne tillatelsen. Lærestedene vil få tilgang til resultatene samme dag som de foreligger, normalt første uka i juli.</p>
 <p><em type="bold">Utenlandsk utdanning (utenfor Norden) </em>Har du videregående utdanning (upper secondary school/high school) fra land utenfor Norden, er søknadsfristen 1. mars. Les mer om utenlandsk utdanning på side 86. </p>
 <p><em type="bold">Realkompetanse </em>Søkere som fyller 25 år eller mer i søknadsåret og som ikke har generell studiekompetanse, kan søke på grunnlag av realkompetanse, se side 85. </p>
-<p><em type="bold">Politihøgskolen og luftfartsfag ved UiT </em>Søkere til Politihøgskolen og luftfartsfag ved UiT må dekke generelle og spesielle opptakskrav innen søknadsfristen 1.mars, og følgeskjema med bekreftede papirkopier må sendes inn. Nye fag, forbedringer og dokumentasjon som utløser tilleggspoeng, kan ettersendes fram til 1. juli. <em type="bold">4 </em></p>
-<p type="listitem">Søknadsfrister1. mars15. aprilfor søkere med</p>
+<p type="listitem">Politihøgskolen og luftfartsfag ved UiT Søkere til Politihøgskolen og luftfartsfag ved UiT må dekke generelle og spesielle opptakskrav innen søknadsfristen 1.mars, og følgeskjema med bekreftede papirkopier må sendes inn.  Nye fag, forbedringer og dokumentasjon som utløser tilleggspoeng, kan ettersendes fram til 1. juli.1. mars15. aprilfor søkere med</p>
 <p type="listitem">dokumenterte grunner for tidlig opptak</p>
 <p type="listitem">dokumenterte grunner for særskilt vurdering</p>
 <p type="listitem">IB (International Baccalaureate), avgangselever</p>
@@ -142,7 +139,7 @@
 <p type="listitem">realkompetanse, se side 85</p>
 <p type="listitem">søknad til Politihøgskolen</p>
 <p type="listitem">søknad til luftfartsfag ved Universitetet i Tromsøalle andre søkere</p>
-<p><em type="bold">Hvis du som 1. mars-søker registrerer nye studieønsker etter 1. mars, blir disse behandlet som 15. april-søknader. På følgeskjemaet du får tilsendt vil det bare stå de studieønskene som er registrert før følgeskjemaet blir sendt ut. </em><em type="bold">5 </em>1. Registrering </p>
+<p><em type="bold">Hvis du som 1. mars-søker registrerer nye studieønsker etter 1. mars, blir disse behandlet som 15. april-søknader. På følgeskjemaet du får tilsendt vil det bare stå de studieønskene som er registrert før følgeskjemaet blir sendt ut. </em>1. Registrering </p>
 <p>Legg inn person- og kontaktopplysninger. Det er viktig at du legger inn gyldig e-postadresse. Denne bruker SO til å sende deg en påminnelse hvis søknaden din ikke er riktig utfylt og til å sende deg kvittering når søknaden er registrert.</p>
 <p>Nye opptaksbrev blir også varslet på e-post.2. Bakgrunn</p>
 <p>Bruker du Elektronisk ID, kan du se om du har elektronisk vitnemål under arkfanen Dokumentasjon på nettsøknaden din. Du slipper da å sende inn papirkopi av dette vitnemålet.</p>
@@ -152,7 +149,6 @@
 <p>Du kan også taste inn de sekssifrede studiekodene som du finner f.o.m. side 39.4. Sluttkvittering</p>
 <p>En gul kvittering viser at nettsøknaden er riktig utfylt og sendt til Samordna opptak. Denne kvitteringen kan også sendes til din e-postadresse etter at du har lagt inn søknaden.</p>
 <p>Kontroller at kvitteringen er riktig. Den kan brukes som dokumentasjon på at du har søkt om studieplass. Når du endrer søknaden, får du ny kvittering. Det er alltid den nyeste kvitteringen som viser din gyldige søknad.</p>
-<p>Nettsøknad med elektronisk ID</p>
 <p><em type="bold">Alle søkere med norsk fødselsnummer må registrere seg med elektronisk ID. Det er derfor viktig at du skaffer deg elektronisk ID i god tid før søknadsfristen. På våre nettsider </em><em type="italic">samordnaopptak.no/info/elektroniskID </em><em type="bold">finner du mer informasjon om elektronisk ID. </em></p>
 <p><em type="bold">Søkere uten norsk fødselsnummer vil finne en link på nettsøknaden for å registrere søknad. </em></p>
 <p>På første side finner du personopplysninger og studieønsker som er registrert på søknaden din. Har du endret navn etter at du registrerte søknaden, må du sende brev til Samordna opptak med kopi fra Folkeregisteret eller namsmann om endringen.</p>
@@ -163,7 +159,6 @@
 <p>Følgeskjemaene sendes ut puljevis og baserer seg på <em type="bold">studie -ønsker som er registrert når følgeskjemaet sendes ut. </em>Din nyeste kvittering viser hvilke studier du har på søknaden din. </p>
 <p>Har du ikke mottatt følgeskjema innen 1. juni, må du melde fra til Samordna opptak snarest, og senest innen 10. juni. Søkere til Politihøgskolen og luftfartsfag ved Universitetet i Tromsø må melde fra innen 18. mars.</p>
 <p>Hvis du omprioriterer, mottar du ikke nytt følgeskjema. Din saksbehandlende institusjon vil være den samme, selv om du etter omprioritering har strøket denne institusjonen. <em type="bold">Send derfor inn følgeskjemaet innen påtrykt frist selv om du omprioriterer. </em></p>
-<p>Følgeskjema til innsending <em type="bold">6 </em></p>
 <p><em type="bold">Noen uker etter søknadsfristens utløp får alle søkere tilsendt et brev som inneholder et 2-sidig følgeskjema (tidligere 4-siders omslagsark). </em></p>
 <p>Hvem trenger ikke å sende inn følgeskjema?</p>
 <p>Hvis elektronisk vitnemål i den nasjonale vitnemålsdatabasen (NVB) er det eneste dokumentet som skal ligge til grunn for behandlingen av søknaden din, behøver du ikke å sende inn følgeskjema. Om vitnemålet ditt ligger i NVB kan du sjekke under arkfanen <em type="italic">Dokumentasjon </em>på nettsøknaden din. </p>
@@ -194,8 +189,7 @@
 <p type="listitem">På sidene 92-93 finner du en oversikt over godkjent dokumentasjon.</p>
 <p type="listitem">For søkere som befinner seg i utlandet gjelder de samme reglene.</p>
 <p type="listitem">Alle dokumenter må være i A4 format, ensidig (ikke tosidig),uten stifter, lim o.l.</p>
-<p type="listitem">Husk å signere følgeskjemaet.7</p>
-<p><em type="bold">Følgeskjemaene har ulike farger, avhengig av hvilke kryss du har satt på søknaden: </em></p>
+<p type="listitem">Husk å signere følgeskjemaet.</p>
 <p><em type="bold">Gult følgeskjema: </em>For ordinær søknadsbehandling. </p>
 <p><em type="bold">Blått følgeskjema: </em>Har du søkt om <em type="bold">særskilt vurdering </em>(se side 4), vil du motta ett følgeskjema for hvert lærested hvor du har bedt om særskilt vurdering. Med følgeskjemaene skal du sende egenerklæring samt dokumentasjon på de forhold som du mener kvalifiserer for opptak etter særskilt vurdering. I tillegg skal du legge ved den samme dokumentasjonen som du sender sammen med det gule følgeskjemaet. </p>
 <p><em type="bold">Fiolett følgeskjema: </em>Har du søkt om opptak på grunnlag av <em type="bold">realkompetanse </em>(se side 85), vil du motta ett følgeskjema for hvert lærested du har søkt, med unntak av Politihøgskolen. </p>
@@ -205,8 +199,7 @@
 <p><em type="bold">Dokumentfalsk vil bli politianmeldt. </em></p>
 <p><em type="bold">RETT KOPI: </em></p>
 <p><em type="bold">Lillevik vide </em><em type="bold">regående sk </em><em type="bold">ole </em></p>
-<p><em type="italic">Ola Nord </em><em type="italic">mann, Lille </em><em type="italic">vik </em><em type="italic">10. januar 2 </em><em type="italic">011 </em><em type="bold">8 </em></p>
-<p>Frister <em type="bold">1. juli </em></p>
+<p><em type="italic">Ola Nord </em><em type="italic">mann, Lille </em><em type="italic">vik </em><em type="italic">10. januar 2 </em><em type="italic">011 </em><em type="bold">1. juli </em></p>
 <p>Ettersending</p>
 <p>Vitnemål og attester for utdanning og praksis som avsluttes våren 2011 skal sendes til adressen som står på ettersendingsslippen som du får tilsendt med følgeskjemaet. Feilsending vil forsinke behandlingen av søknaden din.</p>
 <p>Sjekk statussiden på nettsøknaden din dersom du ikke husker hvor du skal sende dokumentasjon.</p>
@@ -228,8 +221,7 @@
 <p type="listitem">omprioriterer</p>
 <p type="listitem">registrerer svar</p>
 <p type="listitem">søker på</p>
-<p><em type="bold">Restetorget </em><em type="bold">9 </em></p>
-<p>Restetorget</p>
+<p><em type="bold">Restetorget </em></p>
 <p>Restetorget er en oversikt over ledige studieplasser der ventelistene er tømt for kvalifiserte søkere. Oversikten er tilgjengelig på samordnaopptak.no fra 20.juli. Du kan registrere inntil 10 studieønsker på nettsøknaden din. Studieplassene er åpne både for nye søkere og for dem som allerede er søkere i det samordna opptaket; disse kan også reaktivere studieønsker som har falt bort fordi de i hoved opptaket fikk tilbud på høyere prioritert studium.</p>
 <p>Dersom det er flere kvalifiserte restetorgsøkere enn det er restplasser på studiet, vil de som melder seg først få tilbudene.</p>
 <p>Svarfristen i restetorgopptaket er ca. 5 dager.</p>
@@ -265,14 +257,12 @@
 <p>Kandidatstudium</p>
 <p>Det finst ei rekke 2-årige fulltidsstudium ved høgskolane som gir tittelen høgskolekandidat.</p>
 <p>Årsstudium</p>
-<p>Det finst òg ei rekke årsstudium ved lærestadene. Mange av dei kan inngå i ein bachelorgrad. I tillegg kan nokre av dei vere grunnlag for eit profesjonsstudium i faget, til dømes psykologi. <em type="bold">10 </em></p>
-<p>Studieløp og gradsstruktur</p>
+<p>Det finst òg ei rekke årsstudium ved lærestadene. Mange av dei kan inngå i ein bachelorgrad. I tillegg kan nokre av dei vere grunnlag for eit profesjonsstudium i faget, til dømes psykologi.</p>
 <p><em type="bold">Har du spørsmål om fagleg innhald og gradsoppbygging, må du kontakte dei aktuelle lærestadene. </em></p>
 <p><em type="bold">Fagområde og studium </em></p>
 <p><em type="bold">Type Side </em></p>
 <p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em><em type="bold">11 </em></p>
-<p>Liste over fagområde og studium</p>
+<p><em type="bold">Type Side </em></p>
 <p>Administrasjon og leiing Administrasjon og ledelse, HiO</p>
 <p>B52</p>
 <p>Administrasjon og ledelse, Rena, HiHm</p>
@@ -454,10 +444,6 @@
 <p type="listitem">Sidetal viser til sida der lærestadtabellen for den aktuellelærestaden startar. Studiet du leiter etter kan difor vere  på påfølgjande side(r).</p>
 <p>Fagområde er fastsette sentralt og passar ikkje like bra for alle lærestader og studium. Dersom du ikkje finn studiet du leiter etter der du meiner det høyrer heime, kan det løne seg å sjekke eit nærliggjande fagområde.</p>
 <p>På <em type="italic">samordnaopptak.no/studier </em>kan du søkje både på fag -område og ei rekkje andre omgrep for å finne studium. </p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
 <p>Økonomi og administrasjon, 2 år, Bø, HiT</p>
 <p>K57</p>
 <p>Økonomi og administrasjon/revisjon, HiO</p>
@@ -665,11 +651,7 @@
 <p>Havbruksbiologi, UiB</p>
 <p>B72</p>
 <p>Hestefag, UMB</p>
-<p>B69 <em type="bold">12 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B69</p>
 <p>Husdyrvitenskap, UMB</p>
 <p>B69</p>
 <p>Idrettsvitenskap, NIH</p>
@@ -912,11 +894,7 @@
 <p>Drama, HVO</p>
 <p>Å60</p>
 <p>Drama, UiS</p>
-<p>Å79 <em type="bold">13 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å79</p>
 <p>Drama og teater, NTNU</p>
 <p>B66</p>
 <p>Drama og teater, UiT</p>
@@ -1156,11 +1134,7 @@
 <p>Fransk, årsstudium, UiO</p>
 <p>Å76</p>
 <p>Fransk, årsstudium, start vår, UiB</p>
-<p>Å72 <em type="bold">14 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å72</p>
 <p>Gresk, UiB</p>
 <p>B72</p>
 <p>Italiensk, UiB</p>
@@ -1388,11 +1362,7 @@
 <p>Idrett, UiA</p>
 <p>B70</p>
 <p>Idrett - spesialisering i trenerrollen, Elverum, HiHm</p>
-<p>B46 <em type="bold">15 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B46</p>
 <p>Idrett, faglærerutdanning, HiB</p>
 <p>B42</p>
 <p>Idrett, friluftsliv og helse, HiO</p>
@@ -1632,11 +1602,7 @@
 <p>Grunnskolelærer 1.-7. trinn, desentralisert, HiT</p>
 <p>Y57</p>
 <p>Grunnskolelærer 1.-7. trinn, Drammen, HiBu</p>
-<p>Y43 <em type="bold">16 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Y43</p>
 <p>Grunnskolelærer 1.-7. trinn, Hamar, HiHm</p>
 <p>Y46</p>
 <p>Grunnskolelærer 1.-7. trinn med engelsk, HiB</p>
@@ -1882,11 +1848,7 @@
 <p>Medisinske fag, UiT</p>
 <p>Å80</p>
 <p>Odontologi, UiB</p>
-<p>M72 <em type="bold">17 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>M72</p>
 <p>Ortopediingeniør, HiO</p>
 <p>B52</p>
 <p>Psykologi, profesjonsstudiet, NTNU66</p>
@@ -2137,11 +2099,7 @@
 <p>Ernæring, mat og kultur, årsstudium, UiA</p>
 <p>Å70</p>
 <p>Mat, ernæring og helse, Elverum, HiHm</p>
-<p>Å46 <em type="bold">18 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å46</p>
 <p>Mat og helse, årsstudium, HiVe</p>
 <p>Å59</p>
 <p>Matkultur og helse, HVO</p>
@@ -2389,11 +2347,7 @@
 <p>Informatikk: design, bruk og interaksjon, UiO</p>
 <p>B76</p>
 <p>Informatikk med spes. i info.behandling, HiST</p>
-<p>B56 <em type="bold">19 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B56</p>
 <p>IT og informasjonssystemer, årsstudium, UiA</p>
 <p>Å70</p>
 <p>Journalistikk, HiO</p>
@@ -2649,11 +2603,7 @@
 <p>Ingeniør, første studieår, Alta, HiN</p>
 <p>B50</p>
 <p>Ingeniør, gass- og energiteknologi, HiT</p>
-<p>B57 <em type="bold">20 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B57</p>
 <p>Ingeniør, industriell design, Fredrikstad, HiØ</p>
 <p>B61</p>
 <p>Ingeniør, Industriell Elektronikk, HiN</p>
@@ -2885,11 +2835,7 @@
 <p>Flerkameraproduksjon, HiL</p>
 <p>B48</p>
 <p>Ingeniør, elektronikk, Grimstad, UiA</p>
-<p>B70 <em type="bold">21 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B70</p>
 <p>Ingeniør, kommunikasjonssystemer, HiB</p>
 <p>B42</p>
 <p>Interkult. kommunikasjon og globalt samarb., MHS</p>
@@ -3128,11 +3074,7 @@
 <p>Historie, årsstudium, UiA</p>
 <p>Å70</p>
 <p>Historie, årsstudium, UiB</p>
-<p>Å72 <em type="bold">22 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å72</p>
 <p>Historie, årsstudium, UiO</p>
 <p>Å76</p>
 <p>Historie årsstudium, HVO</p>
@@ -3388,11 +3330,7 @@
 <p>Kunsthistorie, årsstudium, UiO</p>
 <p>Å76</p>
 <p>Kunstvitenskap, UiT</p>
-<p>B80 <em type="bold">23 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B80</p>
 <p>Kybernetikk Informasjonsteknologi, UiS</p>
 <p>M79</p>
 <p>Ingeniør, Automatiseringsteknikk, UiT</p>
@@ -3617,11 +3555,7 @@
 <p>Skipsfart og logistikk, HiVe</p>
 <p>B59</p>
 <p>Yrkesfaglærerutd. i service og samferdsel , HiAk</p>
-<p>B41 <em type="bold">24 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B41</p>
 <p>Økonomi og administrasjon, HiB</p>
 <p>B42</p>
 <p>Økonomi og administrasjon, HiM</p>
@@ -3853,11 +3787,7 @@
 <p>Kommunikasjon, årsstudium, UiA</p>
 <p>Å70</p>
 <p>Media, IKT og design, HVO</p>
-<p>B60 <em type="bold">25 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B60</p>
 <p>Mediedesign, HiG</p>
 <p>B45</p>
 <p>Mediefag, Rena, HiHm</p>
@@ -4080,11 +4010,7 @@
 <p>Husdyrfag, velferd og produksjon, Steinkjer, HiNT</p>
 <p>B52</p>
 <p>Husdyrvelferd, Steinkjer, årsstudium, HiNT</p>
-<p>Å52 <em type="bold">26 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å52</p>
 <p>Husdyrvitenskap, UMB</p>
 <p>B69</p>
 <p>Idrett, UiA</p>
@@ -4309,11 +4235,7 @@
 <p>Økonomi og ledelse, årsstudium, HiG</p>
 <p>Å45</p>
 <p>Ortopedi Ortopediingeniør, HiO</p>
-<p>B52 <em type="bold">27 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B52</p>
 <p>Pedagogikk Barnevern, HiL</p>
 <p>B48</p>
 <p>Barnevern, UiN</p>
@@ -4572,11 +4494,7 @@
 <p>Sosialt arbeid, barnevernspedagog, HVO</p>
 <p>B60</p>
 <p>Ungdomskunnskap, årsstudium, HiVe</p>
-<p>Å59 <em type="bold">28 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å59</p>
 <p>Personalleiing Organisasjons- og ledelsesfag, Rena, HiHm</p>
 <p>B46</p>
 <p>Petroleumsfag Ingeniør, materialteknikk, HiST</p>
@@ -4799,11 +4717,7 @@
 <p>Havbruksbiologi, UiB</p>
 <p>B72</p>
 <p>Industriell matematikk, UiT</p>
-<p>M80 <em type="bold">29 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>M80</p>
 <p>Informatikk: tekniske og naturvitenskaplige anv., UiO</p>
 <p>B76</p>
 <p>Ingeniør, Prosess/gassteknologi, UiT</p>
@@ -5046,11 +4960,7 @@
 <p>Regnskap og revisjon, UiN</p>
 <p>B74</p>
 <p>Regnskap og revisjon, UiS</p>
-<p>B79 <em type="bold">30 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B79</p>
 <p>Regnskapsførerfag, Rena, HiHm</p>
 <p>B46</p>
 <p>Revisjon, HiM</p>
@@ -5296,11 +5206,7 @@
 <p>Sosialantropologi, årsstudium, UiB</p>
 <p>Å72</p>
 <p>Sosiologi, HiVe</p>
-<p>B59 <em type="bold">31 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B59</p>
 <p>Sosiologi, NTNU</p>
 <p>B66</p>
 <p>Sosiologi, UiB</p>
@@ -5540,11 +5446,7 @@
 <p>Sosiologi, NTNU</p>
 <p>B66</p>
 <p>Sosiologi, UiB</p>
-<p>B72 <em type="bold">32 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B72</p>
 <p>Sosiologi, UiN</p>
 <p>B74</p>
 <p>Sosiologi, UiO</p>
@@ -5792,11 +5694,7 @@
 <p>Nordsamisk som morsmål, oppstart vår, UiT</p>
 <p>Å80</p>
 <p>Norsk, Halden, HiØ</p>
-<p>Å61 <em type="bold">33 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å61</p>
 <p>Norsk, Hamar, HiHm</p>
 <p>Å46</p>
 <p>Norsk, Hønefoss, HiBu</p>
@@ -6032,11 +5930,7 @@
 <p>Elektro, UiS</p>
 <p>B79</p>
 <p>Elektronikk, NTNU</p>
-<p>M66 <em type="bold">34 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>M66</p>
 <p>Elektroteknikk, HiN</p>
 <p>M50</p>
 <p>Energi og miljø, NTNU</p>
@@ -6290,11 +6184,7 @@
 <p>Kunst og håndverk, 1-7, HiNe</p>
 <p>Å51</p>
 <p>Kunst og håndverk, 5-10, HiNe</p>
-<p>Å51 <em type="bold">35 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>Å51</p>
 <p>Teologi Kristendom, religion og livssyn, ATH</p>
 <p>B39</p>
 <p>Kristendom, religion og livssyn, årsstudium, ATH</p>
@@ -6513,11 +6403,7 @@
 <p>Yrkesfaglærerutd. i service og samferdsel , HiAk</p>
 <p>B41</p>
 <p>Yrkesfaglærerutd. i teknikk og industriell prod., HiAk</p>
-<p>B41 <em type="bold">36 </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
-<p><em type="bold">Fagområde og studium </em></p>
-<p><em type="bold">Type Side </em></p>
+<p>B41</p>
 <p>Yrkesfaglærerutdanning helse- og sosialfag, NTNU</p>
 <p>B66</p>
 <p>Yrkesfaglærerutdanning teknikk og industriell prod, NTNU</p>
@@ -6757,7 +6643,7 @@
 <p>Økonomi og ledelse, årsstudium, deltid, HiO</p>
 <p>Å52</p>
 <p>Økonomisk administrativ ledelse, HiF</p>
-<p>Å44 <em type="bold">37 </em></p>
+<p>Å44</p>
 <p><em type="bold">Lærestedene </em>er sortert alfabetisk. </p>
 <p><em type="bold">Studiene </em>er gruppert under utdanningsområder for hvert lærested, sortert alfabetisk. I fotnoter gis andre opplysninger som kan ha betydning ved søknad. </p>
 <p><em type="bold">Studienavn </em>er så vidt mulig lik lærestedets offisielle navn på studiet, med visse tillempninger for å gjøre navnebruken enhetlig. </p>
@@ -6778,8 +6664,7 @@
 <p>Hvis feltet er <em type="bold">blankt </em>, var det ikke noe opptak i denne kvoten i 2010. </p>
 <p>Hvis det står <em type="bold">nytt </em>, er studiet nyopprettet i 2011, eller det var ikke med i det samordnede opptaket i 2010, eller opptaket til studiet er omorganisert siden 2010. </p>
 <p>Verdiene <em type="bold">åpent </em>eller <em type="bold">alle </em>betyr ikke nødvendigvis at studiet vil være åpent eller at alle vil komme inn også i 2011. </p>
-<p><em type="bold">Innhold/merknad </em>angir fordypninger og spesialiseringer, samt supplerende opp -lysninger angående varighet og type studium. Der det er gitt et faglig innhold kan studenten måtte velge mellom ulike fag. <em type="bold">38 </em></p>
-<p>Forklaring til lærestedstabellene</p>
+<p><em type="bold">Innhold/merknad </em>angir fordypninger og spesialiseringer, samt supplerende opp -lysninger angående varighet og type studium. Der det er gitt et faglig innhold kan studenten måtte velge mellom ulike fag. </p>
 <p><em type="bold">I lærestedstabellene er studiene gruppert under ulike utdanningsområder. Lærestedene har selv valgt det utdanningsområdet som passer best for det enkelte studiet. De samme tabellene finner du på </em><em type="italic">samordnaopptak.no </em><em type="bold">/ </em><em type="italic">studier </em><em type="bold">hvor du også kan søke fram diverse utvalg av studier. </em></p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -6788,7 +6673,6 @@
 <p>Studie- Ordinær</p>
 <p>Førsteg.</p>
 <p>Innhold / merknad kodekodestudiumplasservitnemål</p>
-<p>Ansgar Teologiske Høgskole (ATH) Fredrik Fransonsvei 4, 4635 KRISTIANSAND Telefon: 38106500 - Telefaks: 38106599 - www.ansgarskolen.no - haugland@ansgarskolen.no</p>
 <p>Alle årsstudier kan bygges ut til bachelorgrad.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -6860,8 +6744,7 @@
 <p>GENS</p>
 <p>Bachelor7045.740.01)</p>
 <p>Det forutsettes at studentene er innforstått med høgskolens tros- og verdigrunnlag. Ta kontakt med høgskolen for nærmere informasjon.</p>
-<p><em type="italic">I tjeneste </em><em type="italic">for mennesker </em><em type="bold">39 </em></p>
-<p>Det teologiske Menighetsfakultet (MF) Postboks 5144 Majorstua, 0302 OSLO Telefon: 22590500 - Telefaks: 22590505 - www.mf.no - post@mf.no</p>
+<p><em type="italic">I tjeneste </em><em type="italic">for mennesker </em></p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.mf.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -6957,8 +6840,7 @@
 <p>Bachelor3240.234.5</p>
 <p>Førskolelærerutdanning253 130</p>
 <p>GENS</p>
-<p>Bachelor16531.2alle <em type="bold">40 </em></p>
-<p>Fjellhaug Internasjonale Høgskole (FIH) Sinsenveien 15, 0572 Oslo Telefon: Sentralbord: 23 23 24 00 Studieveileder: 46 54 01 05 Studiesjef: 46 54 00 32 - Telefaks: 23 23 24 10 - www.fjellhaug.no - post@fjellhaug.no</p>
+<p>Bachelor16531.2alle</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad, samt andre studier med lokalt opptak, se www.fjellhaug.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -7072,8 +6954,7 @@
 <p>Bachelor30allealle</p>
 <p>Kostøkonomi, ernæring og ledelse202 897</p>
 <p>KOST</p>
-<p>Bachelor30allealle <em type="bold">41 </em></p>
-<p>Høgskolen i Bergen (HiB) Opptakskontoret, Postboks 7030, 5020 BERGEN Telefon: 55587504 - Telefaks: 55587789 - www.hib.no - opptak@hib.no</p>
+<p>Bachelor30allealle</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -7229,8 +7110,7 @@
 <p>Søkere uten realfaglig fordypning: se www.hib.no2)</p>
 <p>Alle studenter må velge et fag, se www.hib.no/studier3)</p>
 <p>Søkere må ha normalt syn og hørsel, og være førlige. Studiet kan avsluttes etter 1 år med karakterutskrift for 60 studiepoeng i tegnspråk.4)</p>
-<p>Studiet kan avsluttes etter 2 år med vitnemål for kandidatstudium. (Høgskolekandidat). <em type="bold">42 </em></p>
-<p>Høgskolen i Buskerud (HiBu) Postboks 235, Frogsvei 41, 3603 KONGSBERG Telefon: 32869500 (1000 - 1400) - Telefaks: 32869883 - www.hibu.no - studieinfo@hibu.no</p>
+<p>Studiet kan avsluttes etter 2 år med vitnemål for kandidatstudium. (Høgskolekandidat).</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.hibu.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -7357,8 +7237,7 @@
 <p>Studiet er en del av Oslofjordalliansen mellom høyskolene i Vestfold, Østfold og Buskerud og Universitetet for miljø- og biovitenskap.4)</p>
 <p>Søkere med generell studiekompetanse, uten fordypning i matematikk og fysikk (R1, R2 og F1), kan søke lokalt opptak via Tresemesterordningen og/eller Forkurs for ingeniørutdanning. Se informasjon på www.hibu.no5)</p>
 <p>Søkere med relevant fagbrev kan søke opptak gjennom Y-veien lokalt til høyskolen.6)</p>
-<p>Studiet kan avsluttes etter 3 år med bachelorgrad <em type="bold">43 </em></p>
-<p>Høgskolen i Finnmark (HiF) Opptakskontoret, Follums vei 31, 9509 ALTA Telefon: 78450500 - Telefaks: 78434438 - www.hifm.no - opptak@hifm.no</p>
+<p>Studiet kan avsluttes etter 3 år med bachelorgrad</p>
 <p>Om mulighetene for påbygging til mastergrader, se www.hifm.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -7453,8 +7332,7 @@
 <p>Valgfag: naturfag med norsk/matte eller samfunnsfag med norsk/matte, www.hifm.no2)</p>
 <p>Fordypning i hotell- og vertsskapsledelse eller fordypning i opplevelsesturisme3)</p>
 <p>Studiet tilbys i tre løp; Akademisk engelsk, Engelsk for lærere, Internasjonal engelsk. Studiet inneholder integrerte studieopphold i Russland, England m.fl.4)</p>
-<p>Er tilrettelagt for studenter som følger russiskundervisning i russiskspråklige land <em type="bold">44 </em></p>
-<p>Høgskolen i Gjøvik (HiG) Postboks 191, Teknologiveien 22, 2802 GJØVIK Telefon: 61135400/61135401 - Telefaks: 61135405 - www.hig.no - studenttorget@hig.no</p>
+<p>Er tilrettelagt for studenter som følger russiskundervisning i russiskspråklige land</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -7586,8 +7464,7 @@
 <p>Fokus på privat næringsliv.</p>
 <p>Økonomi og ledelse, årsstudium207 160</p>
 <p>GENS</p>
-<p>Årsstudium30åpentåpent <em type="bold">45 </em></p>
-<p>Høgskolen i Harstad (HiH) Havnegata 5, 9480 HARSTAD Telefon: 77058100 - Telefaks: 77058101 - www.hih.no - opptak@hih.no</p>
+<p>Årsstudium30åpentåpent</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -7729,10 +7606,7 @@
 <p>Bachelor6034.5alle</p>
 <p>Grunnskolelærer 5.-10. trinn, Hamar 6)209 651</p>
 <p>LÆRER</p>
-<p>Yrkesutd60åpentåpent1.år velges Engelsk, Norsk el. Matte. Flere fagvalg i 2.og 4.år,se fotnote 6 <em type="bold">46 </em></p>
-<p>Grunnskolelærer 1.-7. trinn, Hamar 6)209 547</p>
-<p>LÆRER</p>
-<p>Yrkesutd60åpentåpent1. år: Pedagogikk &amp; elevkunnskap, Matte og Norsk. Fagvalg i 2.- 4.år,se fotnote 6</p>
+<p>Yrkesutd60åpentåpent1.år velges Engelsk, Norsk el. Matte. Flere fagvalg i 2.og 4.år,se fotnote 6</p>
 <p>Grunnskolelærer 1.-7. trinn, samlingsbasert 6) 7)209 548</p>
 <p>LÆRER</p>
 <p>Yrkesutd40åpentåpent1. år: Pedagogikk &amp; elevkunnskap, Matte og Norsk. Fagvalg i 2.- 4.år,se fotnote 6</p>
@@ -7842,8 +7716,7 @@
 <p>Mulige fagvalg: Norsk, Matte, Engelsk, Naturfag, Mat og helse, RLE, Samf.fag, Kr.øv, Musikk7)</p>
 <p>Praksisplasser i Hedmark, Oppland, Akershus og Oslo. Ikke alle fagvalg i 2. og 4. studieår blir samlingsbasert.8)</p>
 <p>Jegerprøven tas i begynnelsen av studieløpet for de som ikke har denne fra før. Det er en fordel med erfaring fra fluefiske.9)</p>
-<p>Deltidsutdanning over 2 år. 2 - 3 samlinger pr. semester på Rena10) Fjerde semester gjennomføres ved Högskolan i Dalarna, Falun (Sverige) 11) Søkere med fagbrev innen service og samferdsel kan tas opp til studiet uten å ha generell studiekompetanse (<span type="quote">"y-veien"</span>). Disse må søke opptak til studiet i høgskolens lokale opptak. Sewww.hihm.no/opptak. <em type="bold">47 </em></p>
-<p>Høgskolen i Lillehammer (HiL) Postboks 952, 2604 LILLEHAMMER Telefon: 61288102 (studenttorget) - Telefaks: 61288105 - www.hil.no - opptak@hil.no</p>
+<p>Deltidsutdanning over 2 år. 2 - 3 samlinger pr. semester på Rena10) Fjerde semester gjennomføres ved Högskolan i Dalarna, Falun (Sverige) 11) Søkere med fagbrev innen service og samferdsel kan tas opp til studiet uten å ha generell studiekompetanse (<span type="quote">"y-veien"</span>). Disse må søke opptak til studiet i høgskolens lokale opptak. Sewww.hihm.no/opptak.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -7950,8 +7823,7 @@
 <p>Økonomi og administrasjon, årsstudium210 164</p>
 <p>GENS</p>
 <p>Årsstudium2046.744.51)</p>
-<p>CV, essay og passbilde, se punkt 1 til 3 i kravkoden, skal sendes i 4 eks. til høgskolen innen 15. april <em type="bold">48 </em></p>
-<p>Høgskolen i Molde (HiM) Vitenskapelig høgskole i logistikk</p>
+<p>CV, essay og passbilde, se punkt 1 til 3 i kravkoden, skal sendes i 4 eks. til høgskolen innen 15. april</p>
 <p>Postboks 2110, 6402 MOLDE Telefon: 71214000/71214171 - Telefaks: 71214132/71214100 - www.himolde.no - postmottak@himolde.no</p>
 <p>Om muligheter for opptak til videreutdanninger og mastergrad, se www.himolde.no</p>
 <p>Studienavn</p>
@@ -8025,8 +7897,7 @@
 <p>Revisjon, Logistikk, Informasjonsbehandling, Jus, Innovasjon ogentreprenørskap1)</p>
 <p>Studiegruppe Kristiansund får deler av undervisningen tilrettelagt i Kristiansund. Praksisstudiene vil skje i Kristiansund og på Nordmøre. Videre vil både opplæring i øvingsavdeling, noe veiledning, eksamensavvikling og deler av teoriundervisningen foregå i Kristiansund. Undervisningen som gis til samlet kull vil fortsatt foregå i Molde. I første studieår må studentene som tilhører <span type="quote">”studiegruppe Kristiansund”</span> være forberedt på å følge undervisning i Molde gjennomsnittlig ca 2 dager/uke. Senere i studiet vil reisebehovet til Molde bli mindre. Studentene får ikke reisestøtte til fellesundervisningen i Molde.2)</p>
 <p>Studiet blir gitt i samarbeid med Høgskolen i Ålesund. Undervisningen finner sted ved Høgskolen i Ålesund3)</p>
-<p>Desentralisert studium med undervisning lagt til høgskolens lokaler i Kristiansund. <em type="bold">49 </em></p>
-<p>Høgskolen i Narvik (HiN) Postboks 385, Lodve Langes gt. 2, 8514 NARVIK Telefon: 76966000 - Telefaks: 76966810 - www.hin.no - opptak@hin.no</p>
+<p>Desentralisert studium med undervisning lagt til høgskolens lokaler i Kristiansund.</p>
 <p>Om muligheter for påbygging mastergrad, se www.hin.no.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -8122,8 +7993,7 @@
 <p>Studiet består av 3-årig bachelor i ingeniørfag + 2-årig master i teknologi/sivilingeniør3)</p>
 <p>Søkere med generell studiekompetanse, men som mangler realfagfagskravene (R1+R2 og FYS1), kan søke opptak gjennom treterminordning lokalt til høgskolen.4)</p>
 <p>Nettbasert ingeniørutdanning i kombinasjon med samlinger.5)</p>
-<p>Søkere med relevant fagbrev kan søke opptak gjennom Y-veien lokalt til høgskolen. <em type="bold">50 </em></p>
-<p>Høgskolen i Nesna (HiNe) 8700 NESNA Telefon: 75057800 - Telefaks: 75057900 - www.hinesna.no - opptak@hinesna.no</p>
+<p>Søkere med relevant fagbrev kan søke opptak gjennom Y-veien lokalt til høgskolen.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.hinesna.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -8186,8 +8056,7 @@
 <p>Årsstudium10åpentåpent</p>
 <p>Engelsk årsstudium, 5-10213 170</p>
 <p>GENS</p>
-<p>Årsstudium10nyttnytt <em type="bold">51 </em></p>
-<p>Høgskolen i Nord-Trøndelag (HiNT) HiNT opptak, postboks 93, 7601 LEVANGER Telefon: 74112030 - Telefaks: 74022501 - www.hint.no - opptak@hint.no</p>
+<p>Årsstudium10nyttnytt</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se hint.no/studier</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -8319,10 +8188,7 @@
 <p>Bachelor1248.341.82-årig studium + 1-årig påbygging i estetiske fag el er fra annetgodkjent fagområde</p>
 <p>Drama og teaterkommunikasjon, årsstudium215 618</p>
 <p>GENS</p>
-<p>Årsstudium1643.035.5 <em type="bold">52 </em></p>
-<p>Kunst og design 1)215 200</p>
-<p>GENS</p>
-<p>Bachelor2654.446.52-årig studium + 1-årig påbygging i estetiske fag el er fra annetgodkjent fagområde</p>
+<p>Årsstudium1643.035.5</p>
 <p>Kunst og design - tekstil, årsstudium215 505</p>
 <p>GENS</p>
 <p>Årsstudium1552.246.7</p>
@@ -8494,8 +8360,7 @@
 <p>Studiet har 10 prosent kvote for søkere med journalistisk praksis, alle kvalifiserte søkere fikk tilbud i kvoten. I tillegg kan det tas inn 5 søkere med minoritetsbakgrunn, poenggrense i minoritetskvoten 50,0.4)</p>
 <p>Poenggrenser fra 2008.5)</p>
 <p>Poenggrenser fra 2009.6)</p>
-<p>Studiet i økonomi og administrasjon kan avsluttes etter 2 år med graden høgskolekandidat. <em type="bold">53 </em></p>
-<p>Høgskulen i Sogn og Fjordane (HSF) Postboks 133, 6851 SOGNDAL Telefon: 57676000 - Telefaks: 57676100 - www.hisf.no - opptak@hisf.no</p>
+<p>Studiet i økonomi og administrasjon kan avsluttes etter 2 år med graden høgskolekandidat.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad, se www.hisf.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -8624,8 +8489,7 @@
 <p>GENS</p>
 <p>Bachelor40allealle1)</p>
 <p>Studentane vel naturfaglege emne innanfor fagområda geologi, botanikk og økologi2)</p>
-<p>Y-veg: Søkjarar med relevant fagbrev i elektro kan søkje opptak gjennom Y-vegen lokalt til høgskulen. Tretermin: Søkjarar som ikkje fyller dei spesielle opptakskrava i realfag (R1 + R2/3MX og FYS1/2FY), kan søkje opptak gjennom tresemesterordninga lokalt til høgskulen. <em type="bold">54 </em></p>
-<p>Høgskolen i Staffeldtsgate (STAF) Staffeldtsgate 2, 0166 Oslo Telefon: 934 16 767 - Telefaks: 22 98 61 01 - www.his.no - opptak@his.no</p>
+<p>Y-veg: Søkjarar med relevant fagbrev i elektro kan søkje opptak gjennom Y-vegen lokalt til høgskulen. Tretermin: Søkjarar som ikkje fyller dei spesielle opptakskrava i realfag (R1 + R2/3MX og FYS1/2FY), kan søkje opptak gjennom tresemesterordninga lokalt til høgskulen.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -8726,8 +8590,7 @@
 <p>Bachelor10034.532.9</p>
 <p>Profilering: Finans og økonomistyring, Ledelse, organisasjon og strategi,</p>
 <p>Regnskapsføring.1)1. og 2. studieår har man norsk, matematikk og pedagogikk og elevkunnskap som obligatoriske fag. I tillegg til dette kan man velge mellom naturfag, kunst og håndverk eller samfunnsfag. 3. året fortsetter man med pedagogikk og elevkunnskap sammen med påbygging av et av fagene eller velger et nytt fag. 4. året kan man velge andre undervisningsfag eller gå videre på master.2)1. og 2. studieår velger man norsk eller matematikk. I tillegg kan man velge naturfag, samfunnsfag eller kunst og håndverk. 3. studieår bygger man på disse fagene. Alle 3 årene har pedagogikk og elevkunnskap som obligatorisk fag (til sammen 60 sp) 4. år kan man gå videre på master, bygge på fag man har tatt eller velge et nytt fag.3)</p>
-<p>Søkere uten realfaglig fordypning kan søke opptak gjennom tresemesterordning lokalt til høgskolen. <em type="bold">55 </em></p>
-<p>Høgskolen i Sør-Trøndelag (HiST) Høgskolen i Sør-Trøndelag, Opptakstjenesten, 7004 TRONDHEIM Telefon: 73559100 - Telefaks: 73559451 - www.hist.no - opptakstjenesten@hist.no</p>
+<p>Søkere uten realfaglig fordypning kan søke opptak gjennom tresemesterordning lokalt til høgskolen.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -8842,8 +8705,7 @@
 <p>Bachelor31049.445.2</p>
 <p>Markedsføring, finans, revisjon, regnskap, organisasjon og ledelse,økonomisk styring, samf.øk.1)</p>
 <p>Studenter som har 60 studiepoeng i tegnspråk som innfrir karakterkrav, kan søke fritak for første studieår.2)</p>
-<p>Tilbudet av spesialiseringsretninger innen hver ingeniørutdanning kan variere over tid, blant annet avhengig av antall interesserte studenter. <em type="bold">56 </em></p>
-<p>Høgskolen i Telemark (HiT) Opptakskontoret, Pb. 203, 3901 PORSGRUNN Telefon: kl. 9-11og 12-15: 35 57 53 00 - Telefaks: 35 57 50 02 - www.hit.no - opptak@hit.no</p>
+<p>Tilbudet av spesialiseringsretninger innen hver ingeniørutdanning kan variere over tid, blant annet avhengig av antall interesserte studenter.</p>
 <p>Om muligheter for påbygging til mastergrad, se www.hit.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9019,11 +8881,7 @@
 <p>Kandidat5allealle</p>
 <p>Kultur-arrangering, formidling og forvaltning, Bø220 308</p>
 <p>GENS</p>
-<p>Bachelor25allealle <em type="bold">57 </em></p>
-<p>Språk, litteratur</p>
-<p>Engelsk årsstudium, Bø220 170</p>
-<p>GENS</p>
-<p>Årsstudium30allealle</p>
+<p>Bachelor25allealle</p>
 <p>Norsk årsstudium, Bø220 210</p>
 <p>GENS</p>
 <p>Årsstudium20allealle</p>
@@ -9082,8 +8940,7 @@
 <p>Trainee: Mulighet for å arbeide deltid ved samarbeidsskoler mens du studerer.4)</p>
 <p>Høgskolen i Telemark har en avtale med 11 studiesentra om desentralisert undervisning.5)</p>
 <p>Studiet bygger på spanskkunnskaper tilsvarende spansk B- eller C-språk fra videregående skole.6)</p>
-<p>Søkere uten realfaglig fordypning kan søke opptak på tresemesterordningen lokalt til høgskolen. Søkere med relevant fagbrev i R94 kan søke opptak på Y-veien lokalt til skolen. <em type="bold">58 </em></p>
-<p>Høgskolen i Vestfold (HiVe) Opptakskontoret, Postboks 2243, 3103 TØNSBERG Telefon: 33037000, hverdager 0900-1130 og 1200-1430 - Telefaks: 33031100 - www.hive.no -opptak@hive.no</p>
+<p>Søkere uten realfaglig fordypning kan søke opptak på tresemesterordningen lokalt til høgskolen. Søkere med relevant fagbrev i R94 kan søke opptak på Y-veien lokalt til skolen.</p>
 <p>Om muligheter for påbygging mastergrad, se www.hive.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9229,8 +9086,7 @@
 <p>GENS</p>
 <p>Bachelor8544.536.71)</p>
 <p>Studieprogrammet er en del av tilbudet i Oslofjordalliansen mellom høgskolene i Vestfold, Buskerud, Østfold og Universitetet for miljø- og biovitenskap.2)</p>
-<p>Søkere med relevant linje fra teknisk fagskole kan søke om godkjenning av fag, og gjennomføre Bachelor i ingeniørfag på to år. <em type="bold">59 </em></p>
-<p>Høgskulen i Volda (HVO) Opptak, Postboks 114 Opptak, 6101 VOLDA Telefon: 70075000 - Telefaks: 70075051 - www.hivolda.no - sok@hivolda.no</p>
+<p>Søkere med relevant linje fra teknisk fagskole kan søke om godkjenning av fag, og gjennomføre Bachelor i ingeniørfag på to år.</p>
 <p>Om påbyggjing til bachelor- og mastergrad, sjå www.hivolda.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9383,8 +9239,7 @@
 <p>Bachelor15allealle1)</p>
 <p>Opptaket til studiet har krav om innsending av arbeidsprøver. Med utgangspunkt i ei vurdering av arbeidsprøvene vert ei gruppe søkjarar plukka ut til å gjennomføre ei opptaksprøve ved HVO. Det vert sendt ut eigen informasjon.2)</p>
 <p>Opptak til studiet føreset minimum 40 prosent stilling i barnehage gjennom heile studiet.3)</p>
-<p>Fordeling av plassar til spesialiseringane skjer på grunnlag av konkurransepoeng. <em type="bold">60 </em></p>
-<p>Høgskolen i Østfold (HiØ) Opptakskontoret, 1757 HALDEN Telefon: 69215000 (sentr.bord) 69215032 (opptakskontoret) - Telefaks: 69215002 - www.hiof.no - opptak@hiof.no</p>
+<p>Fordeling av plassar til spesialiseringane skjer på grunnlag av konkurransepoeng.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning ved Høgskolen i Østfold, se www.hiof.no/studier</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9547,9 +9402,7 @@
 <p>Anbefalt forkunnskaper i B/C-språk. Studiet kan profileres mot lærerutdanning.5)</p>
 <p>I studiet inngår utveksling til et engelskspråklig partneruniversitet i utlandet i 4. semester.6)</p>
 <p>Søkere uten realfaglig fordypning kan søke opptak gjennom tresemesterordning lokalt til høgskolen.7)</p>
-<p>Studieprogrammet er en del av Oslofjordalliansen mellom høgskolene i Vestfold, Buskerud og Østfold og Universitetet for miljø- og biovitenskap.8)</p>
-<p>Søkere med relevant fagbrev kan søke opptak gjennom Y-veien lokalt til høgskolen. <em type="bold">61 </em></p>
-<p>Høgskolen i Ålesund (HiÅ) Opptakskontoret, Postboks 1517, 6025 ÅLESUND Telefon: 70161200 - Telefaks: 70161300 - www.hials.no/studier - studentservice@hials.no</p>
+<p>Studieprogrammet er en del av Oslofjordalliansen mellom høgskolene i Vestfold, Buskerud og Østfold og Universitetet for miljø- og biovitenskap.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -9642,8 +9495,7 @@
 <p>Medisin, odontologi, helse- og sosialfag</p>
 <p>Sykepleierutdanning230 050</p>
 <p>GENS</p>
-<p>Bachelor16043.637.7 <em type="bold">62 </em></p>
-<p>Mediehøgskolen Gimlekollen (MHG) Postboks 410 Lundsiden, 4604 Kristiansand Telefon: Sentralbord: 38145000 Opptaksleder: 38145059 Studieveileder: 38145060 - Telefaks: 38145040 -www.mediehogskolen.no - post@mediehogskolen.no</p>
+<p>Bachelor16043.637.7</p>
 <p>Alle årsstudier kan bygges ut til bachelorgrad.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9739,8 +9591,7 @@
 <p>Samfunnsfag256 680</p>
 <p>GENS</p>
 <p>Årsstudium25allealle1 mnd. studieopphold ved Makerere Univ. i Uganda el er Chulalongkorn</p>
-<p>Univ. i Thailand er normalt del av årsstudiet. Studentene kan regne med reisestøtte fra Lånekassen, men turen koster 22-26000. <em type="bold">63 </em></p>
-<p>NLA Høgskolen (NLA) Postboks 74 , Amalie Skramsvei 3, 5812 BERGEN Telefon: 55540700 - Telefaks: 55540701 - www.nla.no - opptak@nla.no</p>
+<p>Univ. i Thailand er normalt del av årsstudiet. Studentene kan regne med reisestøtte fra Lånekassen, men turen koster 22-26000.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad, se www.nla.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9806,8 +9657,7 @@
 <p>Studiet inneholder praksis (6 uker) i Norge i vårsemesteret.4)</p>
 <p>Studiet inneholder ekskursjon (6 uker) til Sør-Amerika i vårsemesteret.5)</p>
 <p>Studiet inneholder ekskursjon (6 uker) til Øst-Afrika i vårsemesteret.6)</p>
-<p>Studiet inneholder ekskursjon (6 uker) til Øst-Asia i vårsemesteret. <em type="bold">64 </em></p>
-<p>Norges Handelshøyskole (NHH) Opptaksseksjonen, Helleveien 30, 5045 BERGEN Telefon: 55959595 - Telefaks: 55959565 - www.nhh.no - opptak@nhh.no</p>
+<p>Studiet inneholder ekskursjon (6 uker) til Øst-Asia i vårsemesteret.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
 <p>Krav-</p>
@@ -9842,8 +9692,7 @@
 <p>Faglærer i kroppsøving og idrettsfag, Fysisk aktivitet og helse,</p>
 <p>Idrettsbiologi, Sport management, Trening, coaching og idrettspsykologi.1)</p>
 <p>Studiet har spesielle kvoter, se www.nih.no.2)</p>
-<p>Det første studieåret er felles for alle. Valg av studieretning gjøres i løpet av første studieår. <em type="bold">65 </em></p>
-<p>Norges teknisk-naturvitenskapelige universitet (NTNU) Studieavdelingen, Opptakskontoret Gløshaugen, 7491 TRONDHEIM Telefon: 73597700 - Telefaks: 73550466 - www.ntnu.no - opptak@adm.ntnu.no</p>
+<p>Det første studieåret er felles for alle. Valg av studieretning gjøres i løpet av første studieår.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.ntnu.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -9990,14 +9839,7 @@
 <p>Kjemi194 860</p>
 <p>REALFA</p>
 <p>Bachelor2548.849.8</p>
-<p>Ulike fordypninger i kjemi. <em type="bold">66 </em></p>
-<p>Matematikk og statistikk, årsstudium194 205</p>
-<p>REALFA</p>
-<p>Årsstudium2552.845.8</p>
-<p>Matematiske fag194 862</p>
-<p>REALFA</p>
-<p>Bachelor3048.647.9</p>
-<p>Ulike fordypninger.</p>
+<p>Ulike fordypninger i kjemi.</p>
 <p>Mediefag, bibliotekfag og journalistfag</p>
 <p>Film- og videoproduksjon194 646</p>
 <p>GENS</p>
@@ -10165,13 +10007,7 @@
 <p>Master9048.048.6</p>
 <p>Energi og miljø 4)194 769</p>
 <p>ING4R2</p>
-<p>Master10053.954.2 <em type="bold">67 </em></p>
-<p>Fysikk og matematikk 4)194 763</p>
-<p>ING4R2</p>
-<p>Master8054.055.5</p>
-<p>Industriell design 4)194 768</p>
-<p>ING4R2</p>
-<p>Master2858.554.4</p>
+<p>Master10053.954.2</p>
 <p>Industriell kjemi og bioteknologi 4)194 764</p>
 <p>ING4R2</p>
 <p>Master10052.353.9</p>
@@ -10279,8 +10115,7 @@
 <p>Yrkesutd12allealle1)</p>
 <p>Praksisstedene blir fordelt i det samiske området i Norge, Sverige og Finland.</p>
 <p>Sámi University Col ege</p>
-<p>Sámi al askuvla <em type="bold">68 </em></p>
-<p>Universitetet for miljø- og biovitenskap (UMB) Postboks 5003, 1432 ÅS Telefon: 64966100 - Telefaks: 64966021 - www.umb.no - sit@umb.no</p>
+<p>Sámi al askuvla</p>
 <p>Alle bachelorstudier kan bygges ut til mastergrad, se www.umb.no.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -10415,8 +10250,7 @@
 <p>GENS</p>
 <p>Bachelor9043.640.0</p>
 <p>Bedriftsøkonomi, Finans, Ledelse, Miljø-økonomi, Samfunnsøkonomi.1.del av Siviløkonom-studiet.1)</p>
-<p>Integrert 5-årig studium2)5-årig Master i teknologi/sivilingeniør. Studieprogrammet er en del av Oslofjordalliansen mellom høyskolene i Vestfold, Buskerud og Østfold og Universitetet for miljø- og biovitenskap <em type="bold">69 </em></p>
-<p>Universitetet i Agder (UiA) Opptak, Postboks 422, 4604 KRISTIANSAND S Telefon: Servicetorget 38 14 10 21, Sentralbord 38 14 10 00 - Telefaks: Opptakskontoret 38 14 10 14 -www.uia.no - servicetorget@uia.no</p>
+<p>Integrert 5-årig studium2)5-årig Master i teknologi/sivilingeniør. Studieprogrammet er en del av Oslofjordalliansen mellom høyskolene i Vestfold, Buskerud og Østfold og Universitetet for miljø- og biovitenskap</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.uia.no/studier</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -10575,11 +10409,7 @@
 <p>Reiselivsfag, hotellfag</p>
 <p>Opplevelsesbasert reiseliv201 317</p>
 <p>GENS</p>
-<p>Bachelor3041.037.6 <em type="bold">70 </em></p>
-<p>Samfunnsfag, psykologi</p>
-<p>Arbeids- og velferdssosiologi201 900</p>
-<p>GENS</p>
-<p>Bachelor30allealle</p>
+<p>Bachelor3041.037.6</p>
 <p>Samfunnsendring og kommunikasjon201 474</p>
 <p>GENS</p>
 <p>Bachelor30allealle</p>
@@ -10684,8 +10514,7 @@
 <p>Søkere med relevant fagbrev kan søke opptak gjennom Y-veien lokalt til universitetet.7)</p>
 <p>Studieretning på maskin.8)</p>
 <p>Kan avsluttes etter 2 år og gi graden høgskolekandidat.9)</p>
-<p>Kan avsluttes etter 3 år og gi graden bachelor i økonomi og administrasjon <em type="bold">71 </em></p>
-<p>Universitetet i Bergen (UiB) Opptak, Postboks 7850 - Opptak NOM, 5020 BERGEN Telefon: 55 58 43 00 - Telefaks: 55 58 88 21 - www.uib.no/utdanning - opptak@uib.no</p>
+<p>Kan avsluttes etter 3 år og gi graden bachelor i økonomi og administrasjon</p>
 <p>Alle bachelorstudier kan bygges ut til mastergrad.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -10864,14 +10693,7 @@
 <p>Bachelor4044.639.8</p>
 <p>Human ernæring184 708</p>
 <p>MEROD</p>
-<p>Bachelor2861.354.7 <em type="bold">72 </em></p>
-<p>Medisin184 740</p>
-<p>MEROD15065.156.9</p>
-<p>Integrert 6-6,5-årig studium til cand.med.-grad</p>
-<p>Odontologi184 742</p>
-<p>MEROD</p>
-<p>Master4862.654.2</p>
-<p>Integrert 5-årig studium</p>
+<p>Bachelor2861.354.7</p>
 <p>Tannpleie 7)184 743</p>
 <p>GENS</p>
 <p>Bachelor3148.242.4</p>
@@ -11031,8 +10853,7 @@
 <p>Studiet har kvote for søkere med relevant praksis.7)</p>
 <p>Studiet er en profesjonsutdanning som gir rett til autorisasjon som tannpleier.8)</p>
 <p>Årsstudium inklusive exphil er opptaksgrunnlag til psykologstudiet, men kan også inngå i øvrige bachelorprogrammer.9)</p>
-<p>Studiet er rettet mot lærerutdanning og forskning i faget norsk som andrespråk. <em type="bold">73 </em><em type="bold">74 </em></p>
-<p>Universitetet i Nordland (UiN) 8049 BODØ Telefon: 75517200/75517699 - Telefaks: 75517845 - www.uin.no - service@uin.no</p>
+<p>Studiet er rettet mot lærerutdanning og forskning i faget norsk som andrespråk.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.uin.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -11195,10 +11016,6 @@
 <p>Språk204 455</p>
 <p>GENS</p>
 <p>Bachelor8allealle</p>
-<p>Økonomi og administrasjon</p>
-<p>Bedriftsøkonomi, Bodø204 164</p>
-<p>GENS</p>
-<p>Årsstudium25allealle</p>
 <p>Bedriftsøkonomi, Mo i Rana204 398</p>
 <p>GENS</p>
 <p>Årsstudium8nyttnytt</p>
@@ -11241,8 +11058,7 @@
 <p>Praksissted blir fordelt på Rana, Vefsn og Alstadhaug.5)</p>
 <p>Anbefalte forkunnskaper for dette studiet er Spansk nivå II fra videregående skole, Innføring i spansk 10 stp. eller tilsvarende6)</p>
 <p>Det er anledning til å avslutte utdanningen med en bachelorgrad i økonomi og ledelse etter tre år. Spesialisering (5.studieår): entreprenørskap og innovasjonsledelse, logistikk og transport, økonomistyring, finansiering og investering, økologisk økonomi, international business and marketing. Profilering (3. studieår): entreprenørskap og småbedriftsledelse, relasjonsmarkedsføring og ledelse, regnskap og økonomistyring.7)</p>
-<p>Profilering (3. studieår): entreprenørskap og småbedriftsledelse, relasjonsmarkedsføring og ledelse, regnskap og økonomistyring. <em type="bold">75 </em></p>
-<p>Universitetet i Oslo (UiO) Seksjon for studentinformasjon og opptak, Postboks 1148 Blindern, 0318 OSLO Telefon: 22857844 - Telefaks: 22841125 - www.uio.no - studentinfo@admin.uio.no</p>
+<p>Profilering (3. studieår): entreprenørskap og småbedriftsledelse, relasjonsmarkedsføring og ledelse, regnskap og økonomistyring.</p>
 <p>De fleste bachelorstudier kan bygges ut til mastergrad.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -11366,12 +11182,7 @@
 <p>Master70allealle</p>
 <p>Integrert 5-årig studium. Fastlagte studieløp: Matematikk-Fysikk,</p>
 <p>Matematikk-Naturfag, Matematikk-Geografi, Fysikk-Matematikk, Kjemi-</p>
-<p>Biologi, Biologi-Kjemi, Matematikk-Naturfag. <em type="bold">76 </em></p>
-<p>Matematikk og naturfag</p>
-<p>Biologi 4)185 327</p>
-<p>REALFA</p>
-<p>Bachelor80allealle</p>
-<p>Fordypningsområder: Botanikk, Ferskvannsbiologi, Marinbotanikk,</p>
+<p>Biologi, Biologi-Kjemi, Matematikk-Naturfag.</p>
 <p>Marinzoologi, Plantefysiologi, Zoologi</p>
 <p>Elektronikk og datateknologi 3) 4)185 856</p>
 <p>REALFA</p>
@@ -11551,15 +11362,7 @@
 <p>Italiensk185 565</p>
 <p>GENS</p>
 <p>Bachelor30nyttnytt</p>
-<p>Studieprogram på program Europeiske og amerikanske studier: språk,litteratur, område <em type="bold">77 </em></p>
-<p>Japansk med Japan-studier185 582</p>
-<p>GENS</p>
-<p>Bachelor5049.443.7</p>
-<p>Studieretning på program for Asiatiske og afrikanske studier</p>
-<p>Kinesisk med Kina-studier185 592</p>
-<p>GENS</p>
-<p>Bachelor5047.040.0</p>
-<p>Studieretning på program for Asiatiske og afrikanske studier</p>
+<p>Studieprogram på program Europeiske og amerikanske studier: språk,litteratur, område</p>
 <p>Lingvistikk185 893</p>
 <p>GENS</p>
 <p>Bachelor1549.039.5</p>
@@ -11637,8 +11440,7 @@
 <p>For å være med i konkurransen om studieplass til både studiet med oppstart høsten 2011 og studiet med oppstart våren 2012, må søkere føre opp både høst- og våralternativet på søknaden.7)</p>
 <p>Det stilles krav om karakteren C eller bedre for opptak til masterspesialiseringen.8)</p>
 <p>Anbefalte forkunnskaper for dette studiet er fremmedspråk nivå II fra videregående skole med karakter 4 eller bedre eller tilsvarende kunnskaper. Nybegynnerkurs tilbys ikke.9)</p>
-<p>Årsstudium norsk som andrespråk og studieretningen Nordisk språk og litteratur og norsk som andrespråk på programmet Nordiske studier forutsetter meget gode kunnskaper i norsk, tilnærmet morsmålskompetanse. Studiene gir ikke opplæring i norsk som fremmedspråk.10) Studietilbudet innenfor tegnspråk og tolking planlegges overført fra Universitetet i Oslo til Høgskolen i Oslo fra og med studieåret 2011/2012. Dette innebærer at studiene kun vil blitilbudt ved en av institusjonene, og at det kun vil stå som tilgjengelige søknadsalternativer ved en av institusjonene når Nettsøknad åpner 1.februar. Se forøvrig Høgskolen i Oslos studietilbud. <em type="bold">78 </em></p>
-<p>Universitetet i Stavanger (UiS) Opptakskontoret, 4036 STAVANGER Telefon: 51831052 - Telefaks: 51831042 - www.uis.no - opptak@uis.no</p>
+<p>Årsstudium norsk som andrespråk og studieretningen Nordisk språk og litteratur og norsk som andrespråk på programmet Nordiske studier forutsetter meget gode kunnskaper i norsk, tilnærmet morsmålskompetanse. Studiene gir ikke opplæring i norsk som fremmedspråk.10) Studietilbudet innenfor tegnspråk og tolking planlegges overført fra Universitetet i Oslo til Høgskolen i Oslo fra og med studieåret 2011/2012. Dette innebærer at studiene kun vil blitilbudt ved en av institusjonene, og at det kun vil stå som tilgjengelige søknadsalternativer ved en av institusjonene når Nettsøknad åpner 1.februar. Se forøvrig Høgskolen i Oslos studietilbud.</p>
 <p>Om muligheter for påbygging til mastergrad, se www.uis.no/studietilbud</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -11807,8 +11609,7 @@
 <p>Økonomi og administrasjon - siviløkonom, master 217 345</p>
 <p>MATRS</p>
 <p>Master40nyttnytt1)</p>
-<p>Det stilles krav om karakteren C eller bedre for opptak til masterspesialiseringen. <em type="bold">79 </em></p>
-<p>Universitetet i Tromsø (UiT) Avdeling for utdanning, Opptakskontoret, 9037 TROMSØ Telefon: 77645590 - Telefaks: 77623210 - www.uit.no - opptak@uit.no</p>
+<p>Det stilles krav om karakteren C eller bedre for opptak til masterspesialiseringen.</p>
 <p>De fleste bachelorstudier kan bygges ut til mastergrad. For mer informasjon, se uit.no/studiekatalog</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -11977,13 +11778,7 @@
 <p>Årsstudium10allealle</p>
 <p>Politikk, økonomi og filosofi186 878</p>
 <p>GENS</p>
-<p>Bachelor20åpentåpent <em type="bold">80 </em></p>
-<p>Psykologi186 876</p>
-<p>GENS</p>
-<p>Bachelor7046.738.7</p>
-<p>Psykologi, årsstudium 8)186 752</p>
-<p>GENS</p>
-<p>Årsstudium200allealle</p>
+<p>Bachelor20åpentåpent</p>
 <p>Samfunnsplanlegging og kulturforståelse186 474</p>
 <p>GENS</p>
 <p>Bachelor10åpentåpent</p>
@@ -12103,7 +11898,7 @@
 <p>Nordnorsk kvote: 45.5. Nordnorsk førstegangsvitnemålskvote: 39.6. Samisk kvote: Poenggrense oppgis ikke.7)</p>
 <p>Nordnorsk kvote: 45.4. Nordnorsk førstegangsvitnemålskvote: 41.8. Samisk kvote: Poenggrense oppgis ikke.8)</p>
 <p>Studiet danner grunnlag for opptak til profesjonsstudiet i psykologi (cand.psychol.).9)</p>
-<p>Forkurs (1-årig) og tresemesterordning tilbys. <em type="bold">81 </em></p>
+<p>Forkurs (1-årig) og tresemesterordning tilbys.</p>
 <p><em type="bold">ANIM </em>Godkjent innsendt arbeidsprøve og opptaksprøve </p>
 <p><em type="bold">ARKA / ARKI </em>Opptaksprøve. Hjemmeoppgave legges ut 1.april på AHOs nettsider aho.no </p>
 <p><em type="bold">ARKN </em>(R1+R2) og FYS1 Søkere med 2-årig teknisk fagskole (rammeplan av 1998/99 eller tidligere ordninger) må dokumentere kunnskaper tilsvarende Matematikk R2 Søkere med nyere godkjent teknisk fagskoleutdanning (etter Lov om fagskoleutdanning av 2003) må dokumentere kunnskaper tilsvarende (R1+R2) og FYS1 Det stilles ikke krav om generell studiekompetanse for søkere med bestått 2-årig teknisk fagskole </p>
@@ -12125,8 +11920,7 @@
 <p><em type="bold">MARTE </em>Søkere med bestått 2-årig teknisk fagskole eller bestått 1-årig forkurs for ingeniør- og maritim høyskoleutdanning er kvalifisert uten hensyn til kravet om generell studiekompetanse </p>
 <p><em type="bold">MATRS </em>R1/(S1+S2) </p>
 <p><em type="bold">MEROD </em>R1/(S1+S2) og FYS1 og KJE(1+2) </p>
-<p><em type="bold">MUHIHM </em>Opptaksprøve Nærmere informasjon fra Høgskolen i Hedmark <em type="bold">82 </em></p>
-<p>Spesielle opptakskrav</p>
+<p><em type="bold">MUHIHM </em>Opptaksprøve Nærmere informasjon fra Høgskolen i Hedmark </p>
 <p>Kravkodene gjelder årets opptak. For nærmere orientering om kravene, kontakt lærestedet som tilbyr utdanningen. Se også sidene 94-95 om andre betingelser for å fullføre et studium.</p>
 <p>Når det spesielle opptakskravet er fagkrav, skal karakteren(e) alltid regnes inn i gjennomsnittskarakteren.</p>
 <p>Når fagkrav er angitt med skråstrek, f.eks. Matematikk R1/(S1+S2), betyr det enten/eller.</p>
@@ -12134,7 +11928,6 @@
 <p>Når Matematikk (R1+R2) er fagkrav, dekker også 3MN eller 3MX kravet.</p>
 <p>Når Matematikk (S1+S2) er fagkrav, dekker også 2MS eller 2MY eller 3MZ kravet.</p>
 <p><em type="bold">Generell studiekompetanse dekker opptakskravet til alle studier med kravkode GENS i læresteds -tabellene. Denne oversikten viser kravkodene for studier med spesielle opptakskrav. Når ikke annet er nevnt, kommer disse kravene i tillegg til kravet om generell studiekompetanse. De spesielle opptakskravene må dekkes også hvis du søker på grunnlag av realkompetanse eller søker på Restetorget. Opptaksorganet kan også vurdere annen utdanning eller dokumentasjon av kunnskapene. </em></p>
-<p><em type="bold">MUHINT </em>Opptaksprøve Nærmere informasjon fra Høgskolen i Nord-Trøndelag </p>
 <p><em type="bold">MUNTNU </em>Opptaksprøve Nærmere informasjon fra NTNU </p>
 <p><em type="bold">MUSFIH </em>Opptaksprøve Nærmere informasjon fra Fjellhaug Internasjonale Høgskole </p>
 <p><em type="bold">MUSHSH </em>Opptaksprøve Nærmere informasjon fra Høgskolen Stord/Haugesund </p>
@@ -12147,7 +11940,6 @@
 <p><em type="bold">ORTO </em>(R1+R2) og FYS1 </p>
 <p><em type="bold">POLITI </em>Må fylle minst 20 år i opptaksåret Minst karakteren 3 i norsk hovedmål (393 timer), gjennomsnitt av standpunkt og eksamen Godkjent førerkort klasse B Norsk statsborgerskap Plettfri vandel Legeerklæring Tilfredsstillende fysikk og svømmeferdigheter Personlig egnethet for tjenesten Følgeskjema må sendes inn senest 22.mars Opptaksprøve </p>
 <p><em type="bold">PROD </em>Opptaksprøve, finnes på hiak.no/pdbachelor, frist for innsending 15. mai </p>
-<p><em type="bold">REALFA </em>R1/(S1+S2) og enten (R1+R2) eller FYS(1+2) eller KJE(1+2) eller BIO(1+2) eller INFO(1+2) eller GEO(1+2) eller TEK(1+2) </p>
 <p><em type="bold">SAMI </em>Samisk som førstespråk i videregående skole, studiespesialiserende utdanningsprogram (309 timer) eller samisk språk ved forkurs for høyere utdanning eller bestått språktest i samisk </p>
 <p><em type="bold">SIVING </em>(R1+R2) og FYS1 Søkere med bestått 1-årig forkurs for ingeniør og maritim høgskoleutdanning er kvalifisert uten hensyn til kravet om generell studiekompetanse eller spesielle opptakskrav Søkere med 2-årig teknisk fagskole (rammeplan av 1998/99 eller tidligere ordninger) må dokumentere kunnskaper tilsvarende Matematikk R2 Søkere med nyere godkjent teknisk fagskoleutdanning (etter Lov om fagskoleutdanning av 2003) må dokumentere kunnskaper tilsvarende (R1+R2) og FYS1 Det stilles ikke krav om generell studiekompetanse for søkere med bestått 2-årig teknisk fagskole </p>
 <p><em type="bold">SODH </em>Minst 50 % relevant arbeidstilknytning i studietiden eller minst 2 års relevant fulltids forpraksis i løpet av siste 5 år </p>
@@ -12155,7 +11947,6 @@
 <p><em type="bold">TRAF </em>Må ha hatt gyldig førerkort klasse B (personbil) de siste tre årene </p>
 <p><em type="bold">TVPRO </em>Innen 15. april må du sende inn i fire eksemplarer til Høgskolen i Lillehammer: 1. fyldig CV som inneholder alt du mener er relevant for opptak, samt et passfoto 2. vitnemål og attester 3. essay på 1-2 maskinskrevne sider om hvorfor du egner deg til studiet, din bakgrunn, interesser, forventninger til studiet og tiden etter fullført studium CV og essay danner grunnlaget for utvelgelse til intervju/opptaksprøve </p>
 <p><em type="bold">TVFOTO / TVLYD / TVREG </em>Innen 15.april må du sende inn i fire eksemplarer til Høgskolen i Lillehammer: 1. fyldig CV som inneholder alt du mener er relevant for opptak, samt et passfoto 2. vitnemål og attester 3. essay på 1-2 maskinskrevne sider om hvorfor du egner deg til studiet, din bakgrunn, interesser, forventninger til studiet og tiden etter fullført studium CV og essay danner grunnlag for utvelgelse til intervju/opptaksprøve </p>
-<p><em type="bold">TVTEK </em>Innen 15.april må du sende inn i fire eksemplarer til Høgskolen i Lillehammer: 1. fyldig CV som inneholder alt du mener er relevant for opptak, samt et passfoto 2. vitnemål og attester 3. essay på 1-2 maskinskrevne sider om hvorfor du egner deg til studiet, din bakgrunn, interesser, forventninger til studiet og tiden etter fullført studium Du må også angi hvilken spesialisering du søker; Regi og/eller teknikk CV og essay danner grunnlag for utvelgelse til intervju/opptaksprøve </p>
 <p><em type="bold">VETE </em>R1/(S1+S2) og KJE(1+2) </p>
 <p><em type="bold">YLBYGA </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i bygg-/anleggsfag og minimum 2 års relevant yrkespraksis etter opplæringen </p>
 <p><em type="bold">YLDESH </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i design-/håndverksfag og minimum 2 års relevant yrkespraksis etter opplæringen </p>
@@ -12164,7 +11955,7 @@
 <p><em type="bold">YLMK </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i medier og kommunikasjon og minimum 2 års yrkespraksis etter opplæringen </p>
 <p><em type="bold">YLREMA </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i restaurant-/matfag og minimum 2 års relevant yrkespraksis etter opplæringen </p>
 <p><em type="bold">YLSERV </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i service/samferdsel og minimum 2 års relevant yrkespraksis etter opplæringen </p>
-<p><em type="bold">YLTEKP </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i teknikk-/produksjonsfag og minimum 2 års relevant yrkespraksis etter opplæringen <em type="bold">83 </em></p>
+<p><em type="bold">YLTEKP </em>Fag-/svennebrev eller annen 3-årig yrkesutdanning i teknikk-/produksjonsfag og minimum 2 års relevant yrkespraksis etter opplæringen </p>
 <p><em type="bold">For opptak til 2-årig ingeniørutdanning kreves relevant linje fra 2-årig teknisk fagskole uten hensyn til kravet om generell studiekompetanse eller spesielle opptakskrav. Følgende kravkoder viser hvilke linjer fra teknisk fagskole som de enkelte lærestedene har definert som relevante til de forskjellige studiene. </em></p>
 <p><em type="bold">Kravkode </em></p>
 <p><em type="bold">Studiekode </em></p>
@@ -12191,7 +11982,7 @@
 <p>Maskin, maskinteknikk</p>
 <p>MATE225 031</p>
 <p>Høgskolen i Ålesund</p>
-<p>Maskin <em type="bold">84 </em></p>
+<p>Maskin</p>
 <p type="listitem">Kunnskapsløftet</p>
 <p type="listitem">studiespesialisering:  -formgjevingsfag -realfag -språk, samfunnsfag og økonomi</p>
 <p type="listitem">idrettsfag</p>
@@ -12217,7 +12008,6 @@
 <p type="listitem">2-årig teknisk fagskole etter rammeplan av 98/99</p>
 <p type="listitem">2-årig fagskoleutdanning godkjent etter lov 20. juni 2003, nårnorskkravet er oppfylt</p>
 <p type="listitem">Rudolf Steinerskole med talkarakterar</p>
-<p>Generell studiekompetanse</p>
 <p><em type="bold">Høgskole- og universitetsutdanning byggjer på bestått vidaregåande opplæring. Alle studium med kravkode GENS i lærestadstabellane har generell studiekompetanse som opptakskrav. Til nokre studium er det spesielle opptakskrav i tillegg til generell studiekompetanse, mens nokre studium er unnatekne frå kravet om generell studiekompetanse. Sjå kravkodane side 82-83. Dersom du tidlegare er blitt vurdert for generell studiekompetanse/immatrikulering, bør du med følgeskjemaet sende stadfesta kopi av brev om dette. </em></p>
 <p><em type="bold">For generell studiekompetanse gjeld krav om utdanning eller praksis og bestemte fagkrav: </em></p>
 <p><em type="bold">Fullført og bestått vitnemål frå følgjande utdanningsløp dekkjer krava og gir generell studiekompetanse: </em></p>
@@ -12236,7 +12026,7 @@
 <p><em type="bold">Reform 94 </em>norsk hovudmål, sidemål og munnleg, 393 årstimar 14 veketimarengelsk, 140 årstimar 5 veketimarsamfunnsfag, 84 årstimar 2 veketimar samfunnslærehistorie, 140 årstimar 4 veketimar nyare historiematematikk, 224 årstimar5 veketimarnaturfag, 140 årstimar5 veketimar </p>
 <p>Fagkrava må vere bestått med karakteren 2 eller betre. Er det standpunkt- og eksamenskarakter i eit fag, er det eksamenskarakteren som avgjer om faget er bestått. Fagkrava kan òg vere dekte i tidlegare strukturar og skoleslag, sjå under studiekompetanse på <em type="italic">samordnaopptak.no/info/generell-studiekompetanse/fagkrava </em></p>
 <p>Opptaksorgana har òg plikt til å vurdere om anna utdanning (t.d. frå høgskole/universitet) eller annan dokumentasjon av kunnskapar kan godkjennast som tilsvarande eitt eller fleire av fagkrava.</p>
-<p>OG <em type="bold">85 </em></p>
+<p>OG</p>
 <p><em type="bold">Realkompetanse </em>Søkjarar som ikkje har generell studiekompetanse og som fyller 25 år eller meir i søknadsåret, kan søkje om opptak på grunnlag av realkompetanse. Realkompetanse er all den kompetansen ein person har skaffa seg gjennom lønna eller ulønna arbeid, utdanning, organisasjonserfaring eller på annan måte. </p>
 <p>Kvar enkelt lærestad avgjer sjølv kva som gir realkompetanse til studia sine. Same type studium kan difor ha ulike krav til realkompetanse, slik at vurdering ved ein lærestad ikkje gjeld ved andre lærestader. Informasjon om dei konkrete krava til realkompetanse får du ved den enkelte lærestaden.</p>
 <p>Sjølv om du får godkjent realkompetanse til eit studium, vil ikkje dette automatisk gi tilbod om studieplass. Dersom det er fleire kvalifiserte søkjarar enn talet på studieplassar, blir dei rangerte etter ei skjønnsmessig vurdering.</p>
@@ -12251,26 +12041,24 @@
 <p>Søkjarar får rekna konkurransepoeng som om dei aktuelle faga var beståtte, og får betinga opptak berre viss poengsummen ligg over poenggrensa for studiet. Søkjarar som får betinga opptak, kan ikkje reservere plassen til seinare opptak.</p>
 <p>Søkjarar som får betinga opptak, men som ikkje tar ny eksamen innan den fastsette fristen, mistar både studieplassen og studie -retten på studiet. Viss dei tar eksamen i studiet, blir denne ikkje rekna som bestått før vilkåra for opptak er oppfylte.</p>
 <p>Ordninga med betinga opptak gjeld ikkje privatistar.</p>
-<p type="listitem">Alternative vegar til opptak utan generell studiekompetanse23/5-regelen For å oppnå generell studiekompetanse etter 23/5-regelen må du</p>
+<p type="listitem">Alternative vegar til opptak utan generell studiekompetanse</p>
 <p type="listitem">fylle minst 23 år i søknadsåret</p>
 <p type="listitem">dekkje alle dei obligatoriske fagkrava (sjå motståande side)</p>
 <p type="listitem">dokumentere minst 5 års heiltids yrkespraksis og/eller utdan-ning</p>
 <p>Fullførte og beståtte årskurs i vidaregåande skole tel med i 5-årskravet. Lause fag kan reknast saman når dei dekkjer årstimekravet til heile eller halve år. Som utdanning tel òg høgare utdanning, folkehøgskole, fagskolar og anna fullført utdanning.</p>
 <p>Som praksis tel óg omsorgsarbeid og fullført militær-/sivilteneste. Deltidsarbeid blir rekna om til heiltid med utgangspunkt i 37,5 times veke, men 90% stilling eller meir reknast som full jobb. Deltidsarbeid i same tidsrom kan leggjast saman og vil telje dersom det til saman utgjer minst 50% stilling. Les om praksisdokumentasjon side 92.</p>
 <p>Søkjarar som blir poengrekna etter 23/5-regelen får alderspoeng f.o.m. året dei fyller 24 år, sjå side 88.</p>
-<p><em type="bold">Høgare utdanning </em>Søkjarar som <em type="bold">ikkje har generell studiekompetanse etter reglane ovanfor </em>, men som er tekne opp etter unntaksreglane i kapittel 3 i opptaksforskrifta, har oppnådd generell studiekompetanse dersom dei har avslutta høgare utdanning av minst eitt års lengd når norskkravet er oppfylt. Les meir om norskkravet her: <em type="italic">samordnaopptak.no/info/ generell-studiekompetanse/hoegare-utd/ </em></p>
 <p>Avbrote studium, uansett lengd, gir ikkje generell studiekompetanse.</p>
 <p>Utdanningar av same omfang frå andre lærestader kan òg gi generell studiekompetanse når dei er godkjente i samsvar med universitets- og høgskoleloven eller tidlegare lovar om høgare utdanning.</p>
 <p>Søkjarar som får tilkjent generell studiekompetanse på grunnlag av høgare utdanning blir ikkje poengrekna, men får individuell vurdering, sjå side 91.</p>
 <p><em type="bold">Dispensasjon </em>Det kan gjerast unntak frå kravet om generell studiekompe tanse iheilt spesielle høve (varig sjukdom, funksjonshemming e.l.) for søkjarar som fyller 24 år eller mindre i søknadsåret. Dette er ei unntaksbestemming som ikkje gir opent tilgjenge til studium for allesom manglar generell studiekompetanse. Søknadsfristen er <em type="bold">15. april. </em></p>
 <p>Det er inga spesiell avkryssing eller skjema for søknad om dispensasjon, <em type="bold">du skal ikkje krysse av for særskilt vurdering </em>. </p>
-<p>Du må skrive ein dispensasjonssøknad og leggje med følge- skjemaet saman med relevant dokumentasjon på at du ikkje er istand til å fullføre krava til generell studiekompetanse og at du hardei naudsynte faglege føresetnadene for å gjennomføre studiet. <em type="bold">86 </em></p>
+<p>Du må skrive ein dispensasjonssøknad og leggje med følge- skjemaet saman med relevant dokumentasjon på at du ikkje er istand til å fullføre krava til generell studiekompetanse og at du hardei naudsynte faglege føresetnadene for å gjennomføre studiet.</p>
 <p>Utenlandsk utdanning må tilsvare norsk 3-årig videregående opp -læring for å gi generell studiekompetanse til norske universiteter og høgskoler. Ifølge bestemmelser fra Kunnskapsdepartementet er videregående opplæring (upper secondary school/high school) fra noen land tilstrekkelig for å dekke hele kravet til generell studiekompetanse, mens det fra andre land kreves ett eller to års universitets- eller høgskoleutdanning i tillegg. Du finner oversikt over hva slags utdanning som kreves fra andre land i GSU-lista på s <em type="italic">amordnaopptak.no </em>under <em type="italic">Utenlandsk utdanning </em>. Der finner du også kravene i <em type="bold">norsk </em>og <em type="bold">engelsk </em>som gjelder alle søkere. </p>
 <p>Søkere som ikke har generell studiekompetanse, må ta fag i norsk videregående skole for å få generell studiekompetanse.</p>
 <p>Det er karakterene fra videregående skole som er grunnlaget for rangering av søkere. Dette gjelder selv om du har høyere utdanning. I følgeskjemaet må du derfor dokumentere videre gående skole med diplom og karakterutskrift (transcript/record of grades).</p>
 <p>Hvis du har høyere utdanning, må du sende bekreftet kopi av karakterutskrift/transcript, også av baksiden hvis den inneholder relevant informasjon.</p>
 <p>Dokumenter som ikke er på et skandinavisk språk eller engelsk, må oversettes til norsk eller engelsk. Oversettelsen må være gjort av autorisert translatør eller tolketjeneste. Se også side 92 om dokumentasjon av utenlandsk utdanning.</p>
-<p>Utenlandsk videregående utdanning</p>
 <p type="listitem">Hvor krysser du?</p>
 <p type="listitem">Har du videregående skole fra et land utenfor</p>
 <p type="listitem">Norden, skal du bare krysse av i ruta for utenlandsk  utdanning, selv om du tar norske fag i tillegg.</p>
@@ -12290,7 +12078,7 @@
 <p type="listitem">Forbedringer</p>
 <p type="listitem">Spesielle opptakskrav</p>
 <p type="listitem">Kvoter</p>
-<p><em type="bold">På samordnaopptak.no under Utenlandsk utdanning finner du følgende informasjon: </em><em type="bold">87 </em></p>
+<p><em type="bold">På samordnaopptak.no under Utenlandsk utdanning finner du følgende informasjon: </em></p>
 <p>Regionale kvotar</p>
 <p><em type="bold">Universitetet i Tromsø Farmasi </em>: Minst 50 % kvote for søkjarar frå Nord-Noreg. 50 % kvote for førstegongsvitnemål innanfor regionkvoten. </p>
 <p><em type="bold">Helsefaglege profesjonsstudium: </em>80 % kvote for søkjarar frå Nord-Noreg. 50 % kvote for førstegongsvitnemål innanfor regionkvoten. </p>
@@ -12309,7 +12097,6 @@
 <p><em type="bold">Odontologi: </em>Inntil 2 studieplassar for samiske søkjarar. </p>
 <p><em type="bold">Rettsvitskap: </em>3 studieplassar for samiske søkjarar. </p>
 <p><em type="bold">Teknologiske fag, integrert master: </em>5 % kvote for samiske søkjarar. </p>
-<p>Kvotar</p>
 <p>Særskilte kvotar</p>
 <p><em type="bold">Høgskoleingeniørstudium (bachelor) </em>Inntil 20 % kvote for søkjarar med godkjent eittårig forkurs med full fagkrets. </p>
 <p>I kvoten blir søkjarane poengrekna på grunnlag av karakterpoengsum frå forkurset.</p>
@@ -12321,7 +12108,7 @@
 <p><em type="bold">Matteknologistudiet ved Høgskolen i Sør-Trøndelag </em>20 % kvote for søkjarar med bestått tilpassingskurs. </p>
 <p><em type="bold">Integrert master (sivilingeniørstudia) ved Noregs teknisk-naturvitskaplege universitet </em>30 studieplassar for kvinner på datateknikk. 15 studieplassar for kvinner på kommunikasjonsteknologi. </p>
 <p><em type="bold">Sosionomstudiet ved Høgskolen i Sør-Trøndelag </em>20 % kvote for søkjarar med interkulturell/internasjonal bakgrunn/erfaring, i tillegg til generell studiekompetanse. </p>
-<p><em type="bold">Kvote for førstegongsvitnemål </em>Sjå side 88. <em type="bold">88 </em>50 % kvote for førstegongsvitnemål </p>
+<p><em type="bold">Kvote for førstegongsvitnemål </em>Sjå side 88.50 % kvote for førstegongsvitnemål </p>
 <p>Kvoten for førstegongsvitnemål er for søkjarar som ikkje fyller meir enn 21 år i opptaksåret og som etter tre år i vidaregåande opplæring har fått førstegongsvitnemål som gir generell studiekompetanse.</p>
 <p>Ein elev kan berre få førstegongsvitnemål ein gong, bortsett frå ved endring av karakter(ar) etter klage.</p>
 <p>Søkjarar med yrkesfagleg vitnemål pluss studiekompetansefag på kompetansebevis kan òg konkurrere i kvoten.</p>
@@ -12337,7 +12124,6 @@
 <p type="listitem">2-årig trafikklærarstudium ved høgskolane i Akershus og Nord-Trøndelag</p>
 <p type="listitem">yrkesfaglærarstudium</p>
 <p type="listitem">politistudiet</p>
-<p>Poengutrekning</p>
 <p><em type="bold">SKOLEPOENG </em><em type="bold">+ alderspoeng + tilleggspoeng </em>(for førstegongsteneste eller folkehøgskole eller høgare utdanning) <em type="bold">= KONKURRANSEPOENG </em><em type="bold">i ordinær kvote </em></p>
 <p><em type="bold">Karakterpoeng </em>(gjennomsnittskarakter x 10) <em type="bold">+ realfagspoeng og/eller språkpoeng + kjønnspoeng </em>(til utvalde studium) <em type="bold">+ poeng for opptaksprøver </em>(til utvalde studium) <em type="bold">= SKOLEPOENG </em><em type="bold">i kvote for førstegongsvitnemål </em></p>
 <p>Tilleggspoeng i ordinær kvote</p>
@@ -12358,15 +12144,14 @@
 <p><em type="bold">Poeng for journalistisk praksis </em>Til <em type="bold">journaliststudia </em>kan inntil 10 % av studieplassane gå til søkjarar som har minimum eit halvt år samanhengande godkjend journalistisk fulltidspraksis. </p>
 <p>Det blir gjeve 2 poeng pr halvår i inntil 3 år, max 12 praksispoeng.</p>
 <p>Innanfor praksiskvoten kjem praksispoenga i tillegg til den ordinære poengsummen, men det blir ikkje gitt alderspoeng i kvoten.</p>
-<p>Søkjarar i praksiskvoten konkurrerer òg i ordinær kvote/kvote for førstegongsvitnemål, men då utan praksispoeng. <em type="bold">89 </em></p>
-<p>Karakterpoeng</p>
+<p>Søkjarar i praksiskvoten konkurrerer òg i ordinær kvote/kvote for førstegongsvitnemål, men då utan praksispoeng.</p>
 <p>Karakterpoenga blir rekna ut på grunnlag av kvar enkelt karakter i opptaksgrunnlaget. Summen av karakterane blir delt på antal karakterar. Gjennomsnittskarakter multiplisert med 10 gir karakterpoeng.</p>
 <p>Alle karakterane i opptaksgrunnlaget, både grunnlaget for generell studiekompetanse og ekstra fag som er spesielle opptakskrav eller som utløyser realfagspoeng, skal reknast med i gjennomsnittskarakteren.</p>
 <p>Ved forbetringar kan det ikkje nyttast standpunkt- og eksamenskarakterar frå ulike år. Ny eksamenskarakter som privatist erstattar både gamal standpunkt og eksamen viss dette gir høgare gjennomsnittskarakter.</p>
 <p type="listitem">Forbetringar blir ikkje rekna med i kvoten for førstegongsvitnemål.</p>
 <p type="listitem">Søkjarar med bestått 3-årig vidaregåande opplæring får karakterpoeng på grunnlag av vitnemål(a) som dekkjer alle  tre åra.</p>
 <p type="listitem">Søkjarar som er studiekvalifiserte med fag-/sveinebrev før</p>
-<p type="listitem">Kunnskapsløftet får karakterpoeng på grunnlag av karakteranepå årskurs-/kompetansebevisa for grunnkurs og VKI pluss  fag som dekkjer opptakskrav og evt. fag som utløyser realfagspoeng. Norsk, engelsk, naturfag og kroppsøving blir berre rekna på høgaste nivå. I Kunnskapsløftet blir gjennomsnitts -karakteren utrekna på grunnlag av samlevitnemål pluss  kompetansebevis for supplerande studiekompetansefag.</p>
+<p type="listitem">Kunnskapsløftet får karakterpoeng på grunnlag av karakterane</p>
 <p type="listitem">Søkjarar med nordisk utdanning, diplom frå</p>
 <p type="listitem">International Baccalaureate, fransk Baccalauréat og  nokre land utanfor Norden får karakterpoeng etter  omrekningsskalaer.</p>
 <p type="listitem">Søkjarar som er studiekvalifiserte etter 23/5-regelen får karakterpoeng berre viss dei har karakter i alle studiekompetansefaga (og evt. spesielle opptakskrav)</p>
@@ -12410,7 +12195,7 @@
 <p>Informasjonsteknologi 2</p>
 <p>Systemutvikling (2A) Brukarsystem 1B Systemutvikling 2B</p>
 <p>Geofag 1 Geofag 2 Teknologi og forskingslære 1 Teknologi og forskingslære 2 Studieførebuande Vg3 i naturbruk</p>
-<p>Det er ikkje mogeleg å få realfagspoeng både for R- og S-matematikk i Kunnskapsløftet, eller for Y/Z og X-matematikk i Reform 94. <em type="bold">90 </em></p>
+<p>Det er ikkje mogeleg å få realfagspoeng både for R- og S-matematikk i Kunnskapsløftet, eller for Y/Z og X-matematikk i Reform 94.</p>
 <p>Poeng for opptaksprøver</p>
 <p><em type="bold">Arkitektur- og designhøgskolen i Oslo </em>har opptaksprøver i to trinn: Heimeoppgåve og skoleoppgåve. Etter heimeoppgåva blir det kalt inn ca. 200 søkjarar til skoleoppgåva ved AHO. </p>
 <p>Poenga for skoleoppgåva blir lagt til på toppen av dei ordinære konkurransepoenga, men vekta i forholdet 2 : 1 slik at skoleoppgåva tel dobbelt så mykje som dei ordinære konkurransepoenga.</p>
@@ -12437,7 +12222,6 @@
 <p>Opptaket skjer i to trinn. Første trinn er ei heimeoppgåve i form av et essay, passfoto og CV.</p>
 <p>Det innsendte arbeidet dannar grunnlag for neste trinn, som er utveljing av søkjarar som går vidare til intervju/opptaksprøve.</p>
 <p>Sjå fotnotar side 48 og kravkodar TVREG/FOTO/LYD og TVTEK side 83.</p>
-<p>Tilleggspoeng <em type="bold">91 </em></p>
 <p>Søkjarar som ikkje kan poengreknast</p>
 <p type="listitem">Nokre søkjargrupper kan ikkje poengreknast fordi karakterane deira ikkje kan omsetjast til norsk karakterskala eller fordi  opptaksgrunnlaget ikkje har karaktervurderingar. Slike grupper  er mellom anna:</p>
 <p type="listitem">Kvalifiserte søkjarar med Rudolf Steinerskole utan karakterar</p>
@@ -12455,7 +12239,6 @@
 <p>Summen er 40. Gjennomsnittskarakter med to desimalar blir da 40 : 8 = 5,00 som gir 50,0 karakterpoeng.</p>
 <p>Dokumentasjon av delfag som utløyser realfagspoeng. Karakterane i realfaga blir rekna med i gjennomsnittskarakteren viss det løner seg for søkjaren, eller viss faga er obligatoriske krav til studiet som søkjast.</p>
 <p>Utskrift frå eksamensprotokoll er ikkje gyldig dokumentasjon for fag som er tekne i Reform 94 eller i Kunnskapsløftet.</p>
-<p><em type="bold">Døme på vitnemål og kompetansebevis </em></p>
 <p><em type="bold">Fullført og bestått 3-årig videregående utdanning </em>Ett eller flere vitnemål som dekker alle årene. Kopiér også baksiden hvis den inneholder merknader. </p>
 <p>Om elektroniske vitnemål, se side 5-6.</p>
 <p><em type="bold">Førstegangsvitnemål </em>Søkere må levere førstegangsvitnemål for å konkurrere i kvoten for førstegangsvitnemål. Les mer om kvoten på side 88. </p>
@@ -12487,8 +12270,6 @@
 <p>Søkere som har befalsskole eller utskrevet sersjantkurs, må sende vitnemål eller tjenesteuttalelse.</p>
 <p>Søkere som avslutter tjenesten i perioden 1. juli-10. august 2011 må sende inn midlertidig tjenesteuttalelse innen 1. juli for å få tilleggspoeng. Endelig tjenesteuttalelse må legges fram for lærestedet ved studiestart.</p>
 <p><em type="bold">Siviltjeneste </em>Sivilt tjenestebevis, fås ved henvendelse til siviltjenesteadministrasjonen der tjenesten ble avsluttet. </p>
-<p>Dokumentasjon <em type="bold">92 </em><em type="bold">93 </em></p>
-<p><em type="bold">Nordnorsk tilknytning </em>(se side 87) </p>
 <p>Kvotetilhørighet til Universitetet i Tromsø dokumenteres med bostedsattest fra Folkeregisteret, utstedt i søknadsåret, som viser at søkeren har bodd i Nord-Norge siste 10 år og fortsatt bor i landsdelen.</p>
 <p type="listitem">Søkere som ikke har bodd i Nord-Norge 10 siste år må  dokumentere nordnorsk tilknytning på minst tre av fem mulige måter:</p>
 <p type="listitem">Fullført videregående opplæring i Nord-Norge, vitnemål eller fag-/svennebrev</p>
@@ -12516,7 +12297,6 @@
 <p type="listitem">Attest fra sakkyndig (f. eks. lege)</p>
 <p type="listitem">Tilsettingsbrev og siste måneds lønnsslipp</p>
 <p type="listitem">Kopi av relevante sider i passet for oppholdstillatelse</p>
-<p><em type="bold">Reservering av studieplass </em></p>
 <p>Militær-/siviltjeneste: kopi av tjenesteinnkalling.</p>
 <p>Svangerskap eller langvarig sykdom/sykehusopphold: legeattest.</p>
 <p>Søknad må sendes innen tre uker etter at du har sagt ja til studieplassen.</p>
@@ -12566,10 +12346,9 @@
 <p>Kravet gjeld dersom studenten i løpet av dei siste 12 månadene har arbeidd i helsevesenet eller har vore innlagd på helseinstitusjonar i land utanfor Norden. Kravet til undersøkjing gjeld òg dersom studenten i løpet av dei siste 12 månadene på andre måtar kan ha vore utsett for smitte i Noreg eller i utlandet.</p>
 <p><em type="bold">Plikt til å gjennomføre undersøkingane </em>Studentar som kjem inn under reglane for desse undersøkjingane, har sjølv ansvaret for å bli undersøkt. Resultatet av undersøkjinga må vere klart før studenten kan starte med praksis. </p>
 <p>Dersom du får tilbod om studieplass ved ei av dei aktuelle utdanningane, vil du samstundes få nærare informasjon om reglane for testing. Lærestaden vil informere om den praktiske gjennomføringa av testane.</p>
-<p>Annan informasjon <em type="bold">94 </em></p>
 <p>Helsekrav til maritimt sertifikat</p>
 <p>Fullførte og beståtte maritime utdanningar er i seg sjølv ikkje tilstrekkeleg for å få maritimt sertifikat.</p>
-<p>Ta kontakt med ein lærestad med slik utdanning for å få oversikt over helsekrava som gjeld for innløysing av sertifikat. <em type="bold">95 </em></p>
+<p>Ta kontakt med ein lærestad med slik utdanning for å få oversikt over helsekrava som gjeld for innløysing av sertifikat.</p>
 <p><em type="bold">Tresemesterordning </em>Opptak til ingeniørutdanning krev normalt matematikk (R1+R2) og Fysikk 1. </p>
 <p>Viss du har generell studiekompetanse, men manglar den realfaglege fordjupinga, kan du til nokre av desse utdanningane følgje kurs i ei tresemesterordning. Det første studieåret er tilrettelagt, med undervisning både sommaren før og eventuelt òg sommaren etter det første studieåret. Frå og med det andre studieåret følgjer du det ordinære studiet.</p>
 <p type="listitem">Studium med tresemesterordning skal søkjast direkte  til lærestadene, ikkje gjennom Samordna opptak. Følgjande høgskolar tilbyr tresemesterordning med særskilt undervisning  i matematikk og fysikk:</p>
@@ -12601,13 +12380,10 @@
 <p type="listitem">Høgskolen i Ålesund</p>
 <p type="listitem">Universitetet i Agder</p>
 <p>Opptak til ingeniørutdanning for deg som manglar (R1+R2) og Fysikk 1FY</p>
-<p>Klage på saksbehandling</p>
 <p>Dersom du meiner det er gjort feil i behandlinga av søknaden din, må du først kontakte institusjonen som har behandla søknaden. Som oftast er dette ein lærestad, men det kan òg vere Samordna opptak.</p>
 <p>Dersom det er fleire institusjonar som har behandla søknaden, må du kontakte institusjonen som er saksbehandlar for dei studieønska du meiner er feilbehandla. Du kan skrive eit brev der du ber om ei grunngjeving for vedtaket som er gjort. Då kan det bli avklart om det er gjort ein feil, eller om du har mistydd reglane.</p>
-<p>I nokre tilfelle, ved særskilt eller individuell vurdering, skal klagen sendast til andre enn din saksbehandlande institusjon. Nærare informasjon om dette finn du i svarbrevet.</p>
 <p>Dersom du ikkje er nøgd med forklaringa som blir gitt, har du etter forvaltningslova § 28 rett til å klage. Av tidsomsyn bør du sende klagen snarast mogleg, og seinast tre veker etter at brevet med grunngjevinga kom til den adressa du hadde ført opp. Klagen skal sendast til den institusjonen du har fått grunngjevinga frå. I klagen må du gjere greie for kva du klagar på og kva for studium klagen gjeld. Klagen må være underteikna av deg eller den du har gjeve fullmakt.</p>
-<p>Dersom institusjonen ikkje gjer om vedtaket sitt, blir klagen sendt vidare til klagenemndsbehandling. <em type="bold">96 </em></p>
-<p>Kontaktopplysninger</p>
+<p>Dersom institusjonen ikkje gjer om vedtaket sitt, blir klagen sendt vidare til klagenemndsbehandling.</p>
 <p><em type="bold">Ansgar Teologiske Høgskole (ATH) </em>Fredrik Fransonsvei 4 4635 KRISTIANSAND Telefon: 38106500 Telefaks: 38106599 E-post: haugland@ansgarskolen.no www.ansgarskolen.no </p>
 <p><em type="bold">Arkitektur- og designhøgskolen i Oslo (AHO) </em>Postboks 6768 St. Olavs plass Maridalsveien 29 0130 OSLO Telefon: 22 99 70 27 Telefaks: 22 99 71 89 E-post: studieinfo@adm.aho.no www.aho.no </p>
 <p><em type="bold">Betanien diakonale høgskole (BDH) </em>Vestlundveien 19 5145 FYLLINGSDALEN Telefon: 55507300 Telefaks: 55507301 E-post: bdh@betanien.no www.betanien.no </p>
@@ -12636,7 +12412,7 @@
 <p><em type="bold">Høgskolen i Vestfold (HiVe) </em>Opptakskontoret Postboks 2243 3103 TØNSBERG Telefon: 33037000, hverdager 0900-1130 og 1200-1430 Telefaks: 33031100 E-post: opptak@hive.no www.hive.no </p>
 <p><em type="bold">Høgskolen i Volda (HVO) </em>Opptak Postboks 114 Opptak 6101 VOLDA Telefon: 70075000 Telefaks: 70075051 E-post: sok@hivolda.no www.hivolda.no </p>
 <p><em type="bold">Høgskolen i Østfold (HiØ) </em>Opptakskontoret 1757 HALDEN Telefon: 69215000 (sentr.bord) 69215032 (opptakskontoret) Telefaks: 69215002 E-post: opptak@hiof.no www.hiof.no </p>
-<p><em type="bold">Andre nyttige adresser </em><em type="bold">97 </em></p>
+<p><em type="bold">Andre nyttige adresser </em></p>
 <p><em type="bold">Høgskolen i Ålesund (HiÅ) </em>Opptakskontoret Postboks 1517 6025 ÅLESUND Telefon: 70161200 Telefaks: 70161300 E-post: studentservice@hials.no www.hials.no/studier </p>
 <p><em type="bold">Høgskolen Stord/Haugesund (HSH) </em>Opptakskontoret Bjørnsonsgt. 45 5528 HAUGESUND Telefon: 52702616/52702617 Telefaks: 52702601 E-post: opptak@hsh.no www.hsh.no </p>
 <p><em type="bold">Høyskolen Diakonova (HD) </em>Linstows gate 5 0166 OSLO Telefon: 22986300 Telefaks: 22986340 E-post: opptak@diakonova.no www.diakonova.no </p>
@@ -12662,8 +12438,7 @@
 <p><em type="bold">Information about TOEFL-test: </em>www.toefl.org </p>
 <p><em type="bold">Informasjon om IELTS-testen: </em>Folkeuniversitetet Oslo Postboks 496 Sentrum 0105 OSLO Telefon: 22 47 60 00 E-post: info@fu.oslo.no www.fu.no www.ielts.org </p>
 <p><em type="bold">NOKUT </em>(Nasjonalt organ for kvalitet i utdanning) Pb 1708 Vika 0121 OSLO Telefon: 21 02 18 00 E-post: postmottak@nokut.no www.nokut.no </p>
-<p><em type="bold">Information for foreign applicants </em>Foreign students without a resident permit in Norway who want to apply to higher education will find information on this web site: www.studyinnorway.no <em type="bold">98 </em></p>
-<p>Notater <em type="bold">99 </em>23/5-regelen.....................................85 </p>
+<p><em type="bold">Information for foreign applicants </em>Foreign students without a resident permit in Norway who want to apply to higher education will find information on this web site: www.studyinnorway.no23/5-regelen.....................................85 </p>
 <p>Alderspoeng.......................................88</p>
 <p>Bachelorgrad......................................10</p>
 <p>Bekreftede kopier................................7</p>
@@ -12770,7 +12545,6 @@
 <p>Y-vegen ..............................................95</p>
 <p>Yrkesutdanning, 4-årig .....................10</p>
 <p>Årsstudium .........................................10</p>
-<p>Stikkordliste <em type="bold">100 </em></p>
 <p><em type="bold">Søkerkalender </em>2011 </p>
 <p type="listitem">Informasjon om frister/status på søknaden finner du på samordnaopptak.noe-post: sokerinfo@samordnaopptak.no</p>
 <p type="listitem">Søkerinfo: 815 48 240</p>
@@ -12792,7 +12566,5 @@
 <p>Restetorget åpner <em type="bold">26. juli </em></p>
 <p>Svarfrist <em type="bold">29. juli </em></p>
 <p>Suppleringsopptakaugust <em type="bold">fra 5. august </em></p>
-<p>Etterfyllingsopptak53948.01.11.</p>
-<p>Andvord</p>
-<p>Grafisk</p>
+<p>Etterfyllingsopptak</p>
 </body></document>
