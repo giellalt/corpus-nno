@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nno" datatype="plaintext">
+    <prop type="x-filename">manus_plastikkbarna_1.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Meny Fredrik Rysjedalista</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilasten käsikirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Fredrik Rysjedalista</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nettilaian teksti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi:...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Etulaita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Valasko?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilapsista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Om Fredrik Rysjedal Kreditering</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Krediteeringistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Om Plastikkbarna</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilapsista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plastikkbarna er ein teikneserie om plast og forureining.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilapset oon kuvaraito plastikista, ryöttäämisestä ja roskaamisesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Vi møter Jessica som starter sin eigen miljøklubb: BMPPDIHH (Barn mot plastikk der det ikkje høyrer heime).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met kohattelema Jessican kuka alkkaa oman miljööklubbin: LPVMSEK (Lapset plastikkii vasthaan minne se ei kuulu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Med seg har ho venninna Éira og saman skal dei kjempe mot plastforureining.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hänen ystävä Eira tullee myötä ja yhessä het piethään taistela plastikkiryöttii vasthaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi, som går i klassen til Jessica, er ikkje særleg oppteken av miljøvern, men i det han kjøper ein is på kiosken tar livet hans ei ny retning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi, kuka oon Jessican klassissa, ei eriliikaisesti perusta miljöönsuojelusta, mutta sillä hetkelä ko hän aikkoo ostaat jäätikun kioskilta, niin hänen elämä käänttyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Historia startar faktisk der, med ein nyopna is...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Histuurii alkkaa itte assiissa siinä, jäätikun kans jonka oon justhiin avattu …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Gå til kapittel 1 (lenke)</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mene ensimäisheen kapittelhiin (linkki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Fredrik er ein teikneserieskapar frå Leirvik i Sogn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fredrik oon kuvaraiontekkiijä Leirvikistä, Sognista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Det er ei lita bygd som ligg i ein liten fjordarm i byrjinga av Sognefjorden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon pieni kylä joka oon pienessä vuononkäjessä sielä missä Sognefjorden alkkaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Han pleier å skryte av at det er verdas lengste fjord, men Scoresbysund på Grønland er faktisk lengst.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hän pruukkaa praamata ette se oon mailman pissiin vuono, mutta Scorebysund Grönlanissa oon itte assiissa pitempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Så Sognefjorden må ta til takke med ein andreplass.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Niin Sognefjord häyttyy hyväksyyt toiseksi parhaan sijan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Fredrik bur i Bergen, som er Norges nest største by (nok ein andreplass).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fredrik assuu Perunassa tahi Bergenissä, joka oon Norjan toiseksi issoin kaupunki (se kans saapi toiseksi parhaan sijan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Der har han eit teiknestudio der han teiknar og lagar teikneseriar.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sielä hänelä oon tägnäämästudio missä hän tägnää ja tekkee kuvaraittoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Han har alltid likt å lese teikneseriar og har teikna sine eigne sidan han gikk i barnehagen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hän oon tasan tykäny lukkeet kuvaraittoi ja oon piirtäny omat siitä saakka ko hän kävi lastentarhaassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Då Fredrik var på alder med Jessica og gjengen, på tidleg 90-talet, hadde han sin eigen miljøklubb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko Fredrik oli Jessican ja roikan ijässä, varhain 90-luvula, niin hänelä oli oma miljööklubi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Medlemsbladet var sjølvsagt ein teikneserie.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäsenblaai oli tietenki kuvaraito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plast og forsøpling var også eit problem på den tida, og saman med søskenbarna sine gjekk dei i skog og mark og langs fjæra i fjorden og plukka boss.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikki ja ryötti olthiin vaiva silloinki, ja neppuin kans het menthiin metthään ja kans fiervaa myöten ja kovothiin roskaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Han tykkjer framleis det er viktig at me tar vare på naturen, men han innrømmer at det er vanskeleg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hän pittää ette vieläki oon tähelistä ette met otama vaarin luonosta, mutta myönttää ette se oon vaikkee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Problema verkar så store at det er vanskeleg å tenke at ein kan gjere noko med det.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Probleemit oon visshiin niin isot ette oon vaikkee ajatella ette se saatama tehhä mithään niile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Fordi alt verka så vanskeleg, bestemte Fredrik seg for å teikne Plastikkbarna.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fredrik päätti ette piirtäis Plastikkilapset, ko kaikki näyttää niin vaikkeelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Kanskje Jessica, Èira og Hadi kan finne ut korleis vi kan leve utan å øydelegge naturen rundt oss med plast?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Piian Jessica, Éira ja Hadi saatethaan selvittäät kuinka met saatama elläät ilman ette se hävittää luonon meän ympärillä plastikilla?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plastikkbarna leiar vegen, og vi hiv oss med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilapset näytethään tien, ja met tulema myötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Kreditering</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Krediteerinki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plastikkbarna er teikna og skrive av Fredrik Rysjedal.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkilapset oon Fredrik Rysjedal tägnäny ja kirjoittannu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Teikneserien er oversatt til Kvensk av [NAMN] på Kvensk institutt, og oversatt til samisk/nordsamisk av [NAMN].</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kainun institutti-Kvensk institutt oon kääntäny kuvaraion, ja [NIMI] oon kääntäny sen saameksi/pohjaissaameksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plastikkbarna er støtta av: Bergen Kommune, Norsk Kulturråd og Fritt Ord.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nämät oon antanheet kuurton Plastikkilapsile: Perunan komuuni (Bergen kommune), Norjan kulttuuriraati (Norsk kulturråd) ja Vapaa sana (Fritt ord)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plastikkbarna</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikkikaveri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Hadi!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Hadi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg såg kva du gjorde.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mie näjin mitä sie tehit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Plukk oppatt plastembalasjen!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kokkoo taas ylös plastikkipakkauksen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Nei Jessi, drit i det då!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Ei Jessi, älä perusta siitä sitte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jøss...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Voi hersku …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>kva skal du med alt det bosset?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>mitä sie tehet kaiken sen roskan kans?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Kva trur du?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Mitä sie luulet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi:...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Nei...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 6 Hadi: Ei …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>eg veit ikkje.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>mie en tiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadde lyst å vere frekk, men kom ikkje på noko morosamt å sei.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Halusin olla fräkki, mutta en hoksanu mithään sommaa mitä mie sanoisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: EG HAR GÅTT HEILE ettermiddagen og plukka opp plastboss etter slike kronidiotar som deg!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: MIE OLEN KÄVELY KOKO iltapäivän ja kovonu plastikkiroskan mikkä oon jääny semmoisten pöllöin jälkhiin niin ko sie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Trur du verda er ei bossbøtte?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Luuletko sie ette koko mailma oon roskaämpäri?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Lydord: Pssssssssssssss</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Äänisana: Pssssssssssssss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Okay, lykke til med det.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Okei, onnee sen kans. Ruutu 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Hei!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Hei!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Vent på meg!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oota minnuu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Betyr det seriøst at du ikkje bryr deg?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Tarkoittaako tämä oikheesti ette sie et perusta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Seriøst Jessi?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Oikheesti Jessi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>INGEN bryr seg om boss.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>KUKHAAN ei perusta roskista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Det er jo akkurat DET som er problemet din plastskalle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Se oon justhiin SE mikä oon probleemi senki plastikkipää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Det vert kasta SÅ mykje plast, og ingen bryr seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon vatkattu NIIN paljon plastikkii, eikä kukhaan perusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Eg skjønar ikkje.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 15 Hadi: Mie en ymmärä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadde det vore radioaktivt avfall så hadde eg tatt poenget, men dette er jo berre plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos se olis jotaki raatiuaktiivista roskaa niin mie ymmärtäisin assiin, mutta tämä oon tyhä plastikki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Berre plast?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Tyhä plastikki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Du kan jo ingen ting.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siehän et saata yhthään mithään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Å ja?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Niinkö?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Ingenting?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ei yhthään?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Er du liksom vorte eit orakel som veit alt?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oletko sie ollu kaikkitiettäävä oraakeli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Vel, eg kan fortelle deg at EG ELSKAR plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>No, mie saatan muistela sinule sen ette MIE RAKASTAN plastikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Dei finaste tinga eg har er plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fiinimät neuvot, mikkä minula oon;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Nintendoen min er plast, fotballen min er av plast...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Minun nintendo oon plastikista, minun jalkapallo oon plastikista …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>alle figurane mine er av plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>kaikki minun kompelit oon plastikista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Til og med FOTBALLBANA vi spelar på er av PLAST.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Vielä SE JALKAPALLOPAANA missä pellaama oon PLASTIKISTA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Du skulle sett oss før me fekk kunstgras på bana.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Sie olisit pitäny nähhä meät ennen ko saima tekoruuhon paanhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Kom det litt regn så såg me ut som gjørmetroll heile gjengen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos satoi pikkusen vettä niin met olisimma rapatrolliin näkhöön koko roikka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Men har du ikkje høyrt om kvalen dei fann på stranda?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Mutta etkö ole kuulu valhaasta minkä het löyethiin rannalta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Kval?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Nokon fann ein stranda gåsenebbkval...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Joku löysi rannoitetun hanhiinnokkavalhaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>og når dei opna den så fann dei ut at magen var full av plastikk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>ja ko het avathiin sen niin het selvitethiin ette sen vatta oli täynä plastikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Plasten i magesekken gjorde at kvalen ikkje fekk tatt til seg næring og så døyde den av sult.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Sen vattassa oli plastikkii, ja sen tähen se valas ei saanu nokko ruokkaa ja kuoli nälkhään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Fy flate!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Voi kauhee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsjente Ø: Hallaien, kva skjer her då?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teinitytär Ø: Hei taas, mitä täälä tapattuu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsgut: Sjå her!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teinipoika: Katto tätä!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>For eit rot Jessi.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mikä moska Jessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Har du byrja med søppeldykking eller?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oletko sie alkanu sukelttaat roskat veen pohjalta tahi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsgut: Ja?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 24 Teinipoika: Joo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Slik som når ein leitar etter mat i bosset.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Niin ko silloin ko hajethaan ruokkaa roskasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Nei, eg leitar ikkje etter mat, eg plukkar plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Ei, mie en haje ruokkaa, mie kokkoon plastikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg skal redde naturen</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mie aijon pärjätä luonon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsgut: Plast?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tein i poika: Plastikista?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsjente Ø: Ha ha ha, polane smeltar og Jessica plukkar plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teinitytär Ø: Ha ha ha, maapallon pohjaissiin ja eteläissiin puoli sullaa ja Jessica kokkoo plastikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsgut: Kanskje du burde gjort noko meir nyttig om du skal redde miljøet?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teinipoika: Piian sie häytyisit tehhä jotaki mistä oon enämen hyöttyy jos aijot pärjätä miljöön?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Hei!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Hei!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Ikkje kødd med Jessi!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Älkkää pilkakkaa Jessii!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Ho gjer faktisk ein veldig viktig jobb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Valhaat kuolhaan plastikkhiin sielä ulkona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Kvalar døyr av plast der ute.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Tenåringsgut: Slapp av Hadi.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teinipoika: Ota rauhalisesti Hadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Berre leik med plasten din du.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tieraa sie tyhä sinun plastikin kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Hmpfr...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 29 Ruutu 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Kva skjedde der eigentleg?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Mitä tapattui sielä oikheesti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Du sa jo at du elska plast.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siehän sanoit ette rakastat plastikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Det var berre tull...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 31 Hadi: Mie taajoin tyhä …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>beklagar.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>antheeksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg vart berre så irritert då du masa så fælt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mie olin tyhä ärryttäny ko sie vannotit niin kauheesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg viste ikkje om det med kvalen og det der...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mie en tieny valhaasta ja siitä... Ruutu 33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Ok, det går fint.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Ok, se mennee hyvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Du, eg skal faktisk starte ein klubb...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Sie tiät, mie aijon itte assiissa alkkaat klubin …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Barn mot plastikk der det ikkje høyrer heime.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>LKOPV. Lapset kekkä oon plastikkii vasthaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Har du lyst å vere med?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Halluutko sie olla myötä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Klubb?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Miekö?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Klubissa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Nei, eg skal ikkje ver med i noko klubb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ei, mie en aijo olla myötä mishään klubissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Eg har allereie nok med fotballen og handballen...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minula oon jo nokko jalkapallon ja käsipallon kans …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>og basket!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Det var synd.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Se oli synti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jaja.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joojoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Éira er iallfall med, og me skal møte i den hemmelige klubbhytta i dag faktisk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Éira oon ainaki myötä, ja itte assiissa met aijoma kohatella salaisessa klubihytässä tääpänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Jessica: Sjåast plutseleg Hadi, og takk for at du hjelpte meg med dei der niandeklassingane.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jessica: Nähhään yhtäkkii, Hadi, ja kiitos ette sie autat minnuu niitten yheksesklassilaisten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Ikkje noko prob.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Ei se ole mikhään prob.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>(notat: slang)</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>(notaatti: slangi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Aaah...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 40 Ruutu 41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Søren klype...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Voi tomppeli …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hemmelig klubbhytte og...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Salainen klubihyttä kans …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Éira...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ruutu 42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Éira...</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hadi: Voi poka!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nno">
+        <seg>Hadi: Pokker!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Plastikk-kompis</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
