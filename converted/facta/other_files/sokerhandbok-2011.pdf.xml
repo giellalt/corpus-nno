@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>43950</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
+<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>43834</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
 <p><em type="bold">Søknad om opptak til universiteter og høgskoler </em>samordnaopptak.no </p>
 <p><em type="bold">Samordna opptak 2011 </em><em type="bold">samordnaopptak.no </em>På Samordna opptak (SO) sine nettsider finn du oppdatert søkjarinformasjon. Her kan du sende nettsøknad, melde adresseendring, omprioritere studieønska og svare på tilbod om studieplass/ventelisteplassering. På nettsøknaden finn du ei statusside med oppdatert informasjon om behandlinga av søknaden din. </p>
 <p>Frå 20. juli finn du m.a. resultatet i hovudopptaket, poenggrenser og ledige plassar på Restetorget.</p>
@@ -6861,7 +6861,7 @@
 <p>Teologi og misjon258 480</p>
 <p>GENS</p>
 <p>Bachelor20åpentåpent</p>
-<p>Fordypning (80 stp), i til egg NT-gresk (20 stp), Ex Phil/Fac (20 stp);mulig Hebraisk (20 stp)</p>
+<p>Fordypning (80 stp), i tillegg NT-gresk (20 stp), Ex Phil/Fac (20 stp);mulig Hebraisk (20 stp)</p>
 <p>Haraldsplass diakonale høgskole (HDH) Ulriksdal 10, 5009 BERGEN Telefon: 55979630 - Telefaks: 55979632 - www.haraldsplass.no - hdh@haraldsplass.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -7147,18 +7147,18 @@
 <p>Grunnskolelærer 5.-10. trinn med realfag, Drammen 2)205 655</p>
 <p>LÆRER</p>
 <p>Yrkesutd20allealle</p>
-<p>Undervisningsfag til valg: Naturfag, Engelsk el er Samfunnsfag.</p>
+<p>Undervisningsfag til valg: Naturfag, Engelsk eller Samfunnsfag.</p>
 <p>Matematikk og Pedagogikk - elevkunnskap er obligatorisk. Sewww.hibu.no for informasjon om valg i 3. og 4. studieår, ev. overgangtil mastergrad realfag 4. og 5. år.</p>
 <p>Grunnskolelærer 5.-10. trinn med samfunnsfag, Dr. 2)205 657</p>
 <p>LÆRER</p>
 <p>Yrkesutd20allealle</p>
-<p>Undervisningsfag til valg: Norsk el er Matematikk. Samfunnsfag og</p>
+<p>Undervisningsfag til valg: Norsk eller Matematikk. Samfunnsfag og</p>
 <p>Pedagogikk - elevkunnskap er obligatorisk. Se www.hibu.no for informasjon om valg i 3. og 4. studieår, ev. overgang til master i</p>
 <p>Samfunnsfag/Human Rights and Multiculturalism i 4. og 5. år.</p>
 <p>Grunnskolelærer 5.-10. trinn med språkfag, Drammen 2)205 651</p>
 <p>LÆRER</p>
 <p>Yrkesutd20allealle</p>
-<p>Undervisningsfag til valg: Naturfag, Engelsk el er Samfunnsfag. Norskog Pedagogikk - elevkunnskap er obligatorisk. Se www.hibu.no forinformasjon om valg i 3. og 4. studieår, ev. overgang til mastergradspråkfag 4. og 5. år.</p>
+<p>Undervisningsfag til valg: Naturfag, Engelsk eller Samfunnsfag. Norskog Pedagogikk - elevkunnskap er obligatorisk. Se www.hibu.no forinformasjon om valg i 3. og 4. studieår, ev. overgang til mastergradspråkfag 4. og 5. år.</p>
 <p>Mediefag, bibliotekfag og journalistfag</p>
 <p>Visuell kommunikasjon, Drammen205 251</p>
 <p>GENS</p>
@@ -7182,7 +7182,7 @@
 <p>Statsvitenskap, Drammen205 881</p>
 <p>GENS</p>
 <p>Bachelor2042.835.6</p>
-<p>Statsvitenskap med 30 studiepoeng Menneskerettigheter og detflerkulturel e samfunn. Mulighet for å ta frie emner i Markedsføring,</p>
+<p>Statsvitenskap med 30 studiepoeng Menneskerettigheter og detflerkulturelle samfunn. Mulighet for å ta frie emner i Markedsføring,</p>
 <p>Ledelse, Medier.</p>
 <p>Språk, litteratur</p>
 <p>Engelsk, Hønefoss205 623</p>
@@ -7199,7 +7199,7 @@
 <p>Ingeniør, data, Kongsberg 3) 4)205 004</p>
 <p>HING</p>
 <p>Bachelor30allealle</p>
-<p>Embedded systems, Simulering og spil utvikling.</p>
+<p>Embedded systems, Simulering og spillutvikling.</p>
 <p>Ingeniør, maskin, Kongsberg 3) 4) 5)205 012</p>
 <p>HING</p>
 <p>Bachelor36allealle</p>
@@ -7322,7 +7322,7 @@
 <p>Bedriftsøkonomi206 164</p>
 <p>GENS</p>
 <p>Årsstudium20allealle</p>
-<p>Studiet kan gjennomføres som heltids- el er deltidsstudium</p>
+<p>Studiet kan gjennomføres som heltids- eller deltidsstudium</p>
 <p>Økonomi og administrasjon206 369</p>
 <p>GENS</p>
 <p>Bachelor30allealle</p>
@@ -7353,7 +7353,7 @@
 <p>Ingeniør, data207 004</p>
 <p>HING</p>
 <p>Bachelor15åpentåpent</p>
-<p>Fordypning innen IT-drift el er programvareutvikling.</p>
+<p>Fordypning innen IT-drift eller programvareutvikling.</p>
 <p>Medie- og informasjonsteknologi, årsstudium207 188</p>
 <p>MATRS</p>
 <p>Årsstudium25åpentåpent</p>
@@ -7372,7 +7372,7 @@
 <p>Mediedesign207 149</p>
 <p>GENS</p>
 <p>Bachelor2544,341,7</p>
-<p>Fokus på: Grafisk design, informasjonsdesign,kommunikasjonsdesign,mediedesign, typografi, visuel kommunikasjon.</p>
+<p>Fokus på: Grafisk design, informasjonsdesign,kommunikasjonsdesign,mediedesign, typografi, visuell kommunikasjon.</p>
 <p>Mediemanagement207 838</p>
 <p>GENS</p>
 <p>Bachelor30åpentåpent</p>
@@ -7384,7 +7384,7 @@
 <p>Medieproduksjon207 264</p>
 <p>GENS</p>
 <p>Bachelor20åpentåpent</p>
-<p>Innovativ innholdsproduksjon og utvikling av informasjon, opplevelserog storytel ing i moderne medier.</p>
+<p>Innovativ innholdsproduksjon og utvikling av informasjon, opplevelserog storytelling i moderne medier.</p>
 <p>Medieproduksjon, årsstudium207 604</p>
 <p>GENS</p>
 <p>Årsstudium25åpentåpent</p>
@@ -7429,10 +7429,10 @@
 <p>Bachelor55åpentåpent3 Studieretninger: Konstruksjon, Prosjektledelse, Landmåling.</p>
 <p>Ingeniør, elektro207 005</p>
 <p>HING</p>
-<p>Bachelor15åpentåpent4 studieretninger: Automatisering- Industriel elektronikk, Elektronikk -microData, Teleteknikk- Trådløse systemer, Elkraft.</p>
+<p>Bachelor15åpentåpent4 studieretninger: Automatisering- Industriell elektronikk, Elektronikk -microData, Teleteknikk- Trådløse systemer, Elkraft.</p>
 <p>Ingeniør, maskin207 012</p>
 <p>HING</p>
-<p>Bachelor30åpentåpent2 Studieretninger: Industriel design, Lean manufacturing.</p>
+<p>Bachelor30åpentåpent2 Studieretninger: Industriell design, Lean manufacturing.</p>
 <p>Fokus på: Produktutvikling, design og teknologiledelse.</p>
 <p>Studiet inneholder innslag av praksis i bedrift.</p>
 <p>Landmåling, årsstudium207 248</p>
@@ -7502,7 +7502,7 @@
 <p>Økonomi og ledelse, årsstudium208 164</p>
 <p>GENS</p>
 <p>Årsstudium20nyttnytt</p>
-<p>Studiet kan gjennomføres som heltids- el er deltidsstudium1)</p>
+<p>Studiet kan gjennomføres som heltids- eller deltidsstudium1)</p>
 <p>Studiet kan avsluttes etter 2 år med tittelen høgskolekandidat.</p>
 <p>Høgskolen i Hedmark (HiHm) Opptakskontoret, Postboks 400, 2418 ELVERUM Telefon: 62430000 - Telefaks: 62430001 - www.hihm.no - opptak@hihm.no</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.hihm.no</p>
@@ -7517,7 +7517,7 @@
 <p>Animasjon, Hamar209 451</p>
 <p>GENS</p>
 <p>Bachelor2042.340.0</p>
-<p>Innhold: 2D- og 3D animasjon, 3D-model ering, lyd-, spesialeffekt- ogvideoprod.</p>
+<p>Innhold: 2D- og 3D animasjon, 3D-modellering, lyd-, spesialeffekt- ogvideoprod.</p>
 <p>Musikk, årsstudium, Hamar 1)209 667</p>
 <p>GENS</p>
 <p>Årsstudium15åpentåpent</p>
@@ -7585,7 +7585,7 @@
 <p>Visuell simulering, Hamar209 839</p>
 <p>GENS</p>
 <p>Bachelor3032.1alle</p>
-<p>Innhold: 3D-visualisering, Spil programmering, Simulering, Virituelvirkelighet, Animasjon</p>
+<p>Innhold: 3D-visualisering, Spillprogrammering, Simulering, Virituellvirkelighet, Animasjon</p>
 <p>Lærer- og lektorutdanning</p>
 <p>Faglærerutd. for tospråklige lærere,samlingsbasert 4)209 538</p>
 <p>GENS</p>
@@ -7686,7 +7686,7 @@
 <p>Musikkproduksjon, Rena 10)209 714</p>
 <p>GENS</p>
 <p>Bachelor20allealle</p>
-<p>Innhold: Utvikling av musikk/lydproduksjon i kommersielsammenheng</p>
+<p>Innhold: Utvikling av musikk/lydproduksjon i kommersiellsammenheng</p>
 <p>Organisasjons- og ledelsesfag, Rena209 867</p>
 <p>GENS</p>
 <p>Bachelor10åpentåpent</p>
@@ -7937,7 +7937,7 @@
 <p>Ingeniør, Datateknikk 3) 5)212 004</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
-<p>Studieretninger: Spil design og programmering, Internett og distribuertesystemer.</p>
+<p>Studieretninger: Spilldesign og programmering, Internett og distribuertesystemer.</p>
 <p>Ingeniør, Datateknikk, nettbasert 4)212 078</p>
 <p>HING</p>
 <p>Bachelor10allealle</p>
@@ -7951,7 +7951,7 @@
 <p>Ingeniør, Industriell Elektronikk 3) 5)212 005</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
-<p>Studieretninger: Industriel Elektronikk, Elkraftteknikk, Satelitteknologi.</p>
+<p>Studieretninger: Industriell Elektronikk, Elkraftteknikk, Satelitteknologi.</p>
 <p>Ingeniør, Industriteknikk 3)212 034</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
@@ -7961,18 +7961,18 @@
 <p>Ingeniør, Prosessteknologi 3)212 018</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
-<p>Studieretninger: Olje/gass, PV(photo voltaic)/Solcel er</p>
+<p>Studieretninger: Olje/gass, PV(photo voltaic)/Solceller</p>
 <p>Ingeniør, Prosessteknologi, nettbasert 4)212 077</p>
 <p>HING</p>
 <p>Bachelor10allealle</p>
-<p>Studieretninger: Olje/gass, PV(photo voltaic)/Solcel er</p>
+<p>Studieretninger: Olje/gass, PV(photo voltaic)/Solceller</p>
 <p>Ingeniør, Satelitteknologi 3) 5)212 027</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
 <p>Ingeniør, første studieår, Alta212 040</p>
 <p>HING</p>
 <p>Bachelor30allealle</p>
-<p>Ingeniør - grunnlagsfag. Første studieår for al e studieretninger -studiested Alta. Garantert plass i Narvik f.o.m. 2. år.</p>
+<p>Ingeniør - grunnlagsfag. Første studieår for alle studieretninger -studiested Alta. Garantert plass i Narvik f.o.m. 2. år.</p>
 <p>Ingeniørdesign 2)212 805</p>
 <p>SIVING</p>
 <p>Master20allealle</p>
@@ -7983,7 +7983,7 @@
 <p>Satelitteknologi 2)212 814</p>
 <p>SIVING</p>
 <p>Master20allealle</p>
-<p>De siste to årene vil undervisningen foregå på engelsk understudieprogrammet Master of Science - Satel ite Engineering.</p>
+<p>De siste to årene vil undervisningen foregå på engelsk understudieprogrammet Master of Science - Satellite Engineering.</p>
 <p>Økonomi og administrasjon</p>
 <p>Økonomi og administrasjon212 410</p>
 <p>GENS</p>
@@ -8117,7 +8117,7 @@
 <p>Trafikklærerutdanning, Stjørdal214 696</p>
 <p>TRAF</p>
 <p>Kandidat10042.2</p>
-<p>For å få autorisasjon som trafikklærer etter endt utdanning må dutilfredsstil e helsekrav tilsvarende krav til førerkort klasse D (buss)</p>
+<p>For å få autorisasjon som trafikklærer etter endt utdanning må dutilfredsstille helsekrav tilsvarende krav til førerkort klasse D (buss)</p>
 <p>Mediefag, bibliotekfag og journalistfag</p>
 <p>Multimedieteknologi, Steinkjer214 430</p>
 <p>GENS</p>
@@ -8170,7 +8170,7 @@
 <p>Økonomi og administrasjon, Steinkjer214 369</p>
 <p>GENS</p>
 <p>Bachelor40allealle</p>
-<p>Økonomistyring el er Bedriftsetablering og bedriftsutvikling</p>
+<p>Økonomistyring eller Bedriftsetablering og bedriftsutvikling</p>
 <p>Høgskolen i Oslo (HiO) Opptakskontoret, Postboks 4 St. Olavs Plass, 0130 OSLO Telefon: 22 45 28 00 (betjent kl. 10.00 - 14.00), 22 45 20 00 - Telefaks: 22 45 20 10 - www.hio.no - opptak@hio.no Fra 1. august 2011 vil høgskolene i Akershus og Oslo slås sammen til en institusjon. Studiestedene og studietilbudene vil opprettholdes.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -8185,7 +8185,7 @@
 <p>Årsstudium3055.235.8</p>
 <p>Drama og teaterkommunikasjon 1)215 439</p>
 <p>GENS</p>
-<p>Bachelor1248.341.82-årig studium + 1-årig påbygging i estetiske fag el er fra annetgodkjent fagområde</p>
+<p>Bachelor1248.341.82-årig studium + 1-årig påbygging i estetiske fag eller fra annetgodkjent fagområde</p>
 <p>Drama og teaterkommunikasjon, årsstudium215 618</p>
 <p>GENS</p>
 <p>Årsstudium1643.035.5</p>
@@ -8198,8 +8198,8 @@
 <p>Idrettsfag, kroppsøving og friluftsliv</p>
 <p>Idrett, friluftsliv og helse215 447</p>
 <p>GENS</p>
-<p>Bachelor5046.541.11. og 2. studieår fel es og deretter valgmuligheter i 3. studieår:</p>
-<p>Faglærerutdanning i kroppsøving el er Forebyggende helsearbeid el er valgfritt relevant studium.</p>
+<p>Bachelor5046.541.11. og 2. studieår felles og deretter valgmuligheter i 3. studieår:</p>
+<p>Faglærerutdanning i kroppsøving eller Forebyggende helsearbeid eller valgfritt relevant studium.</p>
 <p>Kroppsøving og idrett, årsstudium215 185</p>
 <p>GENS</p>
 <p>Årsstudium1653.643.0</p>
@@ -8377,7 +8377,7 @@
 <p>Friluftsliv216 302</p>
 <p>GENS</p>
 <p>Bachelor20allealle</p>
-<p>Friluftsliv, bre, fjel og naturkunnskap, klatring, naturbasert turisme,rettlei ng.</p>
+<p>Friluftsliv, bre, fjell og naturkunnskap, klatring, naturbasert turisme,rettleiing.</p>
 <p>Idrett216 185</p>
 <p>GENS</p>
 <p>Årsstudium35allealle</p>
@@ -8416,11 +8416,11 @@
 <p>Geologi og geofare216 469</p>
 <p>REALFA</p>
 <p>Bachelor15allealle</p>
-<p>Spesiel vekt på klimaendringar, geofarar (ras og flaum mm),naturkatastrofar, geologiske ressursar og prosessar.</p>
+<p>Spesiell vekt på klimaendringar, geofarar (ras og flaum mm),naturkatastrofar, geologiske ressursar og prosessar.</p>
 <p>Naturfag 1)216 373</p>
 <p>REALFA</p>
 <p>Årsstudium10allealle</p>
-<p>Fel es undervising med bachelor landskapsplanlegging medlandskapsarkitektur, bachelor i fornybar energi og bachelor i geologi oggeofare.</p>
+<p>Felles undervising med bachelor landskapsplanlegging medlandskapsarkitektur, bachelor i fornybar energi og bachelor i geologi oggeofare.</p>
 <p>Medisin, odontologi, helse- og sosialfag</p>
 <p>Barnevernspedagogutdanning216 070</p>
 <p>GENS</p>
@@ -8613,7 +8613,7 @@
 <p>Grunnskolelærer 1.-7. trinn219 547</p>
 <p>LÆRER</p>
 <p>Yrkesutd135allealle</p>
-<p>Obligatoriske emner de to første studieårene er pedagogikk ogelevkunnskap(PEL), norsk og matematikk. I til egg kan studentene velge ett av følgende emner for de to første studieårene: engelsk,kunst og handverk, kroppsøving, naturfag el er musikk.</p>
+<p>Obligatoriske emner de to første studieårene er pedagogikk ogelevkunnskap(PEL), norsk og matematikk. I tillegg kan studentene velge ett av følgende emner for de to første studieårene: engelsk,kunst og handverk, kroppsøving, naturfag eller musikk.</p>
 <p>Grunnskolelærer 1.-7. trinn m/realfag219 548</p>
 <p>LÆRER</p>
 <p>Yrkesutd50allealle</p>
@@ -8621,11 +8621,11 @@
 <p>Grunnskolelærer 5.-10. trinn m/matematikk219 657</p>
 <p>LÆRER</p>
 <p>Yrkesutd6540.338.4</p>
-<p>Obligatoriske emner er pedagogikk og elevkunnskap (PEL) ogmatematikk. I til egg må studentene velge ett av følgende emner for de to første studieårene: naturfag, engelsk, samfunnsfag el er religion,livssyn og etikk (RLE).</p>
+<p>Obligatoriske emner er pedagogikk og elevkunnskap (PEL) ogmatematikk. I tillegg må studentene velge ett av følgende emner for de to første studieårene: naturfag, engelsk, samfunnsfag eller religion,livssyn og etikk (RLE).</p>
 <p>Grunnskolelærer 5.-10. trinn m/norsk219 658</p>
 <p>LÆRER</p>
 <p>Yrkesutd6540.338.4</p>
-<p>Obligatoriske emner er pedagogikk og elevkunnskap (PEL) og norsk og itil egg må studentene velge ett av følgende emner for de to førstestudieårene: naturfag, engelsk, samfunnsfag el er religion, livssyn ogetikk (RLE)</p>
+<p>Obligatoriske emner er pedagogikk og elevkunnskap (PEL) og norsk og itillegg må studentene velge ett av følgende emner for de to førstestudieårene: naturfag, engelsk, samfunnsfag eller religion, livssyn ogetikk (RLE)</p>
 <p>Grunnskolelærer 5.-10. trinn m/realfag219 655</p>
 <p>LÆRER</p>
 <p>Yrkesutd5540.442.2</p>
@@ -8678,7 +8678,7 @@
 <p>Ingeniør, elektro og datateknikk 2)219 005</p>
 <p>HING</p>
 <p>Bachelor130allealle</p>
-<p>Automatiseringsteknikk, Elektronikk, Elkraftteknikk, Industriel</p>
+<p>Automatiseringsteknikk, Elektronikk, Elkraftteknikk, Industriell</p>
 <p>Instrumentering.</p>
 <p>Ingeniør, kjemi219 009</p>
 <p>HING</p>
@@ -8722,11 +8722,11 @@
 <p>Folkekunst årsstudium, Rauland 1)220 628</p>
 <p>GENS</p>
 <p>Årsstudium15allealle</p>
-<p>Den praktiske komponenten i studiet kan være Tre, Metal el er Tekstil.</p>
+<p>Den praktiske komponenten i studiet kan være Tre, Metall eller Tekstil.</p>
 <p>Folkekunst, Rauland 1)220 442</p>
 <p>GENS</p>
 <p>Bachelor10allealle</p>
-<p>Den praktiske komponenten i studiet kan være Tre, Metal el er Tekstil.</p>
+<p>Den praktiske komponenten i studiet kan være Tre, Metall eller Tekstil.</p>
 <p>Folkemusikk årsstudium, Rauland 1)220 629</p>
 <p>GENS</p>
 <p>Årsstudium15allealle</p>
@@ -8774,7 +8774,7 @@
 <p>Idrettsvitenskap, Bø220 440</p>
 <p>GENS</p>
 <p>Bachelor30allealle</p>
-<p>Fordypning i trenerrol en el er idrettsadministrasjon og ledelse.</p>
+<p>Fordypning i trenerrollen eller idrettsadministrasjon og ledelse.</p>
 <p>Kroppsøving og idrettsfag, årsstudium Notodden220 649</p>
 <p>GENS</p>
 <p>Årsstudium10allealle</p>
@@ -8801,8 +8801,8 @@
 <p>Faglærer i formgiving, kunst og håndv., Notodden220 150</p>
 <p>GENS</p>
 <p>Bachelor32allealle</p>
-<p>Fordypning 3.år: Digital bildeskaping og visuel kommunikasjon,</p>
-<p>Tegning og bildekommunikasjon, Tekstil, leire og tre med metal .</p>
+<p>Fordypning 3.år: Digital bildeskaping og visuell kommunikasjon,</p>
+<p>Tegning og bildekommunikasjon, Tekstil, leire og tre med metall.</p>
 <p>Faglærer i kroppsøving og idrettsfag, Notodden 2)220 140</p>
 <p>GENS</p>
 <p>Bachelor30allealle</p>
@@ -8837,7 +8837,7 @@
 <p>Grunnskolelærer 5.-10. Notodden og desentralisert 4)220 655</p>
 <p>LÆRER</p>
 <p>Yrkesutd50nyttnytt</p>
-<p>Studenter på Notodden kan velge kroppsøving el er norsk 1. år.</p>
+<p>Studenter på Notodden kan velge kroppsøving eller norsk 1. år.</p>
 <p>Desentraliserte studenter gjennom studiesenteret må velge norsk somfag 1. år.</p>
 <p>Grunnskolelærer 5.-10. trinn, Porsgrunn220 651</p>
 <p>LÆRER</p>
@@ -8895,7 +8895,7 @@
 <p>Ingeniør, bygg 6)220 003</p>
 <p>HING</p>
 <p>Bachelor2543.139.3</p>
-<p>Studieretning: Al menn bygg</p>
+<p>Studieretning: Allmenn bygg</p>
 <p>Ingeniør, elkraft 6)220 006</p>
 <p>HING</p>
 <p>Bachelor15allealle</p>
@@ -8905,7 +8905,7 @@
 <p>Ingeniør, informatikk og automatisering 6)220 090</p>
 <p>HING</p>
 <p>Bachelor15allealle</p>
-<p>Fordypning i Automatisering el er Mikroelektronikk.</p>
+<p>Fordypning i Automatisering eller Mikroelektronikk.</p>
 <p>Ingeniør, maskin 6)220 012</p>
 <p>HING</p>
 <p>Bachelor15allealle</p>
@@ -8993,7 +8993,7 @@
 <p>Grunnskolelærerutdanning 1.- 7. trinn trainee 1)222 548</p>
 <p>LÆRER</p>
 <p>Yrkesutd30allealle</p>
-<p>Traineemodel /utvidet betalt praksis, studiested Larvik.</p>
+<p>Traineemodell/utvidet betalt praksis, studiested Larvik.</p>
 <p>Grunnskolelærerutdanning, 1.-7. trinn 1)222 547</p>
 <p>LÆRER</p>
 <p>Yrkesutd40allealle</p>
@@ -9127,11 +9127,11 @@
 <p>Historie årsstudium223 179</p>
 <p>GENS</p>
 <p>Årsstudium40allealle</p>
-<p>Ordinær undervisning el er nettstudium.</p>
+<p>Ordinær undervisning eller nettstudium.</p>
 <p>Historie, deltid223 613</p>
 <p>GENS</p>
 <p>Årsstudium40allealle</p>
-<p>Ordinær undervisning el er nettstudium.</p>
+<p>Ordinær undervisning eller nettstudium.</p>
 <p>Religion og språk223 482</p>
 <p>GENS</p>
 <p>Bachelor10nyttnytt</p>
@@ -9158,7 +9158,7 @@
 <p>Førskulelærarutdanning223 130</p>
 <p>GENS</p>
 <p>Bachelor60allealle</p>
-<p>Fordjupingsfag: Estetiske fag, Organisasjon og lei ng, Utefag.</p>
+<p>Fordjupingsfag: Estetiske fag, Organisasjon og leiing, Utefag.</p>
 <p>Førskulelærarutdanning, deltid 2)223 131</p>
 <p>GENS</p>
 <p>Bachelor60nyttnytt</p>
@@ -9188,7 +9188,7 @@
 <p>Journalistikk 3)223 454</p>
 <p>GENS</p>
 <p>Bachelor5753.248.2</p>
-<p>Fjernsyn. Radio. Avis. Al e publiserer på nett.</p>
+<p>Fjernsyn. Radio. Avis. Alle publiserer på nett.</p>
 <p>Media, IKT og design223 430</p>
 <p>GENS</p>
 <p>Bachelor3441.241.4</p>
@@ -9271,7 +9271,7 @@
 <p>Informasjonssystemer, Halden224 453</p>
 <p>GENS</p>
 <p>Bachelor35allealle</p>
-<p>IT-ledelse og samspil et mel om virksomhet og mennesker,</p>
+<p>IT-ledelse og samspillet mellom virksomhet og mennesker,</p>
 <p>Webutvikling og kommunikasjon.</p>
 <p>Informasjonsteknologi, Halden224 620</p>
 <p>GENS</p>
@@ -9294,7 +9294,7 @@
 <p>Grunnskolelærerutdanning, 5.-10. trinn, Halden 2)224 651</p>
 <p>LÆRER</p>
 <p>Yrkesutd40allealle</p>
-<p>Aktuel e valgfag 1. året: Norsk, Naturfag, Engelsk el er Kroppsøving ogidrett. Velges etter opptak.</p>
+<p>Aktuelle valgfag 1. året: Norsk, Naturfag, Engelsk eller Kroppsøving ogidrett. Velges etter opptak.</p>
 <p>Matematikk og naturfag</p>
 <p>Matematikk, Halden224 661</p>
 <p>REALFA</p>
@@ -9369,7 +9369,7 @@
 <p>Ingeniør, data, Halden 6) 7) 8)224 004</p>
 <p>HING</p>
 <p>Bachelor10allealle</p>
-<p>Utvikling av IT-systemer med fokus på intel igente systemer ogindustriel IT.</p>
+<p>Utvikling av IT-systemer med fokus på intelligente systemer ogindustriell IT.</p>
 <p>Ingeniør, elektro, Fredrikstad 6) 7) 8)224 005</p>
 <p>HING</p>
 <p>Bachelor20allealle</p>
@@ -9414,7 +9414,7 @@
 <p>Bachelor i Marine- og biologiske fag225 299</p>
 <p>REALFA</p>
 <p>Bachelor30allealle</p>
-<p>Spesialisering innen bioteknologi, mat og ernæring el er marinbiologiog havbruk</p>
+<p>Spesialisering innen bioteknologi, mat og ernæring eller marinbiologiog havbruk</p>
 <p>Medisinsk og marint årsstudium225 184</p>
 <p>REALFA</p>
 <p>Årsstudium17allealle</p>
@@ -9432,11 +9432,11 @@
 <p>Ingeniør, bygg 1)225 003</p>
 <p>HING</p>
 <p>Bachelor25allealle</p>
-<p>Spesialisering innen planlegging/veg/VA el er konstruksjon.</p>
+<p>Spesialisering innen planlegging/veg/VA eller konstruksjon.</p>
 <p>Ingeniør, data 1)225 004</p>
 <p>HING</p>
 <p>Bachelor30allealle</p>
-<p>Spesialisering innen drift og sikkerhet i datanettverk, internett, mobileapplikasjoner og distribuerte systemer el er simulering og visualisering.</p>
+<p>Spesialisering innen drift og sikkerhet i datanettverk, internett, mobileapplikasjoner og distribuerte systemer eller simulering og visualisering.</p>
 <p>Ingeniør, produkt- og systemdesign 1)225 045</p>
 <p>HING</p>
 <p>Bachelor2044.846.4</p>
@@ -9446,7 +9446,7 @@
 <p>Maritim utdanning, nautikk 1)225 353</p>
 <p>MARTE</p>
 <p>Bachelor2745.138.9</p>
-<p>Spesialisering innen dynamisk posisjonering, hurtigbåt el eroffshoreoperasjoner.</p>
+<p>Spesialisering innen dynamisk posisjonering, hurtigbåt elleroffshoreoperasjoner.</p>
 <p>Økonomi og administrasjon</p>
 <p>Eksportmarkedsføring225 473</p>
 <p>GENS</p>
@@ -9527,7 +9527,7 @@
 <p>Kommunikasjon og medier257 851</p>
 <p>GENS</p>
 <p>Bachelor15allealle</p>
-<p>Studieavgift kr 10 000 pr semester. Leie av utstyr kommer i til egg.</p>
+<p>Studieavgift kr 10 000 pr semester. Leie av utstyr kommer i tillegg.</p>
 <p>Studiet er rettet mot informasjonsarbeid og multimedieproduksjon medfokus på nye digitale medier.</p>
 <p>Mediekommunikasjon, radio- og fjernsynslinje257 604</p>
 <p>GENS</p>
@@ -9537,7 +9537,7 @@
 <p>Interkulturell kommunikasjon 4) 5)257 902</p>
 <p>GENS</p>
 <p>Bachelor15åpentåpent</p>
-<p>Studieavgift kr 6 500 pr semester. Studietur kommer i til egg.</p>
+<p>Studieavgift kr 6 500 pr semester. Studietur kommer i tillegg.</p>
 <p>Interkulturell kommunikasjon - Bolivia variant 5) 6)257 872</p>
 <p>GENS</p>
 <p>Bachelor15nyttnytt</p>
@@ -9549,7 +9549,7 @@
 <p>Interkulturell kommunikasjon, årsstudium 4) 5)257 418</p>
 <p>GENS</p>
 <p>Årsstudium15åpentåpent</p>
-<p>Studieavgift kr 6 500 pr semester. Studietur kommer i til egg.1)</p>
+<p>Studieavgift kr 6 500 pr semester. Studietur kommer i tillegg.1)</p>
 <p>Studiet kan tilrettelegges for deltidsstudier.2)2. år blir studieavgiften noe høyere på grunn av mediepraksis3)</p>
 <p>Studiet har kvote for søkere med relevant praksis.4)</p>
 <p>Studiet inneholder ekskursjon (4 uker) til Øst-Afrika5)</p>
@@ -9579,18 +9579,18 @@
 <p>Samfunnsfag, psykologi</p>
 <p>Interkult. kommunikasjon og globalt samarb.256 418</p>
 <p>GENS</p>
-<p>Årsstudium25allealle1 mnd. studieopphold ved Makerere Univ. i Uganda el er Chulalongkorn</p>
+<p>Årsstudium25allealle1 mnd. studieopphold ved Makerere Univ. i Uganda eller Chulalongkorn</p>
 <p>Univ. i Thailand. Studentene kan regne med reisestøtte fra Lånekassen, men turen koster 22-26000.</p>
 <p>Religion og interkulturell kommunikasjon256 482</p>
 <p>GENS</p>
 <p>Bachelor50åpentåpent</p>
-<p>Fordypninger i graden: KRL, Kr.dom, Rel.vit. el er Interkulturel</p>
+<p>Fordypninger i graden: KRL, Kr.dom, Rel.vit. eller Interkulturell</p>
 <p>Kommunikasjon og Globalt Samarbeid.</p>
 <p>Egen halvårsenhet i kristent ungdomsarbeid kan inngå i graden.</p>
 <p>Bibeloversettelse med opphold i Canada kan inngå i graden.</p>
 <p>Samfunnsfag256 680</p>
 <p>GENS</p>
-<p>Årsstudium25allealle1 mnd. studieopphold ved Makerere Univ. i Uganda el er Chulalongkorn</p>
+<p>Årsstudium25allealle1 mnd. studieopphold ved Makerere Univ. i Uganda eller Chulalongkorn</p>
 <p>Univ. i Thailand er normalt del av årsstudiet. Studentene kan regne med reisestøtte fra Lånekassen, men turen koster 22-26000.</p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad, se www.nla.no</p>
 <p>Studienavn</p>
@@ -9624,11 +9624,11 @@
 <p>Grunnskolelærerutdanning 1.-7. trinn 1)254 547</p>
 <p>LÆRER</p>
 <p>Yrkesutd60allealle</p>
-<p>Valgfag: RLE, naturfag, musikk og kroppsøving. De andre skolefagene vilvære valgbare 3. og 4.år, enten ved NLA Høgskolen el er ved andrehøgskoler. Engelsk og mat-helse blir tilbudt i et samarbeid mel om NLAog Høgskolen i Bergen.</p>
+<p>Valgfag: RLE, naturfag, musikk og kroppsøving. De andre skolefagene vilvære valgbare 3. og 4.år, enten ved NLA Høgskolen eller ved andrehøgskoler. Engelsk og mat-helse blir tilbudt i et samarbeid mellom NLAog Høgskolen i Bergen.</p>
 <p>Grunnskolelærerutdanning 5.-10. trinn 2)254 651</p>
 <p>LÆRER</p>
 <p>Yrkesutd40allealle</p>
-<p>Valgfag: Studenten må velge enten matematikk el er norsk 1.år. Øvrigevalgfag 1.år; naturfag, RLE og samfunnsfag. De andre skolefagene vil bli valgbare i 4.studieår, enten ved NLA Høgskolen el er ved andrehøgskoler. Engelsk og mat-helse blir tilbudt i et samarbeid mel om NLA og Høgskolen i Bergen.</p>
+<p>Valgfag: Studenten må velge enten matematikk eller norsk 1.år. Øvrigevalgfag 1.år; naturfag, RLE og samfunnsfag. De andre skolefagene vil bli valgbare i 4.studieår, enten ved NLA Høgskolen eller ved andrehøgskoler. Engelsk og mat-helse blir tilbudt i et samarbeid mellom NLA og Høgskolen i Bergen.</p>
 <p>Pedagogiske fag</p>
 <p>Pedagogikk254 852</p>
 <p>GENS</p>
@@ -9705,11 +9705,11 @@
 <p>Drama og teater194 439</p>
 <p>GENS</p>
 <p>Bachelor4542.538.9</p>
-<p>Drama og teater er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning)</p>
+<p>Drama og teater er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning)</p>
 <p>Kunsthistorie194 200</p>
 <p>GENS</p>
 <p>Bachelor3537.6alle</p>
-<p>Kunsthistorie er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Kunsthistorie er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Kunsthistorie, årsstudium194 272</p>
 <p>GENS</p>
 <p>Årsstudium3043.0alle</p>
@@ -9719,16 +9719,16 @@
 <p>Musikkvitenskap 2)194 437</p>
 <p>MUNTNU</p>
 <p>Bachelor35allealle</p>
-<p>Musikkvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Musikkvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Historie, religion, idéfag</p>
 <p>Antikkens kultur194 459</p>
 <p>GENS</p>
 <p>Bachelor1039.5alle</p>
-<p>Antikkens kultur er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Antikkens kultur er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Arkeologi194 478</p>
 <p>GENS</p>
 <p>Bachelor4044.442.8</p>
-<p>Arkeologi er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Arkeologi er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Emnestudier humaniora, årsstudium194 715</p>
 <p>GENS</p>
 <p>Årsstudium2050.5alle</p>
@@ -9736,14 +9736,14 @@
 <p>Filosofi194 479</p>
 <p>GENS</p>
 <p>Bachelor3038.334.4</p>
-<p>Filosofi er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Filosofi er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Filosofi, årsstudium194 366</p>
 <p>GENS</p>
 <p>Årsstudium2545.043.7</p>
 <p>Historie194 481</p>
 <p>GENS</p>
 <p>Bachelor8540.035.2</p>
-<p>Historie er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Historie er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Historie, årsstudium194 179</p>
 <p>GENS</p>
 <p>Årsstudium6048.234.1</p>
@@ -9756,7 +9756,7 @@
 <p>Religionsvitenskap194 929</p>
 <p>GENS</p>
 <p>Bachelor3038.234.0</p>
-<p>Religionsvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Religionsvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Religionsvitenskap, årsstudium194 910</p>
 <p>GENS</p>
 <p>Årsstudium2546.036.8</p>
@@ -9788,7 +9788,7 @@
 <p>Lektorutdanning i realfag194 843</p>
 <p>LÆREAL</p>
 <p>Master6547.250.0</p>
-<p>Enten Biologi og kjemi, el er Matematikk sammen med ett avfølgendefag: Fysikk, Kjemi, Naturfag, Informatikk.</p>
+<p>Enten Biologi og kjemi, eller Matematikk sammen med ett avfølgendefag: Fysikk, Kjemi, Naturfag, Informatikk.</p>
 <p>Lektorutdanning i samfunnsfag194 945</p>
 <p>LÆRER</p>
 <p>Master2548.648.4</p>
@@ -9848,11 +9848,11 @@
 <p>Filmvitenskap194 847</p>
 <p>GENS</p>
 <p>Bachelor5539.735.7</p>
-<p>Filmvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Filmvitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Medievitenskap194 851</p>
 <p>GENS</p>
 <p>Bachelor7544.840.4</p>
-<p>Medievitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium el er fordypning).</p>
+<p>Medievitenskap er første fordypning. Kombineres med andre fag(støttefag, årsstudium eller fordypning).</p>
 <p>Medisin, odontologi, helse- og sosialfag</p>
 <p>Medisin194 740</p>
 <p>MEROD12066.458.4</p>
@@ -9867,9 +9867,9 @@
 <p>Emnestudier samfunnsvitenskap194 324</p>
 <p>GENS</p>
 <p>Årsstudium4053.539.2</p>
-<p>Åpne emner innen ett el er flere fag: Samfunnskunnskap,</p>
+<p>Åpne emner innen ett eller flere fag: Samfunnskunnskap,</p>
 <p>Sosialantropologi, Sosiologi, Statsvitenskap, Pedagogikk og Geografi.</p>
-<p>Emnene kan settes sammen til et årsstudium og/el er senere inngå i etbachelorprogram.</p>
+<p>Emnene kan settes sammen til et årsstudium og/eller senere inngå i etbachelorprogram.</p>
 <p>Geografi194 438</p>
 <p>GENS</p>
 <p>Bachelor5039.731.8</p>
@@ -9926,14 +9926,14 @@
 <p>Allmenn litteraturvitenskap194 456</p>
 <p>GENS</p>
 <p>Bachelor20allealle</p>
-<p>Al menn litteraturvitenskap er første fordypning. Kombineres medandre fag (støttefag, årsstudium el er fordypning).</p>
+<p>Allmenn litteraturvitenskap er første fordypning. Kombineres medandre fag (støttefag, årsstudium eller fordypning).</p>
 <p>Allmenn litteraturvitenskap, årsstudium194 615</p>
 <p>GENS</p>
 <p>Årsstudium1046.734.6</p>
 <p>Engelsk194 887</p>
 <p>GENS</p>
 <p>Bachelor6037.032.1</p>
-<p>Engelsk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Engelsk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Engelsk, årsstudium194 170</p>
 <p>GENS</p>
 <p>Årsstudium5044.041.6</p>
@@ -9952,29 +9952,29 @@
 <p>Fonetikk194 930</p>
 <p>GENS</p>
 <p>Bachelor5allealle</p>
-<p>Fonetikk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Fonetikk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Fransk194 888</p>
 <p>GENS</p>
 <p>Bachelor15allealle</p>
-<p>Fransk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Fransk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Fransk, årsstudium194 174</p>
 <p>GENS</p>
 <p>Årsstudium20allealle</p>
 <p>Klassisk språk og litteratur194 932</p>
 <p>GENS</p>
 <p>Bachelor5allealle</p>
-<p>Klassisk språk og litteratur er første fordypning. Kombineres med andrefag (støttefag, årsstudium el er fordypning)</p>
+<p>Klassisk språk og litteratur er første fordypning. Kombineres med andrefag (støttefag, årsstudium eller fordypning)</p>
 <p>Latin194 294</p>
 <p>GENS</p>
 <p>Årsstudium5allealle</p>
 <p>Lingvistikk194 457</p>
 <p>GENS</p>
 <p>Bachelor5allealle</p>
-<p>Lingvistikk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Lingvistikk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Nordisk194 889</p>
 <p>GENS</p>
 <p>Bachelor30allealle</p>
-<p>Nordisk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Nordisk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Nordisk, årsstudium194 210</p>
 <p>GENS</p>
 <p>Årsstudium2536.4alle</p>
@@ -9984,11 +9984,11 @@
 <p>Språklig kommunikasjon194 901</p>
 <p>GENS</p>
 <p>Bachelor1037.738.0</p>
-<p>Språklig kommunikasjon er første fordypning. Kombineres med andrefag (støttefag, årsstudium el er fordypning).</p>
+<p>Språklig kommunikasjon er første fordypning. Kombineres med andrefag (støttefag, årsstudium eller fordypning).</p>
 <p>Tysk194 890</p>
 <p>GENS</p>
 <p>Bachelor5allealle</p>
-<p>Tysk er første fordypning. Kombineres med andre fag (støttefag,årsstudium el er fordypning).</p>
+<p>Tysk er første fordypning. Kombineres med andre fag (støttefag,årsstudium eller fordypning).</p>
 <p>Tysk, årsstudium194 244</p>
 <p>GENS</p>
 <p>Årsstudium15allealle</p>
@@ -10114,8 +10114,8 @@
 <p>LÆRSAM</p>
 <p>Yrkesutd12allealle1)</p>
 <p>Praksisstedene blir fordelt i det samiske området i Norge, Sverige og Finland.</p>
-<p>Sámi University Col ege</p>
-<p>Sámi al askuvla</p>
+<p>Sámi University College</p>
+<p>Sámi allaskuvla</p>
 <p>Alle bachelorstudier kan bygges ut til mastergrad, se www.umb.no.</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -10143,12 +10143,12 @@
 <p>Biologi192 327</p>
 <p>REALFA</p>
 <p>Bachelor25allealle</p>
-<p>Botanikk, Cel e-, Mikro-, Molekylær-, Plante- og dyrebiologi, Økologi,</p>
+<p>Botanikk, Celle-, Mikro-, Molekylær-, Plante- og dyrebiologi, Økologi,</p>
 <p>Zoologi,</p>
 <p>Bioteknologi192 299</p>
 <p>REALFA</p>
 <p>Bachelor3040.743.6</p>
-<p>Biokjemi, Bioinformatikk el er Bioteknologifag</p>
+<p>Biokjemi, Bioinformatikk eller Bioteknologifag</p>
 <p>Energi- og miljøfysikk192 857</p>
 <p>REALFA</p>
 <p>Bachelor1846.145.2</p>
@@ -10159,11 +10159,11 @@
 <p>Kjemi192 332</p>
 <p>REALFA</p>
 <p>Bachelor10allealle</p>
-<p>Spesialisering innen Biokjemi el er Miljøkjemi</p>
+<p>Spesialisering innen Biokjemi eller Miljøkjemi</p>
 <p>Matvitenskap192 864</p>
 <p>REALFA</p>
 <p>Bachelor25allealle</p>
-<p>Produksjon og utvikling av næringsmidler el er Mat og helse</p>
+<p>Produksjon og utvikling av næringsmidler eller Mat og helse</p>
 <p>Miljø og naturressurser192 377</p>
 <p>REALFA</p>
 <p>Bachelor10allealle</p>
@@ -10214,7 +10214,7 @@
 <p>Geomatikk: kart, satellitter og 3D-mod., master 2)192 813</p>
 <p>SIVING</p>
 <p>Master10allealle</p>
-<p>Bildebruk, Fotogrammetri, GIS, Geodesi, Model ering</p>
+<p>Bildebruk, Fotogrammetri, GIS, Geodesi, Modellering</p>
 <p>Geomatikk: kart, satellitter og 3D-modellering192 406</p>
 <p>MATRS</p>
 <p>Bachelor13allealle</p>
@@ -10332,7 +10332,7 @@
 <p>Grunnskolelærerutdanning 1.-7. trinn, master201 084</p>
 <p>LÆRER</p>
 <p>Master10nyttnytt</p>
-<p>Valg mel om fagdidaktisk mastergrad i norsk el er matematikk.</p>
+<p>Valg mellom fagdidaktisk mastergrad i norsk eller matematikk.</p>
 <p>Grunnskolelærerutdanning 5.-10. trinn, Kr. sand 1)201 651</p>
 <p>LÆRER</p>
 <p>Yrkesutd70allealle</p>
@@ -10340,11 +10340,11 @@
 <p>Grunnskolelærerutdanning 5.-10. trinn, master201 083</p>
 <p>LÆRER</p>
 <p>Master20nyttnytt</p>
-<p>Valg mel om fagdidaktisk mastergrad i ett av følgende fag: Norsk,matematikk, RLE, engelsk el er kroppsøving.</p>
+<p>Valg mellom fagdidaktisk mastergrad i ett av følgende fag: Norsk,matematikk, RLE, engelsk eller kroppsøving.</p>
 <p>Lektorutdanning i realfag201 828</p>
 <p>LÆREAL</p>
 <p>Master20åpentåpent</p>
-<p>Studieretninger: Matematikk og naturfag (valg mel om matematikk-el er naturfagdidaktikk masterdel). Matematikk og annet skolefag (tidligere integrert 5-årig masterstudium i matematikkdidaktikk).</p>
+<p>Studieretninger: Matematikk og naturfag (valg mellom matematikk-eller naturfagdidaktikk masterdel). Matematikk og annet skolefag (tidligere integrert 5-årig masterstudium i matematikkdidaktikk).</p>
 <p>Matematikk og naturfag</p>
 <p>Biologi201 327</p>
 <p>REALFA</p>
@@ -10563,7 +10563,7 @@
 <p>Kjønnsstudier184 873</p>
 <p>GENS</p>
 <p>Bachelor1543.440.9</p>
-<p>Spesialiseringer: Al menn litteraturvitenskap, Engelsk, Filosofi, Historie,</p>
+<p>Spesialiseringer: Allmenn litteraturvitenskap, Engelsk, Filosofi, Historie,</p>
 <p>Kulturvitenskap, Medievitenskap, Nordisk, Sosiologi</p>
 <p>Litteraturvitenskap184 922</p>
 <p>GENS</p>
@@ -10802,7 +10802,7 @@
 <p>Retorikk184 909</p>
 <p>GENS</p>
 <p>Bachelor2046.140.4</p>
-<p>Spesialiseringer: Al menn litteraturvitenskap, Gresk, Kunsthistorie, Latin,</p>
+<p>Spesialiseringer: Allmenn litteraturvitenskap, Gresk, Kunsthistorie, Latin,</p>
 <p>Medievitenskap, Nordisk</p>
 <p>Russisk184 886</p>
 <p>GENS</p>
@@ -10820,7 +10820,7 @@
 <p>Språkvitenskap184 893</p>
 <p>GENS</p>
 <p>Bachelor546.947.7</p>
-<p>Spesialiseringer: Al menn lingvistikk, Datalingvistikk og Språkteknologi</p>
+<p>Spesialiseringer: Allmenn lingvistikk, Datalingvistikk og Språkteknologi</p>
 <p>Tysk 4)184 890</p>
 <p>GENS</p>
 <p>Bachelor12allealle</p>
@@ -10939,7 +10939,7 @@
 <p>Biologi204 327</p>
 <p>REALFA</p>
 <p>Bachelor15åpentåpent</p>
-<p>Spesialisering innen marin økologi el er molekylær biologi. Praksis kaninngå i studiet.</p>
+<p>Spesialisering innen marin økologi eller molekylær biologi. Praksis kaninngå i studiet.</p>
 <p>Biologi og kjemi204 184</p>
 <p>REALFA</p>
 <p>Årsstudium10åpentåpent</p>
@@ -11071,7 +11071,7 @@
 <p>Estetiske studier 1)185 439</p>
 <p>GENS</p>
 <p>Bachelor6048.432.6</p>
-<p>Studieretning på program for Estetiske studier og al mennlitteraturvitenskap. Fordypningsområder: Al menn litteraturvitenskap,</p>
+<p>Studieretning på program for Estetiske studier og allmennlitteraturvitenskap. Fordypningsområder: Allmenn litteraturvitenskap,</p>
 <p>Engelskspråklig litteratur, Kunsthistorie, Medievitenskap, Nordisklitteraturvitenskap, Musikkvitenskap, Teatervitenskap</p>
 <p>Kunsthistorie185 462</p>
 <p>GENS</p>
@@ -11129,11 +11129,11 @@
 <p>Informatikk: design, bruk og interaksjon 3)185 830</p>
 <p>GENS</p>
 <p>Bachelor10046.838.2</p>
-<p>Fordypningsområder: Design av informasjonssystemer, store ogkomplekse informasjonssystemer og infrastrukturer, interaksjonsdesign, digital mediaproduksjon, informasjonsarkitektur, systemutvikling, IT-ledelse, informatikk kombinert med sosiologi, psykologi, medievitenskap humaniora el er jus.</p>
+<p>Fordypningsområder: Design av informasjonssystemer, store ogkomplekse informasjonssystemer og infrastrukturer, interaksjonsdesign, digital mediaproduksjon, informasjonsarkitektur, systemutvikling, IT-ledelse, informatikk kombinert med sosiologi, psykologi, medievitenskap humaniora eller jus.</p>
 <p>Informatikk: nanoelektronikk og robotikk 3) 4) 5)185 832</p>
 <p>MATRS</p>
 <p>Bachelor6041.942.4</p>
-<p>Fordypningsområder: Nanoelektronikk, robotikk og intel igentesystemer, signalbehandling, digital teknologi, analog mikroelektronikk,systemkonstruksjon og trådløs kommunikasjon, maskinvareutvikling,evolusjonær og adaptiv</p>
+<p>Fordypningsområder: Nanoelektronikk, robotikk og intelligentesystemer, signalbehandling, digital teknologi, analog mikroelektronikk,systemkonstruksjon og trådløs kommunikasjon, maskinvareutvikling,evolusjonær og adaptiv</p>
 <p>Informatikk: programmering og nettverk 3) 5)185 829</p>
 <p>MATRS</p>
 <p>Bachelor16040.037.9</p>
@@ -11141,7 +11141,7 @@
 <p>Informatikk: språk og kommunikasjon 3) 5)185 837</p>
 <p>GENS</p>
 <p>Bachelor50allealle</p>
-<p>Fordypningsområder: Datalingvistikk, språkteknologi, logikk, kunstigintel igens</p>
+<p>Fordypningsområder: Datalingvistikk, språkteknologi, logikk, kunstigintelligens</p>
 <p>Informatikk: tekniske og naturvitenskaplige anv. 3) 4) 5)185 464</p>
 <p>MATRS</p>
 <p>Bachelor40allealle</p>
@@ -11224,7 +11224,7 @@
 <p>Realfag, årsstudium 3)185 233</p>
 <p>REALFA</p>
 <p>Årsstudium150allealle</p>
-<p>Realfagene omfatter både matematikk, informatikk og al enaturvitenskapelige fagområder.</p>
+<p>Realfagene omfatter både matematikk, informatikk og allenaturvitenskapelige fagområder.</p>
 <p>Mediefag, bibliotekfag og journalistfag</p>
 <p>Medievitenskap185 851</p>
 <p>GENS</p>
@@ -11341,7 +11341,7 @@
 <p>Allmenn litteraturvitenskap 1)185 922</p>
 <p>GENS</p>
 <p>Bachelor5051.739.2</p>
-<p>Studieretning på program for Estetiske studier og al mennlitteraturvitenskap.</p>
+<p>Studieretning på program for Estetiske studier og allmennlitteraturvitenskap.</p>
 <p>Allmenn litteraturvitenskap, årsstudium 1)185 615</p>
 <p>GENS</p>
 <p>Årsstudium2554.042.2</p>
@@ -11530,7 +11530,7 @@
 <p>Sosiologi217 880</p>
 <p>GENS</p>
 <p>Bachelor8045.035.8</p>
-<p>Mulighet for spesialisering i personal edelse.</p>
+<p>Mulighet for spesialisering i personalledelse.</p>
 <p>Sosiologi, årsstudium217 240</p>
 <p>GENS</p>
 <p>Årsstudium4542.337.0</p>
@@ -11588,7 +11588,7 @@
 <p>Offshoreteknologi 1)217 802</p>
 <p>SIVING</p>
 <p>Master1548.643.6</p>
-<p>Spesialisering på master: Industriel teknologi og driftsledelse el. Marinog undervannssystemer.</p>
+<p>Spesialisering på master: Industriell teknologi og driftsledelse el. Marinog undervannssystemer.</p>
 <p>Petroleumsgeologi217 947</p>
 <p>HING</p>
 <p>Bachelor2041.540.4</p>
@@ -11654,7 +11654,7 @@
 <p>Religionsvitenskap186 482</p>
 <p>GENS</p>
 <p>Bachelor20åpentåpent</p>
-<p>Studieretninger: Al menn religionsvitenskap, Teologi</p>
+<p>Studieretninger: Allmenn religionsvitenskap, Teologi</p>
 <p>Religionsvitenskap, oppstart høst186 910</p>
 <p>GENS</p>
 <p>Årsstudium5åpentåpent</p>
@@ -11688,7 +11688,7 @@
 <p>Lektorutdanning i språk og samfunnsfag186 844</p>
 <p>LÆRER</p>
 <p>Master50åpentåpent</p>
-<p>Integrert 5-årig studium. Studieretninger: Al menn kunstvitenskap,</p>
+<p>Integrert 5-årig studium. Studieretninger: Allmenn kunstvitenskap,</p>
 <p>Bedriftsøkonomi, Engelsk, Finsk, Fransk, Historie, Nordisk,</p>
 <p>Religionsvitenskap, Russisk, Samisk, Samfunnsøkonomi,</p>
 <p>Sosialantropologi, Sosiologi, Spansk, Statsvitenskap, Tysk</p>
@@ -11834,7 +11834,7 @@
 <p>Språk og litteratur186 891</p>
 <p>GENS</p>
 <p>Bachelor45åpentåpent</p>
-<p>Studieretninger: Al menn litteraturvitenskap, Al menn språkvitenskap,</p>
+<p>Studieretninger: Allmenn litteraturvitenskap, Allmenn språkvitenskap,</p>
 <p>Engelsk, Finsk, Fransk, Nordisk, Russisk, Samisk, Samisk som fremmedspråk, Spansk, Tysk</p>
 <p>Språk og økonomi186 892</p>
 <p>GENS</p>

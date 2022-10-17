@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1217</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_nynorsk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Kommunestyre- og fylkestingsvalet 2015 </em></p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1216</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_nynorsk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Kommunestyre- og fylkestingsvalet 2015 </em></p>
 <p>Ved valet vel vi representantar til kommunestyret og fylkestinget.</p>
 <p><em type="bold">Kommunestyret </em>er det høgaste organet i kommunen. Her blir det teke avgjerder i lokale saker som barnehagar, barnevern, plan- og arealspørsmål, grunnskule, helse- og omsorgstenester, kulturtiltak og renovasjon. </p>
 <p><em type="bold">Fylkestinget </em>er det høgaste organet i fylkeskommunen. Fylkestinget tek avgjerder om mellom anna vidaregåande opplæring, fylkesvegar med tilhøyrande ferjestrekningar, lokal kollektivtransport og kulturtiltak. </p>
@@ -14,9 +14,9 @@
 <p><em type="bold">Alle veljarar får tilsendt valkort </em></p>
 <p>På framsida av valkortet finn du informasjon om kva for vallokale du er registrert ved og opningstida på valdagen. Du treng ikkje valkortet for å stemme, men det sparer deg for tid. Valkortet gjeld ikkje som legitimasjon.</p>
 <p type="listitem">Kven kan stemme?</p>
-<p type="listitem">Norske statsborgarar som har fylt 18 år innan utgangen av 2015 og som er,     eller har vore, registrerte som busette i Noreg.</p>
+<p type="listitem">Norske statsborgarar som har fylt 18 år innan utgangen av 2015 og som er,      eller har vore, registrerte som busette i Noreg.</p>
 <p type="listitem">Statsborgarar i andre nordiske land som har fylt 18 år innan utgangen av      2015, og som har vore registrerte som busette i Noreg seinast 30. juni 2015.</p>
-<p type="listitem">Andre utanlandske statsborgarar som har fylt 18 år innan utgangen av 2015,   og som har vore registrerte som busette i Noreg samanhengande dei tre siste     åra før valdagen.</p>
+<p type="listitem">Andre utanlandske statsborgarar som har fylt 18 år innan utgangen av 2015,    og som har vore registrerte som busette i Noreg samanhengande dei tre siste     åra før valdagen.</p>
 <p type="listitem">I 20 kommunar kan dei som har fylt 16 år innan utgangen av 2015 stemme      ved kommunestyrevalet. Dei må oppfylle busetjingsvilkåra om er nemde       ovanfor. Sjå side 2 kva for kommunar dette gjeld.</p>
 <p><em type="bold">Når og kvar kan du stemme? </em></p>
 <p><em type="bold">På valdagen </em>må du stemme i kommunen du er registrert busett i per 30. juni 2015. Du kan stemme i kva vallokale som helst i kommunen. </p>
@@ -35,8 +35,7 @@
 <p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut.felt for ev. stemmeseddelnr </p>
 <p><em type="bold">Sjå rettleiing </em></p>
 <p xml:lang="ita"><em type="bold">Parti </em></p>
-<p xml:lang="rmy-rlo">Kommunestyreval</p>
-<p xml:lang="olo">K <em type="bold">1. </em></p>
+<p xml:lang="est">Kommunestyreval <em type="bold">1. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">2. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">3. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em>4. </p>

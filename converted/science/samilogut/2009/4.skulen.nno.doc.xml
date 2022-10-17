@@ -1,6 +1,6 @@
 <document xml:lang="nno" id="no_id"><header><title> 
 4
-</title><genre code="science"/><author><unknown/></author><wordcount>5521</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Lene Antonsen" email="lene.antonsen@uit.no"/><multilingual/><origFileName>4.Skulen.nno.doc</origFileName><parallel_text xml:lang="sme" location="4.skulen.sme.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">4 Samisk språk i barnehage og skule </em></p>
+</title><genre code="science"/><author><unknown/></author><wordcount>5521</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Lene Antonsen" email="lene.antonsen@uit.no"/><multilingual/><origFileName>4.Skulen.nno.doc</origFileName><parallel_text xml:lang="sme" location="4.skulen.sme.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">4 Samisk språk i barnehage og skule </em></p>
 <p xml:lang="isl"><em type="bold">Samandrag </em></p>
 <p><em type="italic">I dei tre åra frå 2006 til 2009 gjekk talet på grunnskuleelevar med opplæring i Samisk som andrespråk ned med 593 elevar. Det vil seia at faget har mist 29 % av elevane sine dei tre siste åra. </em></p>
 <p><em type="italic">I den same perioden gjekk talet på samiske barnehagar ned frå 67 til 60. Det samla talet på born som er i samiskspråklege barnehagetilbod, gjekk òg noko ned, medan talet på grunnskuleelevar med Samisk som førstespråk heldt seg relativt stabilt i perioden. </em></p>
@@ -17,28 +17,28 @@
 <p>Tabell 4.1 nedanfor viser endringar i talet på barnehagar med samisk språktilbod i perioden frå og med 2002 til og med 2008.</p>
 <p><em type="bold">Tabell 4.1 Talet på barnehagar med samisk språktilbod i åra 2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2005</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2005</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p xml:lang="nob"><em type="bold">Barnehagar med samisktilbod i alt </em></p>
-<p xml:lang="mrj"><em type="bold">49 </em></p>
-<p xml:lang="mrj"><em type="bold">64 </em></p>
-<p xml:lang="mrj"><em type="bold">67 </em></p>
-<p xml:lang="mrj"><em type="bold">56 </em></p>
-<p xml:lang="mrj"><em type="bold">60 </em></p>
+<p xml:lang="koi"><em type="bold">49 </em></p>
+<p xml:lang="koi"><em type="bold">64 </em></p>
+<p xml:lang="koi"><em type="bold">67 </em></p>
+<p xml:lang="koi"><em type="bold">56 </em></p>
+<p xml:lang="koi"><em type="bold">60 </em></p>
 <p xml:lang="nob">Samiske barnehagar</p>
-<p xml:lang="mrj">43</p>
-<p xml:lang="mrj">46</p>
-<p xml:lang="mrj">47</p>
-<p xml:lang="mrj">40</p>
-<p xml:lang="mrj">41</p>
+<p xml:lang="koi">43</p>
+<p xml:lang="koi">46</p>
+<p xml:lang="koi">47</p>
+<p xml:lang="koi">40</p>
+<p xml:lang="koi">41</p>
 <p>Norske barnehagar med samisktilbod</p>
-<p xml:lang="mrj">18</p>
-<p xml:lang="mrj">20</p>
-<p xml:lang="mrj">16</p>
-<p xml:lang="mrj">19</p>
+<p xml:lang="koi">18</p>
+<p xml:lang="koi">20</p>
+<p xml:lang="koi">16</p>
+<p xml:lang="koi">19</p>
 <p>Av tabellen ser vi at det samiskspråklege barnehagetilbodet var mest omfattande i 2006. I åra etterpå har talet på samiske barnehagar gått ned med sju, og talet på norske barnehagar med samisktilbod har gått ned med ein.</p>
 <p>Det er ikkje gjort nokon undersøkingar som kan forklare denne nedgangen. Det kan vera at foreldreinteressa for å velja samiskspråklege barnehagetilbod er i ferd med å bli mindre. Eller det kan vera at foreldreinteressa er like stor som før, men at det no er vanskelegare å rekruttere samisktalande barnehagepersonell enn før, slik at tilbodet av den grunn blir mindre.</p>
 <p>Det finst ingen statistikk som fortel kor mange samisktalande førskulelærarar som finst, eller kvar dei samisktalande barnehageassistentane blir rekrutterte frå. Denne mangelen gjer det vanskeleg å planlegge både rekruttering til yrket og kompetanseheving av dei som allereie arbeider i barnehagane.</p>
@@ -46,29 +46,29 @@
 <p>Tabell 4.2 nedanfor viser endringar i talet på barnehageborn med samisk språktilbod i åra frå og med 2002 til og med 2008.</p>
 <p><em type="bold">Tabell 4.2 Talet på born som får samisktilbod i barnehagen 2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2005</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2005</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på born med samisktilbod i alt </em></p>
-<p xml:lang="mrj"><em type="bold">880 </em></p>
-<p xml:lang="mrj"><em type="bold">925 </em></p>
-<p xml:lang="mrj"><em type="bold">975 </em></p>
-<p xml:lang="mrj"><em type="bold">956 </em></p>
-<p xml:lang="mrj"><em type="bold">940 </em></p>
+<p xml:lang="koi"><em type="bold">880 </em></p>
+<p xml:lang="koi"><em type="bold">925 </em></p>
+<p xml:lang="koi"><em type="bold">975 </em></p>
+<p xml:lang="koi"><em type="bold">956 </em></p>
+<p xml:lang="koi"><em type="bold">940 </em></p>
 <p>Talet på born i samiske barnehagar</p>
-<p xml:lang="mrj">870</p>
-<p xml:lang="mrj">882</p>
-<p xml:lang="mrj">929</p>
-<p xml:lang="mrj">925</p>
-<p xml:lang="mrj">905</p>
+<p xml:lang="koi">870</p>
+<p xml:lang="koi">882</p>
+<p xml:lang="koi">929</p>
+<p xml:lang="koi">925</p>
+<p xml:lang="koi">905</p>
 <p>Talet på born som får samisktilbod i norske barnehagar</p>
-<p xml:lang="mrj">10</p>
-<p xml:lang="mrj">43</p>
-<p xml:lang="mrj">46</p>
-<p xml:lang="mrj">31</p>
-<p xml:lang="mrj">35</p>
+<p xml:lang="koi">10</p>
+<p xml:lang="koi">43</p>
+<p xml:lang="koi">46</p>
+<p xml:lang="koi">31</p>
+<p xml:lang="koi">35</p>
 <p>Året 2006 utgjorde ein topp med 975 barnehageborn med samiskspråkleg tilbod. I dei to åra etter gjekk talet ned med 4 % (-35 born)</p>
 <p>Trass i variasjonane må ein seia at talet på born i samiske barnehagetilbod har halde seg nokså stabilt i den perioden som tabellen omfattar. Når det i dei siste åra har vorte 35 born mindre i dei samiske barnehagetilboda, kan det ha samanheng med at talet på tilbod også har gått ned, sjå kapittel 4.1.1 ovanfor. (Eller motsett: Talet på tilbod kan ha gått ned fordi interesse er mindre. Dette kan vi ikkje seia noko sikkert om ut frå dei tala vi har.)</p>
 <p><em type="bold">4.1.3 Barnehagetilbodet fordelt på språka nord-, lule- og sørsamisk </em></p>
@@ -76,66 +76,66 @@
 <p xml:lang="nob"><em type="bold">4.1.3.1 Nordsamisk </em></p>
 <p><em type="bold">Tabell 4.3 Talet på barnehagar med nordsamisk språktilbod i åra 2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på barnehagar med tilbod på nordsamisk i alt </em></p>
-<p xml:lang="mrj"><em type="bold">45 </em></p>
-<p xml:lang="mrj"><em type="bold">62 </em></p>
-<p xml:lang="mrj"><em type="bold">52 </em></p>
-<p xml:lang="mrj"><em type="bold">53 </em></p>
+<p xml:lang="koi"><em type="bold">45 </em></p>
+<p xml:lang="koi"><em type="bold">62 </em></p>
+<p xml:lang="koi"><em type="bold">52 </em></p>
+<p xml:lang="koi"><em type="bold">53 </em></p>
 <p>Nordsamiske barnehagar</p>
-<p xml:lang="mrj">42</p>
-<p xml:lang="mrj">44</p>
-<p xml:lang="mrj">38</p>
-<p xml:lang="mrj">38</p>
+<p xml:lang="koi">42</p>
+<p xml:lang="koi">44</p>
+<p xml:lang="koi">38</p>
+<p xml:lang="koi">38</p>
 <p>Norske barnehagar med tilbod på nordsamisk</p>
-<p xml:lang="mrj">18</p>
-<p xml:lang="mrj">14</p>
-<p xml:lang="mrj">13</p>
+<p xml:lang="koi">18</p>
+<p xml:lang="koi">14</p>
+<p xml:lang="koi">13</p>
 <p><em type="bold">Tabell 4.4 Talet på born som får tilbod på nordsamisk i barnehagen i åra </em></p>
-<p xml:lang="mrj"><em type="bold">2002-2008 </em></p>
+<p xml:lang="koi"><em type="bold">2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på barnehageborn med tilbod på nordsamisk i alt </em></p>
-<p xml:lang="mrj"><em type="bold">862 </em></p>
-<p xml:lang="mrj"><em type="bold">946 </em></p>
-<p xml:lang="mrj"><em type="bold">917 </em></p>
-<p xml:lang="mrj"><em type="bold">884 </em></p>
+<p xml:lang="koi"><em type="bold">862 </em></p>
+<p xml:lang="koi"><em type="bold">946 </em></p>
+<p xml:lang="koi"><em type="bold">917 </em></p>
+<p xml:lang="koi"><em type="bold">884 </em></p>
 <p>Talet på born i nordsamiske barnehagar</p>
-<p xml:lang="mrj">857</p>
-<p xml:lang="mrj">906</p>
-<p xml:lang="mrj">900</p>
-<p xml:lang="mrj">868</p>
+<p xml:lang="koi">857</p>
+<p xml:lang="koi">906</p>
+<p xml:lang="koi">900</p>
+<p xml:lang="koi">868</p>
 <p>Talet på born som får tilbod på nordsamisk i norske barnehagar</p>
-<p xml:lang="mrj">40</p>
-<p xml:lang="mrj">17</p>
-<p xml:lang="mrj">16</p>
+<p xml:lang="koi">40</p>
+<p xml:lang="koi">17</p>
+<p xml:lang="koi">16</p>
 <p>Tabellane 4.3 og 4.4 viser at av dei borna som tek mot samiskspråkleg barnehagetilbod, er dei aller fleste nordsamiske. I 2008 utgjorde dei nordsamiske borna 94 % av det samla talet.</p>
 <p>På grunn av at dei nordsamiske borna utgjer ein så stor del av det samla talet, er tendensane i tabellane 4.1 og 4.2 dei same som i tabellane 4.3 og 4.4 ovanfor (sjå difor kommentarane til dei sistnemnde tabellane).</p>
 <p xml:lang="nob"><em type="bold">4.1.3.2 Lulesamisk </em></p>
 <p>I åra frå 1989 til 2007 fanst det berre éin lulesamiskspråkleg barnehage i Noreg. Denne barnehagen var (og er) på Drag i Tysfjord i Nordland. I 2008 vart det etablert eit lulesamisk barnehagetilbod til - i Bodø. Desse to tilboda utgjer i dag heile det lulesamiskspråklege barnehagetilbodet i Noreg.</p>
 <p><em type="bold">Tabell 4.5 Talet på born som får tilbod på lulesamisk i barnehagen i åra </em></p>
-<p xml:lang="mrj"><em type="bold">2002-2008 </em></p>
+<p xml:lang="koi"><em type="bold">2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på born med tilbod på lulesamisk i alt </em></p>
-<p xml:lang="mrj"><em type="bold">13 </em></p>
-<p xml:lang="mrj"><em type="bold">12 </em></p>
-<p xml:lang="mrj"><em type="bold">18 </em></p>
-<p xml:lang="mrj"><em type="bold">27 </em></p>
+<p xml:lang="koi"><em type="bold">13 </em></p>
+<p xml:lang="koi"><em type="bold">12 </em></p>
+<p xml:lang="koi"><em type="bold">18 </em></p>
+<p xml:lang="koi"><em type="bold">27 </em></p>
 <p>Talet på born i lulesamiske barnehagar</p>
-<p xml:lang="mrj">13</p>
-<p xml:lang="mrj">12</p>
-<p xml:lang="mrj">18</p>
-<p xml:lang="mrj">27</p>
+<p xml:lang="koi">13</p>
+<p xml:lang="koi">12</p>
+<p xml:lang="koi">18</p>
+<p xml:lang="koi">27</p>
 <p>Talet på born som får tilbod på lulesamisk i norske barnehagar</p>
 <p>Tabell 4.5 viser ei fordobling av born med lulesamiskspråkleg barnehagetilbod i åra frå 2002 til 2008. Auken kom naturleg nok da det vart oppretta eit nytt tilbod i Bodø i tillegg til det på Drag i Tysfjord.</p>
 <p xml:lang="nob"><em type="bold">4.1.3.3 Sørsamisk </em></p>
@@ -143,10 +143,10 @@
 <p>Tabell 4.6 nedanfor viser kva for sørsamiskspråklege barnehagetilbod som finst og har funnest i åra frå 2002 til 2008.</p>
 <p><em type="bold">Tabell 4.6 Talet på barnehagar med sørsamisk språktilbod i åra 2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på barnehagar med tilbod i sørsamisk i alt </em></p>
 <p>Sørsamiske barnehagar</p>
 <p>Norske barnehagar med tilbod på sørsamisk</p>
@@ -154,22 +154,22 @@
 <p>Det har i denne tida vore gjeve sørsamiskspråklege tilbod i elles norskspråklege barnehagar. Når talet på slike barnehagar er så høgt som seks i 2008, har det samanheng med endra språkpolitikk i Snåsa kommune. Snåsa vart i 2007 innlemma i forvaltingsområdet for samisk språk.</p>
 <p>Når det akkurat i 2006 er registrert to sørsamiskspråklege barnehagar (mot elles berre éin), må dette avspegle den måten eitt av tilboda vart registrert på, heller enn ei reell barnehageoppretting i 2006 og nedlegging i 2007.</p>
 <p><em type="bold">Tabell 4.7 Talet på born som får tilbod på sørsamisk i barnehagen i åra </em></p>
-<p xml:lang="mrj"><em type="bold">2002-2008 </em></p>
+<p xml:lang="koi"><em type="bold">2002-2008 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">2002</p>
-<p xml:lang="mrj">2006</p>
-<p xml:lang="mrj">2007</p>
-<p xml:lang="mrj">2008</p>
+<p xml:lang="koi">2002</p>
+<p xml:lang="koi">2006</p>
+<p xml:lang="koi">2007</p>
+<p xml:lang="koi">2008</p>
 <p><em type="bold">Talet på born med tilbod på sørsamisk i alt </em></p>
-<p xml:lang="mrj"><em type="bold">17 </em></p>
-<p xml:lang="mrj"><em type="bold">21 </em></p>
-<p xml:lang="mrj"><em type="bold">29 </em></p>
+<p xml:lang="koi"><em type="bold">17 </em></p>
+<p xml:lang="koi"><em type="bold">21 </em></p>
+<p xml:lang="koi"><em type="bold">29 </em></p>
 <p>Talet på born i sørsamiske barnehagar</p>
-<p xml:lang="mrj">11</p>
-<p xml:lang="mrj">10</p>
+<p xml:lang="koi">11</p>
+<p xml:lang="koi">10</p>
 <p>Talet på born som får tilbod på sørsamisk i norske barnehagar</p>
-<p xml:lang="mrj">14</p>
-<p xml:lang="mrj">19</p>
+<p xml:lang="koi">14</p>
+<p xml:lang="koi">19</p>
 <p>Tabell 4.7 viser at det aldri har vore så mange førskuleborn som får sørsamiskspråkleg barnehagetilbod som det er i 2008. Likevel er dette talet svært lågt i høve til kor mange elevar som får opplæring på sørsamisk i grunnskulen (sjå tabell 4.12).</p>
 <p>Sidan sørsamisk står såpass svakt som daglegspråk i heimane, er det særleg viktig for framtida til språket at alle som er interesserte i å lære sørsamisk, får eit tilbod gjennom barnehagen.</p>
 <p><em type="bold">4.1.4 Kommentarar til tala for barnehagen </em></p>
@@ -181,17 +181,17 @@
 <p>Tabell 4.8 nedanfor viser endringar i det samla talet på grunnskuleelevar med samisk i fagkrinsen etter at den 10-årige grunnskulen vart innført i Noreg i 1997/98</p>
 <p xml:lang="nob"><em type="bold">Tabell 4.8 Tal på grunnskuleelevar med samisk i fagkrinsen i alt </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="spa">Elevtal</p>
-<p xml:lang="mrj">2115</p>
-<p xml:lang="mrj">3055</p>
-<p xml:lang="mrj">2672</p>
-<p xml:lang="mrj">2542</p>
-<p xml:lang="mrj">2517</p>
+<p xml:lang="koi">2115</p>
+<p xml:lang="koi">3055</p>
+<p xml:lang="koi">2672</p>
+<p xml:lang="koi">2542</p>
+<p xml:lang="koi">2517</p>
 <p>Det har aldri vore så mange grunnskuleelevar med samisk i fagkrinsen i Noreg som i skuleåret 2005/06. Da var det samla elevtalet på 3055.</p>
 <p>Etter skuleåret 2005/06 har talet på grunnskuleelevar med samisk i fagkrinsen gått nedover kvart år. I alt har det samla elevtalet gått ned med 18 % etter 2005/06. (-538 elevar).</p>
 <p>Det siste året var nedgangen på 1 % (-25 elevar).</p>
@@ -200,34 +200,34 @@
 <p>Tabell 4.9 nedanfor viser endringar i talet på elevar som følgjer fagplanen <em type="italic">Samisk som førstespråk </em>i åra 1997/98-2008/09. </p>
 <p><em type="bold">Tabell 4.9 Talet på grunnskuleelevar med samisk som førstespråk </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="spa">Elevtal</p>
-<p xml:lang="mrj">897</p>
-<p xml:lang="mrj">998</p>
-<p xml:lang="mrj">1020</p>
-<p xml:lang="mrj">1027</p>
-<p xml:lang="mrj">1043</p>
+<p xml:lang="koi">897</p>
+<p xml:lang="koi">998</p>
+<p xml:lang="koi">1020</p>
+<p xml:lang="koi">1027</p>
+<p xml:lang="koi">1043</p>
 <p>Sidan skuleåret 1997/98 har talet på elevar med samisk som førstespråk stige med 16 % (+146 elevar). Auken har vore jamn, og det har aldri nokon gong vore så mange elevar som har følgt fagplanen i <em type="italic">Samisk som førstespråk </em>som det er i skuleåret 2008/09. </p>
 <p>Det siste året steig talet på førstespråkselevar med 1,5 % (+16 elevar).</p>
 <p><em type="bold">4.2.3 Elevar i faget samisk som andrespråk </em></p>
 <p>Tabell 4.10 nedanfor viser endringar i talet på grunnskuleelevar som har valt fagplanen <em type="italic">Samisk som andrespråk </em>i skuleåra etter 1997/98. Kategorien <span type="quote">”elevar som følgjer fagplanen i samisk som andrespråk”</span> omfattar her elevar i fleire variantar av andrespråksfaget. </p>
 <p xml:lang="nob"><em type="bold">Tabell 4.10 Talet på grunnskuleelevar med samisk som andrespråk </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="spa">Elevtal</p>
-<p xml:lang="mrj">1218</p>
-<p xml:lang="mrj">2057</p>
-<p xml:lang="mrj">1652</p>
-<p xml:lang="mrj">1515</p>
-<p xml:lang="mrj">1474</p>
+<p xml:lang="koi">1218</p>
+<p xml:lang="koi">2057</p>
+<p xml:lang="koi">1652</p>
+<p xml:lang="koi">1515</p>
+<p xml:lang="koi">1474</p>
 <p>Tabell 4.10 viser at det var flest andrespråkselevar i skuleåret 2005/06 med 2057. Elevtalet i faget har sidan gått ned med 29 % (-593 elevar). Dette er ein så stor nedgang at det er all grunn til å sjå nærare på kva som eigentleg skjer.</p>
 <p>I det følgjande skal vi splitte opp tala etter fagplanane <em type="italic">Andrespråk 2 </em>og <em type="italic">Andrespråk 3. </em>Vidare vil vi splitte opp tala etter dei tre aktuelle språka, og vi vil også sjå på fordelinga mellom bykommunar og landkommunar. </p>
 <p><em type="bold">4.2.4 Deling av andrespråkselevane i Andrespråk 2 og Andrespråk 3 </em></p>
@@ -238,37 +238,37 @@
 <p>Andrespråk 2</p>
 <p>Andrespråk 3</p>
 <p>Alle tre språka</p>
-<p xml:lang="mrj"><em type="bold">1474 </em></p>
-<p xml:lang="mrj">677</p>
-<p xml:lang="mrj">797</p>
+<p xml:lang="koi"><em type="bold">1474 </em></p>
+<p xml:lang="koi">677</p>
+<p xml:lang="koi">797</p>
 <p>Vi ser at dei fleste andrespråkselevane følgjer fagplanen <em type="italic">Andrespråk </em>3 skuleåret 2008/09. Fordelinga er 54 % på <em type="italic">Andrespråk 3 </em>og 46 % på <em type="italic">Andrespråk 2. </em></p>
 <p>Det finst ingen tilgjengeleg statistikk som kan vise eventuelle endringar i fordelinga av elevtalet <em type="italic">over tid </em>mellom dei to variantane av faget samisk som andrespråk. </p>
 <p><em type="bold">4.2.5 Elevar i sørsamisk </em></p>
 <p>Tabell 4.12 nedanfor viser endringane i talet på elevar som har valt sørsamisk i grunnskulen i åra 1997/98-2008/09.</p>
 <p><em type="bold">Tabell 4.12 Talet på grunnskuleelevar med sørsamisk i fagkrinsen </em></p>
-<p xml:lang="mrj"><em type="bold">1997/98-2008/09 </em></p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi"><em type="bold">1997/98-2008/09 </em></p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">90 </em></p>
-<p xml:lang="mrj"><em type="bold">123 </em></p>
-<p xml:lang="mrj"><em type="bold">116 </em></p>
-<p xml:lang="mrj"><em type="bold">105 </em></p>
-<p xml:lang="mrj"><em type="bold">101 </em></p>
+<p xml:lang="koi"><em type="bold">90 </em></p>
+<p xml:lang="koi"><em type="bold">123 </em></p>
+<p xml:lang="koi"><em type="bold">116 </em></p>
+<p xml:lang="koi"><em type="bold">105 </em></p>
+<p xml:lang="koi"><em type="bold">101 </em></p>
 <p>1. språk</p>
-<p xml:lang="mrj">16</p>
-<p xml:lang="mrj">18</p>
-<p xml:lang="mrj">16</p>
-<p xml:lang="mrj">19</p>
+<p xml:lang="koi">16</p>
+<p xml:lang="koi">18</p>
+<p xml:lang="koi">16</p>
+<p xml:lang="koi">19</p>
 <p>2. språk</p>
-<p xml:lang="mrj">86</p>
-<p xml:lang="mrj">107</p>
-<p xml:lang="mrj">98</p>
-<p xml:lang="mrj">89</p>
-<p xml:lang="mrj">82</p>
+<p xml:lang="koi">86</p>
+<p xml:lang="koi">107</p>
+<p xml:lang="koi">98</p>
+<p xml:lang="koi">89</p>
+<p xml:lang="koi">82</p>
 <p>Tabell 4.12 viser dei same utviklingstendensane for sørsamisk språk i grunnskulen som for samisk sett under eitt.</p>
 <p>Det samla talet på elevar med sørsamisk i fagkrinsen steig frå 1997/98 til 2005/06. Deretter har det gått ned kvart år. Nedgangen frå 2005/06 til 2008/09 har i alt vore på 18 % (-22 elevar).</p>
 <p>Det siste året fall det samla talet på grunnskuleelevar med sørsamisk i fagkrinsen med 4 % (-4 elevar).</p>
@@ -283,39 +283,39 @@
 <p>Andrespråk 2</p>
 <p>Andrespråk 3</p>
 <p xml:lang="nob">Sørsamisk</p>
-<p xml:lang="mrj"><em type="bold">82 </em></p>
-<p xml:lang="mrj">68</p>
-<p xml:lang="mrj">14</p>
+<p xml:lang="koi"><em type="bold">82 </em></p>
+<p xml:lang="koi">68</p>
+<p xml:lang="koi">14</p>
 <p>Av tabell 4.13 ser vi at langt dei fleste av dei grunnskuleelevane som har valt sørsamisk som andrespråk, har valt varianten <em type="italic">Andrespråk 2 </em>. </p>
 <p>Det finst ingen tilgjengeleg statistikk som kan vise eventuelle endringar i fordelinga av elevtalet over tid mellom dei to variantane av faget sørsamisk som andrespråk.</p>
 <p><em type="bold">4.2.6 Elevar i lulesamisk </em></p>
 <p>Tabell 4.14 nedanfor viser endringar i talet på grunnskuleelevar med lulesamisk i fagkrinsen i åra 1997/98-2008/09.</p>
 <p xml:lang="nob"><em type="bold">Tabell 4.14 Talet på grunnskuleelevar med lulesamisk i fagkrinsen </em></p>
-<p xml:lang="mrj"><em type="bold">1997/98-2008/09. </em></p>
+<p xml:lang="koi"><em type="bold">1997/98-2008/09. </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">53 </em></p>
-<p xml:lang="mrj"><em type="bold">88 </em></p>
-<p xml:lang="mrj"><em type="bold">77 </em></p>
-<p xml:lang="mrj"><em type="bold">79 </em></p>
-<p xml:lang="mrj"><em type="bold">77 </em></p>
+<p xml:lang="koi"><em type="bold">53 </em></p>
+<p xml:lang="koi"><em type="bold">88 </em></p>
+<p xml:lang="koi"><em type="bold">77 </em></p>
+<p xml:lang="koi"><em type="bold">79 </em></p>
+<p xml:lang="koi"><em type="bold">77 </em></p>
 <list><p type="listitem">språk</p>
-</list><p xml:lang="mrj">18</p>
-<p xml:lang="mrj">29</p>
-<p xml:lang="mrj">31</p>
-<p xml:lang="mrj">25</p>
-<p xml:lang="mrj">27</p>
+</list><p xml:lang="koi">18</p>
+<p xml:lang="koi">29</p>
+<p xml:lang="koi">31</p>
+<p xml:lang="koi">25</p>
+<p xml:lang="koi">27</p>
 <list><p type="listitem">språk</p>
-</list><p xml:lang="mrj">35</p>
-<p xml:lang="mrj">59</p>
-<p xml:lang="mrj">46</p>
-<p xml:lang="mrj">54</p>
-<p xml:lang="mrj">50</p>
+</list><p xml:lang="koi">35</p>
+<p xml:lang="koi">59</p>
+<p xml:lang="koi">46</p>
+<p xml:lang="koi">54</p>
+<p xml:lang="koi">50</p>
 <p>Tabell 4.14 viser at det samla talet på grunnskuleelevar med lulesamisk i fagkrinsen har auka med 45 % (+24 elevar) sidan grunnskulen i Noreg vart tiårig i 1997.</p>
 <p>Talet var på topp i skuleåret 2005/06 med 88 elevar. Sidan da har det gått ned med 12,5 % (-11 elevar).</p>
 <p>Det siste skuleåret gjekk talet ned med 2,5 % (-2 elevar).</p>
@@ -332,39 +332,39 @@
 <p>Andrespråk 2</p>
 <p>Andrespråk 3</p>
 <p xml:lang="nob">Lulesamisk</p>
-<p xml:lang="mrj"><em type="bold">50 </em></p>
-<p xml:lang="mrj">36</p>
-<p xml:lang="mrj">14</p>
+<p xml:lang="koi"><em type="bold">50 </em></p>
+<p xml:lang="koi">36</p>
+<p xml:lang="koi">14</p>
 <p>Tabell 4.15 viser at langt dei fleste andrespråkselevane i lulesamisk (36 av 50) har valt varianten <em type="italic">Andrespråk 2. </em></p>
 <p>Det finst ingen tilgjengelege tal som kan vise eventuelle endringar i fordelinga av elevtalet over tid mellom dei to variantane av faget lulesamisk som andrespråk.</p>
 <p><em type="bold">4.2.7 Elevar i nordsamisk </em></p>
 <p>Tabell 4.16 nedanfor viser endringar i talet på grunnskuleelevar med nordsamisk i fagkrinsen i perioden 1997/ 98-2008/ 09.</p>
 <p><em type="bold">Tabell 4.16 Talet på grunnskuleelevar med nordsamisk i fagkrinsen </em></p>
-<p xml:lang="mrj"><em type="bold">1997/ 98-2008/ 09 </em></p>
+<p xml:lang="koi"><em type="bold">1997/ 98-2008/ 09 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2005/06</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2005/06</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">2249 </em></p>
-<p xml:lang="mrj"><em type="bold">2844 </em></p>
-<p xml:lang="mrj"><em type="bold">2479 </em></p>
-<p xml:lang="mrj"><em type="bold">2354 </em></p>
-<p xml:lang="mrj"><em type="bold">2339 </em></p>
+<p xml:lang="koi"><em type="bold">2249 </em></p>
+<p xml:lang="koi"><em type="bold">2844 </em></p>
+<p xml:lang="koi"><em type="bold">2479 </em></p>
+<p xml:lang="koi"><em type="bold">2354 </em></p>
+<p xml:lang="koi"><em type="bold">2339 </em></p>
 <list><p type="listitem">språk</p>
-</list><p xml:lang="mrj">875</p>
-<p xml:lang="mrj">953</p>
-<p xml:lang="mrj">971</p>
-<p xml:lang="mrj">984</p>
-<p xml:lang="mrj">997</p>
+</list><p xml:lang="koi">875</p>
+<p xml:lang="koi">953</p>
+<p xml:lang="koi">971</p>
+<p xml:lang="koi">984</p>
+<p xml:lang="koi">997</p>
 <list><p type="listitem">språk</p>
-</list><p xml:lang="mrj">1374</p>
-<p xml:lang="mrj">1891</p>
-<p xml:lang="mrj">1508</p>
-<p xml:lang="mrj">1370</p>
-<p xml:lang="mrj">1342</p>
+</list><p xml:lang="koi">1374</p>
+<p xml:lang="koi">1891</p>
+<p xml:lang="koi">1508</p>
+<p xml:lang="koi">1370</p>
+<p xml:lang="koi">1342</p>
 <p>Det samla talet på elevar i nordsamisk var på topp i skuleåret 2005/06 med 2844 elevar. Sidan har det gått ned med 18 % (-505 elevar). Det siste skuleåret fall talet med 0,6 % (-15 elevar).</p>
 <p>Tabell 4.16 viser vidare at talet på grunnskuleelevar som følgjer fagplanen i nordsamisk som førstespråk, har stige med 14 % (+122) sidan 1997. Talet på førstespråkselevar steig jamt i heile perioden.</p>
 <p>Elevtalet i nordsamisk som andrespråk nådde ein topp i skuleåret 2005/06 med 1891 elevar. Etter den tid har talet gått ned med heile 29 % (-549 elevar).</p>
@@ -377,60 +377,60 @@
 <p>Andrespråk 2</p>
 <p>Andrespråk 3</p>
 <p xml:lang="nob">Nordsamisk</p>
-<p xml:lang="mrj"><em type="bold">1342 </em></p>
-<p xml:lang="mrj">573</p>
-<p xml:lang="mrj">769</p>
+<p xml:lang="koi"><em type="bold">1342 </em></p>
+<p xml:lang="koi">573</p>
+<p xml:lang="koi">769</p>
 <p>Dei fleste av andrespråkselevane i nordsamisk har valt varianten <em type="italic">Andrespråk 3 </em>. Her skil dei nordsamiske elevane seg frå dei sørsamiske og lulesamiske. Blant dei to sistnemnde valde langt dei fleste andrespråkselevane <em type="italic">Andrespråk 2 </em>(sjå tabellane 4.13 og 4.14 ovanfor). </p>
 <p>Det finst ingen tilgjengelege tal som kan vise eventuelle endringar i fordelinga av elevtalet over tid mellom dei to variantane av faget nordsamisk som andrespråk.</p>
 <p><em type="bold">4.2.8 Elevar med samisk i fagkrinsen i bykommunane </em></p>
 <p>Tabell 4.18 nedanfor viser endringar i talet på grunnskuleelevar som bur i bykommunar og har samisk i fagkrinsen. Denne tabellen omfattar dei same skuleåra som tabellane 4.8 til 4.10 bortsett frå skuleåret 2005/06. For dette året har vi ikkje pålitelege tal for andrespråksopplæringa i desse kommunane.</p>
 <p><em type="bold">Tabell 4.18 Talet på grunnskuleelevar med samisk i fagkrinsen i bykommunane </em></p>
-<p xml:lang="mrj"><em type="bold">1997/98-2008/09 </em></p>
+<p xml:lang="koi"><em type="bold">1997/98-2008/09 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">284 </em></p>
-<p xml:lang="mrj"><em type="bold">857 </em></p>
-<p xml:lang="mrj"><em type="bold">765 </em></p>
-<p xml:lang="mrj"><em type="bold">708 </em></p>
+<p xml:lang="koi"><em type="bold">284 </em></p>
+<p xml:lang="koi"><em type="bold">857 </em></p>
+<p xml:lang="koi"><em type="bold">765 </em></p>
+<p xml:lang="koi"><em type="bold">708 </em></p>
 <p xml:lang="nob">Sør-Varanger</p>
-<p xml:lang="mrj">43</p>
-<p xml:lang="mrj">151</p>
-<p xml:lang="mrj">78</p>
-<p xml:lang="mrj">61</p>
+<p xml:lang="koi">43</p>
+<p xml:lang="koi">151</p>
+<p xml:lang="koi">78</p>
+<p xml:lang="koi">61</p>
 <p xml:lang="nob">Vadsø</p>
-<p xml:lang="mrj">77</p>
-<p xml:lang="mrj">78</p>
-<p xml:lang="mrj">81</p>
+<p xml:lang="koi">77</p>
+<p xml:lang="koi">78</p>
+<p xml:lang="koi">81</p>
 <p xml:lang="nob">Hammerfest</p>
-<p xml:lang="mrj">11</p>
-<p xml:lang="mrj">11</p>
-<p xml:lang="mrj">20</p>
+<p xml:lang="koi">11</p>
+<p xml:lang="koi">11</p>
+<p xml:lang="koi">20</p>
 <p xml:lang="est">Alta</p>
-<p xml:lang="mrj">195</p>
-<p xml:lang="mrj">414</p>
-<p xml:lang="mrj">400</p>
-<p xml:lang="mrj">392</p>
+<p xml:lang="koi">195</p>
+<p xml:lang="koi">414</p>
+<p xml:lang="koi">400</p>
+<p xml:lang="koi">392</p>
 <p xml:lang="nob">Tromsø</p>
-<p xml:lang="mrj">24</p>
-<p xml:lang="mrj">151</p>
-<p xml:lang="mrj">147</p>
-<p xml:lang="mrj">116</p>
+<p xml:lang="koi">24</p>
+<p xml:lang="koi">151</p>
+<p xml:lang="koi">147</p>
+<p xml:lang="koi">116</p>
 <p xml:lang="nob">Harstad</p>
 <p xml:lang="nob">Narvik</p>
-<p xml:lang="mrj">10</p>
-<p xml:lang="mrj">11</p>
+<p xml:lang="koi">10</p>
+<p xml:lang="koi">11</p>
 <p xml:lang="nob">Bodø</p>
-<p xml:lang="mrj">12</p>
-<p xml:lang="mrj">14</p>
-<p xml:lang="hbs">Oslo</p>
-<p xml:lang="mrj">15</p>
-<p xml:lang="mrj">25</p>
-<p xml:lang="mrj">20</p>
-<p xml:lang="mrj">22</p>
+<p xml:lang="koi">12</p>
+<p xml:lang="koi">14</p>
+<p xml:lang="rmn">Oslo</p>
+<p xml:lang="koi">15</p>
+<p xml:lang="koi">25</p>
+<p xml:lang="koi">20</p>
+<p xml:lang="koi">22</p>
 <p>Tabell 4.18 viser at det samla talet på grunnskuleelevar som har samisk i fagkrinsen og som bur i bykommune, har auka med 150 % (+424 elevar) sidan grunnskulen vart tiårig i 1997.</p>
 <p>I 1997/98 utgjorde byelevane 13 % av alle elevane med samisk i fagkrinsen i Noreg, i 2008/09 utgjorde dei 28 %.</p>
 <p>Denne sterke auken i talet på samiskelevar i bykommunane kan forklarast med ei generell urbanisering og folkeflytting. Dette er endringar vi ser både i den samiske og den norske folkesetnaden.</p>
@@ -438,80 +438,80 @@
 <p>Viss vi splittar tala etter fagplanar (samisk 1. og 2. språk), får vi tal som vist i tabellane 4.19 og 4.20 nedanfor.</p>
 <p xml:lang="nob"><em type="bold">Tabell 4.19 Tal på grunnskuleelevar med samisk som førstespråk i bykommunane 1997/98-2008/09 </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">65 </em></p>
-<p xml:lang="mrj"><em type="bold">96 </em></p>
-<p xml:lang="mrj"><em type="bold">98 </em></p>
+<p xml:lang="koi"><em type="bold">65 </em></p>
+<p xml:lang="koi"><em type="bold">96 </em></p>
+<p xml:lang="koi"><em type="bold">98 </em></p>
 <p xml:lang="nob">Sør-Varanger</p>
 <p xml:lang="nob">Vadsø</p>
 <p xml:lang="nob">Hammerfest</p>
 <p xml:lang="est">Alta</p>
-<p xml:lang="mrj">31</p>
-<p xml:lang="mrj">45</p>
-<p xml:lang="mrj">53</p>
+<p xml:lang="koi">31</p>
+<p xml:lang="koi">45</p>
+<p xml:lang="koi">53</p>
 <p xml:lang="nob">Tromsø</p>
-<p xml:lang="mrj">33</p>
-<p xml:lang="mrj">38</p>
-<p xml:lang="mrj">34</p>
+<p xml:lang="koi">33</p>
+<p xml:lang="koi">38</p>
+<p xml:lang="koi">34</p>
 <p xml:lang="nob">Harstad</p>
 <p xml:lang="nob">Narvik</p>
 <p xml:lang="nob">Bodø</p>
-<p xml:lang="hbs">Oslo</p>
-<p xml:lang="mrj">12</p>
-<p xml:lang="mrj">10</p>
+<p xml:lang="rmn">Oslo</p>
+<p xml:lang="koi">12</p>
+<p xml:lang="koi">10</p>
 <p>Tabell 4.19 viser at talet på grunnskuleelevar som følgde fagplanen i nordsamisk som førstespråk i bykommunane, steig frå 5 elevar i 1997 til 98 elevar i 2008/09. Det siste skuleåret steig talet med 2 elevar.</p>
 <p>I 1997/98 utgjorde byelevar med samisk som førstespråk 0,6 % av alle elevane med samisk som førstespråk i Noreg, i 2008/09 utgjorde dei 9 %. Denne stiginga kan forklarast ut frå ei generell urbanisering i det norske samfunnet.</p>
 <p>Praktisk talt heile stiginga i talet på byelevar med samisk som førstespråk er komen i dei to byane Alta og Tromsø. Dei var elles dei <em type="italic">einaste </em>bykommunane med samiske førstespråkselevar i 1997. </p>
 <p>Bykommunane har særleg vorte viktige for andrespråksopplæringa i samisk. I 1997/98 utgjorde byelevane med samisk som andrespråk 23 % av alle elevane med samisk som andrespråk i Noreg, i 2008/09 utgjorde dei 41 %.</p>
 <p><em type="bold">Tabell 4.20 Talet på grunnskuleelevar med samisk som andrespråk i bykommunane </em></p>
 <p xml:lang="swe">År</p>
-<p xml:lang="mrj">1997/98</p>
-<p xml:lang="mrj">2006/07</p>
-<p xml:lang="mrj">2007/08</p>
-<p xml:lang="mrj">2008/09</p>
+<p xml:lang="koi">1997/98</p>
+<p xml:lang="koi">2006/07</p>
+<p xml:lang="koi">2007/08</p>
+<p xml:lang="koi">2008/09</p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
-<p xml:lang="mrj"><em type="bold">279 </em></p>
-<p xml:lang="mrj"><em type="bold">792 </em></p>
-<p xml:lang="mrj"><em type="bold">669 </em></p>
-<p xml:lang="mrj"><em type="bold">610 </em></p>
+<p xml:lang="koi"><em type="bold">279 </em></p>
+<p xml:lang="koi"><em type="bold">792 </em></p>
+<p xml:lang="koi"><em type="bold">669 </em></p>
+<p xml:lang="koi"><em type="bold">610 </em></p>
 <p xml:lang="nob">Sør-Varanger</p>
-<p xml:lang="mrj">43</p>
-<p xml:lang="mrj">151</p>
-<p xml:lang="mrj">78</p>
-<p xml:lang="mrj">61</p>
+<p xml:lang="koi">43</p>
+<p xml:lang="koi">151</p>
+<p xml:lang="koi">78</p>
+<p xml:lang="koi">61</p>
 <p xml:lang="nob">Vadsø</p>
-<p xml:lang="mrj">76</p>
-<p xml:lang="mrj">77</p>
-<p xml:lang="mrj">80</p>
+<p xml:lang="koi">76</p>
+<p xml:lang="koi">77</p>
+<p xml:lang="koi">80</p>
 <p xml:lang="nob">Hammerfest</p>
-<p xml:lang="mrj">11</p>
-<p xml:lang="mrj">11</p>
-<p xml:lang="mrj">20</p>
+<p xml:lang="koi">11</p>
+<p xml:lang="koi">11</p>
+<p xml:lang="koi">20</p>
 <p xml:lang="est">Alta</p>
-<p xml:lang="mrj">191</p>
-<p xml:lang="mrj">383</p>
-<p xml:lang="mrj">355</p>
-<p xml:lang="mrj">339</p>
+<p xml:lang="koi">191</p>
+<p xml:lang="koi">383</p>
+<p xml:lang="koi">355</p>
+<p xml:lang="koi">339</p>
 <p xml:lang="nob">Tromsø</p>
-<p xml:lang="mrj">23</p>
-<p xml:lang="mrj">118</p>
-<p xml:lang="mrj">109</p>
-<p xml:lang="mrj">82</p>
+<p xml:lang="koi">23</p>
+<p xml:lang="koi">118</p>
+<p xml:lang="koi">109</p>
+<p xml:lang="koi">82</p>
 <p xml:lang="nob">Harstad</p>
 <p xml:lang="nob">Narvik</p>
-<p xml:lang="mrj">10</p>
-<p xml:lang="mrj">11</p>
+<p xml:lang="koi">10</p>
+<p xml:lang="koi">11</p>
 <p xml:lang="nob">Bodø</p>
-<p xml:lang="mrj">12</p>
-<p xml:lang="mrj">14</p>
-<p xml:lang="hbs">Oslo</p>
-<p xml:lang="mrj">15</p>
-<p xml:lang="mrj">25</p>
-<p xml:lang="mrj">12</p>
+<p xml:lang="koi">12</p>
+<p xml:lang="koi">14</p>
+<p xml:lang="rmn">Oslo</p>
+<p xml:lang="koi">15</p>
+<p xml:lang="koi">25</p>
+<p xml:lang="koi">12</p>
 <p>Tabell 4.20 viser at det i skuleåret 2006/07 var ein topp på 792 byelevar med samisk som andrespråk. I åra etterpå har talet gått ned med 23 % (-182 elevar).</p>
 <p>Det siste skuleåret (frå 2007/08 til 2008/09) gjekk talet på byelevar som følgjer fagplanen <em type="italic">Samisk som andrespråk </em>, ned med 9 % (-59 elevar). </p>
 <p>Statistikken åleine kan ikkje gje forklaringar på kvifor elevtalet i samisk som andrespråk har gått så sterkt ned dei siste åra. Størst har nedgangen vore i Sør-Varanger kommune. Her er elevtalet meir enn halvert (-61 %) dei tre siste åra.</p>
@@ -527,127 +527,127 @@
 <p><em type="bold">Tabell 4.21 Språkval ved dei samiske vidaregåande skulane i Kautokeino og Karasjok </em></p>
 <p xml:lang="est"><em type="bold">I alt </em></p>
 <p xml:lang="vep"><em type="bold">Kautokeino </em></p>
-<p xml:lang="nob"><em type="bold">Karasjok </em></p>
-<p xml:lang="mrj"><em type="bold">2008 </em></p>
-<p xml:lang="mrj"><em type="bold">2009 </em></p>
+<p xml:lang="olo"><em type="bold">Karasjok </em></p>
+<p xml:lang="koi"><em type="bold">2008 </em></p>
+<p xml:lang="koi"><em type="bold">2009 </em></p>
 <p>1. språk</p>
-<p xml:lang="mrj">140</p>
-<p xml:lang="mrj">71.8</p>
-<p xml:lang="mrj">94</p>
-<p xml:lang="mrj">90.4</p>
-<p xml:lang="mrj">46</p>
-<p xml:lang="mrj">50.5</p>
+<p xml:lang="koi">140</p>
+<p xml:lang="koi">71.8</p>
+<p xml:lang="koi">94</p>
+<p xml:lang="koi">90.4</p>
+<p xml:lang="koi">46</p>
+<p xml:lang="koi">50.5</p>
 <p>2. språk (2)</p>
-<p xml:lang="mrj">31</p>
-<p xml:lang="mrj">15.9</p>
-<p xml:lang="mrj">6.7</p>
-<p xml:lang="mrj">24</p>
-<p xml:lang="mrj">26.4</p>
+<p xml:lang="koi">31</p>
+<p xml:lang="koi">15.9</p>
+<p xml:lang="koi">6.7</p>
+<p xml:lang="koi">24</p>
+<p xml:lang="koi">26.4</p>
 <p>2. språk (3)</p>
-<p xml:lang="mrj">21</p>
-<p xml:lang="mrj">10.8</p>
-<p xml:lang="mrj">21</p>
-<p xml:lang="mrj">23.1</p>
+<p xml:lang="koi">21</p>
+<p xml:lang="koi">10.8</p>
+<p xml:lang="koi">21</p>
+<p xml:lang="koi">23.1</p>
 <p>Framandspråk</p>
-<p xml:lang="mrj">1.5</p>
-<p xml:lang="mrj">2.9</p>
+<p xml:lang="koi">1.5</p>
+<p xml:lang="koi">2.9</p>
 <p>Tal på elevar</p>
-<p xml:lang="mrj">195</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">104</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">91</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj"><em type="bold">2007 </em></p>
-<p xml:lang="mrj"><em type="bold">2008 </em></p>
+<p xml:lang="koi">195</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">104</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">91</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi"><em type="bold">2007 </em></p>
+<p xml:lang="koi"><em type="bold">2008 </em></p>
 <p>1. språk</p>
-<p xml:lang="mrj">131</p>
-<p xml:lang="mrj">72.4</p>
-<p xml:lang="mrj">84</p>
-<p xml:lang="mrj">92.3</p>
-<p xml:lang="mrj">47</p>
-<p xml:lang="mrj">52.2</p>
+<p xml:lang="koi">131</p>
+<p xml:lang="koi">72.4</p>
+<p xml:lang="koi">84</p>
+<p xml:lang="koi">92.3</p>
+<p xml:lang="koi">47</p>
+<p xml:lang="koi">52.2</p>
 <p>2. språk (2)</p>
-<p xml:lang="mrj">31</p>
-<p xml:lang="mrj">17.1</p>
-<p xml:lang="mrj">7.7</p>
-<p xml:lang="mrj">24</p>
-<p xml:lang="mrj">26.7</p>
+<p xml:lang="koi">31</p>
+<p xml:lang="koi">17.1</p>
+<p xml:lang="koi">7.7</p>
+<p xml:lang="koi">24</p>
+<p xml:lang="koi">26.7</p>
 <p>2. språk (3)</p>
-<p xml:lang="mrj">19</p>
-<p xml:lang="mrj">10.5</p>
-<p xml:lang="mrj">19</p>
-<p xml:lang="mrj">21.1</p>
+<p xml:lang="koi">19</p>
+<p xml:lang="koi">10.5</p>
+<p xml:lang="koi">19</p>
+<p xml:lang="koi">21.1</p>
 <p>Framandspråk</p>
 <p>Tal på elevar</p>
-<p xml:lang="mrj">181</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">91</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">90</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj"><em type="bold">2006 </em></p>
-<p xml:lang="mrj"><em type="bold">2007 </em></p>
+<p xml:lang="koi">181</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">91</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">90</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi"><em type="bold">2006 </em></p>
+<p xml:lang="koi"><em type="bold">2007 </em></p>
 <p>1. språk</p>
-<p xml:lang="mrj">139</p>
-<p xml:lang="mrj">70.9</p>
-<p xml:lang="mrj">80</p>
-<p xml:lang="mrj">87.0</p>
-<p xml:lang="mrj">59</p>
-<p xml:lang="mrj">56.7</p>
+<p xml:lang="koi">139</p>
+<p xml:lang="koi">70.9</p>
+<p xml:lang="koi">80</p>
+<p xml:lang="koi">87.0</p>
+<p xml:lang="koi">59</p>
+<p xml:lang="koi">56.7</p>
 <p>2. språk (2)</p>
-<p xml:lang="mrj">51</p>
-<p xml:lang="mrj">26.0</p>
-<p xml:lang="mrj">7.6</p>
-<p xml:lang="mrj">44</p>
-<p xml:lang="mrj">42.3</p>
+<p xml:lang="koi">51</p>
+<p xml:lang="koi">26.0</p>
+<p xml:lang="koi">7.6</p>
+<p xml:lang="koi">44</p>
+<p xml:lang="koi">42.3</p>
 <p>2. språk (3)</p>
-<p xml:lang="mrj">1.0</p>
-<p xml:lang="mrj">1*</p>
-<p xml:lang="mrj">1.1</p>
-<p xml:lang="mrj">1.0</p>
+<p xml:lang="koi">1.0</p>
+<p xml:lang="koi">1*</p>
+<p xml:lang="koi">1.1</p>
+<p xml:lang="koi">1.0</p>
 <p>Framandspråk</p>
-<p xml:lang="mrj">2.1</p>
-<p xml:lang="mrj">4.3</p>
+<p xml:lang="koi">2.1</p>
+<p xml:lang="koi">4.3</p>
 <p>Tal på elevar</p>
-<p xml:lang="mrj">196</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">92</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">104</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj"><em type="bold">2005 </em></p>
-<p xml:lang="mrj"><em type="bold">2006 </em></p>
+<p xml:lang="koi">196</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">92</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">104</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi"><em type="bold">2005 </em></p>
+<p xml:lang="koi"><em type="bold">2006 </em></p>
 <p>1. språk</p>
-<p xml:lang="mrj">159</p>
-<p xml:lang="mrj">74.0</p>
-<p xml:lang="mrj">83</p>
-<p xml:lang="mrj">85.6</p>
-<p xml:lang="mrj">76</p>
-<p xml:lang="mrj">64.4</p>
+<p xml:lang="koi">159</p>
+<p xml:lang="koi">74.0</p>
+<p xml:lang="koi">83</p>
+<p xml:lang="koi">85.6</p>
+<p xml:lang="koi">76</p>
+<p xml:lang="koi">64.4</p>
 <p>2. språk (2)</p>
-<p xml:lang="mrj">32</p>
-<p xml:lang="mrj">14.9</p>
-<p xml:lang="mrj">7.2</p>
-<p xml:lang="mrj">25</p>
-<p xml:lang="mrj">21.2</p>
+<p xml:lang="koi">32</p>
+<p xml:lang="koi">14.9</p>
+<p xml:lang="koi">7.2</p>
+<p xml:lang="koi">25</p>
+<p xml:lang="koi">21.2</p>
 <p>2. språk (3)</p>
-<p xml:lang="mrj">1.0</p>
-<p xml:lang="mrj">2*</p>
-<p xml:lang="mrj">2.0</p>
+<p xml:lang="koi">1.0</p>
+<p xml:lang="koi">2*</p>
+<p xml:lang="koi">2.0</p>
 <p>Framandspråk</p>
-<p xml:lang="mrj">22</p>
-<p xml:lang="mrj">10.1</p>
-<p xml:lang="mrj">5.2</p>
-<p xml:lang="mrj">17</p>
-<p xml:lang="mrj">14.4</p>
+<p xml:lang="koi">22</p>
+<p xml:lang="koi">10.1</p>
+<p xml:lang="koi">5.2</p>
+<p xml:lang="koi">17</p>
+<p xml:lang="koi">14.4</p>
 <p>Tal på elevar</p>
-<p xml:lang="mrj">215</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">97</p>
-<p xml:lang="mrj">100</p>
-<p xml:lang="mrj">118</p>
-<p xml:lang="mrj">100</p>
+<p xml:lang="koi">215</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">97</p>
+<p xml:lang="koi">100</p>
+<p xml:lang="koi">118</p>
+<p xml:lang="koi">100</p>
 <p>* Elev(ar) med samisk som c-språk.</p>
 <p>Av tabellen ser vi at det samla talet på elevar med samisk som første- og andrespråk har endra seg lite i dei to samiske vidaregåande skulane i åra frå 2005/06 til 2008/09. Men vi ser òg at det er skilnader mellom dei to skulane.</p>
 <p>Den vidaregåande skulen i Karasjok har prosentvis langt færre elevar med <em type="italic">samisk som førstespråk </em>enn det skulen i Kautokeino har. Og i Karasjok har denne prosenten dessutan gått ned kvart år frå 64 % i 2005/06 til 50,5 % i 2008/09. </p>
