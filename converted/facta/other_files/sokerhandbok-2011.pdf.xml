@@ -1,6 +1,6 @@
-<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>43834</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
+<document xml:lang="nno" id="no_id"><header><title>Søkerhandboka</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>43817</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.samordnaopptak.no/info/soeking_opptak/soekerhandboka/Sokerhandbok-2011.pdf</origFileName><parallel_text xml:lang="sme" location="samisksokerhandbok2011.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Søkerhandboka </em>2011 </p>
 <p><em type="bold">Søknad om opptak til universiteter og høgskoler </em>samordnaopptak.no </p>
-<p><em type="bold">Samordna opptak 2011 </em><em type="bold">samordnaopptak.no </em>På Samordna opptak (SO) sine nettsider finn du oppdatert søkjarinformasjon. Her kan du sende nettsøknad, melde adresseendring, omprioritere studieønska og svare på tilbod om studieplass/ventelisteplassering. På nettsøknaden finn du ei statusside med oppdatert informasjon om behandlinga av søknaden din. </p>
+<p><em type="bold">Samordna opptak 2011samordnaopptak.no </em>På Samordna opptak (SO) sine nettsider finn du oppdatert søkjarinformasjon. Her kan du sende nettsøknad, melde adresseendring, omprioritere studieønska og svare på tilbod om studieplass/ventelisteplassering. På nettsøknaden finn du ei statusside med oppdatert informasjon om behandlinga av søknaden din. </p>
 <p>Frå 20. juli finn du m.a. resultatet i hovudopptaket, poenggrenser og ledige plassar på Restetorget.</p>
 <p><em type="bold">Elektronisk ID </em>Alle søkjarar med norsk fødselsnummer må registrere seg med elektronisk ID. Det er difor viktig at du skaffer deg elektronisk ID i god tid før søknadsfristen. </p>
 <p>For meir informasjon sjå <em type="italic">samordnaopptak.no/info/elektroniskID </em><em type="bold">eVitnemål </em>Har du fullført norsk vidaregåande skole i år 2000 eller seinare, har du truleg elektronisk vitnemål i Nasjonal vitnemålsdatabase (NVB). </p>
@@ -198,15 +198,15 @@
 <p><em type="bold">Uriktige eller misvisende opplysninger kan føre til at du mister retten til å fullføre utdanningen. </em></p>
 <p><em type="bold">Dokumentfalsk vil bli politianmeldt. </em></p>
 <p><em type="bold">RETT KOPI: </em></p>
-<p><em type="bold">Lillevik vide </em><em type="bold">regående sk </em><em type="bold">ole </em></p>
-<p><em type="italic">Ola Nord </em><em type="italic">mann, Lille </em><em type="italic">vik </em><em type="italic">10. januar 2 </em><em type="italic">011 </em><em type="bold">1. juli </em></p>
+<p><em type="bold">Lillevik videregående skole </em></p>
+<p><em type="italic">Ola Nordmann, Lillevik10. januar 2011 </em><em type="bold">1. juli </em></p>
 <p>Ettersending</p>
 <p>Vitnemål og attester for utdanning og praksis som avsluttes våren 2011 skal sendes til adressen som står på ettersendingsslippen som du får tilsendt med følgeskjemaet. Feilsending vil forsinke behandlingen av søknaden din.</p>
 <p>Sjekk statussiden på nettsøknaden din dersom du ikke husker hvor du skal sende dokumentasjon.</p>
 <p>Til Politihøgskolen og til luftfartsstudiet ved UiT kan det bare ettersendes forbedringer av eksisterende kompetanse.</p>
 <p>Omprioritering</p>
 <p>Innen 1. juli kan du omprioritere studieønskene dine via nettsøknaden.</p>
-<p><em type="bold">Du kan ikke legge til nye studieønsker etter 15. april. </em><em type="bold">20. juli </em></p>
+<p><em type="bold">Du kan ikke legge til nye studieønsker etter 15. april.20. juli </em></p>
 <p>Hovedopptak20. juli er resultatet av opptaket tilgjengelig på nettsøknaden din. Her vil det stå hvilket studium du eventuelt har fått tilbud på, og hvilke studier du kan stå på venteliste til.</p>
 <p>Ved tilbud faller alle lavere prioriterte studieønsker bort.</p>
 <p>Du må krysse av JA eller NEI på alle studiene som står oppført i svarskjemaet på nettsøknaden din. <em type="bold">Du må altså krysse for JA hvis du ønsker å stille deg på venteliste. </em></p>
@@ -225,7 +225,7 @@
 <p>Restetorget er en oversikt over ledige studieplasser der ventelistene er tømt for kvalifiserte søkere. Oversikten er tilgjengelig på samordnaopptak.no fra 20.juli. Du kan registrere inntil 10 studieønsker på nettsøknaden din. Studieplassene er åpne både for nye søkere og for dem som allerede er søkere i det samordna opptaket; disse kan også reaktivere studieønsker som har falt bort fordi de i hoved opptaket fikk tilbud på høyere prioritert studium.</p>
 <p>Dersom det er flere kvalifiserte restetorgsøkere enn det er restplasser på studiet, vil de som melder seg først få tilbudene.</p>
 <p>Svarfristen i restetorgopptaket er ca. 5 dager.</p>
-<p><em type="bold">Når du takker JA til et tilbud på Restetorget, mister du automatisk eventuelt tidligere tilbud om studieplass. </em><em type="bold">29. juli </em></p>
+<p><em type="bold">Når du takker JA til et tilbud på Restetorget, mister du automatisk eventuelt tidligere tilbud om studieplass.29. juli </em></p>
 <p>Suppleringsopptak</p>
 <p>Bare søkere som får <em type="bold">nytt tilbud </em>eller er blitt <em type="bold">studiekvalifisert </em>eller har fått <em type="bold">endret poengsum </em>etter hovedopptaket, vil få e-post i det nasjonale suppleringsopptaket ca. 29. juli. Evt. endring av ventelistenummer blir lagt ut på nettsøknaden. </p>
 <p>Hvis du får nytt tilbud i dette opptaket, <em type="bold">mister du automatisk tidligere tildelt studieplass </em>. Svaret registrerer du på nettsøknaden din. </p>
@@ -6744,7 +6744,7 @@
 <p>GENS</p>
 <p>Bachelor7045.740.01)</p>
 <p>Det forutsettes at studentene er innforstått med høgskolens tros- og verdigrunnlag. Ta kontakt med høgskolen for nærmere informasjon.</p>
-<p><em type="italic">I tjeneste </em><em type="italic">for mennesker </em></p>
+<p><em type="italic">I tjenestefor mennesker </em></p>
 <p>Om muligheter for påbygging til bachelor- og mastergrad og annen videreutdanning, se www.mf.no</p>
 <p>Studienavn</p>
 <p>Studie-</p>
@@ -12124,8 +12124,8 @@
 <p type="listitem">2-årig trafikklærarstudium ved høgskolane i Akershus og Nord-Trøndelag</p>
 <p type="listitem">yrkesfaglærarstudium</p>
 <p type="listitem">politistudiet</p>
-<p><em type="bold">SKOLEPOENG </em><em type="bold">+ alderspoeng + tilleggspoeng </em>(for førstegongsteneste eller folkehøgskole eller høgare utdanning) <em type="bold">= KONKURRANSEPOENG </em><em type="bold">i ordinær kvote </em></p>
-<p><em type="bold">Karakterpoeng </em>(gjennomsnittskarakter x 10) <em type="bold">+ realfagspoeng og/eller språkpoeng + kjønnspoeng </em>(til utvalde studium) <em type="bold">+ poeng for opptaksprøver </em>(til utvalde studium) <em type="bold">= SKOLEPOENG </em><em type="bold">i kvote for førstegongsvitnemål </em></p>
+<p><em type="bold">SKOLEPOENG+ alderspoeng + tilleggspoeng </em>(for førstegongsteneste eller folkehøgskole eller høgare utdanning) <em type="bold">= KONKURRANSEPOENGi ordinær kvote </em></p>
+<p><em type="bold">Karakterpoeng </em>(gjennomsnittskarakter x 10) <em type="bold">+ realfagspoeng og/eller språkpoeng + kjønnspoeng </em>(til utvalde studium) <em type="bold">+ poeng for opptaksprøver </em>(til utvalde studium) <em type="bold">= SKOLEPOENGi kvote for førstegongsvitnemål </em></p>
 <p>Tilleggspoeng i ordinær kvote</p>
 <p><em type="bold">Alderspoeng </em>Det blir gitt 2 poeng for kvart år, max 8 poeng for fire år. </p>
 <p type="listitem">Alderspoenga blir gjeve frå og med det året søkjaren  fyller 20 år for søkjarar med</p>
@@ -12181,7 +12181,7 @@
 <p><em type="bold">Ingen søkjar kan få meir enn 4 poeng til saman for realfag og framandspråk, sjølv om enkeltfag ved summering gir høgare poengsum. </em></p>
 <p><em type="bold">Poenga blir berre gjevne for programfag/ studieretningsfag/linefag i vidaregåande skole, ikkje for fag tekne i høgare utdanning, fagskolar, forkurs e.a. </em></p>
 <p><em type="bold">Kunnskapsløftet: </em></p>
-<p><em type="bold">Reform 94: </em><em type="bold">1 poeng: </em>Matematikk R23MX </p>
+<p><em type="bold">Reform 94:1 poeng: </em>Matematikk R23MX </p>
 <p>Fysikk 2 3FY <em type="bold">0,5 poeng: </em>Matematikk R12MX </p>
 <p>Matematikk S23MY/3MZ</p>
 <p>Matematikk S12MY/2MZ</p>
@@ -12303,8 +12303,8 @@
 <p><em type="bold">Navneskifte </em>Bekreftelse fra Folkeregisteret. </p>
 <p>Navneskifte i forhold til vitnemål og annen dokumentasjon sendes til <em type="bold">saksbehandlende institusjon </em>. </p>
 <p>Navneskifte etter søknad sendes til <em type="bold">Samordna opptak </em>. </p>
-<p><em type="bold">Husk </em><em type="bold">bekreftede </em><em type="bold">kopier! </em></p>
-<p><em type="bold">Alle dokumenter </em><em type="bold">må være i A4-format, </em><em type="bold">en-sidig (ikke to-sidig) </em><em type="bold">uten stifter, lim o.l. </em></p>
+<p><em type="bold">Huskbekreftedekopier! </em></p>
+<p><em type="bold">Alle dokumenter må være i A4-format, en-sidig (ikke to-sidig)uten stifter, lim o.l. </em></p>
 <p>Krav om politiattest</p>
 <p>Det er fastsett at det skal krevjast politiattest til studium der studentane kjem i kontakt med pasientar, klientar, barnehagebarn, elevar eller andre som del av klinisk undervisning eller praksisopplæring.</p>
 <p>Dersom politiattesten viser at vedkomande er sikta, tiltalt eller dømd for seksuelle overgrep eller grove valdsbrotsverk, kan det få konsekvensar for gjennomføringa av visse studium.</p>

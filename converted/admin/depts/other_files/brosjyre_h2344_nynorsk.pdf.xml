@@ -1,4 +1,8 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1216</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_nynorsk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Kommunestyre- og fylkestingsvalet 2015 </em></p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1264</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_nynorsk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Kommunestyre- og fylkestingsvalet 2015 </em></p>
+<p><em type="bold">Valdagen er 14. september. Hugs legitimasjon! </em></p>
+<p>Viktig informasjon til deg som skal stemme</p>
+<p xml:lang="deu">INFORMASJON2</p>
+<p><em type="bold">Kommunestyre- og fylkestingsvalet 2015 </em></p>
 <p>Ved valet vel vi representantar til kommunestyret og fylkestinget.</p>
 <p><em type="bold">Kommunestyret </em>er det høgaste organet i kommunen. Her blir det teke avgjerder i lokale saker som barnehagar, barnevern, plan- og arealspørsmål, grunnskule, helse- og omsorgstenester, kulturtiltak og renovasjon. </p>
 <p><em type="bold">Fylkestinget </em>er det høgaste organet i fylkeskommunen. Fylkestinget tek avgjerder om mellom anna vidaregåande opplæring, fylkesvegar med tilhøyrande ferjestrekningar, lokal kollektivtransport og kulturtiltak. </p>
@@ -7,7 +11,7 @@
 <p>Det er dei lokale sakene som påverkar kvardagen din mest. Når du stemmer, er du med og bestemmer kven som skal representere deg og dine interesser i kommunestyret og fylkestinget.</p>
 <p>I denne brosjyren får du informasjon om korleis du går fram.</p>
 <p><em type="bold">Valdagen er måndag 14. september 2015 </em></p>
-<p>Mange kommuner held også val søndag 13. september. Kommunen informerer om det er val i ein eller to dagar.</p>
+<p>Mange kommuner held også val søndag 13. september. Kommunen informerer om det er val i ein eller to dagar.3</p>
 <p><em type="bold">Hugs legitimasjon når du stemmer! </em></p>
 <p>Vallova krev at ein veljar som er ukjend for stemmemottakaren, skal legitimere seg. Legitimasjonen kan vere pass, førarkort eller bankkort med bilete, men du kan også bruke annan legitimasjon. Legitimasjonen må innehalde namnet på veljaren, fødselsdato og bilete.</p>
 <p>Dersom du oppheld deg på ein institusjon, som til dømes sjukeheim, sjukehus eller fengsel, kan du få ein tilsett ved institusjonen til å bekrefte identiteten din.</p>
@@ -17,7 +21,7 @@
 <p type="listitem">Norske statsborgarar som har fylt 18 år innan utgangen av 2015 og som er,      eller har vore, registrerte som busette i Noreg.</p>
 <p type="listitem">Statsborgarar i andre nordiske land som har fylt 18 år innan utgangen av      2015, og som har vore registrerte som busette i Noreg seinast 30. juni 2015.</p>
 <p type="listitem">Andre utanlandske statsborgarar som har fylt 18 år innan utgangen av 2015,    og som har vore registrerte som busette i Noreg samanhengande dei tre siste     åra før valdagen.</p>
-<p type="listitem">I 20 kommunar kan dei som har fylt 16 år innan utgangen av 2015 stemme      ved kommunestyrevalet. Dei må oppfylle busetjingsvilkåra om er nemde       ovanfor. Sjå side 2 kva for kommunar dette gjeld.</p>
+<p type="listitem">I 20 kommunar kan dei som har fylt 16 år innan utgangen av 2015 stemme      ved kommunestyrevalet. Dei må oppfylle busetjingsvilkåra om er nemde       ovanfor. Sjå side 2 kva for kommunar dette gjeld.4</p>
 <p><em type="bold">Når og kvar kan du stemme? </em></p>
 <p><em type="bold">På valdagen </em>må du stemme i kommunen du er registrert busett i per 30. juni 2015. Du kan stemme i kva vallokale som helst i kommunen. </p>
 <p><em type="bold">Førehandsstemme </em>kan du gjere frå 1. juli til og med 11. september i kva kommune som helst. Sjå illustrasjonane på neste side som viser korleis du stemmer i heimkommunen din. </p>
@@ -25,8 +29,8 @@
 <p>Stemmer du utanfor heimkommunen din, skal du få ein valfunksjonær til å stemple stemmesetlane før du legg dei ned i ein stemmesetelkonvolutt. Denne konvolutten og valkortet blir så lagt ned i ein omslagskonvolutt, som deretter blir lagt ned i valurna. Stemma blir sendt til heimkommunen din for oppteljing.</p>
 <p>Er du sjuk eller ufør, kan du søkje kommunen om å få førehandsstemme heime. Kommunen informerer om søknadsfrist.</p>
 <p>Kommunen informerer om hvar vallokala er og opningstider.</p>
-<p><em type="bold">Frå august kan du også finne ditt vallokale på mobiltelefonen: www.vallokale.no </em></p>
-<p><em type="bold">Korleis stemmer du i din heimkommune? </em><em type="bold">1) </em>Ta stemmesetlane du vil bruke: ein for kommunestyrevalet og ein for fylkestingsvalet. <em type="bold">2) </em>Gjer eventuelle endringar på stemmesetlane (sjå rettleiing neste side). <em type="bold">3) </em>Brett kvar av stemmesetlane med partinamnet inn og feltet for stempling ut – da kan ingen sjå kva du stemmer. Det skal ikkje vere konvolutt eller anna omslag rundt stemmesetlane. <em type="bold">4) </em>Gå til ein valfunksjonær og få eit stempel på utsida av stemmesetlane. Begge stemmesetlane må ha stempel for å bli godkjende! <em type="bold">5) </em>Legg dei stempla stemmesetlane i valurna. </p>
+<p><em type="bold">Frå august kan du også finne ditt vallokale på mobiltelefonen: www.vallokale.no </em>5 </p>
+<p><em type="bold">Korleis stemmer du i din heimkommune?1) </em>Ta stemmesetlane du vil bruke: ein for kommunestyrevalet og ein for fylkestingsvalet. <em type="bold">2) </em>Gjer eventuelle endringar på stemmesetlane (sjå rettleiing neste side). <em type="bold">3) </em>Brett kvar av stemmesetlane med partinamnet inn og feltet for stempling ut – da kan ingen sjå kva du stemmer. Det skal ikkje vere konvolutt eller anna omslag rundt stemmesetlane. <em type="bold">4) </em>Gå til ein valfunksjonær og få eit stempel på utsida av stemmesetlane. Begge stemmesetlane må ha stempel for å bli godkjende! <em type="bold">5) </em>Legg dei stempla stemmesetlane i valurna. </p>
 <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
 <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
 <p xml:lang="deu"><em type="bold">Personstemme </em></p>
@@ -36,8 +40,8 @@
 <p><em type="bold">Sjå rettleiing </em></p>
 <p xml:lang="ita"><em type="bold">Parti </em></p>
 <p xml:lang="est">Kommunestyreval <em type="bold">1. </em></p>
-<p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">2. </em></p>
-<p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">3. </em></p>
+<p xml:lang="vep"><em type="bold">Kandidat2. </em></p>
+<p xml:lang="vep"><em type="bold">Kandidat3. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em>4. </p>
 <p xml:lang="vep">Kandidat5.</p>
 <p xml:lang="vep">Kandidat6.</p>
@@ -56,7 +60,7 @@
 <p xml:lang="nob"><em type="bold">Kandidater fra andre lister </em>(se veiledning på baksiden) </p>
 <p xml:lang="deu"><em type="bold">FORNAVN ETTERN </em></p>
 <p xml:lang="nob"><em type="bold">AVN </em>(bruk blokkbokstaver)12345 </p>
-<p xml:lang="nob"><em type="bold">Brett </em></p>
+<p xml:lang="nob"><em type="bold">Brett </em>6 </p>
 <p><em type="bold">Korleis endrar du på stemmesetelen? </em></p>
 <p>Dersom du ønskjer å påverke kva kandidatar som blir valde, må du gje personstemme til desse kandidatane. Det er opp til deg om du vil endre på stemmesetelen ved å gje personstemme.</p>
 <p>Ikkje ver redd for å gjere endringar. Framgangsmåten står også på stemmesetelen. Stemma di blir ikkje forkasta sjølv om du gjer feil!</p>
@@ -71,9 +75,9 @@
 <p><em type="bold">FORNAVN ETTERNAVN </em>(bruk blokkbokstaver)12345felt for ev. seddel idfelt for ev. stemmeseddelnrfelt for ev. seddel id </p>
 <p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut.felt for ev. stemmeseddelnr </p>
 <p><em type="bold">Sjå rettleiing </em></p>
-<p xml:lang="ita"><em type="bold">Parti </em><em type="bold">1. </em></p>
-<p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">2. </em></p>
-<p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">3. </em></p>
+<p xml:lang="ita"><em type="bold">Parti1. </em></p>
+<p xml:lang="vep"><em type="bold">Kandidat2. </em></p>
+<p xml:lang="vep"><em type="bold">Kandidat3. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em>4. </p>
 <p xml:lang="vep">Kandidat5.</p>
 <p xml:lang="vep">Kandidat6.</p>
@@ -105,6 +109,8 @@
 <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
 <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
 <p xml:lang="nob"><em type="bold">Personstemme </em>(sett kryss i rute foran kandidat) </p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister </em>(se veiledning på baksiden) </p>
+<p><em type="bold">FORNAVN ETTERNAVN </em>(bruk blokkbokstaver)12345felt for ev. seddel id </p>
 <p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut. </p>
 <p><em type="bold">Sjå rettleiing </em></p>
 <p xml:lang="ita"><em type="bold">Parti </em></p>
@@ -116,6 +122,12 @@
 <p xml:lang="vep">Kandidat6.</p>
 <p xml:lang="vep">Kandidat7.</p>
 <p xml:lang="vep">Kandidat8.</p>
+<p xml:lang="vep">Kandidat9.</p>
+<p xml:lang="vep">Kandidat10.</p>
+<p xml:lang="vep">Kandidat11.</p>
+<p xml:lang="vep">Kandidat12.</p>
+<p xml:lang="vep">Kandidat13.</p>
+<p xml:lang="vep">Kandidat14.</p>
 <p xml:lang="vep">Kandidat</p>
 <p xml:lang="nob"><em type="bold">Personrøyst </em>16. </p>
 <p xml:lang="vep">Kandidat17.</p>
@@ -127,7 +139,10 @@
 <p xml:lang="vep">Kandidat23.</p>
 <p xml:lang="vep">Kandidat24.</p>
 <p xml:lang="vep">Kandidat25.</p>
-<p xml:lang="nob">Kandidat (se veiledning på baksiden)ver)</p>
+<p xml:lang="vep">Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister </em>(se veiledning på baksiden) </p>
+<p xml:lang="deu"><em type="bold">FORNAVN ETTERN </em></p>
+<p xml:lang="nob"><em type="bold">AVN </em>(bruk blokkbokstaver)12345 </p>
 <p xml:lang="nob"><em type="bold">Brett </em></p>
 <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre.16. </p>
 <p xml:lang="vep">Kandidat17.</p>
@@ -142,10 +157,11 @@
 <p xml:lang="vep">Kandidat</p>
 <p><em type="bold">Kandidatar frå andre lister </em></p>
 <p xml:lang="deu"><em type="bold">FORNAMN ETTERNAMN </em>12345 </p>
-<p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut.7 </p>
 <p><em type="bold">Kven blir valde? </em></p>
 <p>Først finn valstyret ut kor mange representantar dei ulike partia eller gruppene får i kommunestyret eller fylkestinget. Deretter tel valstyret opp personstemmene for å finne ut kva for kandidatar som blir valde frå kvart parti eller gruppe.</p>
 <p><em type="bold">Du finn meir informasjon på www.val.dep.no </em></p>
 <p>Utgitt 2015 av Kommunal- og moderniseringsdepartementet Publikasjonen finst også på bokmål, samisk og ti framandspråk</p>
 <p>Du finn meir informasjon på <em type="bold">www.val.dep.no </em></p>
+<p>Publikasjonsnummer: H-2344 Nynorsk</p>
 </body></document>

@@ -1,4 +1,4 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4659</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/PageFiles/5977/Elevundersøkinga-spørsmåla-nynorsk.pdf?epslanguage=no</origFileName><parallel_text xml:lang="nob" location="elevundersokelsen_sporsmal2014.pdf"/><parallel_text xml:lang="sme" location="elevsporreskjema_2013_nord-samisk_obligatorisk_del_og_t1-t15_.pdf_epslanguage-no.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Elevundersøkinga – spørsmål 5.–13. trinn</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4645</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/PageFiles/5977/Elevundersøkinga-spørsmåla-nynorsk.pdf?epslanguage=no</origFileName><parallel_text xml:lang="nob" location="elevundersokelsen_sporsmal2014.pdf"/><parallel_text xml:lang="sme" location="elevsporreskjema_2013_nord-samisk_obligatorisk_del_og_t1-t15_.pdf_epslanguage-no.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Elevundersøkinga – spørsmål 5.–13. trinn</p>
 <p><em type="bold">Her finn de spørsmåla frå Elevundersøkinga. Spørsmåla er reviderte hausten 2013. </em></p>
 <p>Ver merksam på følgjande: o</p>
 <p>Der (5–7) eller liknande er lagt inn i parentes etter spørsmålet, markerer dette alderstrinn som skal ha spørsmålet. Der det ikkje er noko tal i parentes, gjeld spørsmålet for alle trinn, det vil seie 5.-13. trinn. Alternativt har vi skrive inn ein kort kommentar. o</p>
@@ -112,7 +112,7 @@
 <p>Svaralternativ: Helsesyster / Lærar / Rådgivar / Andre</p>
 <p><em type="bold">Trygt miljø (3) </em>54. Kor ofte har dette hendt med deg på skolen i dette skoleåret? </p>
 <p>Nokre gjorde narr av eller erta meg, slik at eg vart lei meg</p>
-<p>Svaralternativ: Ikke i det hele tatt – En sjelden gang – 2 eller 3 ganger i månaden – Omtrent 1 gang i uken – Fleire gonger i veka <em type="italic">(viss eleven svarer </em>2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka <em type="italic">, </em><em type="italic">oppfølgingsspørsmål) </em></p>
+<p>Svaralternativ: Ikke i det hele tatt – En sjelden gang – 2 eller 3 ganger i månaden – Omtrent 1 gang i uken – Fleire gonger i veka <em type="italic">(viss eleven svarer </em>2 eller 3 gonger i månaden – Omtrent 1 gong i veka – Fleire gonger i veka <em type="italic">, oppfølgingsspørsmål) </em></p>
 <p>Eg vart halden utanfor</p>
 <p>Nokre spreidde løgner om meg</p>
 <p>Nokre trua meg</p>
@@ -248,5 +248,5 @@
 <p xml:lang="isl"><em type="bold">Bakgrunnsvariablar </em></p>
 <p>Kva for karakter fekk du i følgjande fag ved siste karakteroppgjer (jul eller sommar)? (8 – 13) 58. Engelsk skriftleg (8 – 10)</p>
 <p>Engelsk (11 - 13) 59. Kroppsøving (8 - 13) 60. Kunst og handverk (8 - 10) 61. Norsk hovudmål skriftleg (8 - 13) 62. Matematikk (8 - 13) 63. Samfunnsfag (8 - 13) 64. Naturfag (8 - 13) 65. kjønn</p>
-<p>Kommentar: Spørsmålsbolkane T1, T16, T17, T18 og T19 inneheld spørsmål som inngår i indeksane som i dag blir presentert i Skoleporten. Skogeigarar og skoleleiarar som ynskjer å samanlikne eigne resultatet i Skoleporten etter gjennomføringa hausten 2013 med resultata frå våren 2012 og tidlegare, må velje ein eller fleire av desse tilleggsbolkane.</p>
+<p>som i dag blir presentert i Skoleporten. Skogeigarar og skoleleiarar som ynskjer å samanlikne eigne resultatet i Skoleporten etter gjennomføringa hausten 2013 med resultata frå våren 2012 og tidlegare, må velje ein eller fleire av desse tilleggsbolkane.</p>
 </body></document>
