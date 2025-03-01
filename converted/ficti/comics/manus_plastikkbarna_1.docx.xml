@@ -1,4 +1,6 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="ficti"/><author><unknown/></author><year>2020</year><wordcount>1915</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nno"/><language xml:lang="fkv"/></multilingual><origFileName>/Users/thomas/Downloads/Korpukseen/Manus Plastikkbarna_1.docx</origFileName><parallel_text xml:lang="fkv" location="manus_plastikkbarna_1.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="fkv">Plastikkilasten käsikirjoitus</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="ficti"/><author><unknown/></author><year>2020</year><wordcount>1904</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nno"/><language xml:lang="fkv"/></multilingual><origFileName>/Users/thomas/Downloads/Korpukseen/Manus Plastikkbarna_1.docx</origFileName><parallel_text xml:lang="fkv" location="manus_plastikkbarna_1.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="fkv">Plastikkilasten käsikirjoitus</p>
 <p xml:lang="fkv">Nettilaian teksti:</p>
 <p><em type="italic">Meny </em></p>
 <p xml:lang="fkv">Etulaita</p>
@@ -33,7 +35,7 @@
 <p xml:lang="fkv"><em type="italic">Hadi: </em>Ei … mie en tiä. </p>
 <p xml:lang="fkv">Halusin olla fräkki, mutta en hoksanu mithään sommaa mitä mie sanoisin.</p>
 <p xml:lang="fkv">Ruutu 7</p>
-<p xml:lang="fkv"><em type="italic">Jessica: </em>MIE OLEN KÄVELY KOKO  iltapäivän ja kovonu plastikkiroskan mikkä oon jääny semmoisten pöllöin jälkhiin niin ko sie! </p>
+<p xml:lang="fkv"><em type="italic">Jessica: </em>MIE OLEN KÄVELY <em type="italic">KOKO </em>iltapäivän ja kovonu plastikkiroskan mikkä oon jääny semmoisten pöllöin jälkhiin niin ko sie! </p>
 <p xml:lang="fkv">Luuletko sie ette koko mailma oon roskaämpäri?</p>
 <p xml:lang="fkv">Ruutu 9</p>
 <p xml:lang="fkv"><em type="italic">Äänisana </em>: Pssssssssssssss </p>
@@ -44,7 +46,7 @@
 <p xml:lang="fkv"><em type="italic">Jessica: </em>Tarkoittaako tämä oikheesti ette sie et perusta? </p>
 <p xml:lang="fkv">Ruutu 13</p>
 <p xml:lang="fkv"><em type="italic">Hadi: </em>Oikheesti Jessi?!? </p>
-<p xml:lang="fkv">KUKHAAN  ei perusta roskista.</p>
+<p xml:lang="fkv"><em type="italic">KUKHAAN </em>ei perusta roskista. </p>
 <p xml:lang="fkv">Ruutu 14</p>
 <p xml:lang="fkv"><em type="italic">Jessica: </em>Se oon justhiin SE mikä oon probleemi senki plastikkipää. </p>
 <p xml:lang="fkv">Se oon vatkattu NIIN paljon plastikkii, eikä kukhaan perusta.</p>
@@ -76,7 +78,7 @@
 <p xml:lang="fkv"><em type="italic">Teinipoika: </em>Joo? Niin ko silloin ko hajethaan ruokkaa roskasta. </p>
 <p xml:lang="fkv">Ruutu 25</p>
 <p xml:lang="fkv"><em type="italic">Jessica: </em>Ei, mie en haje ruokkaa, mie kokkoon plastikkii. Mie aijon pärjätä luonon. </p>
-<p xml:lang="fkv"><em type="italic">Tein </em><em type="italic">i </em><em type="italic">poika: </em>Plastikista? </p>
+<p xml:lang="fkv"><em type="italic">Teinipoika: </em>Plastikista? </p>
 <p xml:lang="fkv">Ruutu 26</p>
 <p xml:lang="fkv"><em type="italic">Teinitytär Ø: </em>Ha ha ha, maapallon pohjaissiin ja eteläissiin puoli sullaa ja Jessica kokkoo plastikkii. </p>
 <p xml:lang="fkv"><em type="italic">Teinipoika: </em>Piian sie häytyisit tehhä jotaki mistä oon enämen hyöttyy jos aijot pärjätä miljöön? </p>
@@ -120,7 +122,7 @@
 <p><em type="italic">Meny </em></p>
 <p>Framside Om Plastikkbarna</p>
 <p>Om Fredrik Rysjedal Kreditering</p>
-<p><em type="italic">Om </em><em type="italic">Plastikkbarna </em></p>
+<p><em type="italic">Om Plastikkbarna </em></p>
 <p>Plastikkbarna er ein teikneserie om plast og forureining. Vi møter Jessica som starter sin eigen miljøklubb: BMPPDIHH (Barn mot plastikk der det ikkje høyrer heime). Med seg har ho venninna Éira og saman skal dei kjempe mot plastforureining. Hadi, som går i klassen til Jessica, er ikkje særleg oppteken av miljøvern, men i det han kjøper ein is på kiosken tar livet hans ei ny retning. Historia startar faktisk der, med ein nyopna is ... Gå til kapittel 1 (lenke)</p>
 <p><em type="italic">Om Fredrik Rysjedal </em></p>
 <p>Fredrik er ein teikneserieskapar frå Leirvik i Sogn. Det er ei lita bygd som ligg i ein liten fjordarm i byrjinga av Sognefjorden. Han pleier å skryte av at det er verdas lengste fjord, men Scoresbysund på Grønland er faktisk lengst. Så Sognefjorden må ta til takke med ein andreplass.</p>
@@ -148,7 +150,7 @@
 <p><em type="italic">Hadi: </em>Nei ... eg veit ikkje. </p>
 <p>Hadde lyst å vere frekk, men kom ikkje på noko morosamt å sei.</p>
 <p xml:lang="fkv">Rute 7</p>
-<p><em type="italic">Jessica: </em>EG HAR GÅTT HEILE  ettermiddagen og plukka opp plastboss etter slike kronidiotar som deg! </p>
+<p><em type="italic">Jessica: </em>EG HAR GÅTT <em type="italic">HEILE </em>ettermiddagen og plukka opp plastboss etter slike kronidiotar som deg! </p>
 <p>Trur du verda er ei bossbøtte?</p>
 <p xml:lang="fkv">Rute9</p>
 <p><em type="italic">Lydord: </em>Pssssssssssssss </p>
@@ -159,7 +161,7 @@
 <p><em type="italic">Jessica: </em>Betyr det seriøst at du ikkje bryr deg? </p>
 <p xml:lang="fkv">Rute 13</p>
 <p><em type="italic">Hadi: </em>Seriøst Jessi?!? </p>
-<p>INGEN  bryr seg om boss.</p>
+<p><em type="italic">INGEN </em>bryr seg om boss. </p>
 <p xml:lang="fkv">Rute 14</p>
 <p><em type="italic">Jessica: </em>Det er jo akkurat DET som er problemet din plastskalle. </p>
 <p>Det vert kasta SÅ mykje plast, og ingen bryr seg.</p>
@@ -167,7 +169,7 @@
 <p><em type="italic">Hadi: </em>Eg skjønar ikkje. Hadde det vore radioaktivt avfall så hadde eg tatt poenget, men dette er jo berre plast. </p>
 <p xml:lang="fkv">Rute 16</p>
 <p><em type="italic">Jessica: </em>Berre plast? Du kan jo ingen ting. </p>
-<p><em type="italic">Hadi: </em>Å ja? Ingenting? Er du liksom vorte eit orakel som veit alt? Vel, eg kan fortelle deg at EG ELSKAR  plast. Dei finaste tinga eg har er plast. </p>
+<p><em type="italic">Hadi: </em>Å ja? Ingenting? Er du liksom vorte eit orakel som veit alt? Vel, eg kan fortelle deg at <em type="italic">EG ELSKAR </em>plast. Dei finaste tinga eg har er plast. </p>
 <p xml:lang="fkv">Rute 17</p>
 <p><em type="italic">Hadi: </em>Nintendoen min er plast, fotballen min er av plast ... alle figurane mine er av plast. </p>
 <p xml:lang="fkv">Rute 18</p>
@@ -184,23 +186,23 @@
 <p><em type="italic">Jessica: </em>Plasten i magesekken gjorde at kvalen ikkje fekk tatt til seg næring og så døyde den av sult. </p>
 <p><em type="italic">Hadi: </em>Fy flate! </p>
 <p xml:lang="fkv">Rute 23</p>
-<p><em type="italic">Tenåringsjente Ø </em><em type="italic">: </em>Hallaien, kva skjer her då? </p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Sjå her! For eit rot Jessi. Har du byrja med søppeldykking eller? </p>
+<p><em type="italic">Tenåringsjente Ø: </em>Hallaien, kva skjer her då? </p>
+<p><em type="italic">Tenåringsgut: </em>Sjå her! For eit rot Jessi. Har du byrja med søppeldykking eller? </p>
 <p xml:lang="fkv">Rute 24</p>
-<p><em type="italic">Tenåringsjente Ø </em><em type="italic">: </em>Søppeldykking? </p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Ja? Slik som når ein leitar etter mat i bosset. </p>
+<p><em type="italic">Tenåringsjente Ø: </em>Søppeldykking? </p>
+<p><em type="italic">Tenåringsgut: </em>Ja? Slik som når ein leitar etter mat i bosset. </p>
 <p xml:lang="fkv">Rute 25</p>
 <p><em type="italic">Jessica: </em>Nei, eg leitar ikkje etter mat, eg plukkar plast. Eg skal redde naturen </p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Plast? </p>
+<p><em type="italic">Tenåringsgut: </em>Plast? </p>
 <p xml:lang="fkv">Rute 26</p>
-<p><em type="italic">Tenåringsjente Ø </em><em type="italic">: </em>Ha ha ha, polane smeltar og Jessica plukkar plast. </p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Kanskje du burde gjort noko meir nyttig om du skal redde miljøet? </p>
+<p><em type="italic">Tenåringsjente Ø: </em>Ha ha ha, polane smeltar og Jessica plukkar plast. </p>
+<p><em type="italic">Tenåringsgut: </em>Kanskje du burde gjort noko meir nyttig om du skal redde miljøet? </p>
 <p xml:lang="fkv">Rute 27</p>
 <p><em type="italic">Hadi: </em>Hei! Ikkje kødd med Jessi! Ho gjer faktisk ein veldig viktig jobb. Kvalar døyr av plast der ute. </p>
 <p xml:lang="fkv">Rute 28</p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Slapp av Hadi. Berre leik med plasten din du. </p>
+<p><em type="italic">Tenåringsgut: </em>Slapp av Hadi. Berre leik med plasten din du. </p>
 <p xml:lang="fkv">Rute 29</p>
-<p><em type="italic">Tenåringsgut </em><em type="italic">: </em>Ha ha ha! </p>
+<p><em type="italic">Tenåringsgut: </em>Ha ha ha! </p>
 <p><em type="italic">Hadi: </em>Hmpfr ... </p>
 <p xml:lang="fkv">Rute 30</p>
 <p><em type="italic">Jessica: </em>Kva skjedde der eigentleg? Du sa jo at du elska plast. </p>

@@ -1,4 +1,6 @@
-<document xml:lang="nno" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Ivar" lastname="Skotte" sex="m" born="1927" nationality="NO"/></author><year>2005</year><wordcount>2760</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://skuvla.info/skolehist/skotte-n.htm</origFileName><parallel_text xml:lang="eng" location="skotte-e.html"/><parallel_text xml:lang="sme" location="skotte_s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Erfaringar som norsk lærar i Sameland</p>
+<document xml:lang="nno" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Ivar" lastname="Skotte" sex="m" born="1927" nationality="NO"/></author><year>2005</year><wordcount>2760</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://skuvla.info/skolehist/skotte-n.htm</origFileName><parallel_text xml:lang="eng" location="skotte-e.html"/><parallel_text xml:lang="sme" location="skotte_s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Erfaringar som norsk lærar i Sameland</p>
 <p>Sámegillii</p>
 <p>Artikkel i boka Samisk skolehistorie 1 . Davvi Girji 2005.</p>
 <p type="title">Ivar Skotte:</p>
